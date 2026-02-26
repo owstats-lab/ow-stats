@@ -8,6 +8,9 @@ on:
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
 
     steps:
       - name: 체크아웃
@@ -28,7 +31,7 @@ jobs:
         run: python run_all.py
 
       - name: HTML 이름 변경
-        run: mv "ow_v17 (3).html" index.html || true
+        run: find . -maxdepth 1 -name "ow_v*.html" | head -1 | xargs -I{} mv {} index.html
 
       - name: GitHub Pages 배포
         uses: peaceiris/actions-gh-pages@v4
