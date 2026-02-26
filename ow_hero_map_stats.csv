@@ -2,37 +2,59 @@
 ASIA,ana,Paraíso,Hybrid,68.7,51.0
 ASIA,ana,Eichenwalde,Hybrid,61.7,43.6
 ASIA,ana,Dorado,Escort,59.6,66.2
+ASIA,ana,Samoa,Control,57.4,36.8
+ASIA,ana,Circuit Royal,Escort,55.9,43.5
+ASIA,ana,Shambali Monastery,Escort,55.9,41.9
+ASIA,ana,Nepal,Control,52.8,36.3
+ASIA,ana,Blizzard World,Hybrid,52.6,48.0
+ASIA,ana,Busan,Control,52.5,40.3
+ASIA,ana,King's Row,Hybrid,52.4,53.4
+ASIA,ana,Hollywood,Hybrid,51.8,56.8
+ASIA,ana,Watchpoint: Gibraltar,Escort,51.7,68.7
+ASIA,ana,Route 66,Escort,51.5,55.2
+ASIA,ana,Midtown,Hybrid,50.7,46.1
+ASIA,ana,New Queen Street,Push,50.2,40.8
+ASIA,ana,Suravasa,Flashpoint,50.2,28.7
+ASIA,ana,Havana,Escort,50.1,51.0
+ASIA,ana,Junkertown,Escort,50.1,55.6
+ASIA,ana,Lijiang Tower,Control,49.5,35.1
+ASIA,ana,Runasapi,Push,48.9,32.9
+ASIA,ana,Ilios,Control,48.4,44.1
+ASIA,ana,Oasis,Control,48.0,34.7
+ASIA,ana,Rialto,Escort,48.0,55.6
+ASIA,ana,New Junk City,Flashpoint,47.7,29.0
+ASIA,ana,Aatlis,Flashpoint,45.6,23.0
 ASIA,ana,Colosseo,Push,43.7,38.2
 ASIA,ana,Numbani,Hybrid,42.5,60.9
 ASIA,ana,Esperança,Push,41.6,37.1
-US,ana,Paraíso,Hybrid,68.7,51.0
-US,ana,Eichenwalde,Hybrid,61.7,43.6
-US,ana,Dorado,Escort,59.6,66.2
-US,ana,Samoa,Control,57.4,36.8
-US,ana,Circuit Royal,Escort,55.9,43.5
-US,ana,Shambali Monastery,Escort,55.9,41.9
-US,ana,Nepal,Control,52.8,36.3
-US,ana,Blizzard World,Hybrid,52.6,48.0
-US,ana,Busan,Control,52.5,40.3
-US,ana,King's Row,Hybrid,52.4,53.4
-US,ana,Hollywood,Hybrid,51.8,56.8
-US,ana,Watchpoint: Gibraltar,Escort,51.7,68.7
-US,ana,Route 66,Escort,51.5,55.2
-US,ana,Midtown,Hybrid,50.7,46.1
-US,ana,New Queen Street,Push,50.2,40.8
-US,ana,Suravasa,Flashpoint,50.2,28.7
-US,ana,Havana,Escort,50.1,51.0
-US,ana,Junkertown,Escort,50.1,55.6
-US,ana,Lijiang Tower,Control,49.5,35.1
-US,ana,Runasapi,Push,48.9,32.9
-US,ana,Ilios,Control,48.4,44.1
-US,ana,Oasis,Control,48.0,34.7
-US,ana,Rialto,Escort,48.0,55.6
-US,ana,New Junk City,Flashpoint,47.7,29.0
-US,ana,Aatlis,Flashpoint,45.6,23.0
-US,ana,Colosseo,Push,43.7,38.2
-US,ana,Numbani,Hybrid,42.5,60.9
-US,ana,Esperança,Push,41.6,37.1
+US,ana,Havana,Escort,61.8,35.6
+US,ana,Junkertown,Escort,59.7,35.1
+US,ana,Paraíso,Hybrid,57.1,34.9
+US,ana,Dorado,Escort,53.0,34.5
+US,ana,Busan,Control,51.9,17.0
+US,ana,Rialto,Escort,51.2,33.9
+US,ana,Oasis,Control,51.1,12.7
+US,ana,New Queen Street,Push,50.5,19.1
+US,ana,Colosseo,Push,50.2,17.1
+US,ana,Midtown,Hybrid,50.0,25.1
+US,ana,Numbani,Hybrid,48.4,36.2
+US,ana,Shambali Monastery,Escort,48.3,23.0
+US,ana,King's Row,Hybrid,48.1,21.1
+US,ana,Route 66,Escort,48.1,27.4
+US,ana,Ilios,Control,48.0,14.6
+US,ana,Suravasa,Flashpoint,47.4,11.8
+US,ana,Eichenwalde,Hybrid,47.2,19.4
+US,ana,Runasapi,Push,47.2,11.8
+US,ana,New Junk City,Flashpoint,46.9,9.3
+US,ana,Hollywood,Hybrid,46.6,28.2
+US,ana,Watchpoint: Gibraltar,Escort,46.4,36.6
+US,ana,Blizzard World,Hybrid,45.0,22.4
+US,ana,Circuit Royal,Escort,43.9,21.4
+US,ana,Lijiang Tower,Control,43.5,11.7
+US,ana,Nepal,Control,43.3,13.1
+US,ana,Aatlis,Flashpoint,42.3,7.9
+US,ana,Samoa,Control,41.6,18.5
+US,ana,Esperança,Push,38.3,15.1
 EU,ana,Rialto,Escort,58.0,41.2
 EU,ana,Blizzard World,Hybrid,53.3,28.5
 EU,ana,Route 66,Escort,53.2,32.9
@@ -3840,90 +3862,6 @@ EU,brigitte,Oasis,Control,39.8,7.6
 EU,brigitte,Circuit Royal,Escort,38.5,1.6
 EU,brigitte,King's Row,Hybrid,38.1,4.6
 EU,brigitte,Numbani,Hybrid,37.1,8.8
-ASIA,torbjorn,Watchpoint: Gibraltar,Escort,79.3,1.5
-ASIA,torbjorn,Oasis,Control,69.4,1.9
-ASIA,torbjorn,Rialto,Escort,65.7,1.2
-ASIA,torbjorn,Numbani,Hybrid,64.1,1.4
-ASIA,torbjorn,Busan,Control,62.5,2.0
-ASIA,torbjorn,New Junk City,Flashpoint,62.3,1.1
-ASIA,torbjorn,Samoa,Control,60.5,1.4
-ASIA,torbjorn,Nepal,Control,59.2,1.5
-ASIA,torbjorn,Colosseo,Push,56.2,1.4
-ASIA,torbjorn,Aatlis,Flashpoint,56.1,1.2
-ASIA,torbjorn,Ilios,Control,51.0,1.0
-ASIA,torbjorn,New Queen Street,Push,48.9,1.4
-ASIA,torbjorn,Junkertown,Escort,47.9,2.4
-ASIA,torbjorn,Midtown,Hybrid,46.4,1.2
-ASIA,torbjorn,Runasapi,Push,46.1,1.2
-ASIA,torbjorn,Circuit Royal,Escort,44.2,1.2
-ASIA,torbjorn,Route 66,Escort,43.6,3.1
-ASIA,torbjorn,Shambali Monastery,Escort,40.1,1.4
-ASIA,torbjorn,Lijiang Tower,Control,40.1,1.4
-ASIA,torbjorn,Eichenwalde,Hybrid,40.0,1.6
-ASIA,torbjorn,Havana,Escort,38.6,0.9
-ASIA,torbjorn,Suravasa,Flashpoint,34.6,1.0
-ASIA,torbjorn,Hollywood,Hybrid,34.2,1.8
-ASIA,torbjorn,King's Row,Hybrid,21.4,1.0
-ASIA,torbjorn,Blizzard World,Hybrid,20.0,1.1
-ASIA,torbjorn,Dorado,Escort,8.0,1.0
-ASIA,torbjorn,Paraíso,Hybrid,0.0,0.2
-ASIA,torbjorn,Esperança,Push,0.0,0.6
-US,torbjorn,Junkertown,Escort,82.8,5.4
-US,torbjorn,New Junk City,Flashpoint,59.6,3.3
-US,torbjorn,Suravasa,Flashpoint,58.8,3.8
-US,torbjorn,New Queen Street,Push,58.7,3.0
-US,torbjorn,Numbani,Hybrid,58.0,3.4
-US,torbjorn,Dorado,Escort,56.4,3.0
-US,torbjorn,Colosseo,Push,56.0,3.1
-US,torbjorn,Lijiang Tower,Control,55.0,2.3
-US,torbjorn,Runasapi,Push,54.0,3.2
-US,torbjorn,Shambali Monastery,Escort,52.3,2.5
-US,torbjorn,Ilios,Control,51.4,2.5
-US,torbjorn,Esperança,Push,50.5,2.3
-US,torbjorn,Havana,Escort,49.1,2.5
-US,torbjorn,Nepal,Control,48.4,2.7
-US,torbjorn,Oasis,Control,48.0,1.9
-US,torbjorn,Route 66,Escort,48.0,4.8
-US,torbjorn,King's Row,Hybrid,46.6,3.2
-US,torbjorn,Rialto,Escort,46.0,2.7
-US,torbjorn,Busan,Control,44.8,3.1
-US,torbjorn,Samoa,Control,44.5,3.8
-US,torbjorn,Eichenwalde,Hybrid,43.8,3.6
-US,torbjorn,Hollywood,Hybrid,42.0,5.0
-US,torbjorn,Blizzard World,Hybrid,39.8,3.5
-US,torbjorn,Aatlis,Flashpoint,39.6,3.0
-US,torbjorn,Midtown,Hybrid,32.0,3.2
-US,torbjorn,Circuit Royal,Escort,27.2,2.4
-US,torbjorn,Paraíso,Hybrid,26.4,2.2
-US,torbjorn,Watchpoint: Gibraltar,Escort,23.2,2.9
-EU,torbjorn,Nepal,Control,66.2,1.4
-EU,torbjorn,Hollywood,Hybrid,60.6,2.2
-EU,torbjorn,Samoa,Control,58.0,2.1
-EU,torbjorn,Midtown,Hybrid,57.1,1.3
-EU,torbjorn,Busan,Control,56.1,2.3
-EU,torbjorn,Junkertown,Escort,55.7,1.7
-EU,torbjorn,Aatlis,Flashpoint,49.7,1.2
-EU,torbjorn,Esperança,Push,48.3,1.6
-EU,torbjorn,Havana,Escort,47.9,1.7
-EU,torbjorn,Lijiang Tower,Control,47.1,1.3
-EU,torbjorn,New Queen Street,Push,47.1,2.0
-EU,torbjorn,Shambali Monastery,Escort,46.1,1.8
-EU,torbjorn,Route 66,Escort,44.1,2.7
-EU,torbjorn,Ilios,Control,43.8,1.2
-EU,torbjorn,King's Row,Hybrid,43.5,1.9
-EU,torbjorn,Dorado,Escort,42.2,1.8
-EU,torbjorn,Colosseo,Push,41.2,1.9
-EU,torbjorn,Oasis,Control,40.0,1.6
-EU,torbjorn,Eichenwalde,Hybrid,39.6,2.9
-EU,torbjorn,Blizzard World,Hybrid,38.9,3.1
-EU,torbjorn,Suravasa,Flashpoint,35.1,1.8
-EU,torbjorn,New Junk City,Flashpoint,34.9,1.7
-EU,torbjorn,Circuit Royal,Escort,28.8,1.3
-EU,torbjorn,Runasapi,Push,26.1,0.7
-EU,torbjorn,Rialto,Escort,23.5,1.6
-EU,torbjorn,Watchpoint: Gibraltar,Escort,14.5,1.8
-EU,torbjorn,Paraíso,Hybrid,11.3,3.1
-EU,torbjorn,Numbani,Hybrid,1.9,2.6
 ASIA,mauga,Route 66,Escort,99.3,1.0
 ASIA,mauga,King's Row,Hybrid,86.2,0.6
 ASIA,mauga,Dorado,Escort,72.0,0.8
@@ -4008,6 +3946,90 @@ EU,mauga,Aatlis,Flashpoint,38.9,2.9
 EU,mauga,Dorado,Escort,36.8,1.6
 EU,mauga,Route 66,Escort,36.7,2.5
 EU,mauga,Numbani,Hybrid,28.0,1.9
+ASIA,torbjorn,Watchpoint: Gibraltar,Escort,79.3,1.5
+ASIA,torbjorn,Oasis,Control,69.4,1.9
+ASIA,torbjorn,Rialto,Escort,65.7,1.2
+ASIA,torbjorn,Numbani,Hybrid,64.1,1.4
+ASIA,torbjorn,Busan,Control,62.5,2.0
+ASIA,torbjorn,New Junk City,Flashpoint,62.3,1.1
+ASIA,torbjorn,Samoa,Control,60.5,1.4
+ASIA,torbjorn,Nepal,Control,59.2,1.5
+ASIA,torbjorn,Colosseo,Push,56.2,1.4
+ASIA,torbjorn,Aatlis,Flashpoint,56.1,1.2
+ASIA,torbjorn,Ilios,Control,51.0,1.0
+ASIA,torbjorn,New Queen Street,Push,48.9,1.4
+ASIA,torbjorn,Junkertown,Escort,47.9,2.4
+ASIA,torbjorn,Midtown,Hybrid,46.4,1.2
+ASIA,torbjorn,Runasapi,Push,46.1,1.2
+ASIA,torbjorn,Circuit Royal,Escort,44.2,1.2
+ASIA,torbjorn,Route 66,Escort,43.6,3.1
+ASIA,torbjorn,Shambali Monastery,Escort,40.1,1.4
+ASIA,torbjorn,Lijiang Tower,Control,40.1,1.4
+ASIA,torbjorn,Eichenwalde,Hybrid,40.0,1.6
+ASIA,torbjorn,Havana,Escort,38.6,0.9
+ASIA,torbjorn,Suravasa,Flashpoint,34.6,1.0
+ASIA,torbjorn,Hollywood,Hybrid,34.2,1.8
+ASIA,torbjorn,King's Row,Hybrid,21.4,1.0
+ASIA,torbjorn,Blizzard World,Hybrid,20.0,1.1
+ASIA,torbjorn,Dorado,Escort,8.0,1.0
+ASIA,torbjorn,Paraíso,Hybrid,0.0,0.2
+ASIA,torbjorn,Esperança,Push,0.0,0.6
+US,torbjorn,Junkertown,Escort,82.8,5.4
+US,torbjorn,New Junk City,Flashpoint,59.6,3.3
+US,torbjorn,Suravasa,Flashpoint,58.8,3.8
+US,torbjorn,New Queen Street,Push,58.7,3.0
+US,torbjorn,Numbani,Hybrid,58.0,3.4
+US,torbjorn,Dorado,Escort,56.4,3.0
+US,torbjorn,Colosseo,Push,56.0,3.1
+US,torbjorn,Lijiang Tower,Control,55.0,2.3
+US,torbjorn,Runasapi,Push,54.0,3.2
+US,torbjorn,Shambali Monastery,Escort,52.3,2.5
+US,torbjorn,Ilios,Control,51.4,2.5
+US,torbjorn,Esperança,Push,50.5,2.3
+US,torbjorn,Havana,Escort,49.1,2.5
+US,torbjorn,Nepal,Control,48.4,2.7
+US,torbjorn,Oasis,Control,48.0,1.9
+US,torbjorn,Route 66,Escort,48.0,4.8
+US,torbjorn,King's Row,Hybrid,46.6,3.2
+US,torbjorn,Rialto,Escort,46.0,2.7
+US,torbjorn,Busan,Control,44.8,3.1
+US,torbjorn,Samoa,Control,44.5,3.8
+US,torbjorn,Eichenwalde,Hybrid,43.8,3.6
+US,torbjorn,Hollywood,Hybrid,42.0,5.0
+US,torbjorn,Blizzard World,Hybrid,39.8,3.5
+US,torbjorn,Aatlis,Flashpoint,39.6,3.0
+US,torbjorn,Midtown,Hybrid,32.0,3.2
+US,torbjorn,Circuit Royal,Escort,27.2,2.4
+US,torbjorn,Paraíso,Hybrid,26.4,2.2
+US,torbjorn,Watchpoint: Gibraltar,Escort,23.2,2.9
+EU,torbjorn,Nepal,Control,66.2,1.4
+EU,torbjorn,Hollywood,Hybrid,60.6,2.2
+EU,torbjorn,Samoa,Control,58.0,2.1
+EU,torbjorn,Midtown,Hybrid,57.1,1.3
+EU,torbjorn,Busan,Control,56.1,2.3
+EU,torbjorn,Junkertown,Escort,55.7,1.7
+EU,torbjorn,Aatlis,Flashpoint,49.7,1.2
+EU,torbjorn,Esperança,Push,48.3,1.6
+EU,torbjorn,Havana,Escort,47.9,1.7
+EU,torbjorn,Lijiang Tower,Control,47.1,1.3
+EU,torbjorn,New Queen Street,Push,47.1,2.0
+EU,torbjorn,Shambali Monastery,Escort,46.1,1.8
+EU,torbjorn,Route 66,Escort,44.1,2.7
+EU,torbjorn,Ilios,Control,43.8,1.2
+EU,torbjorn,King's Row,Hybrid,43.5,1.9
+EU,torbjorn,Dorado,Escort,42.2,1.8
+EU,torbjorn,Colosseo,Push,41.2,1.9
+EU,torbjorn,Oasis,Control,40.0,1.6
+EU,torbjorn,Eichenwalde,Hybrid,39.6,2.9
+EU,torbjorn,Blizzard World,Hybrid,38.9,3.1
+EU,torbjorn,Suravasa,Flashpoint,35.1,1.8
+EU,torbjorn,New Junk City,Flashpoint,34.9,1.7
+EU,torbjorn,Circuit Royal,Escort,28.8,1.3
+EU,torbjorn,Runasapi,Push,26.1,0.7
+EU,torbjorn,Rialto,Escort,23.5,1.6
+EU,torbjorn,Watchpoint: Gibraltar,Escort,14.5,1.8
+EU,torbjorn,Paraíso,Hybrid,11.3,3.1
+EU,torbjorn,Numbani,Hybrid,1.9,2.6
 ASIA,junkerqueen,Dorado,Escort,97.0,0.3
 ASIA,junkerqueen,Havana,Escort,87.9,0.5
 ASIA,junkerqueen,Suravasa,Flashpoint,67.0,1.2
