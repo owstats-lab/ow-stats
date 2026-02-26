@@ -1,0 +1,38 @@
+name: OW Stats 자동 업데이트
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Chrome 설치
+        uses: browser-actions/setup-chrome@v1
+
+      - name: 패키지 설치
+        run: pip install selenium pandas openpyxl
+
+      - name: 스크래핑 실행
+        run: python run_all.py
+
+      - name: HTML 이름 변경
+        run: mv "ow_v17 (3).html" index.html || true
+
+      - name: GitHub Pages 배포
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
