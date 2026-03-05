@@ -1,36 +1,36 @@
 ﻿region,hero,map_name,map_type,win_rate,pick_rate
-ASIA,ana,Dorado,Escort,64.2,64.5
-ASIA,ana,Circuit Royal,Escort,56.7,43.6
+ASIA,ana,Dorado,Escort,60.7,63.5
+ASIA,ana,Circuit Royal,Escort,56.4,43.2
 ASIA,ana,Route 66,Escort,56.2,54.3
 ASIA,ana,Eichenwalde,Hybrid,54.8,44.2
 ASIA,ana,Shambali Monastery,Escort,54.7,40.9
 ASIA,ana,King's Row,Hybrid,53.4,52.6
-ASIA,ana,Samoa,Control,52.8,37.2
-ASIA,ana,Nepal,Control,52.6,36.8
 ASIA,ana,New Queen Street,Push,52.6,40.5
+ASIA,ana,Nepal,Control,52.6,36.8
+ASIA,ana,Samoa,Control,52.5,37.7
 ASIA,ana,Suravasa,Flashpoint,52.5,29.3
-ASIA,ana,Busan,Control,52.1,41.6
+ASIA,ana,Busan,Control,52.2,41.2
 ASIA,ana,Paraíso,Hybrid,51.9,47.6
 ASIA,ana,Havana,Escort,51.4,49.8
+ASIA,ana,Midtown,Hybrid,51.0,46.2
 ASIA,ana,Watchpoint: Gibraltar,Escort,50.8,68.9
-ASIA,ana,Blizzard World,Hybrid,50.4,46.8
-ASIA,ana,Midtown,Hybrid,50.3,45.3
 ASIA,ana,Oasis,Control,49.8,37.0
 ASIA,ana,Rialto,Escort,49.4,58.9
-ASIA,ana,Junkertown,Escort,48.4,51.9
-ASIA,ana,Hollywood,Hybrid,48.1,56.8
+ASIA,ana,Blizzard World,Hybrid,49.1,46.6
+ASIA,ana,Hollywood,Hybrid,48.0,56.8
 ASIA,ana,New Junk City,Flashpoint,48.0,29.7
-ASIA,ana,Ilios,Control,47.8,44.5
-ASIA,ana,Lijiang Tower,Control,47.6,35.1
-ASIA,ana,Runasapi,Push,46.3,33.4
+ASIA,ana,Ilios,Control,47.7,44.1
+ASIA,ana,Junkertown,Escort,47.0,53.1
+ASIA,ana,Lijiang Tower,Control,46.5,35.0
+ASIA,ana,Runasapi,Push,45.9,32.2
+ASIA,ana,Colosseo,Push,45.4,39.4
 ASIA,ana,Aatlis,Flashpoint,44.6,22.1
-ASIA,ana,Colosseo,Push,44.3,38.9
 ASIA,ana,Esperança,Push,43.7,38.6
-ASIA,ana,Numbani,Hybrid,42.2,60.7
+ASIA,ana,Numbani,Hybrid,42.4,60.5
 US,ana,Paraíso,Hybrid,62.2,35.0
 US,ana,Havana,Escort,58.5,36.2
-US,ana,Junkertown,Escort,56.8,33.8
-US,ana,Dorado,Escort,54.4,37.6
+US,ana,Junkertown,Escort,57.5,33.3
+US,ana,Dorado,Escort,54.4,37.8
 US,ana,Busan,Control,51.3,19.6
 US,ana,Colosseo,Push,50.7,18.7
 US,ana,Numbani,Hybrid,49.7,37.8
@@ -46,21 +46,21 @@ US,ana,King's Row,Hybrid,48.1,22.7
 US,ana,Route 66,Escort,46.9,27.5
 US,ana,Nepal,Control,46.9,14.9
 US,ana,Hollywood,Hybrid,46.6,30.6
+US,ana,Circuit Royal,Escort,46.5,23.4
 US,ana,Midtown,Hybrid,46.0,25.8
-US,ana,Circuit Royal,Escort,45.7,22.8
 US,ana,Lijiang Tower,Control,45.3,14.1
 US,ana,Blizzard World,Hybrid,45.2,24.3
-US,ana,New Junk City,Flashpoint,43.4,10.1
 US,ana,Suravasa,Flashpoint,43.4,12.3
+US,ana,New Junk City,Flashpoint,43.4,10.1
 US,ana,Samoa,Control,42.8,19.0
 US,ana,Aatlis,Flashpoint,42.7,9.0
 US,ana,Esperança,Push,42.5,15.6
+EU,ana,Route 66,Escort,53.7,35.1
 EU,ana,Rialto,Escort,53.5,41.3
-EU,ana,Route 66,Escort,53.3,34.9
 EU,ana,Dorado,Escort,51.8,37.4
-EU,ana,Eichenwalde,Hybrid,51.5,23.9
 EU,ana,Blizzard World,Hybrid,51.4,30.7
 EU,ana,Busan,Control,50.3,23.0
+EU,ana,Eichenwalde,Hybrid,50.3,23.8
 EU,ana,Oasis,Control,49.6,16.0
 EU,ana,Junkertown,Escort,48.5,40.6
 EU,ana,Midtown,Hybrid,48.4,25.5
@@ -69,7 +69,7 @@ EU,ana,Shambali Monastery,Escort,48.0,27.3
 EU,ana,Havana,Escort,47.6,38.0
 EU,ana,Samoa,Control,47.1,19.9
 EU,ana,New Queen Street,Push,47.0,21.8
-EU,ana,King's Row,Hybrid,46.5,27.7
+EU,ana,King's Row,Hybrid,46.6,27.9
 EU,ana,Ilios,Control,46.3,20.9
 EU,ana,Esperança,Push,45.9,19.1
 EU,ana,Colosseo,Push,45.1,23.6
@@ -86,29 +86,29 @@ EU,ana,Paraíso,Hybrid,37.0,46.8
 ASIA,kiriko,Eichenwalde,Hybrid,55.9,36.5
 ASIA,kiriko,New Junk City,Flashpoint,55.7,57.1
 ASIA,kiriko,Route 66,Escort,55.0,27.0
-ASIA,kiriko,Samoa,Control,53.0,43.6
+ASIA,kiriko,Samoa,Control,53.4,44.0
 ASIA,kiriko,Aatlis,Flashpoint,53.0,55.3
 ASIA,kiriko,Shambali Monastery,Escort,52.7,32.0
 ASIA,kiriko,Esperança,Push,52.6,52.7
-ASIA,kiriko,Ilios,Control,51.6,49.2
-ASIA,kiriko,Lijiang Tower,Control,51.4,50.1
-ASIA,kiriko,Hollywood,Hybrid,50.9,32.5
+ASIA,kiriko,Hollywood,Hybrid,52.5,33.1
+ASIA,kiriko,Lijiang Tower,Control,52.3,50.6
+ASIA,kiriko,Busan,Control,51.2,48.1
+ASIA,kiriko,Ilios,Control,51.0,49.5
 ASIA,kiriko,Watchpoint: Gibraltar,Escort,50.8,35.2
 ASIA,kiriko,King's Row,Hybrid,50.6,34.2
-ASIA,kiriko,Busan,Control,50.5,47.8
 ASIA,kiriko,New Queen Street,Push,50.1,48.6
+ASIA,kiriko,Numbani,Hybrid,49.7,41.2
 ASIA,kiriko,Rialto,Escort,49.6,29.7
 ASIA,kiriko,Suravasa,Flashpoint,49.5,56.8
-ASIA,kiriko,Numbani,Hybrid,49.4,40.5
-ASIA,kiriko,Midtown,Hybrid,49.3,37.2
-ASIA,kiriko,Junkertown,Escort,48.5,25.3
-ASIA,kiriko,Colosseo,Push,48.5,45.1
+ASIA,kiriko,Junkertown,Escort,48.6,24.9
+ASIA,kiriko,Midtown,Hybrid,48.4,37.2
 ASIA,kiriko,Nepal,Control,48.2,47.1
-ASIA,kiriko,Circuit Royal,Escort,47.6,7.8
-ASIA,kiriko,Runasapi,Push,47.4,53.6
+ASIA,kiriko,Blizzard World,Hybrid,47.7,39.2
+ASIA,kiriko,Colosseo,Push,47.4,45.5
+ASIA,kiriko,Runasapi,Push,47.3,54.0
+ASIA,kiriko,Circuit Royal,Escort,47.2,8.0
 ASIA,kiriko,Oasis,Control,46.0,47.8
-ASIA,kiriko,Dorado,Escort,45.0,33.2
-ASIA,kiriko,Blizzard World,Hybrid,44.9,39.3
+ASIA,kiriko,Dorado,Escort,44.7,34.3
 ASIA,kiriko,Paraíso,Hybrid,43.1,33.6
 ASIA,kiriko,Havana,Escort,38.7,16.3
 US,kiriko,New Junk City,Flashpoint,52.9,57.8
@@ -124,10 +124,10 @@ US,kiriko,Suravasa,Flashpoint,48.3,56.4
 US,kiriko,Colosseo,Push,47.5,48.3
 US,kiriko,Runasapi,Push,47.4,54.3
 US,kiriko,Esperança,Push,47.3,56.1
+US,kiriko,Junkertown,Escort,47.2,36.7
 US,kiriko,Midtown,Hybrid,47.0,37.7
-US,kiriko,Junkertown,Escort,46.8,37.4
-US,kiriko,Nepal,Control,46.6,49.4
 US,kiriko,Route 66,Escort,46.6,39.3
+US,kiriko,Nepal,Control,46.6,49.4
 US,kiriko,Hollywood,Hybrid,46.3,41.8
 US,kiriko,Aatlis,Flashpoint,46.2,57.8
 US,kiriko,Shambali Monastery,Escort,46.2,38.3
@@ -135,8 +135,8 @@ US,kiriko,Busan,Control,45.1,52.3
 US,kiriko,King's Row,Hybrid,44.7,39.4
 US,kiriko,Blizzard World,Hybrid,44.4,44.0
 US,kiriko,Eichenwalde,Hybrid,42.8,44.6
-US,kiriko,Dorado,Escort,42.1,40.7
-US,kiriko,Circuit Royal,Escort,38.5,19.6
+US,kiriko,Dorado,Escort,41.8,40.2
+US,kiriko,Circuit Royal,Escort,38.4,19.6
 US,kiriko,Havana,Escort,38.0,25.3
 US,kiriko,Paraíso,Hybrid,35.2,41.7
 EU,kiriko,Numbani,Hybrid,51.8,46.4
@@ -151,51 +151,51 @@ EU,kiriko,Esperança,Push,49.0,55.9
 EU,kiriko,Suravasa,Flashpoint,48.9,58.6
 EU,kiriko,Lijiang Tower,Control,48.1,56.1
 EU,kiriko,Shambali Monastery,Escort,48.1,36.4
-EU,kiriko,King's Row,Hybrid,47.8,40.0
+EU,kiriko,King's Row,Hybrid,47.7,40.1
 EU,kiriko,Oasis,Control,47.7,53.9
 EU,kiriko,Rialto,Escort,47.5,35.4
+EU,kiriko,Eichenwalde,Hybrid,47.3,45.6
 EU,kiriko,Colosseo,Push,47.0,48.8
 EU,kiriko,New Junk City,Flashpoint,46.5,58.6
-EU,kiriko,Eichenwalde,Hybrid,46.5,45.3
 EU,kiriko,Dorado,Escort,46.3,42.5
 EU,kiriko,Ilios,Control,46.1,53.5
 EU,kiriko,Hollywood,Hybrid,46.0,42.7
 EU,kiriko,Circuit Royal,Escort,45.1,19.2
 EU,kiriko,Samoa,Control,44.8,50.5
 EU,kiriko,Midtown,Hybrid,43.1,40.6
-EU,kiriko,Route 66,Escort,43.0,38.3
 EU,kiriko,Busan,Control,42.8,51.3
 EU,kiriko,Paraíso,Hybrid,41.9,36.2
+EU,kiriko,Route 66,Escort,41.8,38.3
 EU,kiriko,Havana,Escort,38.0,28.2
 ASIA,mizuki,Rialto,Escort,58.7,14.6
-ASIA,mizuki,Numbani,Hybrid,56.3,11.2
-ASIA,mizuki,Blizzard World,Hybrid,54.6,14.6
+ASIA,mizuki,Numbani,Hybrid,55.1,11.5
 ASIA,mizuki,Havana,Escort,53.8,12.0
+ASIA,mizuki,Colosseo,Push,53.7,21.9
 ASIA,mizuki,Esperança,Push,52.9,16.5
-ASIA,mizuki,Colosseo,Push,52.8,22.5
 ASIA,mizuki,Oasis,Control,52.5,20.7
+ASIA,mizuki,Blizzard World,Hybrid,52.4,14.8
+ASIA,mizuki,Dorado,Escort,52.4,10.2
 ASIA,mizuki,New Queen Street,Push,52.2,17.6
 ASIA,mizuki,New Junk City,Flashpoint,52.1,20.6
-ASIA,mizuki,Lijiang Tower,Control,52.1,19.9
+ASIA,mizuki,Lijiang Tower,Control,51.7,19.2
 ASIA,mizuki,King's Row,Hybrid,50.7,17.2
-ASIA,mizuki,Midtown,Hybrid,50.4,16.8
 ASIA,mizuki,Watchpoint: Gibraltar,Escort,50.3,12.9
-ASIA,mizuki,Samoa,Control,50.1,21.6
 ASIA,mizuki,Eichenwalde,Hybrid,50.0,15.8
-ASIA,mizuki,Dorado,Escort,49.7,10.4
-ASIA,mizuki,Ilios,Control,49.6,17.9
+ASIA,mizuki,Samoa,Control,49.7,21.2
+ASIA,mizuki,Midtown,Hybrid,49.6,16.3
 ASIA,mizuki,Aatlis,Flashpoint,49.3,26.6
-ASIA,mizuki,Runasapi,Push,48.9,20.0
+ASIA,mizuki,Runasapi,Push,49.1,20.0
 ASIA,mizuki,Suravasa,Flashpoint,48.8,19.4
+ASIA,mizuki,Ilios,Control,48.6,17.9
 ASIA,mizuki,Nepal,Control,48.1,19.2
-ASIA,mizuki,Busan,Control,48.1,18.8
-ASIA,mizuki,Junkertown,Escort,46.1,12.1
+ASIA,mizuki,Busan,Control,47.6,19.4
+ASIA,mizuki,Junkertown,Escort,47.6,11.8
 ASIA,mizuki,Paraíso,Hybrid,45.9,14.7
 ASIA,mizuki,Route 66,Escort,44.7,13.4
-ASIA,mizuki,Hollywood,Hybrid,44.5,16.7
-ASIA,mizuki,Circuit Royal,Escort,44.2,7.0
+ASIA,mizuki,Hollywood,Hybrid,44.1,16.7
+ASIA,mizuki,Circuit Royal,Escort,43.6,7.2
 ASIA,mizuki,Shambali Monastery,Escort,43.1,20.2
-US,mizuki,Junkertown,Escort,63.5,12.5
+US,mizuki,Junkertown,Escort,60.1,12.0
 US,mizuki,Esperança,Push,55.5,17.3
 US,mizuki,Rialto,Escort,54.8,14.4
 US,mizuki,Route 66,Escort,54.5,17.9
@@ -210,17 +210,17 @@ US,mizuki,Aatlis,Flashpoint,50.2,22.6
 US,mizuki,Busan,Control,49.8,15.7
 US,mizuki,Havana,Escort,49.7,10.5
 US,mizuki,Nepal,Control,49.0,17.4
-US,mizuki,Circuit Royal,Escort,48.9,12.1
 US,mizuki,Colosseo,Push,48.9,19.2
 US,mizuki,New Junk City,Flashpoint,48.8,23.0
 US,mizuki,Eichenwalde,Hybrid,48.6,20.4
+US,mizuki,Circuit Royal,Escort,48.5,11.9
 US,mizuki,Shambali Monastery,Escort,48.4,19.3
 US,mizuki,Ilios,Control,48.0,16.8
 US,mizuki,Watchpoint: Gibraltar,Escort,47.7,15.9
 US,mizuki,New Queen Street,Push,46.7,17.1
-US,mizuki,Dorado,Escort,46.6,13.2
 US,mizuki,Blizzard World,Hybrid,46.1,17.5
 US,mizuki,Samoa,Control,45.2,17.7
+US,mizuki,Dorado,Escort,44.7,13.0
 US,mizuki,Paraíso,Hybrid,36.7,16.0
 US,mizuki,Numbani,Hybrid,34.0,13.0
 EU,mizuki,Paraíso,Hybrid,84.8,9.8
@@ -238,10 +238,10 @@ EU,mizuki,Nepal,Control,49.5,17.6
 EU,mizuki,Oasis,Control,48.4,18.8
 EU,mizuki,Samoa,Control,48.2,17.1
 EU,mizuki,Watchpoint: Gibraltar,Escort,47.5,13.0
-EU,mizuki,Eichenwalde,Hybrid,46.8,17.4
+EU,mizuki,Eichenwalde,Hybrid,46.9,16.8
 EU,mizuki,Dorado,Escort,45.9,12.2
+EU,mizuki,King's Row,Hybrid,45.5,16.1
 EU,mizuki,New Queen Street,Push,45.4,16.2
-EU,mizuki,King's Row,Hybrid,45.3,16.8
 EU,mizuki,Esperança,Push,45.3,16.8
 EU,mizuki,Busan,Control,45.3,15.7
 EU,mizuki,Shambali Monastery,Escort,45.2,17.8
@@ -249,36 +249,36 @@ EU,mizuki,Rialto,Escort,44.9,14.2
 EU,mizuki,Lijiang Tower,Control,44.9,13.6
 EU,mizuki,Circuit Royal,Escort,44.6,8.5
 EU,mizuki,Havana,Escort,44.3,8.2
-EU,mizuki,Route 66,Escort,41.5,14.6
+EU,mizuki,Route 66,Escort,42.4,14.4
 EU,mizuki,Junkertown,Escort,41.1,13.2
-ASIA,cassidy,Junkertown,Escort,59.7,13.8
+ASIA,cassidy,Junkertown,Escort,56.4,13.8
 ASIA,cassidy,Route 66,Escort,52.2,19.2
+ASIA,cassidy,Runasapi,Push,51.7,27.7
 ASIA,cassidy,Rialto,Escort,51.6,15.8
-ASIA,cassidy,Runasapi,Push,50.9,27.6
-ASIA,cassidy,Lijiang Tower,Control,50.6,27.8
 ASIA,cassidy,Watchpoint: Gibraltar,Escort,50.6,20.7
-ASIA,cassidy,Dorado,Escort,50.4,21.3
 ASIA,cassidy,New Queen Street,Push,50.1,20.8
-ASIA,cassidy,Ilios,Control,49.9,26.8
+ASIA,cassidy,Lijiang Tower,Control,50.1,27.9
 ASIA,cassidy,Shambali Monastery,Escort,49.4,16.4
 ASIA,cassidy,Esperança,Push,49.1,26.0
 ASIA,cassidy,Eichenwalde,Hybrid,48.9,30.8
 ASIA,cassidy,New Junk City,Flashpoint,48.3,28.2
+ASIA,cassidy,Ilios,Control,48.3,26.5
 ASIA,cassidy,Paraíso,Hybrid,48.2,19.7
 ASIA,cassidy,Nepal,Control,47.8,23.0
-ASIA,cassidy,Colosseo,Push,47.1,24.2
+ASIA,cassidy,Dorado,Escort,47.0,22.2
 ASIA,cassidy,Aatlis,Flashpoint,46.6,28.6
+ASIA,cassidy,Colosseo,Push,46.5,23.8
 ASIA,cassidy,Oasis,Control,46.5,37.2
-ASIA,cassidy,Blizzard World,Hybrid,46.4,14.1
+ASIA,cassidy,Busan,Control,46.1,24.0
+ASIA,cassidy,Blizzard World,Hybrid,46.0,14.7
+ASIA,cassidy,Samoa,Control,45.8,32.1
 ASIA,cassidy,King's Row,Hybrid,45.8,20.6
-ASIA,cassidy,Samoa,Control,45.1,32.2
+ASIA,cassidy,Circuit Royal,Escort,44.9,5.5
 ASIA,cassidy,Havana,Escort,44.6,8.9
-ASIA,cassidy,Busan,Control,43.9,23.8
-ASIA,cassidy,Hollywood,Hybrid,43.4,22.5
-ASIA,cassidy,Circuit Royal,Escort,42.8,5.2
+ASIA,cassidy,Hollywood,Hybrid,43.4,22.9
 ASIA,cassidy,Suravasa,Flashpoint,42.4,28.0
-ASIA,cassidy,Numbani,Hybrid,40.4,19.9
-ASIA,cassidy,Midtown,Hybrid,37.5,17.6
+ASIA,cassidy,Numbani,Hybrid,38.8,20.0
+ASIA,cassidy,Midtown,Hybrid,38.1,17.2
 US,cassidy,Numbani,Hybrid,55.4,20.4
 US,cassidy,Aatlis,Flashpoint,54.7,30.1
 US,cassidy,Watchpoint: Gibraltar,Escort,54.2,19.0
@@ -286,7 +286,7 @@ US,cassidy,Runasapi,Push,54.0,24.1
 US,cassidy,Midtown,Hybrid,53.9,16.8
 US,cassidy,Blizzard World,Hybrid,53.4,18.4
 US,cassidy,Oasis,Control,50.8,34.0
-US,cassidy,Circuit Royal,Escort,50.2,9.1
+US,cassidy,Circuit Royal,Escort,50.6,9.0
 US,cassidy,Eichenwalde,Hybrid,50.2,24.6
 US,cassidy,Nepal,Control,50.1,22.3
 US,cassidy,Samoa,Control,49.7,28.2
@@ -296,13 +296,13 @@ US,cassidy,New Junk City,Flashpoint,49.3,27.9
 US,cassidy,Busan,Control,49.2,20.7
 US,cassidy,Suravasa,Flashpoint,49.0,24.2
 US,cassidy,Route 66,Escort,49.0,17.3
-US,cassidy,Junkertown,Escort,49.0,17.1
 US,cassidy,Hollywood,Hybrid,48.4,20.0
-US,cassidy,Shambali Monastery,Escort,47.8,18.4
+US,cassidy,Junkertown,Escort,48.4,16.3
 US,cassidy,King's Row,Hybrid,47.8,18.6
+US,cassidy,Shambali Monastery,Escort,47.8,18.4
 US,cassidy,New Queen Street,Push,47.0,18.9
 US,cassidy,Colosseo,Push,45.9,21.2
-US,cassidy,Dorado,Escort,44.9,19.1
+US,cassidy,Dorado,Escort,45.3,19.3
 US,cassidy,Ilios,Control,43.4,25.4
 US,cassidy,Havana,Escort,40.9,8.0
 US,cassidy,Paraíso,Hybrid,40.1,19.3
@@ -315,41 +315,42 @@ EU,cassidy,Havana,Escort,47.3,8.7
 EU,cassidy,New Junk City,Flashpoint,47.0,24.9
 EU,cassidy,Esperança,Push,46.7,19.2
 EU,cassidy,Runasapi,Push,46.3,18.7
-EU,cassidy,Eichenwalde,Hybrid,46.3,19.9
 EU,cassidy,Nepal,Control,46.3,19.7
 EU,cassidy,Rialto,Escort,46.1,13.4
+EU,cassidy,Eichenwalde,Hybrid,46.1,19.8
 EU,cassidy,Lijiang Tower,Control,46.1,22.5
 EU,cassidy,Busan,Control,46.0,18.3
 EU,cassidy,Hollywood,Hybrid,45.8,16.4
 EU,cassidy,Suravasa,Flashpoint,45.4,21.4
-EU,cassidy,King's Row,Hybrid,45.1,15.9
 EU,cassidy,New Queen Street,Push,44.9,16.5
 EU,cassidy,Colosseo,Push,44.9,17.2
+EU,cassidy,King's Row,Hybrid,44.8,16.0
 EU,cassidy,Aatlis,Flashpoint,44.5,28.4
 EU,cassidy,Dorado,Escort,43.3,15.1
-EU,cassidy,Route 66,Escort,43.3,15.7
 EU,cassidy,Ilios,Control,43.2,20.3
+EU,cassidy,Route 66,Escort,42.3,15.8
 EU,cassidy,Shambali Monastery,Escort,41.6,14.7
 EU,cassidy,Blizzard World,Hybrid,40.6,13.5
 EU,cassidy,Junkertown,Escort,38.8,11.4
 EU,cassidy,Numbani,Hybrid,38.5,14.4
 EU,cassidy,Midtown,Hybrid,38.2,15.0
 EU,cassidy,Circuit Royal,Escort,37.0,6.5
-ASIA,soldier76,Junkertown,Escort,66.1,5.6
+ASIA,soldier76,Junkertown,Escort,66.1,5.3
 ASIA,soldier76,New Queen Street,Push,64.7,17.9
-ASIA,soldier76,Midtown,Hybrid,59.8,3.8
-ASIA,soldier76,Runasapi,Push,56.5,9.5
+ASIA,soldier76,Midtown,Hybrid,61.3,3.7
+ASIA,soldier76,Runasapi,Push,53.4,9.7
 ASIA,soldier76,Aatlis,Flashpoint,52.9,4.0
 ASIA,soldier76,Esperança,Push,52.4,7.3
-ASIA,soldier76,Numbani,Hybrid,50.6,5.4
+ASIA,soldier76,Numbani,Hybrid,51.1,5.2
 ASIA,soldier76,Eichenwalde,Hybrid,49.1,3.5
 ASIA,soldier76,Rialto,Escort,48.7,5.0
 ASIA,soldier76,Watchpoint: Gibraltar,Escort,48.3,4.8
-ASIA,soldier76,Circuit Royal,Escort,47.1,2.7
-ASIA,soldier76,Samoa,Control,46.6,5.2
 ASIA,soldier76,Paraíso,Hybrid,46.5,5.6
-ASIA,soldier76,Busan,Control,46.1,7.9
-ASIA,soldier76,Ilios,Control,43.2,2.6
+ASIA,soldier76,Circuit Royal,Escort,45.5,2.7
+ASIA,soldier76,Samoa,Control,44.8,5.2
+ASIA,soldier76,Busan,Control,44.6,7.8
+ASIA,soldier76,Ilios,Control,43.0,2.4
+ASIA,soldier76,Dorado,Escort,42.6,4.6
 ASIA,soldier76,Nepal,Control,41.9,4.5
 ASIA,soldier76,King's Row,Hybrid,41.8,3.8
 ASIA,soldier76,Shambali Monastery,Escort,41.2,5.5
@@ -357,21 +358,20 @@ ASIA,soldier76,Oasis,Control,41.0,4.4
 ASIA,soldier76,Havana,Escort,39.2,6.3
 ASIA,soldier76,Suravasa,Flashpoint,38.9,6.7
 ASIA,soldier76,Route 66,Escort,38.6,4.1
-ASIA,soldier76,Dorado,Escort,38.3,4.8
 ASIA,soldier76,New Junk City,Flashpoint,37.5,5.8
-ASIA,soldier76,Lijiang Tower,Control,35.7,4.5
-ASIA,soldier76,Colosseo,Push,32.7,5.7
-ASIA,soldier76,Blizzard World,Hybrid,29.4,4.5
-ASIA,soldier76,Hollywood,Hybrid,19.2,3.1
-US,soldier76,Circuit Royal,Escort,61.2,7.2
+ASIA,soldier76,Lijiang Tower,Control,35.9,4.3
+ASIA,soldier76,Colosseo,Push,32.6,5.7
+ASIA,soldier76,Blizzard World,Hybrid,29.3,4.3
+ASIA,soldier76,Hollywood,Hybrid,20.1,3.0
+US,soldier76,Circuit Royal,Escort,60.9,7.1
 US,soldier76,Route 66,Escort,58.7,10.4
 US,soldier76,New Queen Street,Push,58.6,28.9
 US,soldier76,Esperança,Push,57.1,19.3
 US,soldier76,Shambali Monastery,Escort,56.4,9.0
 US,soldier76,Suravasa,Flashpoint,55.9,18.1
 US,soldier76,Havana,Escort,54.3,10.4
+US,soldier76,Dorado,Escort,54.2,13.2
 US,soldier76,Ilios,Control,52.9,7.6
-US,soldier76,Dorado,Escort,52.6,13.4
 US,soldier76,Oasis,Control,52.6,11.4
 US,soldier76,Busan,Control,52.6,19.9
 US,soldier76,Samoa,Control,51.2,11.6
@@ -381,19 +381,19 @@ US,soldier76,New Junk City,Flashpoint,49.5,11.7
 US,soldier76,Lijiang Tower,Control,49.4,9.7
 US,soldier76,Midtown,Hybrid,49.1,11.6
 US,soldier76,Runasapi,Push,49.0,17.8
-US,soldier76,Junkertown,Escort,49.0,13.1
 US,soldier76,Numbani,Hybrid,48.5,11.4
 US,soldier76,Watchpoint: Gibraltar,Escort,46.7,13.0
 US,soldier76,Blizzard World,Hybrid,46.4,11.5
 US,soldier76,Aatlis,Flashpoint,45.7,9.3
+US,soldier76,Junkertown,Escort,45.4,13.7
 US,soldier76,King's Row,Hybrid,44.7,6.7
 US,soldier76,Rialto,Escort,44.3,10.0
 US,soldier76,Paraíso,Hybrid,42.8,19.2
 US,soldier76,Hollywood,Hybrid,39.8,8.9
 US,soldier76,Eichenwalde,Hybrid,38.5,7.8
 EU,soldier76,Blizzard World,Hybrid,59.1,13.6
+EU,soldier76,Route 66,Escort,58.1,10.5
 EU,soldier76,Numbani,Hybrid,57.4,10.6
-EU,soldier76,Route 66,Escort,56.8,10.4
 EU,soldier76,Esperança,Push,56.6,18.1
 EU,soldier76,Runasapi,Push,55.7,20.9
 EU,soldier76,Watchpoint: Gibraltar,Escort,54.6,10.6
@@ -405,45 +405,45 @@ EU,soldier76,Hollywood,Hybrid,52.3,9.0
 EU,soldier76,Samoa,Control,52.2,10.5
 EU,soldier76,Circuit Royal,Escort,51.9,8.0
 EU,soldier76,Suravasa,Flashpoint,51.5,18.1
+EU,soldier76,Eichenwalde,Hybrid,51.0,7.8
 EU,soldier76,New Junk City,Flashpoint,49.7,11.5
-EU,soldier76,Eichenwalde,Hybrid,49.7,7.8
 EU,soldier76,Nepal,Control,49.5,11.3
 EU,soldier76,Junkertown,Escort,49.5,15.0
 EU,soldier76,Oasis,Control,49.2,11.4
-EU,soldier76,King's Row,Hybrid,48.9,7.3
-EU,soldier76,Rialto,Escort,48.2,9.2
 EU,soldier76,Busan,Control,48.2,19.5
+EU,soldier76,Rialto,Escort,48.2,9.2
+EU,soldier76,King's Row,Hybrid,48.1,7.4
 EU,soldier76,Colosseo,Push,47.9,15.2
 EU,soldier76,Paraíso,Hybrid,47.8,8.5
 EU,soldier76,Midtown,Hybrid,47.3,10.4
 EU,soldier76,Dorado,Escort,46.8,13.9
 EU,soldier76,Havana,Escort,45.6,10.9
 EU,soldier76,Lijiang Tower,Control,45.4,8.4
-ASIA,emre,Numbani,Hybrid,60.1,21.3
+ASIA,emre,Numbani,Hybrid,58.3,23.3
 ASIA,emre,Suravasa,Flashpoint,57.1,19.5
-ASIA,emre,Busan,Control,56.0,19.6
-ASIA,emre,Hollywood,Hybrid,55.9,20.7
-ASIA,emre,Samoa,Control,54.4,20.0
-ASIA,emre,Colosseo,Push,53.8,21.1
-ASIA,emre,Ilios,Control,53.2,19.3
+ASIA,emre,Colosseo,Push,54.8,21.6
+ASIA,emre,Busan,Control,54.2,20.4
+ASIA,emre,Hollywood,Hybrid,54.1,21.4
+ASIA,emre,Ilios,Control,53.8,19.7
+ASIA,emre,Samoa,Control,53.7,20.1
+ASIA,emre,Runasapi,Push,53.0,22.0
 ASIA,emre,Paraíso,Hybrid,52.4,19.6
 ASIA,emre,New Queen Street,Push,51.0,21.8
 ASIA,emre,Aatlis,Flashpoint,51.0,16.4
+ASIA,emre,Blizzard World,Hybrid,50.8,24.4
 ASIA,emre,Esperança,Push,50.2,21.1
-ASIA,emre,Runasapi,Push,50.1,21.8
 ASIA,emre,Shambali Monastery,Escort,49.7,23.6
-ASIA,emre,Dorado,Escort,49.1,18.2
-ASIA,emre,Midtown,Hybrid,49.0,22.1
+ASIA,emre,Dorado,Escort,49.7,18.4
 ASIA,emre,Nepal,Control,48.9,20.8
-ASIA,emre,Lijiang Tower,Control,48.2,17.4
+ASIA,emre,Midtown,Hybrid,48.4,22.6
 ASIA,emre,King's Row,Hybrid,48.1,18.3
 ASIA,emre,Rialto,Escort,48.1,21.5
+ASIA,emre,Lijiang Tower,Control,48.1,18.6
 ASIA,emre,Havana,Escort,47.8,14.0
-ASIA,emre,Blizzard World,Hybrid,47.8,23.9
+ASIA,emre,Junkertown,Escort,47.8,21.2
 ASIA,emre,Eichenwalde,Hybrid,47.7,16.8
 ASIA,emre,New Junk City,Flashpoint,47.6,17.5
-ASIA,emre,Circuit Royal,Escort,47.5,18.5
-ASIA,emre,Junkertown,Escort,47.4,20.6
+ASIA,emre,Circuit Royal,Escort,46.8,19.2
 ASIA,emre,Route 66,Escort,45.0,18.6
 ASIA,emre,Oasis,Control,44.6,18.7
 ASIA,emre,Watchpoint: Gibraltar,Escort,35.5,18.4
@@ -454,38 +454,38 @@ US,emre,Eichenwalde,Hybrid,54.4,19.1
 US,emre,Watchpoint: Gibraltar,Escort,53.9,18.0
 US,emre,Blizzard World,Hybrid,53.6,18.5
 US,emre,Nepal,Control,53.5,16.8
-US,emre,Junkertown,Escort,51.9,17.7
+US,emre,Junkertown,Escort,52.0,18.2
 US,emre,New Queen Street,Push,51.6,19.7
 US,emre,Rialto,Escort,51.2,16.7
-US,emre,Dorado,Escort,50.5,14.8
-US,emre,Hollywood,Hybrid,50.4,17.5
 US,emre,Colosseo,Push,50.4,20.8
+US,emre,Hollywood,Hybrid,50.4,17.5
 US,emre,King's Row,Hybrid,50.1,14.9
 US,emre,Midtown,Hybrid,49.8,20.3
 US,emre,New Junk City,Flashpoint,49.6,16.3
 US,emre,Runasapi,Push,49.2,18.5
 US,emre,Ilios,Control,48.3,14.8
+US,emre,Dorado,Escort,47.7,15.5
 US,emre,Lijiang Tower,Control,47.5,14.4
+US,emre,Circuit Royal,Escort,47.1,19.1
 US,emre,Shambali Monastery,Escort,47.1,16.8
-US,emre,Circuit Royal,Escort,46.7,18.7
 US,emre,Oasis,Control,46.6,14.5
-US,emre,Samoa,Control,46.3,16.8
 US,emre,Route 66,Escort,46.3,17.9
+US,emre,Samoa,Control,46.3,16.8
 US,emre,Suravasa,Flashpoint,45.4,17.6
 US,emre,Busan,Control,44.0,17.0
 US,emre,Esperança,Push,43.9,17.7
 US,emre,Numbani,Hybrid,37.0,20.3
 EU,emre,Ilios,Control,58.6,13.5
 EU,emre,Junkertown,Escort,58.5,19.1
-EU,emre,Route 66,Escort,58.0,16.4
+EU,emre,Route 66,Escort,57.6,16.5
 EU,emre,Numbani,Hybrid,56.6,14.4
 EU,emre,Blizzard World,Hybrid,55.2,13.5
 EU,emre,Watchpoint: Gibraltar,Escort,54.9,16.2
 EU,emre,Samoa,Control,53.0,13.8
-EU,emre,Nepal,Control,52.6,15.2
 EU,emre,Suravasa,Flashpoint,52.6,14.0
+EU,emre,Nepal,Control,52.6,15.2
 EU,emre,Rialto,Escort,52.5,15.3
-EU,emre,Eichenwalde,Hybrid,52.3,13.3
+EU,emre,Eichenwalde,Hybrid,52.5,13.7
 EU,emre,Busan,Control,52.2,15.7
 EU,emre,Midtown,Hybrid,52.0,15.9
 EU,emre,Aatlis,Flashpoint,51.8,13.2
@@ -496,45 +496,45 @@ EU,emre,New Junk City,Flashpoint,49.3,10.6
 EU,emre,Paraíso,Hybrid,48.7,14.9
 EU,emre,New Queen Street,Push,48.5,15.3
 EU,emre,Oasis,Control,48.5,11.5
-EU,emre,Circuit Royal,Escort,48.0,15.8
 EU,emre,Colosseo,Push,48.0,14.8
+EU,emre,Circuit Royal,Escort,48.0,15.8
 EU,emre,Esperança,Push,47.5,14.8
 EU,emre,Runasapi,Push,47.0,14.8
 EU,emre,Dorado,Escort,46.9,12.9
-EU,emre,King's Row,Hybrid,44.4,13.0
+EU,emre,King's Row,Hybrid,45.9,13.6
 EU,emre,Hollywood,Hybrid,40.3,14.9
 ASIA,moira,Paraíso,Hybrid,67.2,2.9
-ASIA,moira,Junkertown,Escort,63.5,2.7
 ASIA,moira,Shambali Monastery,Escort,61.9,3.5
-ASIA,moira,Numbani,Hybrid,59.4,1.5
+ASIA,moira,Numbani,Hybrid,59.4,1.3
+ASIA,moira,Junkertown,Escort,59.0,2.7
+ASIA,moira,Blizzard World,Hybrid,57.4,1.9
 ASIA,moira,Route 66,Escort,56.4,3.4
 ASIA,moira,Eichenwalde,Hybrid,55.2,2.6
-ASIA,moira,Blizzard World,Hybrid,50.5,1.7
-ASIA,moira,Hollywood,Hybrid,50.5,2.6
-ASIA,moira,Samoa,Control,49.0,3.5
-ASIA,moira,Midtown,Hybrid,45.5,2.1
+ASIA,moira,Hollywood,Hybrid,53.3,2.6
+ASIA,moira,Samoa,Control,49.1,3.7
+ASIA,moira,Lijiang Tower,Control,45.6,4.2
+ASIA,moira,Midtown,Hybrid,45.5,2.0
+ASIA,moira,Colosseo,Push,44.7,2.3
 ASIA,moira,Esperança,Push,44.2,3.8
-ASIA,moira,Lijiang Tower,Control,43.6,4.2
-ASIA,moira,Runasapi,Push,43.3,3.6
 ASIA,moira,New Junk City,Flashpoint,43.1,5.0
 ASIA,moira,Suravasa,Flashpoint,43.0,4.1
 ASIA,moira,Havana,Escort,42.5,1.6
 ASIA,moira,Aatlis,Flashpoint,42.0,4.8
 ASIA,moira,Nepal,Control,42.0,2.8
-ASIA,moira,Colosseo,Push,41.9,2.3
+ASIA,moira,Circuit Royal,Escort,41.8,1.2
+ASIA,moira,Runasapi,Push,40.9,4.0
+ASIA,moira,Ilios,Control,40.4,2.3
+ASIA,moira,Dorado,Escort,40.2,1.7
 ASIA,moira,Rialto,Escort,40.2,2.3
 ASIA,moira,Oasis,Control,39.9,4.2
-ASIA,moira,Dorado,Escort,39.3,1.7
 ASIA,moira,King's Row,Hybrid,38.9,2.6
-ASIA,moira,Ilios,Control,37.3,2.3
 ASIA,moira,Watchpoint: Gibraltar,Escort,36.8,2.1
-ASIA,moira,Circuit Royal,Escort,36.4,1.2
 ASIA,moira,New Queen Street,Push,36.4,2.9
-ASIA,moira,Busan,Control,34.6,3.1
+ASIA,moira,Busan,Control,35.7,3.3
 US,moira,Paraíso,Hybrid,74.5,2.4
 US,moira,Numbani,Hybrid,58.5,4.5
 US,moira,Hollywood,Hybrid,55.5,4.7
-US,moira,Circuit Royal,Escort,54.3,4.5
+US,moira,Circuit Royal,Escort,55.2,4.4
 US,moira,Esperança,Push,52.8,5.5
 US,moira,Oasis,Control,52.5,6.4
 US,moira,Havana,Escort,52.2,5.0
@@ -545,8 +545,8 @@ US,moira,Lijiang Tower,Control,48.5,6.9
 US,moira,Busan,Control,48.1,5.8
 US,moira,Eichenwalde,Hybrid,47.3,4.6
 US,moira,Ilios,Control,47.2,6.5
-US,moira,Midtown,Hybrid,46.7,4.2
 US,moira,Suravasa,Flashpoint,46.7,7.0
+US,moira,Midtown,Hybrid,46.7,4.2
 US,moira,New Junk City,Flashpoint,45.7,8.0
 US,moira,Rialto,Escort,45.1,4.5
 US,moira,King's Row,Hybrid,44.6,5.2
@@ -555,28 +555,28 @@ US,moira,Route 66,Escort,43.4,6.0
 US,moira,Watchpoint: Gibraltar,Escort,43.1,2.6
 US,moira,Runasapi,Push,42.8,5.8
 US,moira,Shambali Monastery,Escort,41.9,5.5
-US,moira,Dorado,Escort,39.4,3.6
+US,moira,Dorado,Escort,39.5,3.7
 US,moira,New Queen Street,Push,38.9,4.9
 US,moira,Blizzard World,Hybrid,35.0,4.1
-US,moira,Junkertown,Escort,31.6,4.1
+US,moira,Junkertown,Escort,31.6,3.8
 EU,moira,Junkertown,Escort,61.4,4.0
 EU,moira,Dorado,Escort,58.4,3.0
 EU,moira,Aatlis,Flashpoint,54.0,7.1
-EU,moira,King's Row,Hybrid,52.3,3.8
+EU,moira,King's Row,Hybrid,53.1,3.9
 EU,moira,Ilios,Control,51.7,4.6
 EU,moira,New Junk City,Flashpoint,50.9,7.1
 EU,moira,Watchpoint: Gibraltar,Escort,50.1,2.8
 EU,moira,Runasapi,Push,49.5,4.0
 EU,moira,Busan,Control,49.3,4.2
 EU,moira,Samoa,Control,48.9,4.2
+EU,moira,Eichenwalde,Hybrid,48.8,4.4
 EU,moira,Lijiang Tower,Control,48.7,5.5
-EU,moira,Route 66,Escort,48.5,2.4
-EU,moira,Eichenwalde,Hybrid,47.7,4.3
 EU,moira,Hollywood,Hybrid,46.8,3.1
 EU,moira,Esperança,Push,45.3,4.4
 EU,moira,Oasis,Control,45.0,5.3
 EU,moira,Circuit Royal,Escort,44.8,2.5
 EU,moira,Nepal,Control,44.7,4.4
+EU,moira,Route 66,Escort,43.9,2.6
 EU,moira,Suravasa,Flashpoint,43.7,5.5
 EU,moira,Colosseo,Push,43.2,3.5
 EU,moira,New Queen Street,Push,43.0,4.5
@@ -587,40 +587,40 @@ EU,moira,Rialto,Escort,28.8,3.1
 EU,moira,Blizzard World,Hybrid,27.3,2.2
 EU,moira,Numbani,Hybrid,25.3,3.1
 EU,moira,Paraíso,Hybrid,20.7,2.1
-ASIA,sojourn,Midtown,Hybrid,55.3,27.4
 ASIA,sojourn,Havana,Escort,53.9,30.5
 ASIA,sojourn,Oasis,Control,53.5,22.8
 ASIA,sojourn,Watchpoint: Gibraltar,Escort,53.4,8.0
 ASIA,sojourn,Suravasa,Flashpoint,52.9,31.2
-ASIA,sojourn,Lijiang Tower,Control,52.2,33.1
-ASIA,sojourn,Samoa,Control,51.9,27.9
+ASIA,sojourn,Lijiang Tower,Control,52.8,32.0
+ASIA,sojourn,Samoa,Control,52.5,27.9
+ASIA,sojourn,Midtown,Hybrid,52.3,27.8
 ASIA,sojourn,New Junk City,Flashpoint,51.7,37.0
 ASIA,sojourn,Route 66,Escort,51.5,15.4
 ASIA,sojourn,Esperança,Push,51.4,29.9
 ASIA,sojourn,Aatlis,Flashpoint,51.2,31.9
 ASIA,sojourn,Nepal,Control,51.0,32.9
 ASIA,sojourn,Paraíso,Hybrid,50.5,10.9
-ASIA,sojourn,Busan,Control,50.0,27.5
-ASIA,sojourn,Circuit Royal,Escort,49.9,43.9
-ASIA,sojourn,Hollywood,Hybrid,49.0,19.9
-ASIA,sojourn,Runasapi,Push,48.9,31.9
-ASIA,sojourn,Colosseo,Push,48.5,28.4
-ASIA,sojourn,Dorado,Escort,47.4,7.0
+ASIA,sojourn,Hollywood,Hybrid,50.1,19.6
+ASIA,sojourn,Circuit Royal,Escort,50.1,43.7
+ASIA,sojourn,Colosseo,Push,49.4,28.3
+ASIA,sojourn,Busan,Control,48.9,27.4
+ASIA,sojourn,Runasapi,Push,47.9,31.0
 ASIA,sojourn,Shambali Monastery,Escort,47.1,25.9
+ASIA,sojourn,Dorado,Escort,46.4,7.1
 ASIA,sojourn,King's Row,Hybrid,46.4,20.7
-ASIA,sojourn,Blizzard World,Hybrid,46.0,23.7
 ASIA,sojourn,New Queen Street,Push,45.7,30.9
 ASIA,sojourn,Rialto,Escort,45.5,15.4
-ASIA,sojourn,Ilios,Control,44.0,11.8
+ASIA,sojourn,Blizzard World,Hybrid,45.3,23.0
+ASIA,sojourn,Ilios,Control,43.6,11.6
 ASIA,sojourn,Eichenwalde,Hybrid,40.5,18.1
-ASIA,sojourn,Junkertown,Escort,39.2,18.5
-ASIA,sojourn,Numbani,Hybrid,34.9,10.6
+ASIA,sojourn,Junkertown,Escort,40.1,18.5
+ASIA,sojourn,Numbani,Hybrid,35.9,10.2
 US,sojourn,Havana,Escort,52.1,34.5
 US,sojourn,Shambali Monastery,Escort,50.9,27.9
 US,sojourn,Rialto,Escort,50.8,23.0
 US,sojourn,New Queen Street,Push,50.8,26.2
 US,sojourn,Oasis,Control,50.7,23.5
-US,sojourn,Circuit Royal,Escort,50.0,35.7
+US,sojourn,Circuit Royal,Escort,50.1,35.4
 US,sojourn,Busan,Control,49.9,29.4
 US,sojourn,Suravasa,Flashpoint,49.7,31.0
 US,sojourn,Aatlis,Flashpoint,49.4,27.5
@@ -633,74 +633,74 @@ US,sojourn,King's Row,Hybrid,48.4,27.5
 US,sojourn,Hollywood,Hybrid,48.3,23.2
 US,sojourn,Ilios,Control,48.0,15.5
 US,sojourn,Blizzard World,Hybrid,47.6,27.6
+US,sojourn,Junkertown,Escort,47.6,23.1
 US,sojourn,Colosseo,Push,46.4,30.5
-US,sojourn,Junkertown,Escort,45.6,23.0
 US,sojourn,Runasapi,Push,45.5,31.8
 US,sojourn,Lijiang Tower,Control,45.4,31.7
 US,sojourn,Numbani,Hybrid,44.6,12.9
 US,sojourn,Esperança,Push,42.1,28.9
 US,sojourn,Eichenwalde,Hybrid,40.8,23.4
-US,sojourn,Dorado,Escort,39.3,10.7
+US,sojourn,Dorado,Escort,39.7,10.4
 US,sojourn,Midtown,Hybrid,36.2,30.1
 US,sojourn,Paraíso,Hybrid,34.9,15.0
 EU,sojourn,Circuit Royal,Escort,53.0,36.9
 EU,sojourn,Ilios,Control,51.8,17.3
-EU,sojourn,Runasapi,Push,51.5,31.6
 EU,sojourn,Numbani,Hybrid,51.5,17.5
+EU,sojourn,Runasapi,Push,51.5,31.6
 EU,sojourn,Havana,Escort,50.5,38.4
 EU,sojourn,Hollywood,Hybrid,50.1,24.1
 EU,sojourn,Nepal,Control,49.6,30.3
 EU,sojourn,Aatlis,Flashpoint,49.1,27.4
 EU,sojourn,Lijiang Tower,Control,49.1,30.0
+EU,sojourn,King's Row,Hybrid,48.7,29.4
 EU,sojourn,Colosseo,Push,48.6,31.9
-EU,sojourn,King's Row,Hybrid,48.4,29.8
+EU,sojourn,Eichenwalde,Hybrid,48.3,22.2
 EU,sojourn,Oasis,Control,48.3,27.0
 EU,sojourn,Samoa,Control,47.8,31.9
-EU,sojourn,Eichenwalde,Hybrid,47.8,21.9
 EU,sojourn,New Junk City,Flashpoint,47.7,33.2
 EU,sojourn,Midtown,Hybrid,47.5,32.9
 EU,sojourn,Shambali Monastery,Escort,47.5,29.6
 EU,sojourn,Busan,Control,47.2,27.4
 EU,sojourn,Paraíso,Hybrid,46.6,20.7
 EU,sojourn,Suravasa,Flashpoint,46.2,31.9
-EU,sojourn,Dorado,Escort,46.1,13.6
 EU,sojourn,Blizzard World,Hybrid,46.1,31.6
+EU,sojourn,Dorado,Escort,46.1,13.6
 EU,sojourn,Esperança,Push,45.8,30.4
 EU,sojourn,Junkertown,Escort,45.8,26.4
-EU,sojourn,Route 66,Escort,45.3,25.0
 EU,sojourn,New Queen Street,Push,45.1,28.3
+EU,sojourn,Route 66,Escort,45.0,24.4
 EU,sojourn,Rialto,Escort,44.9,25.2
 EU,sojourn,Watchpoint: Gibraltar,Escort,44.0,13.5
-ASIA,sigma,Circuit Royal,Escort,62.4,42.9
-ASIA,sigma,Midtown,Hybrid,59.5,28.5
-ASIA,sigma,Junkertown,Escort,58.7,27.1
-ASIA,sigma,Ilios,Control,58.5,6.4
-ASIA,sigma,Busan,Control,57.2,11.5
+ASIA,sigma,Circuit Royal,Escort,63.6,43.4
+ASIA,sigma,Midtown,Hybrid,60.7,29.0
+ASIA,sigma,Junkertown,Escort,58.0,26.7
+ASIA,sigma,Ilios,Control,57.9,6.5
+ASIA,sigma,Busan,Control,57.8,11.6
 ASIA,sigma,Aatlis,Flashpoint,56.0,9.1
 ASIA,sigma,Eichenwalde,Hybrid,55.8,15.8
 ASIA,sigma,Havana,Escort,55.6,40.5
 ASIA,sigma,Nepal,Control,55.5,14.9
-ASIA,sigma,Numbani,Hybrid,54.0,9.1
+ASIA,sigma,Blizzard World,Hybrid,54.3,18.6
 ASIA,sigma,Route 66,Escort,53.6,16.8
-ASIA,sigma,Blizzard World,Hybrid,53.5,19.1
 ASIA,sigma,King's Row,Hybrid,53.4,16.3
+ASIA,sigma,Numbani,Hybrid,53.2,9.3
 ASIA,sigma,Suravasa,Flashpoint,53.0,8.0
-ASIA,sigma,Runasapi,Push,52.7,9.5
-ASIA,sigma,New Queen Street,Push,52.5,9.3
 ASIA,sigma,Oasis,Control,52.5,6.7
+ASIA,sigma,New Queen Street,Push,52.5,9.3
+ASIA,sigma,Runasapi,Push,51.7,9.5
+ASIA,sigma,Colosseo,Push,51.4,11.0
+ASIA,sigma,Hollywood,Hybrid,50.7,17.3
 ASIA,sigma,Shambali Monastery,Escort,49.5,18.3
-ASIA,sigma,Hollywood,Hybrid,49.4,17.1
 ASIA,sigma,Rialto,Escort,49.0,13.6
-ASIA,sigma,Colosseo,Push,48.7,10.5
 ASIA,sigma,New Junk City,Flashpoint,48.2,7.9
-ASIA,sigma,Samoa,Control,47.8,9.8
+ASIA,sigma,Samoa,Control,47.7,9.7
 ASIA,sigma,Paraíso,Hybrid,47.2,12.7
-ASIA,sigma,Lijiang Tower,Control,46.6,8.8
-ASIA,sigma,Dorado,Escort,45.6,10.1
+ASIA,sigma,Dorado,Escort,45.8,10.1
+ASIA,sigma,Lijiang Tower,Control,45.5,8.7
 ASIA,sigma,Esperança,Push,43.5,7.8
 ASIA,sigma,Watchpoint: Gibraltar,Escort,34.4,6.5
-US,sigma,Circuit Royal,Escort,59.5,33.4
-US,sigma,Dorado,Escort,58.5,9.6
+US,sigma,Circuit Royal,Escort,60.2,33.3
+US,sigma,Dorado,Escort,57.9,9.6
 US,sigma,Oasis,Control,56.2,7.3
 US,sigma,Busan,Control,54.8,10.5
 US,sigma,Blizzard World,Hybrid,54.1,14.0
@@ -708,8 +708,8 @@ US,sigma,Nepal,Control,53.0,12.5
 US,sigma,Shambali Monastery,Escort,53.0,18.6
 US,sigma,Hollywood,Hybrid,52.1,13.1
 US,sigma,Havana,Escort,51.1,29.9
-US,sigma,Rialto,Escort,50.5,15.2
 US,sigma,Suravasa,Flashpoint,50.5,8.4
+US,sigma,Rialto,Escort,50.5,15.2
 US,sigma,New Junk City,Flashpoint,50.3,6.3
 US,sigma,Eichenwalde,Hybrid,50.1,15.0
 US,sigma,Samoa,Control,50.1,9.4
@@ -719,7 +719,7 @@ US,sigma,Paraíso,Hybrid,48.2,16.6
 US,sigma,Runasapi,Push,47.7,7.9
 US,sigma,Route 66,Escort,47.2,16.7
 US,sigma,New Queen Street,Push,47.0,7.7
-US,sigma,Junkertown,Escort,46.8,26.9
+US,sigma,Junkertown,Escort,46.9,28.1
 US,sigma,Esperança,Push,46.2,8.2
 US,sigma,King's Row,Hybrid,45.2,15.0
 US,sigma,Watchpoint: Gibraltar,Escort,44.1,7.0
@@ -734,18 +734,18 @@ EU,sigma,Samoa,Control,54.3,9.9
 EU,sigma,Dorado,Escort,53.3,5.6
 EU,sigma,Hollywood,Hybrid,53.1,13.4
 EU,sigma,Midtown,Hybrid,52.9,18.5
-EU,sigma,Nepal,Control,51.8,10.0
 EU,sigma,Paraíso,Hybrid,51.8,10.9
-EU,sigma,King's Row,Hybrid,51.6,12.9
+EU,sigma,Nepal,Control,51.8,10.0
 EU,sigma,Runasapi,Push,51.5,7.4
 EU,sigma,Colosseo,Push,50.9,7.1
+EU,sigma,King's Row,Hybrid,50.4,12.9
 EU,sigma,Shambali Monastery,Escort,50.0,13.9
+EU,sigma,Route 66,Escort,49.8,14.3
 EU,sigma,Esperança,Push,49.4,5.7
+EU,sigma,Eichenwalde,Hybrid,49.2,11.2
 EU,sigma,New Queen Street,Push,49.2,7.9
-EU,sigma,Route 66,Escort,48.9,14.0
 EU,sigma,Ilios,Control,48.6,4.2
 EU,sigma,Numbani,Hybrid,48.4,9.1
-EU,sigma,Eichenwalde,Hybrid,47.9,11.2
 EU,sigma,Watchpoint: Gibraltar,Escort,47.6,5.5
 EU,sigma,Blizzard World,Hybrid,46.6,12.8
 EU,sigma,Oasis,Control,46.5,5.0
@@ -759,35 +759,35 @@ ASIA,genji,Rialto,Escort,56.9,8.6
 ASIA,genji,New Junk City,Flashpoint,55.7,10.4
 ASIA,genji,Aatlis,Flashpoint,55.0,9.9
 ASIA,genji,Shambali Monastery,Escort,53.9,8.2
-ASIA,genji,Midtown,Hybrid,52.6,8.7
 ASIA,genji,Havana,Escort,51.4,18.4
 ASIA,genji,New Queen Street,Push,50.9,6.8
-ASIA,genji,Lijiang Tower,Control,50.2,7.4
-ASIA,genji,Ilios,Control,49.6,8.2
+ASIA,genji,Colosseo,Push,50.8,9.4
+ASIA,genji,Midtown,Hybrid,50.1,8.6
+ASIA,genji,Lijiang Tower,Control,50.1,7.6
+ASIA,genji,Ilios,Control,49.1,8.0
 ASIA,genji,Suravasa,Flashpoint,48.4,8.4
+ASIA,genji,Busan,Control,48.1,10.2
+ASIA,genji,Samoa,Control,47.8,7.6
 ASIA,genji,Eichenwalde,Hybrid,47.5,10.4
-ASIA,genji,Busan,Control,47.3,9.8
-ASIA,genji,Samoa,Control,47.1,7.5
 ASIA,genji,Esperança,Push,46.9,7.7
-ASIA,genji,Junkertown,Escort,46.9,13.8
-ASIA,genji,Colosseo,Push,45.8,8.6
+ASIA,genji,Junkertown,Escort,46.0,13.4
 ASIA,genji,Nepal,Control,45.4,9.1
 ASIA,genji,Route 66,Escort,45.2,12.1
 ASIA,genji,Paraíso,Hybrid,45.0,10.7
-ASIA,genji,Runasapi,Push,44.3,6.6
+ASIA,genji,Runasapi,Push,44.5,6.7
+ASIA,genji,Blizzard World,Hybrid,43.8,9.9
 ASIA,genji,King's Row,Hybrid,43.7,12.5
-ASIA,genji,Blizzard World,Hybrid,42.6,9.8
-ASIA,genji,Circuit Royal,Escort,42.6,11.5
+ASIA,genji,Circuit Royal,Escort,42.3,11.3
 ASIA,genji,Oasis,Control,41.0,7.7
-ASIA,genji,Dorado,Escort,40.1,11.8
-ASIA,genji,Numbani,Hybrid,40.0,8.8
-ASIA,genji,Hollywood,Hybrid,39.6,12.0
+ASIA,genji,Numbani,Hybrid,40.2,9.1
 ASIA,genji,Watchpoint: Gibraltar,Escort,39.6,12.3
+ASIA,genji,Hollywood,Hybrid,39.0,11.7
+ASIA,genji,Dorado,Escort,38.5,11.0
 US,genji,Paraíso,Hybrid,68.2,8.6
 US,genji,Busan,Control,58.0,9.4
 US,genji,Numbani,Hybrid,57.2,9.2
 US,genji,Havana,Escort,54.6,12.4
-US,genji,Circuit Royal,Escort,52.4,9.5
+US,genji,Circuit Royal,Escort,52.7,9.5
 US,genji,Esperança,Push,50.3,7.8
 US,genji,Hollywood,Hybrid,49.9,10.5
 US,genji,Oasis,Control,49.8,8.7
@@ -800,8 +800,8 @@ US,genji,Eichenwalde,Hybrid,46.8,9.9
 US,genji,Nepal,Control,46.7,9.2
 US,genji,Rialto,Escort,46.6,10.0
 US,genji,Midtown,Hybrid,46.5,8.7
-US,genji,Dorado,Escort,45.9,10.1
 US,genji,Ilios,Control,45.5,10.0
+US,genji,Dorado,Escort,45.1,10.0
 US,genji,Colosseo,Push,44.6,9.2
 US,genji,Runasapi,Push,44.5,7.2
 US,genji,Shambali Monastery,Escort,42.7,9.6
@@ -810,21 +810,21 @@ US,genji,Aatlis,Flashpoint,41.6,10.9
 US,genji,Route 66,Escort,41.2,10.7
 US,genji,Samoa,Control,38.8,7.3
 US,genji,New Junk City,Flashpoint,38.4,10.8
-US,genji,Junkertown,Escort,28.2,11.8
+US,genji,Junkertown,Escort,34.4,11.8
 EU,genji,Havana,Escort,59.9,13.9
 EU,genji,Oasis,Control,53.1,11.5
 EU,genji,Esperança,Push,52.7,11.7
 EU,genji,Busan,Control,50.1,11.6
+EU,genji,King's Row,Hybrid,49.7,13.6
 EU,genji,Colosseo,Push,49.1,11.3
-EU,genji,King's Row,Hybrid,48.6,13.6
-EU,genji,Eichenwalde,Hybrid,48.5,12.7
 EU,genji,Runasapi,Push,48.5,10.5
 EU,genji,Samoa,Control,48.0,9.6
 EU,genji,Lijiang Tower,Control,47.5,11.3
 EU,genji,Shambali Monastery,Escort,47.4,10.4
 EU,genji,Circuit Royal,Escort,47.3,9.7
-EU,genji,Watchpoint: Gibraltar,Escort,46.2,13.1
+EU,genji,Eichenwalde,Hybrid,47.1,12.9
 EU,genji,Numbani,Hybrid,46.2,11.2
+EU,genji,Watchpoint: Gibraltar,Escort,46.2,13.1
 EU,genji,Hollywood,Hybrid,46.2,11.8
 EU,genji,Junkertown,Escort,46.0,13.1
 EU,genji,Nepal,Control,45.8,10.3
@@ -833,55 +833,55 @@ EU,genji,New Queen Street,Push,45.1,10.0
 EU,genji,Dorado,Escort,45.0,13.4
 EU,genji,Ilios,Control,44.4,11.3
 EU,genji,Rialto,Escort,44.2,10.4
-EU,genji,Route 66,Escort,44.0,11.7
+EU,genji,Route 66,Escort,44.1,11.8
 EU,genji,Blizzard World,Hybrid,43.5,12.2
 EU,genji,Suravasa,Flashpoint,41.5,12.1
 EU,genji,New Junk City,Flashpoint,40.5,12.8
 EU,genji,Midtown,Hybrid,35.2,9.5
 EU,genji,Paraíso,Hybrid,34.0,11.5
-ASIA,ashe,Blizzard World,Hybrid,65.7,19.9
-ASIA,ashe,Dorado,Escort,65.5,27.8
-ASIA,ashe,Hollywood,Hybrid,63.7,18.8
+ASIA,ashe,Blizzard World,Hybrid,65.7,19.0
 ASIA,ashe,Aatlis,Flashpoint,63.2,1.5
+ASIA,ashe,Dorado,Escort,62.8,27.2
+ASIA,ashe,Hollywood,Hybrid,62.6,18.3
 ASIA,ashe,Suravasa,Flashpoint,60.7,4.2
-ASIA,ashe,Samoa,Control,58.9,6.6
-ASIA,ashe,Runasapi,Push,57.9,4.5
+ASIA,ashe,Samoa,Control,58.0,6.3
 ASIA,ashe,Nepal,Control,57.8,6.6
+ASIA,ashe,Numbani,Hybrid,57.6,26.4
+ASIA,ashe,Runasapi,Push,56.7,4.3
 ASIA,ashe,Havana,Escort,56.6,11.5
-ASIA,ashe,Numbani,Hybrid,56.6,27.3
+ASIA,ashe,Ilios,Control,55.8,9.5
 ASIA,ashe,Watchpoint: Gibraltar,Escort,55.2,28.6
-ASIA,ashe,Circuit Royal,Escort,55.1,10.6
 ASIA,ashe,Paraíso,Hybrid,55.1,22.1
-ASIA,ashe,Ilios,Control,55.0,9.5
-ASIA,ashe,Junkertown,Escort,54.7,16.1
-ASIA,ashe,Lijiang Tower,Control,54.5,3.7
-ASIA,ashe,Colosseo,Push,54.3,10.1
 ASIA,ashe,Route 66,Escort,53.9,23.9
+ASIA,ashe,Lijiang Tower,Control,53.9,3.6
 ASIA,ashe,New Junk City,Flashpoint,53.9,1.6
+ASIA,ashe,Junkertown,Escort,53.5,16.2
+ASIA,ashe,Colosseo,Push,53.4,9.9
 ASIA,ashe,Oasis,Control,53.2,3.3
 ASIA,ashe,Rialto,Escort,52.5,17.6
-ASIA,ashe,Busan,Control,52.1,8.5
+ASIA,ashe,Busan,Control,51.8,8.0
+ASIA,ashe,Circuit Royal,Escort,51.8,10.6
 ASIA,ashe,New Queen Street,Push,51.2,6.9
 ASIA,ashe,Shambali Monastery,Escort,49.8,15.0
-ASIA,ashe,Midtown,Hybrid,49.2,17.0
 ASIA,ashe,King's Row,Hybrid,49.2,14.9
+ASIA,ashe,Midtown,Hybrid,49.2,17.0
 ASIA,ashe,Esperança,Push,47.4,7.2
 ASIA,ashe,Eichenwalde,Hybrid,44.6,11.4
 US,ashe,Rialto,Escort,59.5,17.2
 US,ashe,Busan,Control,59.3,9.4
+US,ashe,Dorado,Escort,57.2,20.1
 US,ashe,Samoa,Control,57.0,9.3
 US,ashe,Watchpoint: Gibraltar,Escort,56.8,22.0
-US,ashe,Dorado,Escort,56.0,20.7
 US,ashe,Ilios,Control,55.5,9.8
 US,ashe,Colosseo,Push,54.8,9.0
 US,ashe,Blizzard World,Hybrid,52.8,14.4
+US,ashe,Junkertown,Escort,52.5,19.0
 US,ashe,Paraíso,Hybrid,52.5,23.4
-US,ashe,Junkertown,Escort,51.9,19.0
 US,ashe,Lijiang Tower,Control,51.5,4.3
 US,ashe,Suravasa,Flashpoint,50.5,5.7
 US,ashe,Havana,Escort,50.4,22.9
 US,ashe,Esperança,Push,49.8,7.9
-US,ashe,Circuit Royal,Escort,49.6,18.7
+US,ashe,Circuit Royal,Escort,49.6,18.9
 US,ashe,King's Row,Hybrid,49.2,11.4
 US,ashe,Oasis,Control,48.9,4.4
 US,ashe,Nepal,Control,48.7,9.4
@@ -905,53 +905,53 @@ EU,ashe,Havana,Escort,55.1,18.0
 EU,ashe,Samoa,Control,55.1,8.4
 EU,ashe,Oasis,Control,54.7,6.3
 EU,ashe,Midtown,Hybrid,54.6,15.1
-EU,ashe,Ilios,Control,53.3,8.9
 EU,ashe,Colosseo,Push,53.3,8.8
+EU,ashe,Ilios,Control,53.3,8.9
 EU,ashe,Shambali Monastery,Escort,52.6,12.5
 EU,ashe,Busan,Control,51.9,7.9
 EU,ashe,Suravasa,Flashpoint,51.5,7.2
 EU,ashe,Watchpoint: Gibraltar,Escort,51.4,23.1
 EU,ashe,Runasapi,Push,50.7,5.6
-EU,ashe,King's Row,Hybrid,50.6,11.2
 EU,ashe,Esperança,Push,50.6,7.9
-EU,ashe,Route 66,Escort,50.2,16.7
+EU,ashe,King's Row,Hybrid,50.3,10.9
+EU,ashe,Route 66,Escort,50.2,16.4
 EU,ashe,New Queen Street,Push,50.0,7.6
 EU,ashe,Aatlis,Flashpoint,49.8,2.7
 EU,ashe,Hollywood,Hybrid,49.4,15.6
-EU,ashe,Eichenwalde,Hybrid,48.2,9.3
 EU,ashe,New Junk City,Flashpoint,48.0,3.2
 EU,ashe,Paraíso,Hybrid,47.6,18.7
 EU,ashe,Blizzard World,Hybrid,47.3,14.1
+EU,ashe,Eichenwalde,Hybrid,47.3,8.9
 EU,ashe,Lijiang Tower,Control,45.5,5.3
-ASIA,anran,Junkertown,Escort,66.0,3.3
+ASIA,anran,Junkertown,Escort,66.0,3.2
 ASIA,anran,Aatlis,Flashpoint,62.2,7.3
 ASIA,anran,Route 66,Escort,59.6,3.6
-ASIA,anran,Busan,Control,57.6,4.1
+ASIA,anran,Busan,Control,57.8,3.9
 ASIA,anran,King's Row,Hybrid,57.1,4.1
-ASIA,anran,Midtown,Hybrid,53.8,6.4
+ASIA,anran,Dorado,Escort,55.0,3.3
+ASIA,anran,Midtown,Hybrid,53.8,6.0
 ASIA,anran,Oasis,Control,53.1,4.6
-ASIA,anran,Runasapi,Push,51.9,4.7
 ASIA,anran,Nepal,Control,50.2,4.0
-ASIA,anran,Dorado,Escort,49.9,2.9
+ASIA,anran,Runasapi,Push,49.8,4.6
 ASIA,anran,Rialto,Escort,49.8,3.6
-ASIA,anran,Colosseo,Push,49.4,4.6
-ASIA,anran,Circuit Royal,Escort,47.9,1.2
+ASIA,anran,Colosseo,Push,49.0,4.3
+ASIA,anran,Circuit Royal,Escort,47.9,1.1
 ASIA,anran,New Junk City,Flashpoint,47.8,7.5
+ASIA,anran,Blizzard World,Hybrid,47.8,3.2
 ASIA,anran,Eichenwalde,Hybrid,47.3,5.3
-ASIA,anran,Numbani,Hybrid,43.4,2.4
-ASIA,anran,Blizzard World,Hybrid,43.2,3.1
-ASIA,anran,Ilios,Control,42.5,4.6
-ASIA,anran,Hollywood,Hybrid,41.8,4.1
-ASIA,anran,Samoa,Control,41.7,5.5
+ASIA,anran,Numbani,Hybrid,43.4,2.3
+ASIA,anran,Ilios,Control,42.4,4.3
+ASIA,anran,Samoa,Control,42.1,5.2
 ASIA,anran,Shambali Monastery,Escort,41.7,6.1
-ASIA,anran,Lijiang Tower,Control,40.9,3.8
-ASIA,anran,Havana,Escort,39.1,4.9
+ASIA,anran,Lijiang Tower,Control,41.4,3.6
+ASIA,anran,Hollywood,Hybrid,40.7,4.1
 ASIA,anran,Watchpoint: Gibraltar,Escort,39.1,2.9
+ASIA,anran,Havana,Escort,39.1,4.9
 ASIA,anran,Esperança,Push,37.1,3.6
 ASIA,anran,Suravasa,Flashpoint,36.4,4.2
 ASIA,anran,New Queen Street,Push,19.6,3.8
 ASIA,anran,Paraíso,Hybrid,0.0,2.9
-US,anran,Dorado,Escort,62.3,5.4
+US,anran,Dorado,Escort,60.4,5.2
 US,anran,New Junk City,Flashpoint,56.9,10.0
 US,anran,Rialto,Escort,56.5,6.0
 US,anran,King's Row,Hybrid,55.7,6.9
@@ -963,9 +963,9 @@ US,anran,Samoa,Control,50.1,6.8
 US,anran,Numbani,Hybrid,50.0,7.0
 US,anran,Runasapi,Push,49.1,7.1
 US,anran,Lijiang Tower,Control,48.8,6.1
-US,anran,Circuit Royal,Escort,48.5,3.5
 US,anran,Eichenwalde,Hybrid,48.1,7.4
 US,anran,Suravasa,Flashpoint,47.9,6.9
+US,anran,Circuit Royal,Escort,47.8,3.4
 US,anran,Oasis,Control,45.5,7.4
 US,anran,Watchpoint: Gibraltar,Escort,45.3,6.2
 US,anran,Havana,Escort,45.2,4.2
@@ -978,14 +978,14 @@ US,anran,Nepal,Control,38.9,6.7
 US,anran,Busan,Control,37.8,5.5
 US,anran,Paraíso,Hybrid,31.9,5.3
 US,anran,Blizzard World,Hybrid,28.0,5.0
-US,anran,Junkertown,Escort,25.9,3.9
+US,anran,Junkertown,Escort,24.0,3.9
 EU,anran,Samoa,Control,55.1,5.1
 EU,anran,Colosseo,Push,54.2,4.5
-EU,anran,Route 66,Escort,53.5,4.2
 EU,anran,Midtown,Hybrid,53.1,4.6
 EU,anran,Shambali Monastery,Escort,52.9,4.6
 EU,anran,Watchpoint: Gibraltar,Escort,52.0,4.3
 EU,anran,Aatlis,Flashpoint,51.9,6.9
+EU,anran,Route 66,Escort,51.3,4.3
 EU,anran,New Queen Street,Push,49.1,4.3
 EU,anran,Rialto,Escort,48.8,3.6
 EU,anran,Ilios,Control,47.9,4.5
@@ -993,9 +993,9 @@ EU,anran,Busan,Control,47.5,3.7
 EU,anran,Suravasa,Flashpoint,46.9,5.1
 EU,anran,Esperança,Push,46.2,5.8
 EU,anran,New Junk City,Flashpoint,46.0,4.7
-EU,anran,King's Row,Hybrid,45.3,4.5
 EU,anran,Nepal,Control,45.2,5.3
 EU,anran,Runasapi,Push,44.8,5.4
+EU,anran,King's Row,Hybrid,44.8,4.4
 EU,anran,Oasis,Control,44.6,5.5
 EU,anran,Lijiang Tower,Control,43.6,4.8
 EU,anran,Hollywood,Hybrid,41.1,4.4
@@ -1004,56 +1004,56 @@ EU,anran,Dorado,Escort,40.1,3.1
 EU,anran,Numbani,Hybrid,37.9,4.3
 EU,anran,Circuit Royal,Escort,37.6,2.0
 EU,anran,Havana,Escort,37.0,2.0
+EU,anran,Eichenwalde,Hybrid,35.5,4.8
 EU,anran,Paraíso,Hybrid,34.3,5.2
-EU,anran,Eichenwalde,Hybrid,34.0,5.0
 EU,anran,Junkertown,Escort,32.1,4.0
 ASIA,wuyang,Paraíso,Hybrid,69.5,21.5
 ASIA,wuyang,Esperança,Push,59.0,21.0
-ASIA,wuyang,Colosseo,Push,56.0,21.8
-ASIA,wuyang,Busan,Control,55.8,20.9
-ASIA,wuyang,Ilios,Control,54.7,14.5
-ASIA,wuyang,Dorado,Escort,53.9,14.8
-ASIA,wuyang,Midtown,Hybrid,53.1,29.0
+ASIA,wuyang,Colosseo,Push,56.5,21.0
+ASIA,wuyang,Dorado,Escort,55.7,14.8
+ASIA,wuyang,Busan,Control,55.1,21.1
+ASIA,wuyang,Ilios,Control,53.8,14.6
+ASIA,wuyang,Midtown,Hybrid,52.9,27.9
 ASIA,wuyang,Eichenwalde,Hybrid,52.8,22.6
 ASIA,wuyang,Oasis,Control,52.7,22.4
-ASIA,wuyang,Numbani,Hybrid,52.6,17.6
 ASIA,wuyang,Aatlis,Flashpoint,52.3,23.3
-ASIA,wuyang,Junkertown,Escort,51.9,17.3
-ASIA,wuyang,Lijiang Tower,Control,51.8,23.5
+ASIA,wuyang,Lijiang Tower,Control,52.0,23.6
+ASIA,wuyang,Numbani,Hybrid,51.9,17.1
 ASIA,wuyang,Watchpoint: Gibraltar,Escort,51.5,15.8
-ASIA,wuyang,Hollywood,Hybrid,51.1,23.2
+ASIA,wuyang,Junkertown,Escort,50.9,17.6
 ASIA,wuyang,Route 66,Escort,50.5,23.5
+ASIA,wuyang,Samoa,Control,50.1,23.4
+ASIA,wuyang,Hollywood,Hybrid,50.1,22.8
 ASIA,wuyang,Rialto,Escort,49.9,19.8
 ASIA,wuyang,King's Row,Hybrid,49.8,23.6
-ASIA,wuyang,Samoa,Control,49.6,23.9
 ASIA,wuyang,Nepal,Control,49.1,25.2
-ASIA,wuyang,Circuit Royal,Escort,49.1,21.2
-ASIA,wuyang,Havana,Escort,48.6,20.5
+ASIA,wuyang,Circuit Royal,Escort,48.7,21.1
 ASIA,wuyang,New Junk City,Flashpoint,48.6,24.3
-ASIA,wuyang,Runasapi,Push,46.8,26.4
+ASIA,wuyang,Havana,Escort,48.6,20.5
+ASIA,wuyang,Runasapi,Push,47.8,26.0
 ASIA,wuyang,Suravasa,Flashpoint,46.5,23.9
 ASIA,wuyang,New Queen Street,Push,45.9,23.8
 ASIA,wuyang,Shambali Monastery,Escort,44.8,21.2
-ASIA,wuyang,Blizzard World,Hybrid,33.7,25.1
+ASIA,wuyang,Blizzard World,Hybrid,36.1,25.0
 US,wuyang,Shambali Monastery,Escort,57.9,11.8
 US,wuyang,Runasapi,Push,56.2,9.2
 US,wuyang,Aatlis,Flashpoint,55.2,9.8
+US,wuyang,Dorado,Escort,54.6,10.4
 US,wuyang,Numbani,Hybrid,53.6,9.0
-US,wuyang,Dorado,Escort,52.5,10.1
 US,wuyang,Esperança,Push,52.4,8.9
 US,wuyang,Nepal,Control,52.2,8.6
 US,wuyang,Paraíso,Hybrid,51.9,11.8
-US,wuyang,Havana,Escort,51.6,13.9
 US,wuyang,Eichenwalde,Hybrid,51.6,11.2
-US,wuyang,Samoa,Control,50.5,11.7
+US,wuyang,Havana,Escort,51.6,13.9
 US,wuyang,Blizzard World,Hybrid,50.5,13.6
+US,wuyang,Samoa,Control,50.5,11.7
 US,wuyang,King's Row,Hybrid,50.4,12.4
 US,wuyang,Suravasa,Flashpoint,49.8,9.7
-US,wuyang,Midtown,Hybrid,49.3,15.0
 US,wuyang,Busan,Control,49.3,12.6
+US,wuyang,Midtown,Hybrid,49.3,15.0
 US,wuyang,Route 66,Escort,48.9,12.2
 US,wuyang,Rialto,Escort,48.2,11.9
-US,wuyang,Circuit Royal,Escort,48.0,13.8
+US,wuyang,Circuit Royal,Escort,47.8,13.7
 US,wuyang,Hollywood,Hybrid,47.7,11.3
 US,wuyang,New Queen Street,Push,47.7,13.2
 US,wuyang,Lijiang Tower,Control,47.2,9.5
@@ -1062,8 +1062,8 @@ US,wuyang,New Junk City,Flashpoint,44.3,8.5
 US,wuyang,Oasis,Control,43.2,9.7
 US,wuyang,Watchpoint: Gibraltar,Escort,43.0,8.9
 US,wuyang,Colosseo,Push,41.2,9.9
-US,wuyang,Junkertown,Escort,34.4,9.8
-EU,wuyang,Route 66,Escort,59.6,12.2
+US,wuyang,Junkertown,Escort,34.1,10.9
+EU,wuyang,Route 66,Escort,58.2,12.5
 EU,wuyang,Dorado,Escort,57.8,11.1
 EU,wuyang,Havana,Escort,56.2,14.7
 EU,wuyang,Suravasa,Flashpoint,55.7,11.3
@@ -1074,7 +1074,7 @@ EU,wuyang,Samoa,Control,54.2,14.0
 EU,wuyang,Esperança,Push,54.1,10.9
 EU,wuyang,Rialto,Escort,53.8,14.6
 EU,wuyang,Runasapi,Push,53.0,11.5
-EU,wuyang,King's Row,Hybrid,51.9,14.8
+EU,wuyang,King's Row,Hybrid,52.3,15.0
 EU,wuyang,Hollywood,Hybrid,51.4,12.4
 EU,wuyang,Colosseo,Push,51.2,12.8
 EU,wuyang,Lijiang Tower,Control,50.6,10.5
@@ -1082,126 +1082,42 @@ EU,wuyang,Watchpoint: Gibraltar,Escort,50.0,9.9
 EU,wuyang,Shambali Monastery,Escort,48.8,15.9
 EU,wuyang,Aatlis,Flashpoint,48.7,11.7
 EU,wuyang,Midtown,Hybrid,48.1,14.4
-EU,wuyang,Oasis,Control,47.5,10.6
 EU,wuyang,New Queen Street,Push,47.5,11.7
+EU,wuyang,Oasis,Control,47.5,10.6
 EU,wuyang,Circuit Royal,Escort,47.2,12.1
 EU,wuyang,Junkertown,Escort,47.1,13.0
 EU,wuyang,Ilios,Control,45.9,7.6
 EU,wuyang,New Junk City,Flashpoint,45.5,12.9
+EU,wuyang,Eichenwalde,Hybrid,45.3,12.4
 EU,wuyang,Blizzard World,Hybrid,44.1,12.7
-EU,wuyang,Eichenwalde,Hybrid,44.0,12.2
 EU,wuyang,Paraíso,Hybrid,24.6,11.5
-ASIA,domina,Paraíso,Hybrid,68.3,11.9
-ASIA,domina,Blizzard World,Hybrid,66.2,18.6
-ASIA,domina,Havana,Escort,65.0,27.2
-ASIA,domina,Route 66,Escort,63.8,16.2
-ASIA,domina,Shambali Monastery,Escort,63.1,25.5
-ASIA,domina,Colosseo,Push,61.1,23.7
-ASIA,domina,Rialto,Escort,61.0,17.6
-ASIA,domina,Suravasa,Flashpoint,60.6,18.0
-ASIA,domina,Runasapi,Push,58.1,21.7
-ASIA,domina,King's Row,Hybrid,58.1,19.2
-ASIA,domina,Hollywood,Hybrid,58.0,18.2
-ASIA,domina,Samoa,Control,56.8,25.6
-ASIA,domina,New Junk City,Flashpoint,55.1,25.1
-ASIA,domina,New Queen Street,Push,54.2,20.7
-ASIA,domina,Esperança,Push,53.6,17.6
-ASIA,domina,Watchpoint: Gibraltar,Escort,52.8,11.6
-ASIA,domina,Nepal,Control,52.1,25.4
-ASIA,domina,Dorado,Escort,52.1,10.1
-ASIA,domina,Junkertown,Escort,51.6,13.2
-ASIA,domina,Lijiang Tower,Control,51.5,19.6
-ASIA,domina,Busan,Control,51.2,21.3
-ASIA,domina,Aatlis,Flashpoint,51.0,21.3
-ASIA,domina,Oasis,Control,50.2,16.1
-ASIA,domina,Midtown,Hybrid,50.0,23.1
-ASIA,domina,Circuit Royal,Escort,48.2,24.1
-ASIA,domina,Ilios,Control,47.7,12.3
-ASIA,domina,Numbani,Hybrid,39.3,15.8
-ASIA,domina,Eichenwalde,Hybrid,33.6,19.0
-US,domina,Havana,Escort,65.0,30.4
-US,domina,Samoa,Control,60.1,17.8
-US,domina,Hollywood,Hybrid,58.7,16.9
-US,domina,Nepal,Control,58.0,19.8
-US,domina,Esperança,Push,57.9,16.2
-US,domina,Eichenwalde,Hybrid,57.2,19.5
-US,domina,Circuit Royal,Escort,57.1,24.9
-US,domina,Shambali Monastery,Escort,57.1,24.0
-US,domina,King's Row,Hybrid,56.8,19.5
-US,domina,Midtown,Hybrid,56.6,27.4
-US,domina,Blizzard World,Hybrid,56.6,21.6
-US,domina,Lijiang Tower,Control,56.5,15.6
-US,domina,Rialto,Escort,55.6,19.9
-US,domina,Runasapi,Push,55.6,21.1
-US,domina,New Queen Street,Push,55.3,18.4
-US,domina,Paraíso,Hybrid,55.1,12.6
-US,domina,Numbani,Hybrid,54.3,13.9
-US,domina,Route 66,Escort,53.0,18.3
-US,domina,Busan,Control,52.6,17.9
-US,domina,Watchpoint: Gibraltar,Escort,52.6,11.7
-US,domina,Aatlis,Flashpoint,51.2,16.4
-US,domina,Ilios,Control,50.4,14.5
-US,domina,Oasis,Control,50.2,15.5
-US,domina,Colosseo,Push,50.0,20.7
-US,domina,New Junk City,Flashpoint,48.6,16.5
-US,domina,Suravasa,Flashpoint,45.3,18.2
-US,domina,Dorado,Escort,43.2,10.1
-US,domina,Junkertown,Escort,34.5,17.6
-EU,domina,Paraíso,Hybrid,62.6,11.1
-EU,domina,Route 66,Escort,59.3,13.0
-EU,domina,King's Row,Hybrid,56.8,19.4
-EU,domina,Blizzard World,Hybrid,56.0,19.5
-EU,domina,Nepal,Control,55.0,16.9
-EU,domina,New Queen Street,Push,54.3,17.9
-EU,domina,Suravasa,Flashpoint,54.0,18.8
-EU,domina,Eichenwalde,Hybrid,54.0,16.2
-EU,domina,New Junk City,Flashpoint,53.9,18.0
-EU,domina,Runasapi,Push,53.6,18.4
-EU,domina,Circuit Royal,Escort,52.9,21.3
-EU,domina,Hollywood,Hybrid,52.9,17.4
-EU,domina,Samoa,Control,52.9,16.1
-EU,domina,Midtown,Hybrid,52.1,20.0
-EU,domina,Lijiang Tower,Control,51.6,14.8
-EU,domina,Colosseo,Push,51.5,17.6
-EU,domina,Aatlis,Flashpoint,51.4,19.4
-EU,domina,Havana,Escort,49.6,19.0
-EU,domina,Watchpoint: Gibraltar,Escort,49.2,10.5
-EU,domina,Numbani,Hybrid,48.3,11.4
-EU,domina,Busan,Control,47.4,15.8
-EU,domina,Shambali Monastery,Escort,46.8,20.9
-EU,domina,Oasis,Control,46.3,18.0
-EU,domina,Esperança,Push,45.7,16.8
-EU,domina,Rialto,Escort,45.2,16.7
-EU,domina,Ilios,Control,44.7,10.9
-EU,domina,Junkertown,Escort,40.6,16.8
-EU,domina,Dorado,Escort,36.3,10.3
 ASIA,illari,Havana,Escort,65.7,28.2
-ASIA,illari,Blizzard World,Hybrid,62.0,25.2
-ASIA,illari,Colosseo,Push,61.8,18.8
+ASIA,illari,Colosseo,Push,60.6,19.2
+ASIA,illari,Dorado,Escort,59.9,26.0
+ASIA,illari,Blizzard World,Hybrid,59.4,25.4
 ASIA,illari,Nepal,Control,59.1,16.5
 ASIA,illari,Suravasa,Flashpoint,58.7,13.5
 ASIA,illari,Oasis,Control,58.1,16.5
-ASIA,illari,Busan,Control,57.8,17.0
 ASIA,illari,New Queen Street,Push,57.7,21.5
+ASIA,illari,Busan,Control,57.6,16.8
 ASIA,illari,Aatlis,Flashpoint,57.6,9.6
 ASIA,illari,Shambali Monastery,Escort,57.4,26.1
 ASIA,illari,Watchpoint: Gibraltar,Escort,57.4,20.5
-ASIA,illari,Lijiang Tower,Control,57.3,13.6
-ASIA,illari,Dorado,Escort,56.9,24.7
-ASIA,illari,Circuit Royal,Escort,54.5,31.7
-ASIA,illari,Junkertown,Escort,54.1,32.9
-ASIA,illari,Numbani,Hybrid,53.9,19.1
-ASIA,illari,Runasapi,Push,53.6,17.2
+ASIA,illari,Lijiang Tower,Control,56.8,13.3
+ASIA,illari,Circuit Royal,Escort,55.8,31.5
+ASIA,illari,Junkertown,Escort,55.7,32.5
+ASIA,illari,Runasapi,Push,55.2,17.0
+ASIA,illari,Numbani,Hybrid,54.9,18.9
 ASIA,illari,Rialto,Escort,53.1,25.2
 ASIA,illari,Eichenwalde,Hybrid,53.0,21.7
 ASIA,illari,Route 66,Escort,52.9,27.3
 ASIA,illari,Esperança,Push,52.5,19.0
-ASIA,illari,Ilios,Control,51.2,14.9
-ASIA,illari,Samoa,Control,50.8,16.8
-ASIA,illari,Midtown,Hybrid,50.8,21.2
-ASIA,illari,Hollywood,Hybrid,49.0,22.0
+ASIA,illari,Ilios,Control,52.0,15.2
+ASIA,illari,Samoa,Control,50.4,17.1
+ASIA,illari,Midtown,Hybrid,49.5,21.5
 ASIA,illari,Paraíso,Hybrid,48.5,26.5
 ASIA,illari,New Junk City,Flashpoint,48.4,9.9
+ASIA,illari,Hollywood,Hybrid,47.7,22.2
 ASIA,illari,King's Row,Hybrid,47.3,18.2
 US,illari,Watchpoint: Gibraltar,Escort,66.6,16.0
 US,illari,Paraíso,Hybrid,66.1,18.8
@@ -1209,13 +1125,13 @@ US,illari,Midtown,Hybrid,63.1,13.0
 US,illari,Shambali Monastery,Escort,62.7,16.5
 US,illari,New Queen Street,Push,62.4,9.9
 US,illari,Samoa,Control,61.7,9.6
-US,illari,Dorado,Escort,59.9,14.7
 US,illari,Ilios,Control,59.7,7.5
-US,illari,Numbani,Hybrid,59.3,14.5
+US,illari,Dorado,Escort,59.7,15.3
 US,illari,Colosseo,Push,59.3,11.5
-US,illari,Circuit Royal,Escort,58.2,21.6
+US,illari,Numbani,Hybrid,59.3,14.5
+US,illari,Junkertown,Escort,58.7,25.2
+US,illari,Circuit Royal,Escort,58.6,21.2
 US,illari,Hollywood,Hybrid,57.5,12.6
-US,illari,Junkertown,Escort,56.8,24.9
 US,illari,Rialto,Escort,56.5,15.9
 US,illari,Aatlis,Flashpoint,56.1,5.5
 US,illari,Runasapi,Push,55.5,9.5
@@ -1236,66 +1152,150 @@ EU,illari,Dorado,Escort,60.1,16.7
 EU,illari,Esperança,Push,60.1,13.1
 EU,illari,Circuit Royal,Escort,59.7,28.6
 EU,illari,Oasis,Control,59.6,12.5
-EU,illari,Route 66,Escort,59.4,16.3
 EU,illari,Numbani,Hybrid,59.3,15.3
 EU,illari,Midtown,Hybrid,58.1,17.8
+EU,illari,Route 66,Escort,58.0,17.1
+EU,illari,King's Row,Hybrid,57.9,13.9
 EU,illari,Suravasa,Flashpoint,57.8,10.7
 EU,illari,Shambali Monastery,Escort,57.7,19.6
-EU,illari,King's Row,Hybrid,57.4,13.5
 EU,illari,Watchpoint: Gibraltar,Escort,57.2,17.4
 EU,illari,Samoa,Control,57.0,13.8
 EU,illari,Busan,Control,56.7,14.3
 EU,illari,New Junk City,Flashpoint,56.0,9.5
 EU,illari,New Queen Street,Push,55.9,15.5
-EU,illari,Eichenwalde,Hybrid,55.3,16.7
+EU,illari,Eichenwalde,Hybrid,55.2,17.0
 EU,illari,Lijiang Tower,Control,55.1,11.4
 EU,illari,Havana,Escort,54.6,25.5
 EU,illari,Ilios,Control,53.3,12.5
-EU,illari,Colosseo,Push,53.1,14.4
 EU,illari,Runasapi,Push,53.1,15.2
+EU,illari,Colosseo,Push,53.1,14.4
 EU,illari,Rialto,Escort,52.9,18.3
 EU,illari,Hollywood,Hybrid,50.9,18.3
 EU,illari,Blizzard World,Hybrid,50.2,18.0
 EU,illari,Nepal,Control,50.0,12.3
 EU,illari,Junkertown,Escort,48.7,26.3
 EU,illari,Paraíso,Hybrid,39.6,11.4
+ASIA,domina,Paraíso,Hybrid,68.3,11.9
+ASIA,domina,Blizzard World,Hybrid,66.2,17.5
+ASIA,domina,Havana,Escort,65.0,27.2
+ASIA,domina,Route 66,Escort,63.8,16.2
+ASIA,domina,Shambali Monastery,Escort,63.1,25.5
+ASIA,domina,Rialto,Escort,61.0,17.6
+ASIA,domina,Suravasa,Flashpoint,60.6,18.0
+ASIA,domina,Colosseo,Push,60.0,22.4
+ASIA,domina,King's Row,Hybrid,58.1,19.2
+ASIA,domina,Runasapi,Push,58.1,21.6
+ASIA,domina,Samoa,Control,56.7,24.1
+ASIA,domina,Hollywood,Hybrid,56.2,17.4
+ASIA,domina,New Junk City,Flashpoint,55.1,25.1
+ASIA,domina,New Queen Street,Push,54.2,20.7
+ASIA,domina,Esperança,Push,53.6,17.6
+ASIA,domina,Junkertown,Escort,53.4,13.0
+ASIA,domina,Watchpoint: Gibraltar,Escort,52.8,11.6
+ASIA,domina,Lijiang Tower,Control,52.3,19.1
+ASIA,domina,Nepal,Control,52.1,25.4
+ASIA,domina,Aatlis,Flashpoint,51.0,21.3
+ASIA,domina,Busan,Control,50.9,20.8
+ASIA,domina,Dorado,Escort,50.6,9.3
+ASIA,domina,Oasis,Control,50.2,16.1
+ASIA,domina,Midtown,Hybrid,49.6,22.6
+ASIA,domina,Circuit Royal,Escort,48.1,24.1
+ASIA,domina,Ilios,Control,46.8,11.9
+ASIA,domina,Numbani,Hybrid,39.9,15.2
+ASIA,domina,Eichenwalde,Hybrid,33.6,19.0
+US,domina,Havana,Escort,65.0,30.4
+US,domina,Samoa,Control,60.1,17.8
+US,domina,Hollywood,Hybrid,58.7,16.9
+US,domina,Nepal,Control,58.0,19.8
+US,domina,Esperança,Push,57.9,16.2
+US,domina,Eichenwalde,Hybrid,57.2,19.5
+US,domina,Shambali Monastery,Escort,57.1,24.0
+US,domina,King's Row,Hybrid,56.8,19.5
+US,domina,Midtown,Hybrid,56.6,27.4
+US,domina,Blizzard World,Hybrid,56.6,21.6
+US,domina,Circuit Royal,Escort,56.5,24.5
+US,domina,Lijiang Tower,Control,56.5,15.6
+US,domina,Runasapi,Push,55.6,21.1
+US,domina,Rialto,Escort,55.6,19.9
+US,domina,New Queen Street,Push,55.3,18.4
+US,domina,Paraíso,Hybrid,55.1,12.6
+US,domina,Numbani,Hybrid,54.3,13.9
+US,domina,Route 66,Escort,53.0,18.3
+US,domina,Busan,Control,52.6,17.9
+US,domina,Watchpoint: Gibraltar,Escort,52.6,11.7
+US,domina,Aatlis,Flashpoint,51.2,16.4
+US,domina,Ilios,Control,50.4,14.5
+US,domina,Oasis,Control,50.2,15.5
+US,domina,Colosseo,Push,50.0,20.7
+US,domina,New Junk City,Flashpoint,48.6,16.5
+US,domina,Suravasa,Flashpoint,45.3,18.2
+US,domina,Dorado,Escort,44.1,10.1
+US,domina,Junkertown,Escort,36.7,18.3
+EU,domina,Paraíso,Hybrid,62.6,11.1
+EU,domina,Route 66,Escort,59.5,12.7
+EU,domina,Blizzard World,Hybrid,56.0,19.5
+EU,domina,King's Row,Hybrid,55.9,18.6
+EU,domina,Nepal,Control,55.0,16.9
+EU,domina,New Queen Street,Push,54.3,17.9
+EU,domina,Suravasa,Flashpoint,54.0,18.8
+EU,domina,New Junk City,Flashpoint,53.9,18.0
+EU,domina,Runasapi,Push,53.6,18.4
+EU,domina,Eichenwalde,Hybrid,53.3,15.7
+EU,domina,Circuit Royal,Escort,52.9,21.3
+EU,domina,Hollywood,Hybrid,52.9,17.4
+EU,domina,Samoa,Control,52.9,16.1
+EU,domina,Midtown,Hybrid,52.1,20.0
+EU,domina,Lijiang Tower,Control,51.6,14.8
+EU,domina,Colosseo,Push,51.5,17.6
+EU,domina,Aatlis,Flashpoint,51.4,19.4
+EU,domina,Havana,Escort,49.6,19.0
+EU,domina,Watchpoint: Gibraltar,Escort,49.2,10.5
+EU,domina,Numbani,Hybrid,48.3,11.4
+EU,domina,Busan,Control,47.4,15.8
+EU,domina,Shambali Monastery,Escort,46.8,20.9
+EU,domina,Oasis,Control,46.3,18.0
+EU,domina,Esperança,Push,45.7,16.8
+EU,domina,Rialto,Escort,45.2,16.7
+EU,domina,Ilios,Control,44.7,10.9
+EU,domina,Junkertown,Escort,40.6,16.8
+EU,domina,Dorado,Escort,36.3,10.3
 ASIA,reaper,Eichenwalde,Hybrid,66.5,2.9
 ASIA,reaper,New Junk City,Flashpoint,63.8,4.1
-ASIA,reaper,Blizzard World,Hybrid,60.5,4.0
-ASIA,reaper,Ilios,Control,57.5,4.1
-ASIA,reaper,Numbani,Hybrid,54.8,2.2
-ASIA,reaper,Hollywood,Hybrid,50.7,3.3
+ASIA,reaper,Ilios,Control,56.3,4.2
+ASIA,reaper,Numbani,Hybrid,54.0,2.1
+ASIA,reaper,Blizzard World,Hybrid,54.0,4.2
+ASIA,reaper,Junkertown,Escort,51.6,5.3
+ASIA,reaper,Hollywood,Hybrid,50.7,3.1
 ASIA,reaper,Aatlis,Flashpoint,49.9,6.9
 ASIA,reaper,Nepal,Control,49.8,4.0
 ASIA,reaper,Oasis,Control,49.6,3.6
-ASIA,reaper,Junkertown,Escort,47.7,5.1
 ASIA,reaper,New Queen Street,Push,47.0,3.1
+ASIA,reaper,Busan,Control,45.9,3.0
 ASIA,reaper,Suravasa,Flashpoint,45.0,4.3
-ASIA,reaper,Busan,Control,44.6,2.6
+ASIA,reaper,Runasapi,Push,43.7,2.6
 ASIA,reaper,Watchpoint: Gibraltar,Escort,43.6,3.8
-ASIA,reaper,Samoa,Control,43.5,3.4
 ASIA,reaper,Shambali Monastery,Escort,43.1,2.4
 ASIA,reaper,Havana,Escort,42.9,1.3
 ASIA,reaper,King's Row,Hybrid,42.8,3.6
-ASIA,reaper,Runasapi,Push,41.6,2.6
-ASIA,reaper,Midtown,Hybrid,40.6,1.7
-ASIA,reaper,Circuit Royal,Escort,38.7,1.4
-ASIA,reaper,Lijiang Tower,Control,37.9,4.2
-ASIA,reaper,Dorado,Escort,35.1,3.4
+ASIA,reaper,Samoa,Control,40.0,3.4
+ASIA,reaper,Circuit Royal,Escort,38.7,1.3
+ASIA,reaper,Lijiang Tower,Control,37.2,4.2
 ASIA,reaper,Esperança,Push,33.2,2.6
+ASIA,reaper,Dorado,Escort,32.7,3.1
+ASIA,reaper,Midtown,Hybrid,29.5,2.2
+ASIA,reaper,Colosseo,Push,29.4,3.3
 ASIA,reaper,Rialto,Escort,28.5,2.7
-ASIA,reaper,Colosseo,Push,27.8,3.3
 ASIA,reaper,Route 66,Escort,26.2,2.1
 ASIA,reaper,Paraíso,Hybrid,21.8,4.1
 US,reaper,Route 66,Escort,60.7,6.9
 US,reaper,Hollywood,Hybrid,56.7,6.2
-US,reaper,Blizzard World,Hybrid,56.3,5.7
 US,reaper,Ilios,Control,56.3,7.7
+US,reaper,Blizzard World,Hybrid,56.3,5.7
+US,reaper,Dorado,Escort,55.6,7.7
 US,reaper,Lijiang Tower,Control,54.7,8.9
 US,reaper,Aatlis,Flashpoint,54.5,10.8
 US,reaper,New Junk City,Flashpoint,54.0,9.4
 US,reaper,Suravasa,Flashpoint,53.8,7.8
-US,reaper,Dorado,Escort,53.8,7.4
 US,reaper,Colosseo,Push,53.5,6.3
 US,reaper,Watchpoint: Gibraltar,Escort,52.5,8.4
 US,reaper,Oasis,Control,52.1,9.0
@@ -1303,14 +1303,14 @@ US,reaper,Nepal,Control,51.3,6.5
 US,reaper,Esperança,Push,50.8,5.7
 US,reaper,Havana,Escort,50.6,2.8
 US,reaper,Samoa,Control,48.8,7.9
-US,reaper,Junkertown,Escort,47.5,4.5
 US,reaper,Numbani,Hybrid,47.1,5.4
+US,reaper,Circuit Royal,Escort,47.0,2.7
 US,reaper,King's Row,Hybrid,46.6,6.5
-US,reaper,Circuit Royal,Escort,45.9,2.7
 US,reaper,Busan,Control,45.8,7.2
 US,reaper,Midtown,Hybrid,45.6,4.6
 US,reaper,Shambali Monastery,Escort,44.5,4.6
 US,reaper,Paraíso,Hybrid,43.6,5.0
+US,reaper,Junkertown,Escort,42.7,4.6
 US,reaper,New Queen Street,Push,42.6,5.4
 US,reaper,Eichenwalde,Hybrid,41.5,7.0
 US,reaper,Runasapi,Push,41.0,7.0
@@ -1323,60 +1323,60 @@ EU,reaper,Circuit Royal,Escort,58.5,2.0
 EU,reaper,New Junk City,Flashpoint,57.0,8.0
 EU,reaper,Shambali Monastery,Escort,56.6,5.1
 EU,reaper,Junkertown,Escort,56.4,4.5
-EU,reaper,King's Row,Hybrid,54.8,5.7
+EU,reaper,King's Row,Hybrid,54.7,5.9
 EU,reaper,Colosseo,Push,54.6,5.8
 EU,reaper,Rialto,Escort,53.8,4.8
 EU,reaper,Lijiang Tower,Control,53.4,6.4
-EU,reaper,Aatlis,Flashpoint,53.1,9.1
 EU,reaper,New Queen Street,Push,53.1,5.4
+EU,reaper,Aatlis,Flashpoint,53.1,9.1
 EU,reaper,Midtown,Hybrid,53.0,4.5
 EU,reaper,Busan,Control,52.5,4.9
 EU,reaper,Ilios,Control,52.3,7.6
 EU,reaper,Samoa,Control,52.1,7.9
 EU,reaper,Oasis,Control,51.8,8.4
 EU,reaper,Watchpoint: Gibraltar,Escort,51.5,6.8
-EU,reaper,Eichenwalde,Hybrid,51.3,7.0
 EU,reaper,Nepal,Control,51.1,6.3
 EU,reaper,Suravasa,Flashpoint,50.9,6.6
-EU,reaper,Route 66,Escort,50.9,6.7
+EU,reaper,Eichenwalde,Hybrid,50.7,7.0
 EU,reaper,Runasapi,Push,49.9,6.2
+EU,reaper,Route 66,Escort,49.3,6.7
 EU,reaper,Dorado,Escort,48.9,7.6
 EU,reaper,Paraíso,Hybrid,48.5,8.1
 EU,reaper,Numbani,Hybrid,37.3,6.1
-ASIA,juno,Junkertown,Escort,76.6,2.1
-ASIA,juno,Midtown,Hybrid,66.7,0.9
+ASIA,juno,Junkertown,Escort,76.6,2.0
+ASIA,juno,Midtown,Hybrid,66.4,1.0
 ASIA,juno,New Queen Street,Push,62.0,1.1
 ASIA,juno,Watchpoint: Gibraltar,Escort,60.2,1.6
+ASIA,juno,Busan,Control,57.5,1.5
+ASIA,juno,Blizzard World,Hybrid,57.1,1.0
 ASIA,juno,New Junk City,Flashpoint,54.0,2.6
 ASIA,juno,Suravasa,Flashpoint,52.8,1.3
-ASIA,juno,Ilios,Control,52.2,1.2
-ASIA,juno,Busan,Control,52.0,1.3
-ASIA,juno,Hollywood,Hybrid,51.8,1.2
-ASIA,juno,Numbani,Hybrid,51.4,1.3
+ASIA,juno,Ilios,Control,52.7,1.2
+ASIA,juno,Hollywood,Hybrid,51.8,1.1
+ASIA,juno,Numbani,Hybrid,51.4,1.2
+ASIA,juno,Runasapi,Push,51.3,0.9
 ASIA,juno,Nepal,Control,50.8,2.4
 ASIA,juno,Rialto,Escort,50.6,1.1
-ASIA,juno,Runasapi,Push,50.2,0.9
 ASIA,juno,Aatlis,Flashpoint,49.8,1.5
-ASIA,juno,Blizzard World,Hybrid,49.1,0.9
-ASIA,juno,Samoa,Control,47.2,1.7
+ASIA,juno,Lijiang Tower,Control,49.3,1.7
+ASIA,juno,Circuit Royal,Escort,47.9,6.0
 ASIA,juno,Havana,Escort,47.0,1.8
-ASIA,juno,Circuit Royal,Escort,46.2,5.9
+ASIA,juno,Samoa,Control,45.8,1.7
 ASIA,juno,Shambali Monastery,Escort,44.5,2.7
-ASIA,juno,Lijiang Tower,Control,43.1,1.7
-ASIA,juno,Colosseo,Push,42.7,1.6
 ASIA,juno,Oasis,Control,42.2,1.9
 ASIA,juno,Route 66,Escort,41.5,2.0
+ASIA,juno,Colosseo,Push,41.1,1.5
 ASIA,juno,Esperança,Push,40.5,0.9
 ASIA,juno,Paraíso,Hybrid,34.7,1.3
+ASIA,juno,Dorado,Escort,24.5,0.5
 ASIA,juno,King's Row,Hybrid,24.4,1.8
-ASIA,juno,Dorado,Escort,16.6,0.4
 ASIA,juno,Eichenwalde,Hybrid,14.0,1.6
 US,juno,Paraíso,Hybrid,62.9,6.3
 US,juno,Numbani,Hybrid,61.6,10.5
 US,juno,Colosseo,Push,57.7,16.8
 US,juno,Oasis,Control,54.6,13.6
-US,juno,Esperança,Push,54.3,14.3
 US,juno,Aatlis,Flashpoint,54.3,14.2
+US,juno,Esperança,Push,54.3,14.3
 US,juno,Eichenwalde,Hybrid,53.3,14.3
 US,juno,Nepal,Control,53.2,15.3
 US,juno,King's Row,Hybrid,53.0,15.2
@@ -1384,9 +1384,10 @@ US,juno,Watchpoint: Gibraltar,Escort,52.7,9.7
 US,juno,Shambali Monastery,Escort,52.4,16.0
 US,juno,Samoa,Control,52.3,16.3
 US,juno,Route 66,Escort,51.8,14.3
-US,juno,Circuit Royal,Escort,51.2,24.0
+US,juno,Circuit Royal,Escort,51.7,23.6
 US,juno,New Queen Street,Push,51.0,15.9
 US,juno,Runasapi,Push,50.2,16.6
+US,juno,Dorado,Escort,48.8,9.5
 US,juno,Suravasa,Flashpoint,48.2,14.7
 US,juno,Midtown,Hybrid,47.6,15.5
 US,juno,Lijiang Tower,Control,47.5,14.7
@@ -1396,13 +1397,12 @@ US,juno,Busan,Control,46.9,13.2
 US,juno,Havana,Escort,46.4,12.3
 US,juno,Blizzard World,Hybrid,46.4,13.2
 US,juno,New Junk City,Flashpoint,46.3,15.0
-US,juno,Dorado,Escort,45.9,9.2
 US,juno,Hollywood,Hybrid,44.3,12.1
-US,juno,Junkertown,Escort,38.4,9.0
+US,juno,Junkertown,Escort,36.9,8.5
 EU,juno,Circuit Royal,Escort,56.5,20.5
 EU,juno,Paraíso,Hybrid,56.2,10.4
-EU,juno,Eichenwalde,Hybrid,56.0,10.7
 EU,juno,Watchpoint: Gibraltar,Escort,56.0,7.6
+EU,juno,Eichenwalde,Hybrid,55.8,10.6
 EU,juno,Lijiang Tower,Control,55.8,11.4
 EU,juno,Shambali Monastery,Escort,55.0,11.3
 EU,juno,Junkertown,Escort,54.7,7.6
@@ -1417,7 +1417,7 @@ EU,juno,Colosseo,Push,52.0,11.6
 EU,juno,Hollywood,Hybrid,51.7,9.3
 EU,juno,Oasis,Control,51.7,10.8
 EU,juno,Esperança,Push,51.0,11.1
-EU,juno,King's Row,Hybrid,49.9,11.4
+EU,juno,King's Row,Hybrid,50.0,11.5
 EU,juno,Numbani,Hybrid,49.6,10.2
 EU,juno,Midtown,Hybrid,49.5,13.5
 EU,juno,Samoa,Control,48.8,10.3
@@ -1426,45 +1426,45 @@ EU,juno,Runasapi,Push,47.3,11.0
 EU,juno,Nepal,Control,47.2,12.7
 EU,juno,Blizzard World,Hybrid,45.7,12.1
 EU,juno,Suravasa,Flashpoint,44.8,10.1
-EU,juno,Route 66,Escort,44.6,10.9
-ASIA,zenyatta,Runasapi,Push,66.8,1.8
+EU,juno,Route 66,Escort,43.9,10.9
+ASIA,zenyatta,Runasapi,Push,61.2,1.8
+ASIA,zenyatta,Blizzard World,Hybrid,60.7,5.6
 ASIA,zenyatta,Suravasa,Flashpoint,58.0,3.0
-ASIA,zenyatta,Blizzard World,Hybrid,57.0,5.5
-ASIA,zenyatta,Midtown,Hybrid,57.0,6.6
 ASIA,zenyatta,Esperança,Push,53.9,1.3
-ASIA,zenyatta,Junkertown,Escort,52.9,12.1
-ASIA,zenyatta,Samoa,Control,52.5,3.2
+ASIA,zenyatta,Junkertown,Escort,53.0,12.2
+ASIA,zenyatta,Samoa,Control,52.8,3.3
+ASIA,zenyatta,Midtown,Hybrid,52.1,6.7
 ASIA,zenyatta,Oasis,Control,51.9,2.7
 ASIA,zenyatta,New Junk City,Flashpoint,51.4,2.1
 ASIA,zenyatta,Route 66,Escort,49.8,4.8
 ASIA,zenyatta,New Queen Street,Push,48.8,2.8
 ASIA,zenyatta,Watchpoint: Gibraltar,Escort,47.7,4.9
-ASIA,zenyatta,Busan,Control,47.2,3.8
 ASIA,zenyatta,Havana,Escort,47.2,20.0
 ASIA,zenyatta,Rialto,Escort,46.3,5.4
 ASIA,zenyatta,King's Row,Hybrid,46.0,8.0
+ASIA,zenyatta,Busan,Control,45.6,3.8
 ASIA,zenyatta,Shambali Monastery,Escort,45.0,5.0
+ASIA,zenyatta,Ilios,Control,45.0,2.3
 ASIA,zenyatta,Nepal,Control,43.5,3.7
-ASIA,zenyatta,Lijiang Tower,Control,43.5,3.3
 ASIA,zenyatta,Aatlis,Flashpoint,43.0,1.9
-ASIA,zenyatta,Circuit Royal,Escort,42.9,22.7
-ASIA,zenyatta,Hollywood,Hybrid,42.8,6.3
-ASIA,zenyatta,Ilios,Control,42.4,2.4
+ASIA,zenyatta,Hollywood,Hybrid,42.9,6.2
+ASIA,zenyatta,Circuit Royal,Escort,41.5,22.2
 ASIA,zenyatta,Paraíso,Hybrid,40.8,3.1
-ASIA,zenyatta,Colosseo,Push,39.1,2.9
-ASIA,zenyatta,Dorado,Escort,35.7,3.5
+ASIA,zenyatta,Lijiang Tower,Control,40.3,3.2
+ASIA,zenyatta,Dorado,Escort,37.9,3.5
+ASIA,zenyatta,Colosseo,Push,37.8,3.0
 ASIA,zenyatta,Eichenwalde,Hybrid,33.8,4.7
-ASIA,zenyatta,Numbani,Hybrid,33.0,3.7
+ASIA,zenyatta,Numbani,Hybrid,33.0,3.4
 US,zenyatta,Shambali Monastery,Escort,57.9,6.9
 US,zenyatta,Route 66,Escort,57.5,6.6
+US,zenyatta,Junkertown,Escort,56.7,11.1
 US,zenyatta,Suravasa,Flashpoint,55.3,3.3
 US,zenyatta,Samoa,Control,53.9,4.3
 US,zenyatta,Hollywood,Hybrid,53.5,5.6
 US,zenyatta,Colosseo,Push,52.8,4.9
 US,zenyatta,Numbani,Hybrid,52.2,5.2
-US,zenyatta,Circuit Royal,Escort,51.9,13.9
 US,zenyatta,Runasapi,Push,51.0,3.1
-US,zenyatta,Junkertown,Escort,51.0,10.8
+US,zenyatta,Circuit Royal,Escort,50.9,14.2
 US,zenyatta,King's Row,Hybrid,50.0,7.0
 US,zenyatta,Nepal,Control,49.6,4.3
 US,zenyatta,Paraíso,Hybrid,49.5,4.2
@@ -1480,8 +1480,8 @@ US,zenyatta,Esperança,Push,45.8,3.3
 US,zenyatta,Busan,Control,44.9,4.2
 US,zenyatta,Rialto,Escort,43.5,7.5
 US,zenyatta,New Queen Street,Push,43.0,4.3
-US,zenyatta,Dorado,Escort,42.5,3.3
 US,zenyatta,Eichenwalde,Hybrid,40.0,5.7
+US,zenyatta,Dorado,Escort,37.0,3.5
 US,zenyatta,Midtown,Hybrid,35.8,7.9
 EU,zenyatta,Aatlis,Flashpoint,60.5,3.5
 EU,zenyatta,Rialto,Escort,59.7,10.0
@@ -1492,14 +1492,14 @@ EU,zenyatta,Watchpoint: Gibraltar,Escort,56.0,5.3
 EU,zenyatta,Havana,Escort,54.8,19.6
 EU,zenyatta,Hollywood,Hybrid,52.7,9.1
 EU,zenyatta,Esperança,Push,52.7,4.0
-EU,zenyatta,King's Row,Hybrid,50.5,10.8
+EU,zenyatta,King's Row,Hybrid,51.3,10.9
 EU,zenyatta,Shambali Monastery,Escort,50.1,7.4
 EU,zenyatta,Suravasa,Flashpoint,49.9,4.9
 EU,zenyatta,Ilios,Control,49.7,4.0
 EU,zenyatta,Oasis,Control,49.1,5.9
+EU,zenyatta,Eichenwalde,Hybrid,49.0,7.7
 EU,zenyatta,New Junk City,Flashpoint,48.5,4.8
 EU,zenyatta,Lijiang Tower,Control,48.3,5.7
-EU,zenyatta,Eichenwalde,Hybrid,47.6,7.7
 EU,zenyatta,Circuit Royal,Escort,47.5,16.1
 EU,zenyatta,Blizzard World,Hybrid,47.4,9.4
 EU,zenyatta,Numbani,Hybrid,45.7,7.3
@@ -1508,43 +1508,43 @@ EU,zenyatta,Nepal,Control,44.8,5.4
 EU,zenyatta,Samoa,Control,44.5,6.0
 EU,zenyatta,Colosseo,Push,42.0,6.8
 EU,zenyatta,Junkertown,Escort,41.9,11.7
-EU,zenyatta,Route 66,Escort,40.8,8.6
+EU,zenyatta,Route 66,Escort,40.6,8.5
 EU,zenyatta,Dorado,Escort,37.8,5.2
 EU,zenyatta,Paraíso,Hybrid,37.6,9.4
-ASIA,winston,Dorado,Escort,65.6,34.0
+ASIA,winston,Dorado,Escort,63.1,34.9
 ASIA,winston,New Queen Street,Push,58.2,20.0
 ASIA,winston,Rialto,Escort,57.7,17.7
-ASIA,winston,Blizzard World,Hybrid,57.1,17.9
 ASIA,winston,Watchpoint: Gibraltar,Escort,55.7,37.0
-ASIA,winston,Hollywood,Hybrid,54.1,17.4
-ASIA,winston,Junkertown,Escort,53.5,15.8
-ASIA,winston,Samoa,Control,53.4,13.1
-ASIA,winston,Colosseo,Push,53.2,16.9
-ASIA,winston,Midtown,Hybrid,52.7,9.1
+ASIA,winston,Blizzard World,Hybrid,54.8,17.7
+ASIA,winston,Junkertown,Escort,54.5,16.3
+ASIA,winston,Samoa,Control,54.4,13.6
+ASIA,winston,Hollywood,Hybrid,53.2,18.0
+ASIA,winston,Lijiang Tower,Control,52.6,13.2
+ASIA,winston,Midtown,Hybrid,52.3,9.6
+ASIA,winston,Colosseo,Push,52.3,17.6
 ASIA,winston,Suravasa,Flashpoint,52.1,17.5
 ASIA,winston,Esperança,Push,51.7,23.3
-ASIA,winston,Lijiang Tower,Control,51.7,12.5
-ASIA,winston,Numbani,Hybrid,51.4,27.7
-ASIA,winston,Runasapi,Push,51.1,14.2
+ASIA,winston,Runasapi,Push,50.9,14.6
 ASIA,winston,New Junk City,Flashpoint,50.5,9.6
 ASIA,winston,Oasis,Control,49.9,19.4
+ASIA,winston,Numbani,Hybrid,49.5,27.8
 ASIA,winston,Route 66,Escort,49.3,20.1
+ASIA,winston,Ilios,Control,46.5,27.1
 ASIA,winston,Nepal,Control,46.3,10.9
-ASIA,winston,Ilios,Control,45.4,26.9
-ASIA,winston,Busan,Control,45.2,16.4
+ASIA,winston,Busan,Control,46.0,17.2
 ASIA,winston,Eichenwalde,Hybrid,45.2,11.8
 ASIA,winston,Paraíso,Hybrid,43.6,20.1
 ASIA,winston,King's Row,Hybrid,42.5,13.8
 ASIA,winston,Shambali Monastery,Escort,42.5,6.6
 ASIA,winston,Aatlis,Flashpoint,41.9,8.4
 ASIA,winston,Havana,Escort,39.0,4.3
-ASIA,winston,Circuit Royal,Escort,36.7,1.9
+ASIA,winston,Circuit Royal,Escort,36.2,1.8
+US,winston,Junkertown,Escort,58.5,7.5
 US,winston,Midtown,Hybrid,57.3,4.5
 US,winston,Numbani,Hybrid,56.8,25.1
-US,winston,Colosseo,Push,55.2,8.1
+US,winston,Dorado,Escort,55.4,29.7
 US,winston,Route 66,Escort,55.2,10.7
-US,winston,Junkertown,Escort,55.0,7.5
-US,winston,Dorado,Escort,54.7,29.0
+US,winston,Colosseo,Push,55.2,8.1
 US,winston,Paraíso,Hybrid,54.1,24.3
 US,winston,Ilios,Control,52.5,17.4
 US,winston,Oasis,Control,51.7,9.9
@@ -1558,7 +1558,7 @@ US,winston,Suravasa,Flashpoint,49.2,7.1
 US,winston,Eichenwalde,Hybrid,49.0,5.3
 US,winston,Lijiang Tower,Control,48.1,4.2
 US,winston,Rialto,Escort,47.9,9.2
-US,winston,Circuit Royal,Escort,46.2,1.7
+US,winston,Circuit Royal,Escort,47.7,1.8
 US,winston,King's Row,Hybrid,46.1,4.7
 US,winston,Blizzard World,Hybrid,45.2,11.8
 US,winston,Samoa,Control,45.2,4.7
@@ -1576,54 +1576,54 @@ EU,winston,Oasis,Control,55.1,10.4
 EU,winston,Busan,Control,54.9,11.2
 EU,winston,Rialto,Escort,54.7,13.8
 EU,winston,Numbani,Hybrid,54.6,24.7
-EU,winston,Ilios,Control,54.3,19.8
 EU,winston,Suravasa,Flashpoint,54.3,9.7
+EU,winston,Ilios,Control,54.3,19.8
 EU,winston,Esperança,Push,53.6,15.3
 EU,winston,Nepal,Control,53.0,7.0
-EU,winston,King's Row,Hybrid,52.6,6.1
+EU,winston,King's Row,Hybrid,52.4,6.2
 EU,winston,Hollywood,Hybrid,52.4,15.2
 EU,winston,Runasapi,Push,51.4,8.7
 EU,winston,Blizzard World,Hybrid,50.9,12.1
-EU,winston,Route 66,Escort,50.0,14.0
+EU,winston,Route 66,Escort,50.8,14.3
 EU,winston,Aatlis,Flashpoint,49.8,5.1
 EU,winston,Lijiang Tower,Control,49.5,6.5
 EU,winston,New Queen Street,Push,48.6,11.5
 EU,winston,Colosseo,Push,48.1,10.4
-EU,winston,Eichenwalde,Hybrid,46.3,8.5
+EU,winston,Eichenwalde,Hybrid,46.6,8.5
 EU,winston,New Junk City,Flashpoint,44.6,5.3
 EU,winston,Shambali Monastery,Escort,43.3,4.7
 EU,winston,Circuit Royal,Escort,38.6,2.8
 EU,winston,Midtown,Hybrid,38.1,4.6
 EU,winston,Havana,Escort,33.8,5.0
-ASIA,orisa,Dorado,Escort,69.8,1.2
 ASIA,orisa,Oasis,Control,62.8,3.3
 ASIA,orisa,Rialto,Escort,61.5,1.9
 ASIA,orisa,Shambali Monastery,Escort,60.4,2.8
-ASIA,orisa,Busan,Control,58.9,1.9
-ASIA,orisa,Numbani,Hybrid,58.5,1.7
+ASIA,orisa,Numbani,Hybrid,58.5,1.6
+ASIA,orisa,Busan,Control,58.0,1.9
 ASIA,orisa,Nepal,Control,56.4,2.8
 ASIA,orisa,King's Row,Hybrid,54.4,3.5
 ASIA,orisa,Eichenwalde,Hybrid,52.5,3.5
 ASIA,orisa,New Junk City,Flashpoint,51.8,4.1
-ASIA,orisa,Ilios,Control,49.7,1.4
-ASIA,orisa,Hollywood,Hybrid,48.8,2.5
-ASIA,orisa,Samoa,Control,48.6,3.6
+ASIA,orisa,Hollywood,Hybrid,49.4,2.4
+ASIA,orisa,Ilios,Control,48.3,1.5
 ASIA,orisa,Route 66,Escort,47.6,2.5
-ASIA,orisa,Runasapi,Push,45.7,2.4
-ASIA,orisa,Lijiang Tower,Control,45.2,3.9
-ASIA,orisa,Colosseo,Push,45.1,1.5
-ASIA,orisa,Circuit Royal,Escort,43.2,3.3
+ASIA,orisa,Dorado,Escort,46.7,1.5
+ASIA,orisa,Runasapi,Push,46.1,2.3
+ASIA,orisa,Samoa,Control,46.1,3.8
+ASIA,orisa,Lijiang Tower,Control,45.9,3.7
+ASIA,orisa,Colosseo,Push,45.1,1.4
+ASIA,orisa,Junkertown,Escort,44.7,2.8
+ASIA,orisa,Circuit Royal,Escort,42.8,3.1
 ASIA,orisa,Aatlis,Flashpoint,41.5,3.7
 ASIA,orisa,Havana,Escort,41.4,1.0
-ASIA,orisa,Junkertown,Escort,39.6,2.5
 ASIA,orisa,Paraíso,Hybrid,38.8,2.1
 ASIA,orisa,Watchpoint: Gibraltar,Escort,36.8,1.6
-ASIA,orisa,Suravasa,Flashpoint,33.0,2.3
 ASIA,orisa,Esperança,Push,33.0,1.9
-ASIA,orisa,Blizzard World,Hybrid,31.4,1.5
+ASIA,orisa,Suravasa,Flashpoint,33.0,2.3
 ASIA,orisa,New Queen Street,Push,26.2,1.6
-ASIA,orisa,Midtown,Hybrid,22.5,1.3
-US,orisa,Junkertown,Escort,63.4,3.0
+ASIA,orisa,Blizzard World,Hybrid,26.0,2.1
+ASIA,orisa,Midtown,Hybrid,21.3,1.6
+US,orisa,Junkertown,Escort,63.4,2.8
 US,orisa,Runasapi,Push,56.6,5.1
 US,orisa,Watchpoint: Gibraltar,Escort,56.3,2.0
 US,orisa,Midtown,Hybrid,54.5,5.0
@@ -1635,15 +1635,15 @@ US,orisa,Rialto,Escort,49.2,5.1
 US,orisa,Havana,Escort,48.7,5.5
 US,orisa,Shambali Monastery,Escort,47.6,3.5
 US,orisa,Hollywood,Hybrid,47.3,3.3
+US,orisa,Dorado,Escort,47.2,1.6
 US,orisa,Eichenwalde,Hybrid,47.1,5.3
 US,orisa,King's Row,Hybrid,47.0,5.9
-US,orisa,Dorado,Escort,46.7,1.6
 US,orisa,Nepal,Control,45.1,4.4
 US,orisa,New Junk City,Flashpoint,44.8,5.9
 US,orisa,Esperança,Push,44.4,4.2
-US,orisa,Circuit Royal,Escort,43.9,4.0
 US,orisa,Suravasa,Flashpoint,43.5,3.9
 US,orisa,Colosseo,Push,43.5,4.8
+US,orisa,Circuit Royal,Escort,43.5,3.9
 US,orisa,Route 66,Escort,43.3,2.8
 US,orisa,Blizzard World,Hybrid,43.0,3.4
 US,orisa,New Queen Street,Push,39.8,4.0
@@ -1660,50 +1660,50 @@ EU,orisa,Circuit Royal,Escort,50.3,3.4
 EU,orisa,Ilios,Control,49.9,3.7
 EU,orisa,Suravasa,Flashpoint,48.9,4.3
 EU,orisa,Blizzard World,Hybrid,48.4,4.1
-EU,orisa,Eichenwalde,Hybrid,47.9,4.5
 EU,orisa,Midtown,Hybrid,47.7,4.0
 EU,orisa,Samoa,Control,46.8,5.0
+EU,orisa,Eichenwalde,Hybrid,46.2,4.6
 EU,orisa,Numbani,Hybrid,45.3,4.0
 EU,orisa,Lijiang Tower,Control,44.5,5.3
-EU,orisa,Route 66,Escort,43.9,3.3
+EU,orisa,King's Row,Hybrid,44.5,4.9
+EU,orisa,Route 66,Escort,43.9,3.1
 EU,orisa,New Junk City,Flashpoint,43.7,4.8
-EU,orisa,King's Row,Hybrid,43.5,4.9
 EU,orisa,Colosseo,Push,43.4,3.9
 EU,orisa,Aatlis,Flashpoint,41.5,5.1
 EU,orisa,Rialto,Escort,40.9,4.6
 EU,orisa,Busan,Control,39.1,3.8
-EU,orisa,Shambali Monastery,Escort,39.0,4.2
 EU,orisa,Hollywood,Hybrid,39.0,4.6
+EU,orisa,Shambali Monastery,Escort,39.0,4.2
 EU,orisa,Nepal,Control,38.4,3.4
 EU,orisa,Esperança,Push,35.0,3.3
 EU,orisa,Junkertown,Escort,31.9,3.8
 EU,orisa,Paraíso,Hybrid,27.3,1.2
 EU,orisa,Watchpoint: Gibraltar,Escort,21.5,2.3
 ASIA,bastion,Paraíso,Hybrid,67.5,1.4
-ASIA,bastion,Circuit Royal,Escort,58.7,2.8
-ASIA,bastion,Runasapi,Push,57.5,1.5
+ASIA,bastion,Circuit Royal,Escort,61.4,2.8
+ASIA,bastion,Runasapi,Push,60.9,1.5
 ASIA,bastion,New Junk City,Flashpoint,57.2,1.0
-ASIA,bastion,Numbani,Hybrid,54.0,1.5
-ASIA,bastion,Lijiang Tower,Control,53.3,1.2
-ASIA,bastion,Ilios,Control,52.7,0.8
+ASIA,bastion,Lijiang Tower,Control,53.0,1.4
 ASIA,bastion,Eichenwalde,Hybrid,52.1,1.6
-ASIA,bastion,Colosseo,Push,46.1,1.0
+ASIA,bastion,Numbani,Hybrid,51.5,1.5
+ASIA,bastion,Ilios,Control,50.9,0.8
 ASIA,bastion,Route 66,Escort,45.1,1.4
-ASIA,bastion,Busan,Control,44.9,1.1
-ASIA,bastion,Blizzard World,Hybrid,43.9,1.2
+ASIA,bastion,Busan,Control,44.9,1.0
+ASIA,bastion,Blizzard World,Hybrid,44.4,1.1
 ASIA,bastion,Shambali Monastery,Escort,43.3,2.6
+ASIA,bastion,Colosseo,Push,42.9,1.0
 ASIA,bastion,Nepal,Control,42.2,0.9
 ASIA,bastion,King's Row,Hybrid,40.9,2.1
 ASIA,bastion,Rialto,Escort,38.2,1.6
 ASIA,bastion,Oasis,Control,36.3,1.0
 ASIA,bastion,Watchpoint: Gibraltar,Escort,35.9,1.7
+ASIA,bastion,Midtown,Hybrid,34.3,1.7
 ASIA,bastion,Junkertown,Escort,34.2,1.3
-ASIA,bastion,Midtown,Hybrid,34.0,1.7
-ASIA,bastion,Dorado,Escort,33.3,2.9
-ASIA,bastion,Samoa,Control,32.2,0.9
+ASIA,bastion,Dorado,Escort,33.6,2.5
+ASIA,bastion,Hollywood,Hybrid,33.2,1.4
+ASIA,bastion,Samoa,Control,32.2,0.8
 ASIA,bastion,Suravasa,Flashpoint,31.7,0.9
 ASIA,bastion,New Queen Street,Push,29.8,0.6
-ASIA,bastion,Hollywood,Hybrid,29.5,1.4
 ASIA,bastion,Aatlis,Flashpoint,25.3,1.1
 ASIA,bastion,Esperança,Push,20.1,0.7
 ASIA,bastion,Havana,Escort,4.3,2.4
@@ -1715,9 +1715,9 @@ US,bastion,Nepal,Control,53.8,6.5
 US,bastion,Route 66,Escort,53.6,7.5
 US,bastion,Samoa,Control,53.3,6.6
 US,bastion,Lijiang Tower,Control,52.5,6.7
+US,bastion,Dorado,Escort,52.0,6.8
 US,bastion,Eichenwalde,Hybrid,51.8,6.1
-US,bastion,Circuit Royal,Escort,50.8,11.9
-US,bastion,Dorado,Escort,50.6,6.9
+US,bastion,Circuit Royal,Escort,50.5,11.8
 US,bastion,King's Row,Hybrid,50.2,9.9
 US,bastion,Colosseo,Push,49.2,6.1
 US,bastion,Numbani,Hybrid,49.0,8.3
@@ -1732,7 +1732,7 @@ US,bastion,Rialto,Escort,45.4,7.3
 US,bastion,Watchpoint: Gibraltar,Escort,44.1,5.9
 US,bastion,New Junk City,Flashpoint,42.9,6.3
 US,bastion,Ilios,Control,42.6,3.4
-US,bastion,Junkertown,Escort,40.2,8.4
+US,bastion,Junkertown,Escort,41.6,8.6
 US,bastion,Midtown,Hybrid,39.0,7.3
 US,bastion,New Queen Street,Push,38.8,5.1
 EU,bastion,New Queen Street,Push,58.0,6.0
@@ -1747,16 +1747,16 @@ EU,bastion,Dorado,Escort,51.7,4.8
 EU,bastion,Nepal,Control,51.6,6.1
 EU,bastion,Busan,Control,51.5,6.5
 EU,bastion,Colosseo,Push,51.4,6.0
+EU,bastion,King's Row,Hybrid,51.1,9.2
 EU,bastion,New Junk City,Flashpoint,50.8,6.2
-EU,bastion,King's Row,Hybrid,50.0,9.4
 EU,bastion,Watchpoint: Gibraltar,Escort,49.7,7.7
 EU,bastion,Runasapi,Push,49.3,5.6
+EU,bastion,Route 66,Escort,48.8,6.8
 EU,bastion,Aatlis,Flashpoint,48.8,5.6
-EU,bastion,Numbani,Hybrid,48.7,8.1
 EU,bastion,Junkertown,Escort,48.7,9.3
-EU,bastion,Eichenwalde,Hybrid,48.3,7.6
+EU,bastion,Numbani,Hybrid,48.7,8.1
+EU,bastion,Eichenwalde,Hybrid,47.8,7.6
 EU,bastion,Midtown,Hybrid,47.5,8.1
-EU,bastion,Route 66,Escort,46.9,6.9
 EU,bastion,Blizzard World,Hybrid,46.5,6.8
 EU,bastion,Ilios,Control,46.2,4.3
 EU,bastion,Circuit Royal,Escort,46.1,10.9
@@ -1764,49 +1764,49 @@ EU,bastion,Hollywood,Hybrid,43.6,7.8
 EU,bastion,Rialto,Escort,41.9,7.1
 EU,bastion,Samoa,Control,41.9,6.4
 ASIA,mercy,Suravasa,Flashpoint,63.8,2.1
-ASIA,mercy,Numbani,Hybrid,62.1,3.7
-ASIA,mercy,Colosseo,Push,60.0,2.0
-ASIA,mercy,Hollywood,Hybrid,52.0,3.2
-ASIA,mercy,Busan,Control,47.6,2.5
+ASIA,mercy,Numbani,Hybrid,62.1,3.5
+ASIA,mercy,Colosseo,Push,59.5,2.1
+ASIA,mercy,Hollywood,Hybrid,52.0,3.1
+ASIA,mercy,Busan,Control,47.5,2.3
+ASIA,mercy,Ilios,Control,47.4,3.3
 ASIA,mercy,Shambali Monastery,Escort,44.9,1.8
 ASIA,mercy,Aatlis,Flashpoint,44.7,2.5
-ASIA,mercy,Ilios,Control,44.6,3.3
 ASIA,mercy,Oasis,Control,44.0,2.1
 ASIA,mercy,Nepal,Control,43.5,2.3
 ASIA,mercy,Route 66,Escort,43.3,4.1
 ASIA,mercy,Esperança,Push,42.9,2.4
 ASIA,mercy,King's Row,Hybrid,42.2,2.7
-ASIA,mercy,Runasapi,Push,42.1,2.0
 ASIA,mercy,Eichenwalde,Hybrid,41.9,4.2
-ASIA,mercy,Lijiang Tower,Control,41.3,2.3
-ASIA,mercy,Circuit Royal,Escort,41.0,3.8
+ASIA,mercy,Circuit Royal,Escort,41.6,3.7
+ASIA,mercy,Runasapi,Push,40.2,2.0
+ASIA,mercy,Blizzard World,Hybrid,38.9,2.4
+ASIA,mercy,Lijiang Tower,Control,38.1,2.2
 ASIA,mercy,Watchpoint: Gibraltar,Escort,38.0,2.9
-ASIA,mercy,Midtown,Hybrid,35.3,3.7
-ASIA,mercy,Blizzard World,Hybrid,34.7,2.1
-ASIA,mercy,Dorado,Escort,33.3,4.2
+ASIA,mercy,Midtown,Hybrid,34.1,3.6
 ASIA,mercy,New Queen Street,Push,32.2,2.0
+ASIA,mercy,Dorado,Escort,31.1,3.8
 ASIA,mercy,Rialto,Escort,30.3,4.4
-ASIA,mercy,Samoa,Control,29.9,2.4
+ASIA,mercy,Samoa,Control,29.9,2.3
 ASIA,mercy,Havana,Escort,28.0,5.0
 ASIA,mercy,New Junk City,Flashpoint,24.2,2.6
 ASIA,mercy,Paraíso,Hybrid,19.9,7.1
-ASIA,mercy,Junkertown,Escort,16.9,1.9
+ASIA,mercy,Junkertown,Escort,16.9,1.8
 US,mercy,Route 66,Escort,58.5,13.0
 US,mercy,Havana,Escort,58.2,12.5
-US,mercy,Junkertown,Escort,57.6,14.4
 US,mercy,Blizzard World,Hybrid,56.0,12.8
 US,mercy,Nepal,Control,54.4,10.3
+US,mercy,Junkertown,Escort,53.7,14.1
+US,mercy,Circuit Royal,Escort,52.8,13.5
 US,mercy,Shambali Monastery,Escort,52.8,10.9
 US,mercy,Hollywood,Hybrid,52.5,14.4
-US,mercy,Circuit Royal,Escort,52.4,12.8
 US,mercy,King's Row,Hybrid,51.8,10.0
-US,mercy,Dorado,Escort,51.7,16.0
 US,mercy,Esperança,Push,51.2,9.4
 US,mercy,Oasis,Control,50.9,9.2
 US,mercy,Ilios,Control,50.4,11.5
 US,mercy,Watchpoint: Gibraltar,Escort,50.3,10.7
-US,mercy,New Queen Street,Push,50.1,12.1
 US,mercy,Rialto,Escort,50.1,13.9
+US,mercy,New Queen Street,Push,50.1,12.1
+US,mercy,Dorado,Escort,49.9,15.4
 US,mercy,Numbani,Hybrid,49.6,11.1
 US,mercy,Busan,Control,47.5,10.2
 US,mercy,Lijiang Tower,Control,47.5,11.8
@@ -1823,23 +1823,23 @@ EU,mercy,Junkertown,Escort,61.3,11.9
 EU,mercy,Colosseo,Push,58.1,10.8
 EU,mercy,Circuit Royal,Escort,57.8,12.1
 EU,mercy,Oasis,Control,55.1,11.5
+EU,mercy,Route 66,Escort,54.6,12.8
 EU,mercy,Paraíso,Hybrid,53.8,12.7
 EU,mercy,Shambali Monastery,Escort,53.4,12.5
-EU,mercy,Route 66,Escort,53.1,12.9
 EU,mercy,Watchpoint: Gibraltar,Escort,52.0,13.5
 EU,mercy,Ilios,Control,51.6,11.4
 EU,mercy,Suravasa,Flashpoint,51.1,9.7
 EU,mercy,Samoa,Control,50.8,10.4
 EU,mercy,Dorado,Escort,50.6,13.9
 EU,mercy,Runasapi,Push,50.4,10.1
-EU,mercy,Eichenwalde,Hybrid,50.2,12.4
+EU,mercy,Eichenwalde,Hybrid,50.3,12.3
 EU,mercy,Busan,Control,49.3,11.2
 EU,mercy,Havana,Escort,48.5,15.5
 EU,mercy,Midtown,Hybrid,47.6,12.0
-EU,mercy,King's Row,Hybrid,47.1,11.6
 EU,mercy,Esperança,Push,46.7,10.3
 EU,mercy,Rialto,Escort,46.2,13.3
 EU,mercy,Hollywood,Hybrid,46.2,12.4
+EU,mercy,King's Row,Hybrid,45.6,11.6
 EU,mercy,New Junk City,Flashpoint,45.6,7.4
 EU,mercy,Blizzard World,Hybrid,45.2,12.6
 EU,mercy,Nepal,Control,45.1,10.6
@@ -1847,36 +1847,120 @@ EU,mercy,Lijiang Tower,Control,44.6,10.8
 EU,mercy,New Queen Street,Push,44.3,11.4
 EU,mercy,Numbani,Hybrid,44.0,13.4
 EU,mercy,Aatlis,Flashpoint,42.4,8.6
+ASIA,dva,Paraíso,Hybrid,66.6,16.2
+ASIA,dva,New Junk City,Flashpoint,64.6,11.4
+ASIA,dva,Numbani,Hybrid,63.5,20.4
+ASIA,dva,Eichenwalde,Hybrid,63.2,13.6
+ASIA,dva,Havana,Escort,59.7,6.8
+ASIA,dva,Busan,Control,58.3,14.6
+ASIA,dva,Ilios,Control,57.5,18.4
+ASIA,dva,Lijiang Tower,Control,57.1,11.7
+ASIA,dva,Watchpoint: Gibraltar,Escort,56.6,17.2
+ASIA,dva,Route 66,Escort,56.2,14.7
+ASIA,dva,Nepal,Control,55.9,12.8
+ASIA,dva,Runasapi,Push,54.4,14.6
+ASIA,dva,Dorado,Escort,54.3,16.9
+ASIA,dva,Rialto,Escort,54.3,17.0
+ASIA,dva,Hollywood,Hybrid,53.6,13.7
+ASIA,dva,New Queen Street,Push,53.2,15.0
+ASIA,dva,King's Row,Hybrid,53.0,10.0
+ASIA,dva,Shambali Monastery,Escort,51.3,9.2
+ASIA,dva,Colosseo,Push,51.0,14.7
+ASIA,dva,Oasis,Control,50.3,17.1
+ASIA,dva,Aatlis,Flashpoint,50.3,10.9
+ASIA,dva,Esperança,Push,50.2,17.7
+ASIA,dva,Junkertown,Escort,48.3,11.2
+ASIA,dva,Suravasa,Flashpoint,48.0,14.1
+ASIA,dva,Samoa,Control,47.6,11.9
+ASIA,dva,Blizzard World,Hybrid,47.5,14.8
+ASIA,dva,Midtown,Hybrid,47.5,10.4
+ASIA,dva,Circuit Royal,Escort,43.4,3.9
+US,dva,Blizzard World,Hybrid,62.9,9.4
+US,dva,Shambali Monastery,Escort,57.2,7.2
+US,dva,Rialto,Escort,56.9,10.4
+US,dva,New Queen Street,Push,56.5,10.2
+US,dva,Runasapi,Push,55.7,8.7
+US,dva,Suravasa,Flashpoint,55.3,9.9
+US,dva,Ilios,Control,54.2,12.9
+US,dva,Lijiang Tower,Control,53.9,9.0
+US,dva,Eichenwalde,Hybrid,53.9,7.2
+US,dva,Nepal,Control,53.8,7.7
+US,dva,Aatlis,Flashpoint,53.4,8.4
+US,dva,Watchpoint: Gibraltar,Escort,52.6,9.4
+US,dva,Busan,Control,52.3,12.3
+US,dva,Colosseo,Push,51.5,9.7
+US,dva,Esperança,Push,51.3,13.1
+US,dva,Hollywood,Hybrid,51.3,11.6
+US,dva,King's Row,Hybrid,51.3,6.6
+US,dva,Oasis,Control,50.6,11.9
+US,dva,Dorado,Escort,48.8,11.5
+US,dva,New Junk City,Flashpoint,47.2,6.8
+US,dva,Route 66,Escort,46.6,10.9
+US,dva,Havana,Escort,46.5,5.8
+US,dva,Samoa,Control,46.5,7.4
+US,dva,Numbani,Hybrid,45.1,11.4
+US,dva,Junkertown,Escort,44.4,6.4
+US,dva,Paraíso,Hybrid,42.2,9.4
+US,dva,Midtown,Hybrid,39.8,5.3
+US,dva,Circuit Royal,Escort,36.4,4.1
+EU,dva,Paraíso,Hybrid,69.4,14.1
+EU,dva,Numbani,Hybrid,64.6,7.7
+EU,dva,Shambali Monastery,Escort,64.3,9.0
+EU,dva,Blizzard World,Hybrid,62.4,9.7
+EU,dva,Rialto,Escort,61.2,12.6
+EU,dva,Lijiang Tower,Control,60.5,9.6
+EU,dva,Samoa,Control,60.5,9.8
+EU,dva,Busan,Control,60.2,8.8
+EU,dva,Nepal,Control,58.4,9.3
+EU,dva,Midtown,Hybrid,58.4,9.8
+EU,dva,Hollywood,Hybrid,58.3,9.0
+EU,dva,Runasapi,Push,58.2,11.7
+EU,dva,Ilios,Control,58.0,13.4
+EU,dva,Circuit Royal,Escort,57.1,7.5
+EU,dva,Eichenwalde,Hybrid,56.9,9.0
+EU,dva,Watchpoint: Gibraltar,Escort,55.4,10.3
+EU,dva,Colosseo,Push,55.2,11.5
+EU,dva,Route 66,Escort,54.5,10.6
+EU,dva,Oasis,Control,54.2,10.7
+EU,dva,New Queen Street,Push,53.2,11.1
+EU,dva,Esperança,Push,52.8,12.2
+EU,dva,New Junk City,Flashpoint,50.7,9.1
+EU,dva,Junkertown,Escort,50.4,9.6
+EU,dva,Suravasa,Flashpoint,49.9,9.7
+EU,dva,Havana,Escort,49.9,11.6
+EU,dva,Dorado,Escort,48.5,12.5
+EU,dva,Aatlis,Flashpoint,48.0,7.3
+EU,dva,King's Row,Hybrid,46.6,9.1
 ASIA,zarya,Aatlis,Flashpoint,65.2,13.9
 ASIA,zarya,Oasis,Control,61.4,7.3
 ASIA,zarya,Esperança,Push,60.9,6.3
 ASIA,zarya,Eichenwalde,Hybrid,57.1,8.2
 ASIA,zarya,New Queen Street,Push,56.0,4.3
 ASIA,zarya,New Junk City,Flashpoint,55.1,14.9
-ASIA,zarya,Junkertown,Escort,54.8,3.3
-ASIA,zarya,Circuit Royal,Escort,54.0,7.3
-ASIA,zarya,Samoa,Control,52.6,9.8
+ASIA,zarya,Junkertown,Escort,54.8,3.2
 ASIA,zarya,Shambali Monastery,Escort,51.8,9.6
-ASIA,zarya,Lijiang Tower,Control,51.8,13.6
-ASIA,zarya,Busan,Control,50.6,7.4
+ASIA,zarya,Samoa,Control,51.8,10.0
+ASIA,zarya,Lijiang Tower,Control,51.2,13.6
+ASIA,zarya,Busan,Control,50.5,7.0
+ASIA,zarya,Circuit Royal,Escort,50.4,7.2
 ASIA,zarya,Nepal,Control,50.2,9.4
-ASIA,zarya,Midtown,Hybrid,49.1,8.1
-ASIA,zarya,Runasapi,Push,47.9,8.4
+ASIA,zarya,Midtown,Hybrid,48.6,7.6
+ASIA,zarya,Runasapi,Push,48.4,8.3
+ASIA,zarya,Numbani,Hybrid,47.0,6.3
 ASIA,zarya,Havana,Escort,46.9,3.3
 ASIA,zarya,Route 66,Escort,46.4,8.4
-ASIA,zarya,Numbani,Hybrid,45.8,6.4
 ASIA,zarya,Rialto,Escort,45.0,7.9
 ASIA,zarya,Watchpoint: Gibraltar,Escort,45.0,3.0
 ASIA,zarya,Suravasa,Flashpoint,44.9,7.4
-ASIA,zarya,Colosseo,Push,44.2,7.3
 ASIA,zarya,Paraíso,Hybrid,43.8,7.5
+ASIA,zarya,Colosseo,Push,42.1,7.1
 ASIA,zarya,King's Row,Hybrid,42.0,13.6
-ASIA,zarya,Hollywood,Hybrid,39.6,9.0
-ASIA,zarya,Blizzard World,Hybrid,37.5,9.0
-ASIA,zarya,Ilios,Control,27.4,3.8
-ASIA,zarya,Dorado,Escort,20.6,4.4
+ASIA,zarya,Hollywood,Hybrid,40.9,9.4
+ASIA,zarya,Blizzard World,Hybrid,37.5,9.5
+ASIA,zarya,Ilios,Control,29.9,3.7
+ASIA,zarya,Dorado,Escort,19.6,3.9
 US,zarya,Samoa,Control,58.4,10.5
-US,zarya,Junkertown,Escort,56.9,3.8
+US,zarya,Junkertown,Escort,56.9,3.5
 US,zarya,Numbani,Hybrid,56.2,3.0
 US,zarya,Oasis,Control,56.1,8.2
 US,zarya,Ilios,Control,55.4,4.8
@@ -1888,9 +1972,9 @@ US,zarya,Paraíso,Hybrid,52.3,3.0
 US,zarya,Aatlis,Flashpoint,51.7,11.3
 US,zarya,King's Row,Hybrid,50.9,10.6
 US,zarya,Rialto,Escort,50.3,6.4
+US,zarya,Circuit Royal,Escort,50.1,5.7
 US,zarya,Lijiang Tower,Control,49.5,10.7
 US,zarya,Runasapi,Push,49.2,9.7
-US,zarya,Circuit Royal,Escort,48.6,5.7
 US,zarya,Blizzard World,Hybrid,48.5,6.3
 US,zarya,Route 66,Escort,46.0,6.3
 US,zarya,Colosseo,Push,45.4,6.9
@@ -1901,8 +1985,8 @@ US,zarya,Busan,Control,44.0,5.7
 US,zarya,Hollywood,Hybrid,41.6,6.9
 US,zarya,Nepal,Control,40.8,8.2
 US,zarya,Watchpoint: Gibraltar,Escort,38.7,2.7
-US,zarya,Dorado,Escort,34.5,3.6
 US,zarya,Havana,Escort,32.9,3.7
+US,zarya,Dorado,Escort,31.8,3.6
 EU,zarya,Havana,Escort,54.7,4.1
 EU,zarya,New Junk City,Flashpoint,51.7,10.7
 EU,zarya,Paraíso,Hybrid,50.3,3.6
@@ -1918,141 +2002,57 @@ EU,zarya,Busan,Control,46.1,5.0
 EU,zarya,Eichenwalde,Hybrid,45.2,6.8
 EU,zarya,Hollywood,Hybrid,44.9,5.0
 EU,zarya,Samoa,Control,44.8,8.5
+EU,zarya,King's Row,Hybrid,44.2,9.4
+EU,zarya,Route 66,Escort,44.1,4.1
 EU,zarya,Dorado,Escort,44.0,1.5
-EU,zarya,Route 66,Escort,43.8,4.1
 EU,zarya,Suravasa,Flashpoint,43.5,6.3
 EU,zarya,Numbani,Hybrid,43.3,3.5
-EU,zarya,King's Row,Hybrid,43.3,8.8
-EU,zarya,Oasis,Control,43.2,5.7
 EU,zarya,Nepal,Control,43.2,7.3
+EU,zarya,Oasis,Control,43.2,5.7
 EU,zarya,Circuit Royal,Escort,42.9,6.2
 EU,zarya,Lijiang Tower,Control,42.2,8.4
 EU,zarya,Midtown,Hybrid,41.7,7.9
 EU,zarya,Ilios,Control,39.2,3.3
 EU,zarya,Blizzard World,Hybrid,37.2,4.4
 EU,zarya,Watchpoint: Gibraltar,Escort,34.5,1.5
-ASIA,dva,Paraíso,Hybrid,66.6,16.2
-ASIA,dva,Numbani,Hybrid,65.5,20.2
-ASIA,dva,New Junk City,Flashpoint,64.6,11.4
-ASIA,dva,Eichenwalde,Hybrid,63.2,13.6
-ASIA,dva,Havana,Escort,59.7,6.8
-ASIA,dva,Busan,Control,59.1,14.6
-ASIA,dva,Ilios,Control,57.5,18.0
-ASIA,dva,Watchpoint: Gibraltar,Escort,56.6,17.2
-ASIA,dva,Route 66,Escort,56.2,14.7
-ASIA,dva,Lijiang Tower,Control,56.2,11.9
-ASIA,dva,Nepal,Control,55.9,12.8
-ASIA,dva,Dorado,Escort,54.7,17.5
-ASIA,dva,Rialto,Escort,54.3,17.0
-ASIA,dva,Runasapi,Push,53.9,14.7
-ASIA,dva,New Queen Street,Push,53.2,15.0
-ASIA,dva,King's Row,Hybrid,53.0,10.0
-ASIA,dva,Hollywood,Hybrid,52.6,14.0
-ASIA,dva,Shambali Monastery,Escort,51.3,9.2
-ASIA,dva,Oasis,Control,50.3,17.1
-ASIA,dva,Aatlis,Flashpoint,50.3,10.9
-ASIA,dva,Esperança,Push,50.2,17.7
-ASIA,dva,Colosseo,Push,50.0,14.9
-ASIA,dva,Midtown,Hybrid,49.6,10.4
-ASIA,dva,Junkertown,Escort,49.5,11.5
-ASIA,dva,Samoa,Control,48.3,11.9
-ASIA,dva,Suravasa,Flashpoint,48.0,14.1
-ASIA,dva,Blizzard World,Hybrid,45.8,15.0
-ASIA,dva,Circuit Royal,Escort,44.0,3.7
-US,dva,Blizzard World,Hybrid,62.9,9.4
-US,dva,Shambali Monastery,Escort,57.2,7.2
-US,dva,Rialto,Escort,56.9,10.4
-US,dva,New Queen Street,Push,56.5,10.2
-US,dva,Runasapi,Push,55.7,8.7
-US,dva,Suravasa,Flashpoint,55.3,9.9
-US,dva,Ilios,Control,54.2,12.9
-US,dva,Lijiang Tower,Control,53.9,9.0
-US,dva,Eichenwalde,Hybrid,53.9,7.2
-US,dva,Nepal,Control,53.8,7.7
-US,dva,Aatlis,Flashpoint,53.4,8.4
-US,dva,Watchpoint: Gibraltar,Escort,52.6,9.4
-US,dva,Busan,Control,52.3,12.3
-US,dva,Colosseo,Push,51.5,9.7
-US,dva,King's Row,Hybrid,51.3,6.6
-US,dva,Hollywood,Hybrid,51.3,11.6
-US,dva,Esperança,Push,51.3,13.1
-US,dva,Oasis,Control,50.6,11.9
-US,dva,New Junk City,Flashpoint,47.2,6.8
-US,dva,Dorado,Escort,46.6,11.7
-US,dva,Route 66,Escort,46.6,10.9
-US,dva,Samoa,Control,46.5,7.4
-US,dva,Havana,Escort,46.5,5.8
-US,dva,Numbani,Hybrid,45.1,11.4
-US,dva,Junkertown,Escort,44.1,6.8
-US,dva,Paraíso,Hybrid,42.2,9.4
-US,dva,Midtown,Hybrid,39.8,5.3
-US,dva,Circuit Royal,Escort,34.5,4.1
-EU,dva,Paraíso,Hybrid,69.4,14.1
-EU,dva,Numbani,Hybrid,64.6,7.7
-EU,dva,Shambali Monastery,Escort,64.3,9.0
-EU,dva,Blizzard World,Hybrid,62.4,9.7
-EU,dva,Rialto,Escort,61.2,12.6
-EU,dva,Samoa,Control,60.5,9.8
-EU,dva,Lijiang Tower,Control,60.5,9.6
-EU,dva,Busan,Control,60.2,8.8
-EU,dva,Nepal,Control,58.4,9.3
-EU,dva,Midtown,Hybrid,58.4,9.8
-EU,dva,Hollywood,Hybrid,58.3,9.0
-EU,dva,Runasapi,Push,58.2,11.7
-EU,dva,Ilios,Control,58.0,13.4
-EU,dva,Circuit Royal,Escort,57.1,7.5
-EU,dva,Eichenwalde,Hybrid,56.6,9.0
-EU,dva,Route 66,Escort,56.3,10.3
-EU,dva,Watchpoint: Gibraltar,Escort,55.4,10.3
-EU,dva,Colosseo,Push,55.2,11.5
-EU,dva,Oasis,Control,54.2,10.7
-EU,dva,New Queen Street,Push,53.2,11.1
-EU,dva,Esperança,Push,52.8,12.2
-EU,dva,New Junk City,Flashpoint,50.7,9.1
-EU,dva,Junkertown,Escort,50.4,9.6
-EU,dva,Havana,Escort,49.9,11.6
-EU,dva,Suravasa,Flashpoint,49.9,9.7
-EU,dva,Dorado,Escort,48.5,12.5
-EU,dva,Aatlis,Flashpoint,48.0,7.3
-EU,dva,King's Row,Hybrid,45.8,9.6
 ASIA,tracer,Suravasa,Flashpoint,60.8,51.5
 ASIA,tracer,Oasis,Control,60.3,52.0
 ASIA,tracer,Paraíso,Hybrid,58.7,23.1
-ASIA,tracer,Hollywood,Hybrid,58.5,36.3
-ASIA,tracer,Runasapi,Push,58.4,50.0
+ASIA,tracer,Hollywood,Hybrid,58.2,36.0
 ASIA,tracer,Watchpoint: Gibraltar,Escort,58.0,42.9
-ASIA,tracer,Circuit Royal,Escort,56.6,3.4
+ASIA,tracer,Runasapi,Push,57.6,50.6
+ASIA,tracer,Samoa,Control,56.6,49.6
 ASIA,tracer,New Junk City,Flashpoint,56.5,46.3
 ASIA,tracer,New Queen Street,Push,56.5,52.6
-ASIA,tracer,Samoa,Control,56.0,50.1
+ASIA,tracer,Midtown,Hybrid,55.3,31.0
 ASIA,tracer,Route 66,Escort,54.9,37.7
-ASIA,tracer,Numbani,Hybrid,54.8,39.0
-ASIA,tracer,Midtown,Hybrid,54.5,30.9
-ASIA,tracer,Colosseo,Push,54.4,42.9
+ASIA,tracer,Lijiang Tower,Control,54.7,41.5
+ASIA,tracer,Numbani,Hybrid,54.7,39.1
 ASIA,tracer,Esperança,Push,54.3,52.8
-ASIA,tracer,Lijiang Tower,Control,53.5,41.1
+ASIA,tracer,Circuit Royal,Escort,54.2,3.5
+ASIA,tracer,Colosseo,Push,53.9,42.6
 ASIA,tracer,Eichenwalde,Hybrid,52.9,34.4
 ASIA,tracer,Nepal,Control,52.6,41.1
-ASIA,tracer,Ilios,Control,51.3,50.6
+ASIA,tracer,Dorado,Escort,52.6,35.7
+ASIA,tracer,Ilios,Control,51.7,50.3
 ASIA,tracer,King's Row,Hybrid,51.2,28.4
+ASIA,tracer,Busan,Control,50.9,49.5
 ASIA,tracer,Rialto,Escort,50.7,30.5
-ASIA,tracer,Busan,Control,50.7,50.4
-ASIA,tracer,Dorado,Escort,49.3,34.3
+ASIA,tracer,Junkertown,Escort,50.4,25.4
+ASIA,tracer,Blizzard World,Hybrid,49.6,43.2
 ASIA,tracer,Havana,Escort,48.7,12.4
-ASIA,tracer,Blizzard World,Hybrid,48.6,42.3
-ASIA,tracer,Junkertown,Escort,48.4,24.9
 ASIA,tracer,Aatlis,Flashpoint,47.0,49.9
 ASIA,tracer,Shambali Monastery,Escort,44.7,22.0
 US,tracer,Paraíso,Hybrid,68.6,25.9
 US,tracer,Midtown,Hybrid,59.6,21.7
 US,tracer,Runasapi,Push,56.7,36.6
 US,tracer,Shambali Monastery,Escort,56.1,18.7
-US,tracer,Junkertown,Escort,56.1,14.2
 US,tracer,Colosseo,Push,56.0,31.4
 US,tracer,Esperança,Push,55.7,40.7
 US,tracer,Havana,Escort,54.8,9.9
 US,tracer,Samoa,Control,54.7,32.7
 US,tracer,Numbani,Hybrid,54.3,29.4
+US,tracer,Junkertown,Escort,54.1,15.4
 US,tracer,Hollywood,Hybrid,54.1,25.6
 US,tracer,Busan,Control,54.0,34.6
 US,tracer,New Queen Street,Push,53.1,36.5
@@ -2066,11 +2066,11 @@ US,tracer,Rialto,Escort,49.8,20.2
 US,tracer,Lijiang Tower,Control,49.3,32.4
 US,tracer,Eichenwalde,Hybrid,48.4,21.4
 US,tracer,Route 66,Escort,47.7,24.3
-US,tracer,Dorado,Escort,47.7,31.2
 US,tracer,Aatlis,Flashpoint,47.6,38.0
 US,tracer,Blizzard World,Hybrid,46.6,27.5
-US,tracer,Circuit Royal,Escort,43.8,4.4
+US,tracer,Dorado,Escort,45.7,30.9
 US,tracer,King's Row,Hybrid,43.1,17.5
+US,tracer,Circuit Royal,Escort,42.2,4.7
 EU,tracer,New Queen Street,Push,59.2,34.3
 EU,tracer,Midtown,Hybrid,59.1,20.4
 EU,tracer,Junkertown,Escort,58.8,20.2
@@ -2078,61 +2078,61 @@ EU,tracer,Dorado,Escort,57.4,33.0
 EU,tracer,Lijiang Tower,Control,55.6,31.7
 EU,tracer,Suravasa,Flashpoint,55.0,34.3
 EU,tracer,New Junk City,Flashpoint,54.5,35.2
+EU,tracer,Route 66,Escort,54.4,25.3
 EU,tracer,Watchpoint: Gibraltar,Escort,53.7,33.1
-EU,tracer,King's Row,Hybrid,53.6,18.2
 EU,tracer,Samoa,Control,53.6,34.7
 EU,tracer,Esperança,Push,53.6,37.5
-EU,tracer,Route 66,Escort,53.4,25.0
 EU,tracer,Hollywood,Hybrid,53.4,26.6
 EU,tracer,Colosseo,Push,53.3,32.3
 EU,tracer,Ilios,Control,53.1,38.4
 EU,tracer,Aatlis,Flashpoint,52.9,36.8
+EU,tracer,King's Row,Hybrid,52.9,18.1
 EU,tracer,Paraíso,Hybrid,52.6,19.7
 EU,tracer,Busan,Control,52.4,31.5
 EU,tracer,Shambali Monastery,Escort,51.6,18.3
-EU,tracer,Oasis,Control,51.2,34.3
 EU,tracer,Nepal,Control,51.2,28.9
+EU,tracer,Oasis,Control,51.2,34.3
 EU,tracer,Blizzard World,Hybrid,50.7,26.1
 EU,tracer,Runasapi,Push,50.4,37.4
 EU,tracer,Rialto,Escort,50.0,21.6
 EU,tracer,Numbani,Hybrid,49.8,28.4
-EU,tracer,Eichenwalde,Hybrid,48.7,25.6
+EU,tracer,Eichenwalde,Hybrid,49.5,26.0
 EU,tracer,Circuit Royal,Escort,45.6,4.8
 EU,tracer,Havana,Escort,44.2,11.0
 ASIA,reinhardt,Havana,Escort,74.9,3.1
-ASIA,reinhardt,Junkertown,Escort,54.2,2.3
+ASIA,reinhardt,Junkertown,Escort,54.2,2.1
 ASIA,reinhardt,Watchpoint: Gibraltar,Escort,52.7,3.7
+ASIA,reinhardt,Runasapi,Push,48.7,5.0
 ASIA,reinhardt,Esperança,Push,48.3,2.8
-ASIA,reinhardt,Runasapi,Push,45.9,5.1
 ASIA,reinhardt,New Junk City,Flashpoint,44.0,3.3
 ASIA,reinhardt,Shambali Monastery,Escort,43.9,6.5
 ASIA,reinhardt,Nepal,Control,43.7,3.4
-ASIA,reinhardt,Midtown,Hybrid,42.6,3.6
-ASIA,reinhardt,Ilios,Control,42.1,1.1
+ASIA,reinhardt,Ilios,Control,42.1,1.0
+ASIA,reinhardt,Midtown,Hybrid,41.2,3.5
+ASIA,reinhardt,Numbani,Hybrid,40.0,1.9
 ASIA,reinhardt,King's Row,Hybrid,39.6,4.8
-ASIA,reinhardt,Hollywood,Hybrid,38.6,3.0
 ASIA,reinhardt,New Queen Street,Push,38.4,3.0
-ASIA,reinhardt,Lijiang Tower,Control,38.3,4.0
 ASIA,reinhardt,Rialto,Escort,37.2,3.5
+ASIA,reinhardt,Lijiang Tower,Control,36.5,4.0
+ASIA,reinhardt,Hollywood,Hybrid,36.2,3.0
 ASIA,reinhardt,Suravasa,Flashpoint,35.6,3.8
 ASIA,reinhardt,Eichenwalde,Hybrid,35.4,5.0
-ASIA,reinhardt,Circuit Royal,Escort,34.3,4.2
-ASIA,reinhardt,Samoa,Control,33.6,3.5
-ASIA,reinhardt,Busan,Control,33.0,3.2
-ASIA,reinhardt,Numbani,Hybrid,32.5,1.9
+ASIA,reinhardt,Busan,Control,35.1,3.2
+ASIA,reinhardt,Samoa,Control,34.9,3.9
+ASIA,reinhardt,Circuit Royal,Escort,32.6,4.2
 ASIA,reinhardt,Route 66,Escort,30.7,2.7
-ASIA,reinhardt,Colosseo,Push,28.9,3.3
+ASIA,reinhardt,Colosseo,Push,29.5,3.4
 ASIA,reinhardt,Oasis,Control,28.9,3.5
-ASIA,reinhardt,Dorado,Escort,25.3,2.0
 ASIA,reinhardt,Aatlis,Flashpoint,24.9,3.9
-ASIA,reinhardt,Blizzard World,Hybrid,21.5,2.5
+ASIA,reinhardt,Dorado,Escort,23.8,1.8
+ASIA,reinhardt,Blizzard World,Hybrid,21.5,2.4
 ASIA,reinhardt,Paraíso,Hybrid,0.0,0.9
 US,reinhardt,Paraíso,Hybrid,69.7,2.6
-US,reinhardt,Junkertown,Escort,61.1,5.7
 US,reinhardt,Colosseo,Push,60.1,5.6
 US,reinhardt,Oasis,Control,58.9,4.1
 US,reinhardt,Blizzard World,Hybrid,58.0,3.7
 US,reinhardt,Nepal,Control,58.0,6.0
+US,reinhardt,Junkertown,Escort,56.4,5.6
 US,reinhardt,Eichenwalde,Hybrid,55.6,6.3
 US,reinhardt,Esperança,Push,55.3,4.4
 US,reinhardt,Rialto,Escort,52.8,5.7
@@ -2146,13 +2146,13 @@ US,reinhardt,Suravasa,Flashpoint,48.4,4.6
 US,reinhardt,Samoa,Control,47.8,7.3
 US,reinhardt,Shambali Monastery,Escort,47.7,5.7
 US,reinhardt,Route 66,Escort,46.6,5.1
-US,reinhardt,Circuit Royal,Escort,46.2,6.8
 US,reinhardt,New Junk City,Flashpoint,45.4,5.9
+US,reinhardt,Circuit Royal,Escort,45.3,7.2
 US,reinhardt,Midtown,Hybrid,42.9,5.7
 US,reinhardt,Havana,Escort,41.8,4.7
+US,reinhardt,Dorado,Escort,39.7,3.4
 US,reinhardt,Aatlis,Flashpoint,39.4,6.5
 US,reinhardt,Hollywood,Hybrid,39.0,5.4
-US,reinhardt,Dorado,Escort,38.9,3.4
 US,reinhardt,Watchpoint: Gibraltar,Escort,38.6,2.3
 US,reinhardt,Ilios,Control,32.7,2.8
 EU,reinhardt,Esperança,Push,61.3,5.4
@@ -2163,8 +2163,8 @@ EU,reinhardt,Blizzard World,Hybrid,53.1,4.5
 EU,reinhardt,Aatlis,Flashpoint,52.9,6.4
 EU,reinhardt,Lijiang Tower,Control,52.7,7.4
 EU,reinhardt,Samoa,Control,52.2,4.9
+EU,reinhardt,King's Row,Hybrid,51.3,6.3
 EU,reinhardt,Watchpoint: Gibraltar,Escort,51.1,3.0
-EU,reinhardt,King's Row,Hybrid,51.0,6.3
 EU,reinhardt,Nepal,Control,50.6,6.8
 EU,reinhardt,Junkertown,Escort,50.3,4.6
 EU,reinhardt,Circuit Royal,Escort,49.6,6.4
@@ -2173,50 +2173,50 @@ EU,reinhardt,Midtown,Hybrid,48.1,5.4
 EU,reinhardt,Oasis,Control,47.5,5.0
 EU,reinhardt,Colosseo,Push,47.3,5.7
 EU,reinhardt,Busan,Control,47.3,4.8
-EU,reinhardt,Eichenwalde,Hybrid,43.9,5.8
+EU,reinhardt,Eichenwalde,Hybrid,44.9,5.7
 EU,reinhardt,Hollywood,Hybrid,41.3,3.7
-EU,reinhardt,New Queen Street,Push,39.8,5.5
 EU,reinhardt,Suravasa,Flashpoint,39.8,4.7
+EU,reinhardt,New Queen Street,Push,39.8,5.5
 EU,reinhardt,Ilios,Control,39.6,3.2
+EU,reinhardt,Route 66,Escort,37.2,4.5
 EU,reinhardt,Dorado,Escort,36.3,2.7
-EU,reinhardt,Route 66,Escort,35.8,4.6
 EU,reinhardt,New Junk City,Flashpoint,35.6,6.0
 EU,reinhardt,Numbani,Hybrid,33.2,2.9
 EU,reinhardt,Paraíso,Hybrid,21.6,2.0
-ASIA,baptiste,Junkertown,Escort,58.2,17.0
-ASIA,baptiste,Blizzard World,Hybrid,55.9,10.9
-ASIA,baptiste,Runasapi,Push,54.3,9.1
+ASIA,baptiste,Junkertown,Escort,58.9,16.6
+ASIA,baptiste,Blizzard World,Hybrid,54.8,10.8
+ASIA,baptiste,Runasapi,Push,54.5,9.1
 ASIA,baptiste,Route 66,Escort,53.3,15.3
-ASIA,baptiste,Numbani,Hybrid,52.9,7.1
-ASIA,baptiste,Circuit Royal,Escort,52.7,42.2
+ASIA,baptiste,Circuit Royal,Escort,53.1,42.4
+ASIA,baptiste,Numbani,Hybrid,52.2,6.7
 ASIA,baptiste,Rialto,Escort,51.1,10.5
 ASIA,baptiste,Oasis,Control,50.5,9.0
-ASIA,baptiste,Ilios,Control,49.9,7.7
-ASIA,baptiste,Hollywood,Hybrid,49.4,11.5
+ASIA,baptiste,Ilios,Control,49.7,7.6
 ASIA,baptiste,New Junk City,Flashpoint,48.0,9.1
 ASIA,baptiste,Paraíso,Hybrid,47.9,14.0
-ASIA,baptiste,Busan,Control,47.8,8.9
+ASIA,baptiste,Hollywood,Hybrid,47.9,11.2
 ASIA,baptiste,King's Row,Hybrid,47.2,14.9
-ASIA,baptiste,Colosseo,Push,46.5,12.1
+ASIA,baptiste,Busan,Control,47.2,8.7
+ASIA,baptiste,Colosseo,Push,45.9,11.4
 ASIA,baptiste,Havana,Escort,45.8,26.8
 ASIA,baptiste,Nepal,Control,45.0,12.0
 ASIA,baptiste,Aatlis,Flashpoint,44.9,9.6
 ASIA,baptiste,Esperança,Push,44.5,6.4
-ASIA,baptiste,Samoa,Control,43.4,13.0
-ASIA,baptiste,Lijiang Tower,Control,43.2,9.2
+ASIA,baptiste,Lijiang Tower,Control,43.8,9.5
+ASIA,baptiste,Samoa,Control,43.1,12.8
 ASIA,baptiste,Shambali Monastery,Escort,43.1,19.4
 ASIA,baptiste,Suravasa,Flashpoint,43.0,8.1
 ASIA,baptiste,New Queen Street,Push,40.6,7.0
-ASIA,baptiste,Midtown,Hybrid,39.7,17.6
 ASIA,baptiste,Watchpoint: Gibraltar,Escort,38.6,6.5
-ASIA,baptiste,Dorado,Escort,37.5,10.3
+ASIA,baptiste,Dorado,Escort,38.2,10.1
+ASIA,baptiste,Midtown,Hybrid,38.1,17.4
 ASIA,baptiste,Eichenwalde,Hybrid,35.8,12.8
 US,baptiste,Hollywood,Hybrid,55.8,16.1
-US,baptiste,Circuit Royal,Escort,55.0,36.2
+US,baptiste,Circuit Royal,Escort,55.2,36.0
 US,baptiste,King's Row,Hybrid,54.1,23.2
-US,baptiste,Dorado,Escort,54.0,9.9
 US,baptiste,Samoa,Control,53.8,13.1
 US,baptiste,Busan,Control,53.5,11.6
+US,baptiste,Dorado,Escort,53.1,9.8
 US,baptiste,Esperança,Push,53.1,8.9
 US,baptiste,Havana,Escort,52.7,26.1
 US,baptiste,Suravasa,Flashpoint,50.8,9.4
@@ -2228,29 +2228,29 @@ US,baptiste,Eichenwalde,Hybrid,49.9,18.4
 US,baptiste,Colosseo,Push,49.7,12.3
 US,baptiste,Watchpoint: Gibraltar,Escort,49.0,8.6
 US,baptiste,Route 66,Escort,48.7,16.7
-US,baptiste,Midtown,Hybrid,48.6,21.6
 US,baptiste,Rialto,Escort,48.6,14.8
+US,baptiste,Midtown,Hybrid,48.6,21.6
 US,baptiste,New Junk City,Flashpoint,47.6,10.5
 US,baptiste,New Queen Street,Push,47.4,8.4
 US,baptiste,Nepal,Control,45.8,14.6
+US,baptiste,Junkertown,Escort,45.1,20.5
 US,baptiste,Runasapi,Push,44.8,10.1
-US,baptiste,Junkertown,Escort,44.4,20.2
 US,baptiste,Numbani,Hybrid,43.1,12.2
 US,baptiste,Paraíso,Hybrid,42.4,11.7
 US,baptiste,Ilios,Control,41.9,7.5
 US,baptiste,Aatlis,Flashpoint,41.3,9.0
 EU,baptiste,Paraíso,Hybrid,56.5,7.4
+EU,baptiste,Route 66,Escort,54.9,13.1
 EU,baptiste,Nepal,Control,54.5,11.5
 EU,baptiste,Havana,Escort,54.5,20.1
-EU,baptiste,New Queen Street,Push,53.6,7.1
 EU,baptiste,Numbani,Hybrid,53.6,10.5
-EU,baptiste,Route 66,Escort,53.3,13.1
+EU,baptiste,New Queen Street,Push,53.6,7.1
 EU,baptiste,Watchpoint: Gibraltar,Escort,53.2,8.0
 EU,baptiste,Junkertown,Escort,52.3,14.8
 EU,baptiste,Midtown,Hybrid,52.0,19.2
+EU,baptiste,King's Row,Hybrid,51.5,17.7
 EU,baptiste,Samoa,Control,51.5,11.4
 EU,baptiste,Oasis,Control,51.5,10.5
-EU,baptiste,King's Row,Hybrid,51.3,18.2
 EU,baptiste,Circuit Royal,Escort,51.1,32.1
 EU,baptiste,Dorado,Escort,50.5,9.9
 EU,baptiste,Shambali Monastery,Escort,50.5,15.9
@@ -2265,43 +2265,43 @@ EU,baptiste,Suravasa,Flashpoint,45.9,10.5
 EU,baptiste,Busan,Control,45.2,10.4
 EU,baptiste,Blizzard World,Hybrid,42.5,12.4
 EU,baptiste,Runasapi,Push,41.8,7.1
-EU,baptiste,Eichenwalde,Hybrid,41.3,13.3
+EU,baptiste,Eichenwalde,Hybrid,41.1,13.2
 EU,baptiste,Rialto,Escort,38.4,10.0
 ASIA,hanzo,Aatlis,Flashpoint,64.6,3.2
 ASIA,hanzo,Havana,Escort,60.3,22.5
-ASIA,hanzo,Ilios,Control,57.1,3.9
+ASIA,hanzo,Ilios,Control,57.9,4.0
 ASIA,hanzo,Shambali Monastery,Escort,55.3,7.5
-ASIA,hanzo,Dorado,Escort,53.4,8.1
+ASIA,hanzo,Dorado,Escort,55.1,7.7
 ASIA,hanzo,King's Row,Hybrid,52.1,11.6
-ASIA,hanzo,Lijiang Tower,Control,51.2,4.7
 ASIA,hanzo,Oasis,Control,50.8,4.3
-ASIA,hanzo,Junkertown,Escort,49.7,17.8
-ASIA,hanzo,Circuit Royal,Escort,49.3,17.0
+ASIA,hanzo,Lijiang Tower,Control,50.3,4.7
 ASIA,hanzo,Rialto,Escort,49.0,7.8
+ASIA,hanzo,Circuit Royal,Escort,48.9,17.3
+ASIA,hanzo,Junkertown,Escort,48.8,17.6
 ASIA,hanzo,Watchpoint: Gibraltar,Escort,46.9,8.3
 ASIA,hanzo,Paraíso,Hybrid,46.8,6.3
-ASIA,hanzo,Samoa,Control,46.6,4.1
-ASIA,hanzo,Busan,Control,46.5,3.6
 ASIA,hanzo,Route 66,Escort,46.2,12.2
+ASIA,hanzo,Busan,Control,46.2,3.8
+ASIA,hanzo,Numbani,Hybrid,45.5,8.5
+ASIA,hanzo,Samoa,Control,45.1,4.2
 ASIA,hanzo,Esperança,Push,45.0,2.7
-ASIA,hanzo,Numbani,Hybrid,44.3,8.4
-ASIA,hanzo,Runasapi,Push,43.8,2.0
-ASIA,hanzo,Hollywood,Hybrid,42.6,10.1
-ASIA,hanzo,Colosseo,Push,41.7,4.3
+ASIA,hanzo,Hollywood,Hybrid,43.3,10.0
+ASIA,hanzo,Runasapi,Push,43.0,2.1
 ASIA,hanzo,Nepal,Control,40.9,5.1
-ASIA,hanzo,Blizzard World,Hybrid,40.8,7.2
+ASIA,hanzo,Blizzard World,Hybrid,40.6,7.1
 ASIA,hanzo,New Queen Street,Push,40.2,3.1
+ASIA,hanzo,Midtown,Hybrid,39.0,9.0
 ASIA,hanzo,Eichenwalde,Hybrid,38.3,6.4
+ASIA,hanzo,Colosseo,Push,38.1,4.5
 ASIA,hanzo,New Junk City,Flashpoint,37.7,4.0
-ASIA,hanzo,Midtown,Hybrid,34.7,8.8
 ASIA,hanzo,Suravasa,Flashpoint,33.0,2.1
 US,hanzo,Paraíso,Hybrid,74.9,5.5
 US,hanzo,Numbani,Hybrid,62.9,4.7
-US,hanzo,Circuit Royal,Escort,56.5,18.0
+US,hanzo,Circuit Royal,Escort,56.2,17.7
 US,hanzo,Eichenwalde,Hybrid,54.8,7.3
-US,hanzo,Junkertown,Escort,54.2,12.4
 US,hanzo,New Queen Street,Push,53.6,2.1
 US,hanzo,Hollywood,Hybrid,52.9,5.7
+US,hanzo,Junkertown,Escort,52.7,11.9
 US,hanzo,King's Row,Hybrid,51.8,12.5
 US,hanzo,Lijiang Tower,Control,51.7,3.9
 US,hanzo,Shambali Monastery,Escort,51.5,8.1
@@ -2310,14 +2310,14 @@ US,hanzo,Route 66,Escort,50.5,6.9
 US,hanzo,Rialto,Escort,49.9,8.1
 US,hanzo,Blizzard World,Hybrid,49.6,6.4
 US,hanzo,Colosseo,Push,48.7,4.2
-US,hanzo,Dorado,Escort,48.1,5.9
+US,hanzo,Dorado,Escort,48.4,5.8
 US,hanzo,Watchpoint: Gibraltar,Escort,48.0,4.2
 US,hanzo,Nepal,Control,47.4,4.1
 US,hanzo,New Junk City,Flashpoint,47.2,3.2
 US,hanzo,Suravasa,Flashpoint,46.1,2.4
 US,hanzo,Esperança,Push,45.3,2.6
-US,hanzo,Busan,Control,44.9,2.7
 US,hanzo,Oasis,Control,44.9,3.5
+US,hanzo,Busan,Control,44.9,2.7
 US,hanzo,Samoa,Control,44.8,3.6
 US,hanzo,Midtown,Hybrid,44.8,7.8
 US,hanzo,Aatlis,Flashpoint,44.6,2.8
@@ -2330,65 +2330,65 @@ EU,hanzo,Numbani,Hybrid,53.0,5.1
 EU,hanzo,Nepal,Control,52.1,3.9
 EU,hanzo,Hollywood,Hybrid,51.9,7.3
 EU,hanzo,Busan,Control,50.1,4.3
-EU,hanzo,New Queen Street,Push,49.9,2.6
 EU,hanzo,Colosseo,Push,49.9,3.0
+EU,hanzo,New Queen Street,Push,49.9,2.6
+EU,hanzo,King's Row,Hybrid,49.7,9.1
 EU,hanzo,Ilios,Control,49.3,3.0
 EU,hanzo,Blizzard World,Hybrid,49.0,7.4
 EU,hanzo,Runasapi,Push,48.6,2.0
-EU,hanzo,King's Row,Hybrid,48.0,9.0
 EU,hanzo,Lijiang Tower,Control,48.0,4.2
 EU,hanzo,Oasis,Control,47.9,3.9
 EU,hanzo,Circuit Royal,Escort,47.9,14.3
 EU,hanzo,Suravasa,Flashpoint,46.9,2.9
 EU,hanzo,New Junk City,Flashpoint,46.8,3.9
+EU,hanzo,Eichenwalde,Hybrid,46.4,5.7
 EU,hanzo,Havana,Escort,46.3,17.9
 EU,hanzo,Midtown,Hybrid,45.6,8.1
-EU,hanzo,Eichenwalde,Hybrid,45.0,5.7
-EU,hanzo,Route 66,Escort,44.4,5.9
+EU,hanzo,Route 66,Escort,44.5,5.8
 EU,hanzo,Paraíso,Hybrid,41.9,3.9
 EU,hanzo,Samoa,Control,40.9,4.0
 EU,hanzo,Dorado,Escort,39.3,4.1
 EU,hanzo,Aatlis,Flashpoint,38.9,2.4
 EU,hanzo,Watchpoint: Gibraltar,Escort,38.1,5.2
 EU,hanzo,Junkertown,Escort,37.8,10.1
-ASIA,doomfist,Ilios,Control,54.2,9.0
+ASIA,doomfist,Dorado,Escort,57.0,7.3
+ASIA,doomfist,Ilios,Control,53.8,9.0
+ASIA,doomfist,Circuit Royal,Escort,52.6,4.7
 ASIA,doomfist,Watchpoint: Gibraltar,Escort,51.8,6.8
 ASIA,doomfist,Oasis,Control,51.7,11.5
-ASIA,doomfist,Dorado,Escort,51.5,6.3
+ASIA,doomfist,Colosseo,Push,51.3,8.4
 ASIA,doomfist,Aatlis,Flashpoint,50.2,9.5
-ASIA,doomfist,Hollywood,Hybrid,50.2,6.9
-ASIA,doomfist,Colosseo,Push,50.0,8.3
-ASIA,doomfist,Lijiang Tower,Control,49.3,9.0
-ASIA,doomfist,Runasapi,Push,48.6,8.3
-ASIA,doomfist,Circuit Royal,Escort,48.4,4.7
+ASIA,doomfist,Samoa,Control,48.4,9.5
+ASIA,doomfist,Runasapi,Push,48.0,8.4
 ASIA,doomfist,King's Row,Hybrid,47.6,8.0
-ASIA,doomfist,Busan,Control,47.5,7.3
-ASIA,doomfist,Samoa,Control,47.3,9.1
+ASIA,doomfist,Lijiang Tower,Control,47.5,9.2
 ASIA,doomfist,Nepal,Control,47.1,7.2
+ASIA,doomfist,Hollywood,Hybrid,46.9,7.5
 ASIA,doomfist,Route 66,Escort,46.6,6.7
 ASIA,doomfist,Rialto,Escort,45.7,7.9
 ASIA,doomfist,New Queen Street,Push,45.6,8.8
 ASIA,doomfist,New Junk City,Flashpoint,45.2,8.0
+ASIA,doomfist,Busan,Control,44.9,7.7
 ASIA,doomfist,Suravasa,Flashpoint,43.0,9.4
 ASIA,doomfist,Shambali Monastery,Escort,42.5,6.3
-ASIA,doomfist,Junkertown,Escort,42.0,9.7
-ASIA,doomfist,Midtown,Hybrid,39.1,5.5
+ASIA,doomfist,Midtown,Hybrid,39.9,5.6
+ASIA,doomfist,Junkertown,Escort,39.2,10.1
 ASIA,doomfist,Esperança,Push,38.7,8.1
 ASIA,doomfist,Eichenwalde,Hybrid,37.6,7.5
 ASIA,doomfist,Havana,Escort,33.8,3.9
-ASIA,doomfist,Blizzard World,Hybrid,32.3,5.8
+ASIA,doomfist,Blizzard World,Hybrid,33.6,6.1
 ASIA,doomfist,Paraíso,Hybrid,31.8,12.5
-ASIA,doomfist,Numbani,Hybrid,30.4,5.6
-US,doomfist,Junkertown,Escort,59.5,6.4
+ASIA,doomfist,Numbani,Hybrid,28.9,5.5
 US,doomfist,Watchpoint: Gibraltar,Escort,58.4,8.3
 US,doomfist,Aatlis,Flashpoint,56.0,8.7
+US,doomfist,Junkertown,Escort,55.9,6.2
 US,doomfist,Esperança,Push,54.8,7.4
 US,doomfist,Numbani,Hybrid,54.5,11.2
 US,doomfist,Busan,Control,54.4,8.0
-US,doomfist,Dorado,Escort,54.4,9.3
 US,doomfist,Havana,Escort,53.9,4.9
 US,doomfist,New Queen Street,Push,52.9,9.5
 US,doomfist,Oasis,Control,52.8,8.7
+US,doomfist,Dorado,Escort,52.4,8.9
 US,doomfist,New Junk City,Flashpoint,51.5,8.5
 US,doomfist,Suravasa,Flashpoint,51.2,8.9
 US,doomfist,Eichenwalde,Hybrid,51.1,7.3
@@ -2399,8 +2399,8 @@ US,doomfist,Lijiang Tower,Control,47.8,10.2
 US,doomfist,Nepal,Control,47.2,9.3
 US,doomfist,King's Row,Hybrid,46.9,7.5
 US,doomfist,Shambali Monastery,Escort,46.3,7.8
+US,doomfist,Circuit Royal,Escort,46.2,4.3
 US,doomfist,Samoa,Control,46.0,8.2
-US,doomfist,Circuit Royal,Escort,45.0,4.2
 US,doomfist,Ilios,Control,44.5,7.7
 US,doomfist,Paraíso,Hybrid,44.0,9.1
 US,doomfist,Midtown,Hybrid,43.5,6.8
@@ -2409,7 +2409,7 @@ US,doomfist,Route 66,Escort,40.0,7.7
 US,doomfist,Blizzard World,Hybrid,38.8,7.5
 EU,doomfist,Shambali Monastery,Escort,59.6,6.3
 EU,doomfist,Numbani,Hybrid,57.9,9.0
-EU,doomfist,Route 66,Escort,57.4,5.7
+EU,doomfist,Route 66,Escort,57.4,5.4
 EU,doomfist,Busan,Control,55.2,7.4
 EU,doomfist,Colosseo,Push,55.0,6.8
 EU,doomfist,Suravasa,Flashpoint,53.4,7.0
@@ -2419,51 +2419,51 @@ EU,doomfist,Dorado,Escort,49.4,6.5
 EU,doomfist,Rialto,Escort,49.3,5.6
 EU,doomfist,Runasapi,Push,49.3,7.3
 EU,doomfist,Hollywood,Hybrid,47.3,6.2
-EU,doomfist,Circuit Royal,Escort,47.2,5.2
 EU,doomfist,Oasis,Control,47.2,7.2
+EU,doomfist,Circuit Royal,Escort,47.2,5.2
 EU,doomfist,Lijiang Tower,Control,46.8,8.1
 EU,doomfist,Ilios,Control,45.9,7.2
 EU,doomfist,Midtown,Hybrid,45.8,6.8
+EU,doomfist,King's Row,Hybrid,45.7,6.5
 EU,doomfist,Samoa,Control,45.2,7.4
 EU,doomfist,Blizzard World,Hybrid,44.1,5.2
-EU,doomfist,King's Row,Hybrid,44.0,6.5
 EU,doomfist,New Junk City,Flashpoint,43.9,6.4
 EU,doomfist,Esperança,Push,43.1,6.2
 EU,doomfist,Junkertown,Escort,42.6,5.2
 EU,doomfist,New Queen Street,Push,42.1,6.9
 EU,doomfist,Havana,Escort,42.0,6.3
-EU,doomfist,Eichenwalde,Hybrid,37.0,6.6
+EU,doomfist,Eichenwalde,Hybrid,36.6,6.7
 EU,doomfist,Watchpoint: Gibraltar,Escort,35.5,6.1
 EU,doomfist,Paraíso,Hybrid,28.3,10.3
-ASIA,junkrat,Junkertown,Escort,79.8,2.4
-ASIA,junkrat,Midtown,Hybrid,53.8,1.8
+ASIA,junkrat,Junkertown,Escort,79.8,2.3
+ASIA,junkrat,Midtown,Hybrid,56.5,1.8
+ASIA,junkrat,Busan,Control,55.5,0.9
 ASIA,junkrat,New Junk City,Flashpoint,52.4,2.1
-ASIA,junkrat,Busan,Control,52.4,0.7
 ASIA,junkrat,Route 66,Escort,51.6,1.9
 ASIA,junkrat,Watchpoint: Gibraltar,Escort,51.1,3.0
 ASIA,junkrat,Paraíso,Hybrid,50.7,7.8
 ASIA,junkrat,King's Row,Hybrid,50.6,3.3
 ASIA,junkrat,Aatlis,Flashpoint,49.8,2.7
 ASIA,junkrat,New Queen Street,Push,47.9,0.9
+ASIA,junkrat,Dorado,Escort,46.8,2.7
 ASIA,junkrat,Oasis,Control,46.2,1.8
-ASIA,junkrat,Lijiang Tower,Control,44.6,2.7
+ASIA,junkrat,Lijiang Tower,Control,44.8,2.5
+ASIA,junkrat,Circuit Royal,Escort,44.2,1.8
 ASIA,junkrat,Rialto,Escort,44.0,2.7
-ASIA,junkrat,Runasapi,Push,42.9,1.0
 ASIA,junkrat,Eichenwalde,Hybrid,41.7,3.6
-ASIA,junkrat,Circuit Royal,Escort,41.3,1.8
-ASIA,junkrat,Samoa,Control,39.5,2.4
+ASIA,junkrat,Samoa,Control,39.5,2.3
+ASIA,junkrat,Runasapi,Push,38.3,1.1
 ASIA,junkrat,Suravasa,Flashpoint,37.5,1.3
 ASIA,junkrat,Nepal,Control,36.5,1.9
-ASIA,junkrat,Dorado,Escort,36.4,2.7
-ASIA,junkrat,Ilios,Control,35.4,1.1
-ASIA,junkrat,Hollywood,Hybrid,33.5,2.9
+ASIA,junkrat,Ilios,Control,35.4,1.0
+ASIA,junkrat,Hollywood,Hybrid,33.5,2.7
 ASIA,junkrat,Shambali Monastery,Escort,27.9,3.0
-ASIA,junkrat,Numbani,Hybrid,26.2,1.7
+ASIA,junkrat,Numbani,Hybrid,23.6,1.8
 ASIA,junkrat,Esperança,Push,22.2,1.9
-ASIA,junkrat,Colosseo,Push,14.9,1.6
+ASIA,junkrat,Colosseo,Push,13.9,1.6
 ASIA,junkrat,Havana,Escort,13.6,2.5
-ASIA,junkrat,Blizzard World,Hybrid,0.0,1.7
-US,junkrat,Junkertown,Escort,80.0,4.2
+ASIA,junkrat,Blizzard World,Hybrid,0.0,1.6
+US,junkrat,Junkertown,Escort,78.2,4.0
 US,junkrat,Shambali Monastery,Escort,75.5,6.1
 US,junkrat,Rialto,Escort,57.9,4.7
 US,junkrat,New Junk City,Flashpoint,57.9,5.5
@@ -2479,15 +2479,15 @@ US,junkrat,Paraíso,Hybrid,51.8,5.1
 US,junkrat,King's Row,Hybrid,51.1,6.1
 US,junkrat,Hollywood,Hybrid,51.0,5.4
 US,junkrat,Watchpoint: Gibraltar,Escort,50.9,5.3
-US,junkrat,Circuit Royal,Escort,50.8,5.1
 US,junkrat,Eichenwalde,Hybrid,50.5,7.6
 US,junkrat,Samoa,Control,50.4,5.4
+US,junkrat,Circuit Royal,Escort,50.2,4.9
 US,junkrat,Nepal,Control,49.9,6.1
 US,junkrat,Aatlis,Flashpoint,49.3,6.3
 US,junkrat,Busan,Control,46.9,4.1
 US,junkrat,Ilios,Control,46.4,4.0
+US,junkrat,Dorado,Escort,44.5,4.9
 US,junkrat,Runasapi,Push,43.6,3.1
-US,junkrat,Dorado,Escort,42.9,4.3
 US,junkrat,Havana,Escort,41.0,4.3
 US,junkrat,Numbani,Hybrid,37.7,6.0
 US,junkrat,Blizzard World,Hybrid,34.4,4.1
@@ -2505,145 +2505,61 @@ EU,junkrat,Paraíso,Hybrid,49.8,3.8
 EU,junkrat,Nepal,Control,49.3,3.7
 EU,junkrat,Midtown,Hybrid,49.2,3.3
 EU,junkrat,Busan,Control,49.0,2.7
-EU,junkrat,Eichenwalde,Hybrid,48.7,5.8
+EU,junkrat,Route 66,Escort,48.8,2.6
+EU,junkrat,Eichenwalde,Hybrid,48.4,5.6
 EU,junkrat,Ilios,Control,48.2,2.4
 EU,junkrat,Junkertown,Escort,47.8,4.2
 EU,junkrat,Shambali Monastery,Escort,45.5,4.6
 EU,junkrat,Numbani,Hybrid,45.5,3.1
-EU,junkrat,Route 66,Escort,44.8,2.4
-EU,junkrat,King's Row,Hybrid,43.7,4.8
 EU,junkrat,Rialto,Escort,42.3,3.0
+EU,junkrat,King's Row,Hybrid,41.3,4.8
 EU,junkrat,Circuit Royal,Escort,40.3,4.1
 EU,junkrat,Runasapi,Push,40.0,2.4
 EU,junkrat,Oasis,Control,38.7,2.7
 EU,junkrat,New Queen Street,Push,33.1,2.4
 EU,junkrat,Hollywood,Hybrid,26.5,3.2
 EU,junkrat,Havana,Escort,25.4,2.7
-ASIA,jetpackcat,Havana,Escort,71.1,5.6
-ASIA,jetpackcat,Paraíso,Hybrid,61.5,9.2
-ASIA,jetpackcat,Lijiang Tower,Control,55.7,10.1
-ASIA,jetpackcat,Midtown,Hybrid,55.3,8.3
-ASIA,jetpackcat,Ilios,Control,51.6,11.7
-ASIA,jetpackcat,Samoa,Control,51.5,9.3
-ASIA,jetpackcat,Circuit Royal,Escort,51.1,7.5
-ASIA,jetpackcat,Shambali Monastery,Escort,50.6,14.2
-ASIA,jetpackcat,Suravasa,Flashpoint,50.4,13.7
-ASIA,jetpackcat,Numbani,Hybrid,49.9,15.3
-ASIA,jetpackcat,Hollywood,Hybrid,49.7,9.5
-ASIA,jetpackcat,Colosseo,Push,49.5,10.7
-ASIA,jetpackcat,Aatlis,Flashpoint,49.0,9.5
-ASIA,jetpackcat,Rialto,Escort,48.7,12.8
-ASIA,jetpackcat,Oasis,Control,47.2,11.0
-ASIA,jetpackcat,Dorado,Escort,46.7,13.0
-ASIA,jetpackcat,King's Row,Hybrid,46.3,10.1
-ASIA,jetpackcat,New Junk City,Flashpoint,45.2,9.1
-ASIA,jetpackcat,Blizzard World,Hybrid,45.2,12.9
-ASIA,jetpackcat,New Queen Street,Push,44.5,11.2
-ASIA,jetpackcat,Eichenwalde,Hybrid,44.1,12.9
-ASIA,jetpackcat,Esperança,Push,44.0,12.3
-ASIA,jetpackcat,Runasapi,Push,43.6,9.2
-ASIA,jetpackcat,Nepal,Control,43.5,9.5
-ASIA,jetpackcat,Watchpoint: Gibraltar,Escort,42.2,11.2
-ASIA,jetpackcat,Busan,Control,39.5,9.3
-ASIA,jetpackcat,Junkertown,Escort,31.6,8.6
-ASIA,jetpackcat,Route 66,Escort,25.9,6.2
-US,jetpackcat,Dorado,Escort,65.1,12.2
-US,jetpackcat,Aatlis,Flashpoint,60.0,12.4
-US,jetpackcat,Blizzard World,Hybrid,57.9,11.1
-US,jetpackcat,Watchpoint: Gibraltar,Escort,57.5,14.4
-US,jetpackcat,Numbani,Hybrid,57.3,13.7
-US,jetpackcat,Nepal,Control,55.0,13.8
-US,jetpackcat,Busan,Control,53.7,10.3
-US,jetpackcat,Rialto,Escort,52.9,13.1
-US,jetpackcat,Runasapi,Push,52.9,12.7
-US,jetpackcat,Esperança,Push,52.8,14.5
-US,jetpackcat,Eichenwalde,Hybrid,52.8,13.4
-US,jetpackcat,New Junk City,Flashpoint,52.0,11.8
-US,jetpackcat,Ilios,Control,51.6,15.1
-US,jetpackcat,Lijiang Tower,Control,51.5,10.9
-US,jetpackcat,Route 66,Escort,51.2,10.9
-US,jetpackcat,Oasis,Control,50.6,14.8
-US,jetpackcat,New Queen Street,Push,49.9,12.9
-US,jetpackcat,Suravasa,Flashpoint,49.7,11.9
-US,jetpackcat,Hollywood,Hybrid,49.2,11.6
-US,jetpackcat,King's Row,Hybrid,48.7,11.9
-US,jetpackcat,Colosseo,Push,48.4,13.2
-US,jetpackcat,Paraíso,Hybrid,47.6,12.3
-US,jetpackcat,Midtown,Hybrid,47.2,8.8
-US,jetpackcat,Circuit Royal,Escort,46.1,9.4
-US,jetpackcat,Samoa,Control,46.0,10.7
-US,jetpackcat,Junkertown,Escort,44.8,7.6
-US,jetpackcat,Shambali Monastery,Escort,41.3,11.2
-US,jetpackcat,Havana,Escort,28.8,8.4
-EU,jetpackcat,Lijiang Tower,Control,57.8,12.5
-EU,jetpackcat,Route 66,Escort,56.6,14.7
-EU,jetpackcat,Nepal,Control,56.5,14.8
-EU,jetpackcat,Ilios,Control,55.4,18.7
-EU,jetpackcat,Busan,Control,55.3,12.5
-EU,jetpackcat,Oasis,Control,53.7,14.1
-EU,jetpackcat,King's Row,Hybrid,52.5,11.6
-EU,jetpackcat,Hollywood,Hybrid,52.3,11.0
-EU,jetpackcat,Runasapi,Push,51.7,16.1
-EU,jetpackcat,Aatlis,Flashpoint,51.5,10.9
-EU,jetpackcat,Colosseo,Push,51.4,14.0
-EU,jetpackcat,Shambali Monastery,Escort,50.8,15.2
-EU,jetpackcat,New Queen Street,Push,50.8,13.1
-EU,jetpackcat,Samoa,Control,50.6,14.1
-EU,jetpackcat,Eichenwalde,Hybrid,50.3,13.9
-EU,jetpackcat,Havana,Escort,50.2,9.4
-EU,jetpackcat,Rialto,Escort,50.2,14.2
-EU,jetpackcat,Blizzard World,Hybrid,49.7,14.1
-EU,jetpackcat,Esperança,Push,49.6,15.5
-EU,jetpackcat,New Junk City,Flashpoint,48.9,13.2
-EU,jetpackcat,Junkertown,Escort,48.9,10.8
-EU,jetpackcat,Suravasa,Flashpoint,47.8,13.1
-EU,jetpackcat,Watchpoint: Gibraltar,Escort,46.2,16.1
-EU,jetpackcat,Dorado,Escort,45.1,15.5
-EU,jetpackcat,Circuit Royal,Escort,44.5,10.0
-EU,jetpackcat,Midtown,Hybrid,44.0,10.1
-EU,jetpackcat,Paraíso,Hybrid,43.3,20.3
-EU,jetpackcat,Numbani,Hybrid,35.0,9.8
 ASIA,ramattra,Paraíso,Hybrid,100.0,0.9
 ASIA,ramattra,Blizzard World,Hybrid,86.1,0.4
+ASIA,ramattra,Dorado,Escort,71.6,0.4
 ASIA,ramattra,Suravasa,Flashpoint,68.1,0.9
-ASIA,ramattra,Runasapi,Push,62.2,1.7
+ASIA,ramattra,Runasapi,Push,62.2,1.6
 ASIA,ramattra,Oasis,Control,60.0,1.2
-ASIA,ramattra,Samoa,Control,56.9,2.2
 ASIA,ramattra,New Junk City,Flashpoint,56.9,3.8
-ASIA,ramattra,Lijiang Tower,Control,52.9,4.0
+ASIA,ramattra,Samoa,Control,56.9,2.1
+ASIA,ramattra,Lijiang Tower,Control,54.1,3.9
+ASIA,ramattra,Numbani,Hybrid,53.2,0.4
 ASIA,ramattra,Eichenwalde,Hybrid,50.3,2.3
 ASIA,ramattra,Aatlis,Flashpoint,49.7,3.2
-ASIA,ramattra,Numbani,Hybrid,46.8,0.4
 ASIA,ramattra,Nepal,Control,46.0,2.1
-ASIA,ramattra,Midtown,Hybrid,45.8,2.4
+ASIA,ramattra,Midtown,Hybrid,43.2,2.4
 ASIA,ramattra,Shambali Monastery,Escort,42.6,5.5
-ASIA,ramattra,Dorado,Escort,42.5,0.2
-ASIA,ramattra,Circuit Royal,Escort,42.5,4.5
 ASIA,ramattra,King's Row,Hybrid,42.3,3.8
-ASIA,ramattra,Busan,Control,41.9,1.9
-ASIA,ramattra,Colosseo,Push,41.7,1.6
+ASIA,ramattra,Busan,Control,41.9,1.8
 ASIA,ramattra,Esperança,Push,41.6,0.7
 ASIA,ramattra,Watchpoint: Gibraltar,Escort,40.2,0.1
-ASIA,ramattra,Hollywood,Hybrid,37.6,1.4
+ASIA,ramattra,Circuit Royal,Escort,39.8,4.4
+ASIA,ramattra,Colosseo,Push,38.7,1.6
+ASIA,ramattra,Hollywood,Hybrid,37.6,1.3
 ASIA,ramattra,Rialto,Escort,34.2,1.1
 ASIA,ramattra,Junkertown,Escort,32.4,0.6
 ASIA,ramattra,Ilios,Control,29.2,0.5
 ASIA,ramattra,New Queen Street,Push,21.7,0.8
 ASIA,ramattra,Route 66,Escort,19.2,0.6
 ASIA,ramattra,Havana,Escort,13.3,2.3
-US,ramattra,Dorado,Escort,74.3,0.8
+US,ramattra,Dorado,Escort,74.3,0.7
 US,ramattra,Paraíso,Hybrid,73.4,0.8
 US,ramattra,Havana,Escort,52.9,3.0
 US,ramattra,Aatlis,Flashpoint,52.4,5.0
 US,ramattra,New Junk City,Flashpoint,51.6,6.2
 US,ramattra,Watchpoint: Gibraltar,Escort,51.3,0.5
-US,ramattra,Junkertown,Escort,47.9,1.4
 US,ramattra,Shambali Monastery,Escort,47.8,6.4
 US,ramattra,Rialto,Escort,47.0,3.5
 US,ramattra,Busan,Control,46.9,3.1
 US,ramattra,Lijiang Tower,Control,45.2,5.9
 US,ramattra,Colosseo,Push,45.0,3.5
 US,ramattra,Nepal,Control,44.8,5.1
+US,ramattra,Junkertown,Escort,43.9,1.4
 US,ramattra,Runasapi,Push,42.4,4.6
 US,ramattra,Suravasa,Flashpoint,42.0,2.9
 US,ramattra,Midtown,Hybrid,41.2,5.4
@@ -2652,25 +2568,25 @@ US,ramattra,Samoa,Control,40.7,4.4
 US,ramattra,King's Row,Hybrid,40.3,7.3
 US,ramattra,New Queen Street,Push,39.9,2.2
 US,ramattra,Hollywood,Hybrid,39.8,2.9
-US,ramattra,Circuit Royal,Escort,39.2,6.9
 US,ramattra,Blizzard World,Hybrid,39.1,2.5
-US,ramattra,Esperança,Push,37.3,2.7
+US,ramattra,Circuit Royal,Escort,37.8,6.8
 US,ramattra,Route 66,Escort,37.3,1.9
+US,ramattra,Esperança,Push,37.3,2.7
 US,ramattra,Numbani,Hybrid,35.2,0.7
 US,ramattra,Ilios,Control,33.9,1.2
 US,ramattra,Eichenwalde,Hybrid,32.6,4.5
 EU,ramattra,Blizzard World,Hybrid,62.9,2.8
-EU,ramattra,Route 66,Escort,57.2,1.5
 EU,ramattra,Suravasa,Flashpoint,55.8,3.2
+EU,ramattra,Route 66,Escort,54.0,1.5
 EU,ramattra,Oasis,Control,53.9,2.5
 EU,ramattra,Lijiang Tower,Control,51.1,5.5
-EU,ramattra,Eichenwalde,Hybrid,50.7,5.7
 EU,ramattra,New Junk City,Flashpoint,50.4,4.9
 EU,ramattra,Colosseo,Push,50.3,3.2
 EU,ramattra,Shambali Monastery,Escort,50.2,6.5
 EU,ramattra,Busan,Control,50.2,3.9
+EU,ramattra,King's Row,Hybrid,48.8,6.2
+EU,ramattra,Eichenwalde,Hybrid,48.5,5.8
 EU,ramattra,Circuit Royal,Escort,48.3,7.6
-EU,ramattra,King's Row,Hybrid,47.7,6.2
 EU,ramattra,Havana,Escort,47.4,5.0
 EU,ramattra,Aatlis,Flashpoint,46.9,5.3
 EU,ramattra,Runasapi,Push,45.0,2.9
@@ -2687,32 +2603,32 @@ EU,ramattra,Hollywood,Hybrid,28.1,2.5
 EU,ramattra,Paraíso,Hybrid,27.8,0.8
 EU,ramattra,Junkertown,Escort,26.0,2.0
 EU,ramattra,Watchpoint: Gibraltar,Escort,18.5,0.5
-ASIA,mei,Numbani,Hybrid,68.0,4.2
 ASIA,mei,Havana,Escort,66.3,5.3
+ASIA,mei,Numbani,Hybrid,61.1,4.3
 ASIA,mei,King's Row,Hybrid,59.5,4.9
 ASIA,mei,Esperança,Push,59.0,2.6
 ASIA,mei,Oasis,Control,58.1,2.9
-ASIA,mei,Colosseo,Push,56.8,2.5
 ASIA,mei,Watchpoint: Gibraltar,Escort,56.3,2.5
-ASIA,mei,Blizzard World,Hybrid,55.0,3.3
-ASIA,mei,Junkertown,Escort,54.3,5.0
-ASIA,mei,Ilios,Control,54.2,2.6
+ASIA,mei,Blizzard World,Hybrid,55.0,3.1
+ASIA,mei,Junkertown,Escort,54.1,4.8
+ASIA,mei,Ilios,Control,53.9,3.0
+ASIA,mei,Colosseo,Push,53.8,2.7
 ASIA,mei,Eichenwalde,Hybrid,51.7,5.2
+ASIA,mei,Hollywood,Hybrid,50.9,3.9
 ASIA,mei,Aatlis,Flashpoint,49.9,3.1
-ASIA,mei,Hollywood,Hybrid,49.3,3.3
-ASIA,mei,Circuit Royal,Escort,48.3,5.7
+ASIA,mei,Circuit Royal,Escort,48.9,5.3
 ASIA,mei,Route 66,Escort,47.1,4.9
-ASIA,mei,Busan,Control,45.9,2.8
+ASIA,mei,Dorado,Escort,46.2,3.6
 ASIA,mei,Rialto,Escort,45.6,3.9
 ASIA,mei,Nepal,Control,45.3,2.6
+ASIA,mei,Busan,Control,44.5,3.2
 ASIA,mei,New Queen Street,Push,43.8,2.9
-ASIA,mei,Lijiang Tower,Control,42.7,3.9
-ASIA,mei,Dorado,Escort,41.1,3.9
-ASIA,mei,Midtown,Hybrid,40.0,3.7
+ASIA,mei,Lijiang Tower,Control,43.3,3.8
+ASIA,mei,Runasapi,Push,40.8,2.8
 ASIA,mei,Suravasa,Flashpoint,39.8,3.0
 ASIA,mei,Shambali Monastery,Escort,39.4,4.0
-ASIA,mei,Runasapi,Push,38.2,2.9
-ASIA,mei,Samoa,Control,33.6,3.8
+ASIA,mei,Midtown,Hybrid,38.4,3.6
+ASIA,mei,Samoa,Control,34.0,3.9
 ASIA,mei,New Junk City,Flashpoint,24.9,4.4
 ASIA,mei,Paraíso,Hybrid,24.2,8.1
 US,mei,Esperança,Push,71.7,1.5
@@ -2721,7 +2637,7 @@ US,mei,Numbani,Hybrid,66.2,1.4
 US,mei,Runasapi,Push,61.6,2.2
 US,mei,Midtown,Hybrid,58.4,3.5
 US,mei,Havana,Escort,57.9,4.4
-US,mei,Junkertown,Escort,54.6,2.8
+US,mei,Junkertown,Escort,54.6,2.5
 US,mei,Rialto,Escort,54.1,3.6
 US,mei,Lijiang Tower,Control,51.0,2.0
 US,mei,Aatlis,Flashpoint,50.0,3.7
@@ -2739,13 +2655,13 @@ US,mei,Suravasa,Flashpoint,44.9,1.8
 US,mei,Colosseo,Push,43.8,1.7
 US,mei,Shambali Monastery,Escort,42.6,3.2
 US,mei,Route 66,Escort,39.7,2.1
-US,mei,Circuit Royal,Escort,38.7,4.7
 US,mei,Watchpoint: Gibraltar,Escort,38.7,1.2
+US,mei,Circuit Royal,Escort,38.7,4.6
 US,mei,Hollywood,Hybrid,35.4,1.3
-US,mei,Dorado,Escort,32.6,1.4
+US,mei,Dorado,Escort,34.2,1.6
 EU,mei,Junkertown,Escort,64.7,3.0
-EU,mei,Route 66,Escort,61.9,3.3
 EU,mei,Blizzard World,Hybrid,58.5,2.8
+EU,mei,Route 66,Escort,58.1,3.6
 EU,mei,Watchpoint: Gibraltar,Escort,57.9,1.5
 EU,mei,Rialto,Escort,55.6,3.6
 EU,mei,Havana,Escort,54.9,4.1
@@ -2754,14 +2670,14 @@ EU,mei,New Queen Street,Push,54.2,2.1
 EU,mei,Aatlis,Flashpoint,52.1,3.5
 EU,mei,Circuit Royal,Escort,51.4,5.5
 EU,mei,Lijiang Tower,Control,51.1,3.5
-EU,mei,King's Row,Hybrid,49.9,6.0
 EU,mei,Shambali Monastery,Escort,49.7,4.1
+EU,mei,King's Row,Hybrid,49.3,5.9
 EU,mei,New Junk City,Flashpoint,49.1,3.4
 EU,mei,Runasapi,Push,48.8,2.6
 EU,mei,Samoa,Control,48.3,3.6
 EU,mei,Hollywood,Hybrid,46.8,3.8
 EU,mei,Esperança,Push,46.2,2.4
-EU,mei,Eichenwalde,Hybrid,45.5,3.6
+EU,mei,Eichenwalde,Hybrid,45.9,3.4
 EU,mei,Oasis,Control,44.9,2.7
 EU,mei,Suravasa,Flashpoint,44.3,2.3
 EU,mei,Nepal,Control,43.6,3.5
@@ -2771,43 +2687,127 @@ EU,mei,Colosseo,Push,36.7,2.3
 EU,mei,Dorado,Escort,35.9,1.8
 EU,mei,Numbani,Hybrid,20.9,1.9
 EU,mei,Ilios,Control,18.1,1.1
-ASIA,lucio,Midtown,Hybrid,62.9,3.8
-ASIA,lucio,Runasapi,Push,60.6,12.8
+ASIA,jetpackcat,Havana,Escort,71.1,5.6
+ASIA,jetpackcat,Paraíso,Hybrid,61.5,9.2
+ASIA,jetpackcat,Midtown,Hybrid,55.5,8.6
+ASIA,jetpackcat,Lijiang Tower,Control,54.4,10.5
+ASIA,jetpackcat,Circuit Royal,Escort,53.4,8.1
+ASIA,jetpackcat,Samoa,Control,52.8,9.2
+ASIA,jetpackcat,Ilios,Control,52.2,12.1
+ASIA,jetpackcat,Numbani,Hybrid,51.5,15.5
+ASIA,jetpackcat,Colosseo,Push,51.2,11.7
+ASIA,jetpackcat,Shambali Monastery,Escort,50.6,14.2
+ASIA,jetpackcat,Suravasa,Flashpoint,50.4,13.7
+ASIA,jetpackcat,Hollywood,Hybrid,50.4,10.4
+ASIA,jetpackcat,Aatlis,Flashpoint,49.0,9.5
+ASIA,jetpackcat,Rialto,Escort,48.7,12.8
+ASIA,jetpackcat,Oasis,Control,47.2,11.0
+ASIA,jetpackcat,King's Row,Hybrid,46.3,10.1
+ASIA,jetpackcat,Dorado,Escort,46.2,12.8
+ASIA,jetpackcat,Runasapi,Push,45.8,9.9
+ASIA,jetpackcat,New Junk City,Flashpoint,45.2,9.1
+ASIA,jetpackcat,New Queen Street,Push,44.5,11.2
+ASIA,jetpackcat,Eichenwalde,Hybrid,44.1,12.9
+ASIA,jetpackcat,Esperança,Push,44.0,12.3
+ASIA,jetpackcat,Nepal,Control,43.5,9.5
+ASIA,jetpackcat,Watchpoint: Gibraltar,Escort,42.2,11.2
+ASIA,jetpackcat,Blizzard World,Hybrid,41.9,12.6
+ASIA,jetpackcat,Busan,Control,37.4,9.5
+ASIA,jetpackcat,Junkertown,Escort,36.3,8.6
+ASIA,jetpackcat,Route 66,Escort,25.9,6.2
+US,jetpackcat,Dorado,Escort,64.4,12.0
+US,jetpackcat,Aatlis,Flashpoint,60.0,12.4
+US,jetpackcat,Blizzard World,Hybrid,57.9,11.1
+US,jetpackcat,Watchpoint: Gibraltar,Escort,57.5,14.4
+US,jetpackcat,Numbani,Hybrid,57.3,13.7
+US,jetpackcat,Nepal,Control,55.0,13.8
+US,jetpackcat,Busan,Control,53.7,10.3
+US,jetpackcat,Runasapi,Push,52.9,12.7
+US,jetpackcat,Rialto,Escort,52.9,13.1
+US,jetpackcat,Eichenwalde,Hybrid,52.8,13.4
+US,jetpackcat,Esperança,Push,52.8,14.5
+US,jetpackcat,New Junk City,Flashpoint,52.0,11.8
+US,jetpackcat,Ilios,Control,51.6,15.1
+US,jetpackcat,Lijiang Tower,Control,51.5,10.9
+US,jetpackcat,Route 66,Escort,51.2,10.9
+US,jetpackcat,Oasis,Control,50.6,14.8
+US,jetpackcat,New Queen Street,Push,49.9,12.9
+US,jetpackcat,Suravasa,Flashpoint,49.7,11.9
+US,jetpackcat,Hollywood,Hybrid,49.2,11.6
+US,jetpackcat,King's Row,Hybrid,48.7,11.9
+US,jetpackcat,Colosseo,Push,48.4,13.2
+US,jetpackcat,Paraíso,Hybrid,47.6,12.3
+US,jetpackcat,Midtown,Hybrid,47.2,8.8
+US,jetpackcat,Samoa,Control,46.0,10.7
+US,jetpackcat,Junkertown,Escort,46.0,7.5
+US,jetpackcat,Circuit Royal,Escort,43.8,9.3
+US,jetpackcat,Shambali Monastery,Escort,41.3,11.2
+US,jetpackcat,Havana,Escort,28.8,8.4
+EU,jetpackcat,Lijiang Tower,Control,57.8,12.5
+EU,jetpackcat,Route 66,Escort,57.2,14.1
+EU,jetpackcat,Nepal,Control,56.5,14.8
+EU,jetpackcat,Ilios,Control,55.4,18.7
+EU,jetpackcat,Busan,Control,55.3,12.5
+EU,jetpackcat,Oasis,Control,53.7,14.1
+EU,jetpackcat,Hollywood,Hybrid,52.3,11.0
+EU,jetpackcat,Runasapi,Push,51.7,16.1
+EU,jetpackcat,Aatlis,Flashpoint,51.5,10.9
+EU,jetpackcat,Colosseo,Push,51.4,14.0
+EU,jetpackcat,King's Row,Hybrid,51.2,11.4
+EU,jetpackcat,Shambali Monastery,Escort,50.8,15.2
+EU,jetpackcat,New Queen Street,Push,50.8,13.1
+EU,jetpackcat,Samoa,Control,50.6,14.1
+EU,jetpackcat,Havana,Escort,50.2,9.4
+EU,jetpackcat,Rialto,Escort,50.2,14.2
+EU,jetpackcat,Blizzard World,Hybrid,49.7,14.1
+EU,jetpackcat,Esperança,Push,49.6,15.5
+EU,jetpackcat,New Junk City,Flashpoint,48.9,13.2
+EU,jetpackcat,Junkertown,Escort,48.9,10.8
+EU,jetpackcat,Eichenwalde,Hybrid,48.7,13.7
+EU,jetpackcat,Suravasa,Flashpoint,47.8,13.1
+EU,jetpackcat,Watchpoint: Gibraltar,Escort,46.2,16.1
+EU,jetpackcat,Dorado,Escort,45.1,15.5
+EU,jetpackcat,Circuit Royal,Escort,44.5,10.0
+EU,jetpackcat,Midtown,Hybrid,44.0,10.1
+EU,jetpackcat,Paraíso,Hybrid,43.3,20.3
+EU,jetpackcat,Numbani,Hybrid,35.0,9.8
+ASIA,lucio,Midtown,Hybrid,62.1,3.6
+ASIA,lucio,Runasapi,Push,58.5,13.1
 ASIA,lucio,Aatlis,Flashpoint,57.8,22.2
 ASIA,lucio,New Queen Street,Push,57.3,11.2
 ASIA,lucio,New Junk City,Flashpoint,56.6,21.2
-ASIA,lucio,Ilios,Control,52.3,15.6
-ASIA,lucio,Hollywood,Hybrid,52.1,3.6
+ASIA,lucio,Ilios,Control,53.0,15.7
+ASIA,lucio,Lijiang Tower,Control,52.3,16.8
 ASIA,lucio,Oasis,Control,51.8,12.6
-ASIA,lucio,Lijiang Tower,Control,51.6,17.2
+ASIA,lucio,Hollywood,Hybrid,51.3,3.5
 ASIA,lucio,Nepal,Control,51.2,12.8
 ASIA,lucio,Esperança,Push,50.6,13.3
-ASIA,lucio,Samoa,Control,50.4,13.0
 ASIA,lucio,Suravasa,Flashpoint,49.9,15.3
-ASIA,lucio,Numbani,Hybrid,49.7,4.4
-ASIA,lucio,Busan,Control,48.8,14.1
-ASIA,lucio,Colosseo,Push,47.0,10.7
+ASIA,lucio,Samoa,Control,49.6,13.2
+ASIA,lucio,Busan,Control,49.5,13.4
+ASIA,lucio,Colosseo,Push,47.9,10.5
+ASIA,lucio,Numbani,Hybrid,45.4,4.9
 ASIA,lucio,King's Row,Hybrid,45.0,4.6
-ASIA,lucio,Junkertown,Escort,44.6,3.1
-ASIA,lucio,Dorado,Escort,40.3,2.6
+ASIA,lucio,Dorado,Escort,41.9,2.5
 ASIA,lucio,Eichenwalde,Hybrid,40.3,6.4
-ASIA,lucio,Blizzard World,Hybrid,40.2,4.0
 ASIA,lucio,Route 66,Escort,38.8,2.8
+ASIA,lucio,Blizzard World,Hybrid,38.6,3.9
 ASIA,lucio,Paraíso,Hybrid,37.7,5.3
 ASIA,lucio,Watchpoint: Gibraltar,Escort,36.7,2.9
+ASIA,lucio,Junkertown,Escort,36.3,3.4
 ASIA,lucio,Shambali Monastery,Escort,34.9,5.1
-ASIA,lucio,Circuit Royal,Escort,33.6,1.2
 ASIA,lucio,Rialto,Escort,33.3,1.8
+ASIA,lucio,Circuit Royal,Escort,31.4,1.3
 ASIA,lucio,Havana,Escort,5.0,2.6
 US,lucio,Paraíso,Hybrid,70.1,8.0
 US,lucio,New Junk City,Flashpoint,58.1,30.9
 US,lucio,Suravasa,Flashpoint,57.0,26.8
 US,lucio,Ilios,Control,55.3,30.3
-US,lucio,Junkertown,Escort,55.1,3.7
+US,lucio,Junkertown,Escort,54.9,3.7
 US,lucio,Lijiang Tower,Control,54.1,29.7
 US,lucio,Colosseo,Push,53.0,20.1
-US,lucio,Busan,Control,52.5,23.9
 US,lucio,Aatlis,Flashpoint,52.5,32.3
+US,lucio,Busan,Control,52.5,23.9
 US,lucio,Runasapi,Push,52.2,26.1
 US,lucio,Esperança,Push,50.5,23.3
 US,lucio,Samoa,Control,50.2,21.3
@@ -2818,12 +2818,12 @@ US,lucio,Nepal,Control,49.7,26.0
 US,lucio,Route 66,Escort,48.7,9.4
 US,lucio,New Queen Street,Push,48.4,18.4
 US,lucio,Numbani,Hybrid,48.2,10.8
-US,lucio,Rialto,Escort,48.1,10.1
 US,lucio,Blizzard World,Hybrid,48.1,11.2
+US,lucio,Rialto,Escort,48.1,10.1
 US,lucio,Midtown,Hybrid,47.8,10.6
+US,lucio,Dorado,Escort,45.1,9.8
 US,lucio,King's Row,Hybrid,44.3,14.7
-US,lucio,Dorado,Escort,43.3,9.9
-US,lucio,Circuit Royal,Escort,43.0,4.0
+US,lucio,Circuit Royal,Escort,42.9,3.9
 US,lucio,Watchpoint: Gibraltar,Escort,42.6,8.0
 US,lucio,Shambali Monastery,Escort,40.3,12.5
 US,lucio,Havana,Escort,35.1,5.8
@@ -2839,46 +2839,46 @@ EU,lucio,Rialto,Escort,54.5,6.8
 EU,lucio,Nepal,Control,53.5,22.3
 EU,lucio,Samoa,Control,53.3,20.3
 EU,lucio,Esperança,Push,53.0,20.6
-EU,lucio,Colosseo,Push,52.2,18.7
 EU,lucio,Ilios,Control,52.2,25.2
+EU,lucio,Colosseo,Push,52.2,18.7
 EU,lucio,Busan,Control,52.1,21.5
 EU,lucio,Watchpoint: Gibraltar,Escort,52.0,6.0
 EU,lucio,Suravasa,Flashpoint,51.5,25.1
+EU,lucio,Eichenwalde,Hybrid,50.2,13.5
 EU,lucio,Aatlis,Flashpoint,49.8,29.2
-EU,lucio,Eichenwalde,Hybrid,49.8,13.1
 EU,lucio,Numbani,Hybrid,49.7,12.4
-EU,lucio,King's Row,Hybrid,48.9,11.9
+EU,lucio,King's Row,Hybrid,49.2,12.2
 EU,lucio,Circuit Royal,Escort,48.8,3.8
 EU,lucio,Oasis,Control,46.8,20.1
 EU,lucio,Dorado,Escort,46.7,5.7
 EU,lucio,Shambali Monastery,Escort,45.0,8.9
-EU,lucio,Route 66,Escort,40.8,8.2
+EU,lucio,Route 66,Escort,41.4,7.9
 EU,lucio,Midtown,Hybrid,40.3,8.8
 EU,lucio,Hollywood,Hybrid,40.2,9.0
-ASIA,pharah,Hollywood,Hybrid,70.4,2.1
+ASIA,pharah,Hollywood,Hybrid,71.4,2.1
 ASIA,pharah,Suravasa,Flashpoint,69.7,3.3
-ASIA,pharah,Blizzard World,Hybrid,64.3,1.2
-ASIA,pharah,Samoa,Control,63.5,2.8
-ASIA,pharah,Busan,Control,61.9,2.4
+ASIA,pharah,Blizzard World,Hybrid,64.3,1.1
+ASIA,pharah,Samoa,Control,63.9,3.0
 ASIA,pharah,Shambali Monastery,Escort,60.9,6.2
+ASIA,pharah,Busan,Control,60.8,2.2
 ASIA,pharah,Nepal,Control,58.7,6.0
+ASIA,pharah,Colosseo,Push,58.6,3.9
 ASIA,pharah,Esperança,Push,58.5,2.6
-ASIA,pharah,Lijiang Tower,Control,57.3,10.0
 ASIA,pharah,New Junk City,Flashpoint,57.2,2.6
-ASIA,pharah,Colosseo,Push,57.1,4.0
+ASIA,pharah,Lijiang Tower,Control,56.8,10.1
 ASIA,pharah,Watchpoint: Gibraltar,Escort,55.7,1.7
-ASIA,pharah,Dorado,Escort,54.4,2.7
 ASIA,pharah,New Queen Street,Push,53.7,1.1
-ASIA,pharah,Ilios,Control,51.7,2.8
+ASIA,pharah,Midtown,Hybrid,52.8,3.6
+ASIA,pharah,Ilios,Control,52.4,2.7
+ASIA,pharah,Circuit Royal,Escort,51.8,6.8
+ASIA,pharah,Dorado,Escort,51.1,2.8
 ASIA,pharah,Oasis,Control,50.4,4.0
-ASIA,pharah,Circuit Royal,Escort,50.1,7.1
 ASIA,pharah,Eichenwalde,Hybrid,50.0,5.9
 ASIA,pharah,King's Row,Hybrid,49.9,5.3
-ASIA,pharah,Midtown,Hybrid,49.5,3.6
-ASIA,pharah,Numbani,Hybrid,48.5,1.5
 ASIA,pharah,Paraíso,Hybrid,48.2,3.8
+ASIA,pharah,Numbani,Hybrid,47.9,1.4
 ASIA,pharah,Rialto,Escort,43.6,4.2
-ASIA,pharah,Runasapi,Push,38.5,1.7
+ASIA,pharah,Runasapi,Push,38.8,1.6
 ASIA,pharah,Aatlis,Flashpoint,37.5,2.7
 ASIA,pharah,Junkertown,Escort,34.5,1.4
 ASIA,pharah,Route 66,Escort,33.7,1.8
@@ -2903,72 +2903,72 @@ US,pharah,New Junk City,Flashpoint,48.5,2.2
 US,pharah,Midtown,Hybrid,47.9,3.1
 US,pharah,Hollywood,Hybrid,47.4,2.6
 US,pharah,Colosseo,Push,47.3,4.0
-US,pharah,Circuit Royal,Escort,45.9,5.4
+US,pharah,Circuit Royal,Escort,46.4,5.4
 US,pharah,Aatlis,Flashpoint,45.0,4.2
 US,pharah,Havana,Escort,44.6,1.1
 US,pharah,Samoa,Control,44.4,3.3
-US,pharah,Dorado,Escort,42.7,2.7
+US,pharah,Dorado,Escort,42.8,2.5
 US,pharah,Numbani,Hybrid,42.2,3.8
 US,pharah,Shambali Monastery,Escort,35.4,4.7
-US,pharah,Junkertown,Escort,25.7,2.6
+US,pharah,Junkertown,Escort,25.7,2.4
 EU,pharah,Dorado,Escort,74.4,3.4
 EU,pharah,Runasapi,Push,61.5,2.8
 EU,pharah,New Junk City,Flashpoint,60.7,3.0
 EU,pharah,Esperança,Push,58.9,2.9
 EU,pharah,Suravasa,Flashpoint,57.9,3.8
 EU,pharah,Colosseo,Push,57.0,4.1
-EU,pharah,Nepal,Control,55.9,6.1
 EU,pharah,Lijiang Tower,Control,55.9,9.7
+EU,pharah,Nepal,Control,55.9,6.1
 EU,pharah,Rialto,Escort,55.8,6.2
 EU,pharah,Blizzard World,Hybrid,55.7,2.2
-EU,pharah,King's Row,Hybrid,55.0,6.3
 EU,pharah,Watchpoint: Gibraltar,Escort,54.8,1.9
-EU,pharah,Route 66,Escort,52.8,2.8
+EU,pharah,King's Row,Hybrid,53.8,6.2
+EU,pharah,Route 66,Escort,53.7,2.8
 EU,pharah,Ilios,Control,51.8,4.6
 EU,pharah,Busan,Control,51.7,2.5
-EU,pharah,Oasis,Control,51.0,4.7
 EU,pharah,Samoa,Control,51.0,3.0
+EU,pharah,Oasis,Control,51.0,4.7
 EU,pharah,Hollywood,Hybrid,49.9,3.2
 EU,pharah,Numbani,Hybrid,49.1,4.0
 EU,pharah,Shambali Monastery,Escort,48.5,5.1
 EU,pharah,Circuit Royal,Escort,47.7,5.2
 EU,pharah,Aatlis,Flashpoint,46.9,3.4
-EU,pharah,Eichenwalde,Hybrid,46.8,5.8
+EU,pharah,Eichenwalde,Hybrid,46.6,5.7
 EU,pharah,New Queen Street,Push,46.3,2.2
 EU,pharah,Junkertown,Escort,44.8,1.0
 EU,pharah,Havana,Escort,41.4,2.1
 EU,pharah,Paraíso,Hybrid,38.8,4.5
 EU,pharah,Midtown,Hybrid,36.5,2.6
-ASIA,echo,Dorado,Escort,63.6,16.2
 ASIA,echo,Shambali Monastery,Escort,63.0,20.3
 ASIA,echo,Route 66,Escort,61.3,8.9
-ASIA,echo,Busan,Control,59.3,4.5
+ASIA,echo,Busan,Control,59.4,4.4
 ASIA,echo,Watchpoint: Gibraltar,Escort,59.3,10.2
 ASIA,echo,Eichenwalde,Hybrid,59.2,16.6
-ASIA,echo,Midtown,Hybrid,57.2,9.8
+ASIA,echo,Dorado,Escort,58.0,16.3
+ASIA,echo,Midtown,Hybrid,56.8,9.8
 ASIA,echo,New Queen Street,Push,56.8,4.5
 ASIA,echo,Rialto,Escort,56.2,20.5
 ASIA,echo,King's Row,Hybrid,56.1,12.8
 ASIA,echo,Esperança,Push,56.0,9.1
 ASIA,echo,Nepal,Control,55.1,10.3
-ASIA,echo,Samoa,Control,54.4,5.7
-ASIA,echo,Blizzard World,Hybrid,52.0,6.9
+ASIA,echo,Samoa,Control,53.4,5.8
 ASIA,echo,Paraíso,Hybrid,51.7,19.3
 ASIA,echo,Suravasa,Flashpoint,51.0,6.5
-ASIA,echo,Lijiang Tower,Control,50.5,10.1
-ASIA,echo,Ilios,Control,48.3,18.1
+ASIA,echo,Blizzard World,Hybrid,49.8,7.0
+ASIA,echo,Ilios,Control,49.8,18.1
+ASIA,echo,Lijiang Tower,Control,48.6,10.0
+ASIA,echo,Numbani,Hybrid,47.6,16.1
+ASIA,echo,Colosseo,Push,47.2,10.9
 ASIA,echo,Aatlis,Flashpoint,46.6,3.8
-ASIA,echo,Colosseo,Push,46.2,10.9
-ASIA,echo,Hollywood,Hybrid,45.7,7.9
+ASIA,echo,Runasapi,Push,45.9,5.8
+ASIA,echo,Hollywood,Hybrid,45.3,7.7
+ASIA,echo,Circuit Royal,Escort,44.8,7.9
 ASIA,echo,Oasis,Control,44.7,8.3
-ASIA,echo,Numbani,Hybrid,44.5,16.4
-ASIA,echo,Runasapi,Push,44.3,5.9
 ASIA,echo,Havana,Escort,42.4,2.6
-ASIA,echo,Circuit Royal,Escort,39.8,7.7
 ASIA,echo,New Junk City,Flashpoint,35.7,3.4
-ASIA,echo,Junkertown,Escort,33.7,4.0
+ASIA,echo,Junkertown,Escort,29.3,4.3
 US,echo,Blizzard World,Hybrid,69.6,5.9
-US,echo,Dorado,Escort,63.2,14.1
+US,echo,Dorado,Escort,63.1,14.2
 US,echo,Esperança,Push,60.0,6.0
 US,echo,Colosseo,Push,59.3,6.5
 US,echo,Hollywood,Hybrid,59.2,7.9
@@ -2982,15 +2982,15 @@ US,echo,King's Row,Hybrid,53.9,7.6
 US,echo,Samoa,Control,53.8,4.2
 US,echo,Runasapi,Push,53.3,4.7
 US,echo,Eichenwalde,Hybrid,53.0,13.3
+US,echo,Circuit Royal,Escort,52.8,5.3
 US,echo,Busan,Control,52.7,3.1
-US,echo,Circuit Royal,Escort,52.1,5.3
 US,echo,Aatlis,Flashpoint,51.8,3.3
 US,echo,Watchpoint: Gibraltar,Escort,51.5,8.5
 US,echo,Lijiang Tower,Control,50.6,7.5
 US,echo,Oasis,Control,50.4,7.6
+US,echo,Junkertown,Escort,49.8,4.3
 US,echo,Rialto,Escort,48.9,11.1
 US,echo,Nepal,Control,48.1,7.5
-US,echo,Junkertown,Escort,47.0,4.4
 US,echo,Suravasa,Flashpoint,44.9,3.9
 US,echo,New Junk City,Flashpoint,44.7,2.8
 US,echo,Midtown,Hybrid,37.4,5.1
@@ -3003,7 +3003,7 @@ EU,echo,Dorado,Escort,53.0,17.6
 EU,echo,Watchpoint: Gibraltar,Escort,53.0,12.4
 EU,echo,Ilios,Control,52.4,21.2
 EU,echo,Oasis,Control,52.2,10.7
-EU,echo,Eichenwalde,Hybrid,52.1,19.9
+EU,echo,Eichenwalde,Hybrid,51.9,19.4
 EU,echo,Midtown,Hybrid,51.9,9.0
 EU,echo,Suravasa,Flashpoint,51.8,8.0
 EU,echo,Esperança,Push,51.3,11.0
@@ -3011,10 +3011,10 @@ EU,echo,Runasapi,Push,51.0,7.7
 EU,echo,Circuit Royal,Escort,50.1,8.8
 EU,echo,Rialto,Escort,49.8,15.4
 EU,echo,New Queen Street,Push,49.8,6.3
-EU,echo,King's Row,Hybrid,49.6,11.6
 EU,echo,Lijiang Tower,Control,48.5,12.3
 EU,echo,Hollywood,Hybrid,48.2,10.4
 EU,echo,Nepal,Control,48.1,12.4
+EU,echo,King's Row,Hybrid,48.1,11.5
 EU,echo,Colosseo,Push,47.6,10.6
 EU,echo,Junkertown,Escort,47.2,3.9
 EU,echo,New Junk City,Flashpoint,47.2,6.6
@@ -3022,35 +3022,35 @@ EU,echo,Samoa,Control,46.7,9.9
 EU,echo,Aatlis,Flashpoint,46.6,5.7
 EU,echo,Paraíso,Hybrid,45.3,21.5
 EU,echo,Blizzard World,Hybrid,44.0,5.8
-EU,echo,Route 66,Escort,41.2,10.0
+EU,echo,Route 66,Escort,41.6,10.0
 ASIA,vendetta,Paraíso,Hybrid,74.6,5.6
-ASIA,vendetta,Numbani,Hybrid,66.3,5.7
 ASIA,vendetta,Suravasa,Flashpoint,63.7,6.1
-ASIA,vendetta,Lijiang Tower,Control,61.7,5.8
-ASIA,vendetta,Circuit Royal,Escort,60.8,3.5
+ASIA,vendetta,Lijiang Tower,Control,61.2,5.4
 ASIA,vendetta,King's Row,Hybrid,60.5,5.7
+ASIA,vendetta,Numbani,Hybrid,59.6,5.7
+ASIA,vendetta,Circuit Royal,Escort,59.5,3.3
 ASIA,vendetta,Eichenwalde,Hybrid,58.0,4.1
-ASIA,vendetta,Colosseo,Push,57.7,7.5
 ASIA,vendetta,New Queen Street,Push,57.3,5.2
+ASIA,vendetta,Colosseo,Push,57.1,7.3
 ASIA,vendetta,Nepal,Control,56.9,6.5
-ASIA,vendetta,Blizzard World,Hybrid,55.1,3.7
+ASIA,vendetta,Dorado,Escort,56.0,6.3
+ASIA,vendetta,Blizzard World,Hybrid,55.8,3.8
 ASIA,vendetta,Route 66,Escort,54.9,4.4
-ASIA,vendetta,Ilios,Control,52.4,3.5
 ASIA,vendetta,Watchpoint: Gibraltar,Escort,52.2,5.6
 ASIA,vendetta,Oasis,Control,51.8,4.1
-ASIA,vendetta,Dorado,Escort,51.5,6.7
+ASIA,vendetta,Ilios,Control,50.8,3.6
+ASIA,vendetta,Busan,Control,50.2,6.5
 ASIA,vendetta,New Junk City,Flashpoint,49.8,7.7
-ASIA,vendetta,Samoa,Control,49.6,4.6
-ASIA,vendetta,Busan,Control,49.1,6.9
+ASIA,vendetta,Samoa,Control,48.8,4.8
 ASIA,vendetta,Esperança,Push,48.8,6.4
 ASIA,vendetta,Shambali Monastery,Escort,47.9,7.6
 ASIA,vendetta,Aatlis,Flashpoint,47.0,9.6
-ASIA,vendetta,Midtown,Hybrid,46.8,8.0
+ASIA,vendetta,Midtown,Hybrid,46.8,7.5
 ASIA,vendetta,Rialto,Escort,44.8,4.0
-ASIA,vendetta,Runasapi,Push,43.7,7.0
+ASIA,vendetta,Hollywood,Hybrid,44.5,5.5
 ASIA,vendetta,Havana,Escort,43.1,4.8
-ASIA,vendetta,Hollywood,Hybrid,39.8,5.0
-ASIA,vendetta,Junkertown,Escort,26.8,4.0
+ASIA,vendetta,Runasapi,Push,42.8,7.3
+ASIA,vendetta,Junkertown,Escort,26.8,3.8
 US,vendetta,Runasapi,Push,65.6,6.0
 US,vendetta,Aatlis,Flashpoint,64.3,6.7
 US,vendetta,Eichenwalde,Hybrid,62.0,3.9
@@ -3064,36 +3064,36 @@ US,vendetta,Shambali Monastery,Escort,55.2,5.7
 US,vendetta,King's Row,Hybrid,53.8,3.8
 US,vendetta,New Junk City,Flashpoint,53.7,6.0
 US,vendetta,Nepal,Control,53.3,5.8
-US,vendetta,Circuit Royal,Escort,53.1,2.6
 US,vendetta,Oasis,Control,52.6,4.3
+US,vendetta,Circuit Royal,Escort,52.0,2.6
 US,vendetta,Esperança,Push,51.5,3.9
 US,vendetta,Samoa,Control,50.6,4.9
 US,vendetta,Watchpoint: Gibraltar,Escort,50.2,3.4
-US,vendetta,Junkertown,Escort,48.2,3.6
+US,vendetta,Junkertown,Escort,48.2,3.3
 US,vendetta,Busan,Control,47.9,3.7
 US,vendetta,Route 66,Escort,46.9,4.3
 US,vendetta,Numbani,Hybrid,46.2,2.4
-US,vendetta,Dorado,Escort,44.7,5.3
 US,vendetta,New Queen Street,Push,43.3,5.7
 US,vendetta,Hollywood,Hybrid,42.4,3.3
+US,vendetta,Dorado,Escort,41.2,5.3
 US,vendetta,Rialto,Escort,39.4,3.4
 US,vendetta,Paraíso,Hybrid,38.1,3.4
 US,vendetta,Havana,Escort,22.7,2.3
 EU,vendetta,Runasapi,Push,67.2,6.8
 EU,vendetta,Aatlis,Flashpoint,62.0,7.3
-EU,vendetta,King's Row,Hybrid,61.5,4.2
 EU,vendetta,Shambali Monastery,Escort,61.2,6.3
-EU,vendetta,Route 66,Escort,58.9,4.9
+EU,vendetta,King's Row,Hybrid,61.1,4.1
 EU,vendetta,Rialto,Escort,58.5,5.0
 EU,vendetta,Midtown,Hybrid,57.2,5.9
 EU,vendetta,New Junk City,Flashpoint,56.4,8.6
 EU,vendetta,Busan,Control,56.0,7.2
 EU,vendetta,Suravasa,Flashpoint,55.7,7.0
 EU,vendetta,Ilios,Control,55.5,5.8
+EU,vendetta,Route 66,Escort,55.3,4.9
 EU,vendetta,Hollywood,Hybrid,54.9,4.4
 EU,vendetta,Esperança,Push,54.8,5.7
 EU,vendetta,Colosseo,Push,54.7,6.0
-EU,vendetta,Eichenwalde,Hybrid,53.6,4.5
+EU,vendetta,Eichenwalde,Hybrid,53.4,4.4
 EU,vendetta,Oasis,Control,53.1,6.5
 EU,vendetta,Watchpoint: Gibraltar,Escort,52.7,4.7
 EU,vendetta,Numbani,Hybrid,52.3,5.4
@@ -3107,41 +3107,41 @@ EU,vendetta,Dorado,Escort,44.6,4.3
 EU,vendetta,Paraíso,Hybrid,40.4,5.2
 EU,vendetta,Junkertown,Escort,39.7,4.6
 EU,vendetta,Havana,Escort,38.0,3.9
-ASIA,roadhog,Lijiang Tower,Control,47.3,2.2
+ASIA,roadhog,Samoa,Control,49.4,1.6
+ASIA,roadhog,Lijiang Tower,Control,46.2,2.1
 ASIA,roadhog,Oasis,Control,43.4,2.1
 ASIA,roadhog,Nepal,Control,43.1,1.7
-ASIA,roadhog,Blizzard World,Hybrid,42.1,1.2
+ASIA,roadhog,Blizzard World,Hybrid,42.1,1.1
 ASIA,roadhog,Esperança,Push,41.4,2.4
-ASIA,roadhog,Samoa,Control,40.3,1.4
+ASIA,roadhog,Ilios,Control,40.2,3.2
 ASIA,roadhog,Shambali Monastery,Escort,38.8,2.5
-ASIA,roadhog,Ilios,Control,38.3,3.0
-ASIA,roadhog,Junkertown,Escort,38.2,1.6
+ASIA,roadhog,Colosseo,Push,38.5,1.9
+ASIA,roadhog,Junkertown,Escort,38.2,1.5
+ASIA,roadhog,Runasapi,Push,37.5,2.1
 ASIA,roadhog,Eichenwalde,Hybrid,36.4,2.7
 ASIA,roadhog,Rialto,Escort,36.3,3.1
 ASIA,roadhog,Paraíso,Hybrid,35.8,4.6
-ASIA,roadhog,Numbani,Hybrid,35.8,3.4
 ASIA,roadhog,Aatlis,Flashpoint,35.2,2.5
-ASIA,roadhog,Runasapi,Push,35.1,2.1
+ASIA,roadhog,Numbani,Hybrid,34.4,3.3
 ASIA,roadhog,Suravasa,Flashpoint,33.2,2.2
-ASIA,roadhog,Colosseo,Push,27.4,1.6
-ASIA,roadhog,Busan,Control,26.0,1.2
-ASIA,roadhog,Dorado,Escort,25.1,3.2
+ASIA,roadhog,Dorado,Escort,31.1,3.0
+ASIA,roadhog,Busan,Control,24.9,1.2
 ASIA,roadhog,New Queen Street,Push,24.8,1.6
 ASIA,roadhog,Watchpoint: Gibraltar,Escort,24.7,1.9
 ASIA,roadhog,Route 66,Escort,23.9,2.1
-ASIA,roadhog,Circuit Royal,Escort,22.5,0.6
+ASIA,roadhog,Circuit Royal,Escort,22.4,0.6
 ASIA,roadhog,King's Row,Hybrid,22.0,1.4
 ASIA,roadhog,New Junk City,Flashpoint,20.5,2.4
-ASIA,roadhog,Midtown,Hybrid,17.7,2.3
+ASIA,roadhog,Hollywood,Hybrid,18.1,2.5
+ASIA,roadhog,Midtown,Hybrid,16.8,2.3
 ASIA,roadhog,Havana,Escort,14.5,1.8
-ASIA,roadhog,Hollywood,Hybrid,12.2,2.4
 US,roadhog,Numbani,Hybrid,68.1,5.0
 US,roadhog,Route 66,Escort,60.1,7.2
 US,roadhog,Ilios,Control,55.3,8.0
 US,roadhog,Havana,Escort,55.2,2.0
 US,roadhog,Blizzard World,Hybrid,54.7,4.2
 US,roadhog,Lijiang Tower,Control,54.4,4.8
-US,roadhog,Junkertown,Escort,52.6,6.9
+US,roadhog,Junkertown,Escort,53.0,6.4
 US,roadhog,Samoa,Control,51.7,6.7
 US,roadhog,King's Row,Hybrid,50.8,4.1
 US,roadhog,Hollywood,Hybrid,50.2,5.3
@@ -3150,8 +3150,8 @@ US,roadhog,Shambali Monastery,Escort,49.8,2.7
 US,roadhog,Nepal,Control,49.0,5.8
 US,roadhog,Busan,Control,48.8,3.9
 US,roadhog,New Queen Street,Push,47.6,5.9
-US,roadhog,Dorado,Escort,46.8,5.6
 US,roadhog,Watchpoint: Gibraltar,Escort,46.6,7.3
+US,roadhog,Dorado,Escort,45.0,5.6
 US,roadhog,Rialto,Escort,44.4,4.2
 US,roadhog,Esperança,Push,43.3,4.8
 US,roadhog,Oasis,Control,43.0,5.9
@@ -3162,10 +3162,10 @@ US,roadhog,Suravasa,Flashpoint,39.9,5.3
 US,roadhog,New Junk City,Flashpoint,39.6,6.0
 US,roadhog,Midtown,Hybrid,38.8,3.9
 US,roadhog,Paraíso,Hybrid,25.7,3.9
-US,roadhog,Circuit Royal,Escort,19.8,1.2
+US,roadhog,Circuit Royal,Escort,19.3,1.3
 EU,roadhog,Hollywood,Hybrid,55.3,6.9
 EU,roadhog,Aatlis,Flashpoint,55.2,6.3
-EU,roadhog,Eichenwalde,Hybrid,54.3,5.9
+EU,roadhog,Eichenwalde,Hybrid,54.9,5.9
 EU,roadhog,Rialto,Escort,53.4,6.1
 EU,roadhog,Esperança,Push,52.8,5.8
 EU,roadhog,Busan,Control,50.4,5.1
@@ -3173,16 +3173,16 @@ EU,roadhog,Ilios,Control,49.1,9.4
 EU,roadhog,Oasis,Control,49.1,7.1
 EU,roadhog,Watchpoint: Gibraltar,Escort,48.0,7.4
 EU,roadhog,Samoa,Control,47.7,5.0
-EU,roadhog,King's Row,Hybrid,47.4,5.8
 EU,roadhog,Nepal,Control,47.3,5.5
 EU,roadhog,New Junk City,Flashpoint,46.3,5.9
+EU,roadhog,King's Row,Hybrid,46.3,5.9
 EU,roadhog,Lijiang Tower,Control,45.6,6.6
 EU,roadhog,Midtown,Hybrid,45.4,4.7
 EU,roadhog,Havana,Escort,44.0,3.8
 EU,roadhog,Junkertown,Escort,43.8,5.4
 EU,roadhog,Suravasa,Flashpoint,43.7,6.3
 EU,roadhog,Colosseo,Push,43.6,6.2
-EU,roadhog,Route 66,Escort,42.8,7.7
+EU,roadhog,Route 66,Escort,41.2,7.7
 EU,roadhog,Circuit Royal,Escort,40.0,2.4
 EU,roadhog,Runasapi,Push,39.9,6.0
 EU,roadhog,Dorado,Escort,37.1,6.7
@@ -3191,43 +3191,43 @@ EU,roadhog,Numbani,Hybrid,36.4,7.2
 EU,roadhog,Blizzard World,Hybrid,35.9,6.5
 EU,roadhog,Shambali Monastery,Escort,31.0,4.1
 EU,roadhog,Paraíso,Hybrid,30.5,5.5
-ASIA,freja,Numbani,Hybrid,58.3,6.9
+ASIA,freja,Numbani,Hybrid,57.2,6.6
 ASIA,freja,Shambali Monastery,Escort,56.6,6.0
-ASIA,freja,Samoa,Control,56.2,3.9
-ASIA,freja,Midtown,Hybrid,55.8,3.6
-ASIA,freja,Hollywood,Hybrid,54.7,5.2
+ASIA,freja,Samoa,Control,55.5,3.8
+ASIA,freja,Ilios,Control,54.5,10.8
 ASIA,freja,Oasis,Control,54.4,2.7
-ASIA,freja,Ilios,Control,53.7,10.6
+ASIA,freja,Midtown,Hybrid,53.7,3.5
+ASIA,freja,Hollywood,Hybrid,53.5,5.4
 ASIA,freja,Route 66,Escort,53.3,6.9
 ASIA,freja,New Queen Street,Push,53.2,2.8
-ASIA,freja,Lijiang Tower,Control,51.7,3.2
+ASIA,freja,Lijiang Tower,Control,52.4,3.0
+ASIA,freja,Circuit Royal,Escort,51.4,16.8
 ASIA,freja,Nepal,Control,50.8,4.4
-ASIA,freja,Circuit Royal,Escort,50.0,16.8
-ASIA,freja,Colosseo,Push,48.1,4.8
+ASIA,freja,Colosseo,Push,48.5,4.7
 ASIA,freja,Watchpoint: Gibraltar,Escort,48.0,6.3
+ASIA,freja,Dorado,Escort,47.6,8.2
 ASIA,freja,Suravasa,Flashpoint,47.5,3.2
 ASIA,freja,Esperança,Push,47.2,3.8
-ASIA,freja,Blizzard World,Hybrid,46.2,5.5
-ASIA,freja,Junkertown,Escort,46.0,9.8
+ASIA,freja,Blizzard World,Hybrid,46.2,5.2
+ASIA,freja,Junkertown,Escort,46.0,9.3
 ASIA,freja,King's Row,Hybrid,45.9,5.8
 ASIA,freja,Rialto,Escort,45.6,7.8
-ASIA,freja,Dorado,Escort,45.3,8.5
 ASIA,freja,Eichenwalde,Hybrid,45.3,5.0
 ASIA,freja,New Junk City,Flashpoint,44.5,0.9
 ASIA,freja,Paraíso,Hybrid,44.1,7.9
-ASIA,freja,Runasapi,Push,43.5,3.4
-ASIA,freja,Busan,Control,39.1,2.5
+ASIA,freja,Runasapi,Push,41.0,3.3
+ASIA,freja,Busan,Control,38.5,2.5
 ASIA,freja,Aatlis,Flashpoint,36.8,2.1
 ASIA,freja,Havana,Escort,34.0,10.4
-US,freja,Dorado,Escort,57.4,7.8
+US,freja,Dorado,Escort,58.7,7.8
 US,freja,Watchpoint: Gibraltar,Escort,57.3,6.2
 US,freja,Eichenwalde,Hybrid,57.0,4.8
 US,freja,Ilios,Control,54.8,9.4
 US,freja,New Queen Street,Push,54.1,2.7
 US,freja,Samoa,Control,51.9,2.8
 US,freja,Havana,Escort,51.0,7.7
-US,freja,Numbani,Hybrid,50.7,6.1
 US,freja,New Junk City,Flashpoint,50.7,1.0
+US,freja,Numbani,Hybrid,50.7,6.1
 US,freja,Colosseo,Push,50.4,2.6
 US,freja,Hollywood,Hybrid,50.2,5.6
 US,freja,Midtown,Hybrid,49.4,4.1
@@ -3237,9 +3237,9 @@ US,freja,Shambali Monastery,Escort,45.9,4.8
 US,freja,Oasis,Control,45.9,2.9
 US,freja,King's Row,Hybrid,45.2,4.7
 US,freja,Nepal,Control,44.0,2.9
+US,freja,Junkertown,Escort,43.4,6.7
 US,freja,Blizzard World,Hybrid,43.2,4.2
-US,freja,Junkertown,Escort,42.3,7.1
-US,freja,Circuit Royal,Escort,41.7,11.7
+US,freja,Circuit Royal,Escort,42.0,11.9
 US,freja,Route 66,Escort,40.3,7.0
 US,freja,Lijiang Tower,Control,39.7,3.5
 US,freja,Suravasa,Flashpoint,39.5,2.3
@@ -3248,8 +3248,8 @@ US,freja,Esperança,Push,35.9,2.7
 US,freja,Busan,Control,31.1,2.5
 US,freja,Aatlis,Flashpoint,23.8,1.6
 EU,freja,Blizzard World,Hybrid,58.4,6.9
-EU,freja,Route 66,Escort,51.9,8.5
-EU,freja,Eichenwalde,Hybrid,51.3,6.0
+EU,freja,Route 66,Escort,52.8,8.3
+EU,freja,Eichenwalde,Hybrid,50.8,5.9
 EU,freja,Busan,Control,50.7,3.2
 EU,freja,Suravasa,Flashpoint,50.6,2.7
 EU,freja,Circuit Royal,Escort,50.1,13.0
@@ -3259,8 +3259,8 @@ EU,freja,Rialto,Escort,47.5,6.0
 EU,freja,Dorado,Escort,47.4,7.3
 EU,freja,Watchpoint: Gibraltar,Escort,46.8,7.4
 EU,freja,Midtown,Hybrid,46.0,4.6
-EU,freja,Runasapi,Push,45.5,2.9
 EU,freja,Hollywood,Hybrid,45.5,5.6
+EU,freja,Runasapi,Push,45.5,2.9
 EU,freja,Nepal,Control,44.2,4.1
 EU,freja,New Junk City,Flashpoint,43.7,1.4
 EU,freja,Samoa,Control,43.6,3.9
@@ -3269,47 +3269,47 @@ EU,freja,Junkertown,Escort,42.8,7.5
 EU,freja,Lijiang Tower,Control,42.6,4.3
 EU,freja,Havana,Escort,41.6,8.5
 EU,freja,Esperança,Push,41.1,3.2
-EU,freja,King's Row,Hybrid,40.2,5.3
+EU,freja,King's Row,Hybrid,40.4,5.7
 EU,freja,Colosseo,Push,39.9,3.8
 EU,freja,New Queen Street,Push,38.4,3.0
 EU,freja,Paraíso,Hybrid,33.4,5.5
 EU,freja,Numbani,Hybrid,33.3,6.3
 EU,freja,Aatlis,Flashpoint,32.5,2.2
-ASIA,widowmaker,Circuit Royal,Escort,60.7,26.7
 ASIA,widowmaker,Havana,Escort,60.5,29.0
-ASIA,widowmaker,Blizzard World,Hybrid,56.5,11.9
+ASIA,widowmaker,Circuit Royal,Escort,59.2,26.6
+ASIA,widowmaker,Blizzard World,Hybrid,56.0,11.6
 ASIA,widowmaker,Paraíso,Hybrid,52.1,5.7
+ASIA,widowmaker,Junkertown,Escort,50.6,16.7
 ASIA,widowmaker,Rialto,Escort,50.3,14.2
-ASIA,widowmaker,Junkertown,Escort,49.5,16.6
 ASIA,widowmaker,Shambali Monastery,Escort,48.2,6.0
 ASIA,widowmaker,King's Row,Hybrid,47.2,7.9
 ASIA,widowmaker,Watchpoint: Gibraltar,Escort,46.9,7.3
-ASIA,widowmaker,Busan,Control,42.5,5.1
-ASIA,widowmaker,Numbani,Hybrid,41.7,4.2
-ASIA,widowmaker,Midtown,Hybrid,39.8,8.6
-ASIA,widowmaker,Ilios,Control,36.3,4.7
+ASIA,widowmaker,Busan,Control,44.8,5.1
+ASIA,widowmaker,Numbani,Hybrid,42.3,4.1
+ASIA,widowmaker,Midtown,Hybrid,38.5,8.5
+ASIA,widowmaker,Dorado,Escort,38.0,5.0
+ASIA,widowmaker,Ilios,Control,35.4,4.6
 ASIA,widowmaker,Route 66,Escort,35.1,9.8
-ASIA,widowmaker,Dorado,Escort,35.1,5.0
-ASIA,widowmaker,Samoa,Control,34.5,0.7
+ASIA,widowmaker,Samoa,Control,34.8,0.7
+ASIA,widowmaker,Lijiang Tower,Control,33.7,2.2
 ASIA,widowmaker,Eichenwalde,Hybrid,32.9,3.5
-ASIA,widowmaker,Lijiang Tower,Control,31.6,2.3
-ASIA,widowmaker,Colosseo,Push,30.3,2.1
-ASIA,widowmaker,Hollywood,Hybrid,29.1,9.2
+ASIA,widowmaker,Colosseo,Push,32.5,2.2
+ASIA,widowmaker,Hollywood,Hybrid,29.0,9.1
 ASIA,widowmaker,New Queen Street,Push,25.8,2.0
-ASIA,widowmaker,Runasapi,Push,19.1,2.4
+ASIA,widowmaker,Runasapi,Push,19.5,2.3
 ASIA,widowmaker,Nepal,Control,15.3,1.5
 ASIA,widowmaker,Oasis,Control,14.5,1.3
 ASIA,widowmaker,Esperança,Push,13.3,1.5
 ASIA,widowmaker,New Junk City,Flashpoint,11.1,0.6
 ASIA,widowmaker,Suravasa,Flashpoint,11.0,1.2
 ASIA,widowmaker,Aatlis,Flashpoint,4.1,0.2
+US,widowmaker,Circuit Royal,Escort,62.8,16.3
 US,widowmaker,Rialto,Escort,61.9,17.4
-US,widowmaker,Circuit Royal,Escort,61.8,16.3
 US,widowmaker,Havana,Escort,58.9,19.9
-US,widowmaker,Dorado,Escort,55.1,7.1
+US,widowmaker,Junkertown,Escort,56.3,15.5
 US,widowmaker,Ilios,Control,54.6,7.7
+US,widowmaker,Dorado,Escort,53.9,7.1
 US,widowmaker,Midtown,Hybrid,53.2,13.0
-US,widowmaker,Junkertown,Escort,52.3,15.2
 US,widowmaker,King's Row,Hybrid,50.4,9.5
 US,widowmaker,Eichenwalde,Hybrid,49.8,5.1
 US,widowmaker,Colosseo,Push,49.4,6.7
@@ -3337,11 +3337,11 @@ EU,widowmaker,Rialto,Escort,53.7,16.0
 EU,widowmaker,Samoa,Control,52.0,2.5
 EU,widowmaker,Paraíso,Hybrid,50.6,8.6
 EU,widowmaker,Havana,Escort,50.5,19.1
-EU,widowmaker,King's Row,Hybrid,50.4,9.5
+EU,widowmaker,King's Row,Hybrid,50.2,9.6
 EU,widowmaker,Dorado,Escort,49.5,7.5
-EU,widowmaker,Route 66,Escort,48.9,8.2
 EU,widowmaker,Ilios,Control,48.9,7.0
-EU,widowmaker,Eichenwalde,Hybrid,48.2,4.3
+EU,widowmaker,Route 66,Escort,48.7,8.0
+EU,widowmaker,Eichenwalde,Hybrid,48.5,4.3
 EU,widowmaker,Colosseo,Push,47.4,5.7
 EU,widowmaker,Watchpoint: Gibraltar,Escort,47.2,9.7
 EU,widowmaker,Busan,Control,44.2,8.2
@@ -3359,34 +3359,34 @@ EU,widowmaker,Esperança,Push,23.5,1.8
 EU,widowmaker,Runasapi,Push,23.3,2.4
 EU,widowmaker,Suravasa,Flashpoint,21.5,1.2
 EU,widowmaker,New Junk City,Flashpoint,17.9,0.9
-ASIA,venture,Colosseo,Push,65.9,3.1
-ASIA,venture,Blizzard World,Hybrid,63.4,2.6
-ASIA,venture,Ilios,Control,59.4,2.7
-ASIA,venture,Hollywood,Hybrid,57.3,3.4
+ASIA,venture,Colosseo,Push,66.0,3.0
+ASIA,venture,Blizzard World,Hybrid,63.4,2.5
+ASIA,venture,Ilios,Control,60.2,2.7
+ASIA,venture,Hollywood,Hybrid,57.0,3.2
 ASIA,venture,New Junk City,Flashpoint,53.5,5.0
-ASIA,venture,Runasapi,Push,53.2,3.2
+ASIA,venture,Runasapi,Push,53.2,3.0
 ASIA,venture,Esperança,Push,53.1,3.2
 ASIA,venture,Nepal,Control,52.1,3.1
-ASIA,venture,Lijiang Tower,Control,49.3,3.0
-ASIA,venture,Samoa,Control,49.2,3.9
 ASIA,venture,King's Row,Hybrid,49.0,4.6
+ASIA,venture,Samoa,Control,48.9,3.9
 ASIA,venture,Watchpoint: Gibraltar,Escort,48.9,2.5
+ASIA,venture,Lijiang Tower,Control,48.1,3.0
 ASIA,venture,Oasis,Control,47.6,3.4
-ASIA,venture,Busan,Control,46.1,3.1
+ASIA,venture,Busan,Control,47.5,3.1
 ASIA,venture,Suravasa,Flashpoint,44.1,3.1
-ASIA,venture,Dorado,Escort,43.9,4.3
 ASIA,venture,Aatlis,Flashpoint,43.7,6.7
 ASIA,venture,Rialto,Escort,43.2,2.8
+ASIA,venture,Dorado,Escort,43.2,3.7
 ASIA,venture,Havana,Escort,42.5,3.5
-ASIA,venture,Midtown,Hybrid,41.7,3.4
-ASIA,venture,Circuit Royal,Escort,39.0,2.9
+ASIA,venture,Circuit Royal,Escort,41.0,2.8
+ASIA,venture,Midtown,Hybrid,40.4,3.3
 ASIA,venture,New Queen Street,Push,38.2,3.2
-ASIA,venture,Numbani,Hybrid,38.1,3.4
+ASIA,venture,Numbani,Hybrid,38.0,3.2
 ASIA,venture,Route 66,Escort,35.6,2.0
 ASIA,venture,Paraíso,Hybrid,33.8,2.6
 ASIA,venture,Shambali Monastery,Escort,32.5,2.9
 ASIA,venture,Eichenwalde,Hybrid,26.6,4.3
-ASIA,venture,Junkertown,Escort,22.4,2.3
+ASIA,venture,Junkertown,Escort,18.9,2.5
 US,venture,Runasapi,Push,61.6,3.1
 US,venture,Aatlis,Flashpoint,59.0,5.0
 US,venture,Esperança,Push,55.9,2.1
@@ -3394,28 +3394,28 @@ US,venture,Eichenwalde,Hybrid,54.9,4.3
 US,venture,Shambali Monastery,Escort,53.8,4.6
 US,venture,Hollywood,Hybrid,53.8,1.9
 US,venture,Route 66,Escort,53.0,2.9
-US,venture,Circuit Royal,Escort,52.7,2.2
 US,venture,New Queen Street,Push,52.6,3.2
 US,venture,King's Row,Hybrid,51.9,3.7
 US,venture,Numbani,Hybrid,51.7,2.2
+US,venture,Circuit Royal,Escort,50.7,2.2
 US,venture,New Junk City,Flashpoint,49.7,4.9
 US,venture,Lijiang Tower,Control,49.1,3.4
 US,venture,Watchpoint: Gibraltar,Escort,48.0,2.8
-US,venture,Busan,Control,47.4,2.9
 US,venture,Nepal,Control,47.4,2.7
+US,venture,Busan,Control,47.4,2.9
 US,venture,Rialto,Escort,46.9,2.7
 US,venture,Ilios,Control,46.8,3.1
 US,venture,Oasis,Control,44.7,3.9
 US,venture,Suravasa,Flashpoint,44.7,3.8
 US,venture,Samoa,Control,43.4,3.5
 US,venture,Colosseo,Push,42.4,3.0
-US,venture,Junkertown,Escort,41.3,2.8
+US,venture,Junkertown,Escort,41.6,2.6
 US,venture,Blizzard World,Hybrid,35.0,2.7
 US,venture,Havana,Escort,34.4,1.9
 US,venture,Paraíso,Hybrid,33.3,2.5
 US,venture,Midtown,Hybrid,31.6,4.1
-US,venture,Dorado,Escort,24.4,3.3
-EU,venture,Route 66,Escort,64.9,4.0
+US,venture,Dorado,Escort,24.6,3.1
+EU,venture,Route 66,Escort,63.3,4.0
 EU,venture,New Junk City,Flashpoint,60.1,7.1
 EU,venture,Rialto,Escort,58.7,3.3
 EU,venture,Havana,Escort,57.5,1.5
@@ -3425,16 +3425,16 @@ EU,venture,Samoa,Control,53.6,3.5
 EU,venture,Hollywood,Hybrid,53.6,3.2
 EU,venture,Nepal,Control,52.9,4.3
 EU,venture,Numbani,Hybrid,52.7,4.2
+EU,venture,King's Row,Hybrid,52.1,4.4
 EU,venture,Esperança,Push,52.1,4.3
 EU,venture,Dorado,Escort,51.7,4.4
 EU,venture,Lijiang Tower,Control,51.6,4.6
 EU,venture,Colosseo,Push,51.2,3.9
 EU,venture,Runasapi,Push,51.0,3.7
 EU,venture,Watchpoint: Gibraltar,Escort,50.6,3.0
-EU,venture,King's Row,Hybrid,50.3,4.4
-EU,venture,Eichenwalde,Hybrid,49.8,3.8
 EU,venture,Ilios,Control,49.2,3.8
 EU,venture,Aatlis,Flashpoint,49.1,7.0
+EU,venture,Eichenwalde,Hybrid,48.8,3.9
 EU,venture,Busan,Control,48.4,4.0
 EU,venture,Suravasa,Flashpoint,47.1,4.1
 EU,venture,Circuit Royal,Escort,46.5,3.4
@@ -3443,35 +3443,35 @@ EU,venture,Blizzard World,Hybrid,43.7,2.2
 EU,venture,Paraíso,Hybrid,41.1,3.7
 EU,venture,Midtown,Hybrid,39.0,4.0
 EU,venture,Junkertown,Escort,21.5,2.3
-ASIA,symmetra,Dorado,Escort,71.0,3.2
 ASIA,symmetra,Route 66,Escort,69.3,4.0
-ASIA,symmetra,Watchpoint: Gibraltar,Escort,66.0,3.8
+ASIA,symmetra,Dorado,Escort,66.0,3.9
 ASIA,symmetra,Esperança,Push,66.0,3.4
-ASIA,symmetra,Busan,Control,65.0,6.7
-ASIA,symmetra,Junkertown,Escort,62.7,5.7
-ASIA,symmetra,Midtown,Hybrid,60.8,7.5
-ASIA,symmetra,Colosseo,Push,60.3,4.6
+ASIA,symmetra,Watchpoint: Gibraltar,Escort,66.0,3.8
+ASIA,symmetra,Busan,Control,64.6,6.6
+ASIA,symmetra,Junkertown,Escort,62.7,5.5
+ASIA,symmetra,Midtown,Hybrid,60.1,8.0
 ASIA,symmetra,Havana,Escort,59.7,3.6
 ASIA,symmetra,Aatlis,Flashpoint,59.1,5.2
-ASIA,symmetra,Blizzard World,Hybrid,56.7,4.9
+ASIA,symmetra,Colosseo,Push,58.4,4.6
 ASIA,symmetra,Rialto,Escort,55.1,5.6
-ASIA,symmetra,Samoa,Control,53.6,4.9
+ASIA,symmetra,Blizzard World,Hybrid,54.7,5.3
+ASIA,symmetra,Samoa,Control,54.4,5.1
 ASIA,symmetra,Eichenwalde,Hybrid,53.0,5.4
-ASIA,symmetra,Hollywood,Hybrid,52.3,4.7
 ASIA,symmetra,King's Row,Hybrid,51.9,5.6
 ASIA,symmetra,Oasis,Control,50.5,6.0
-ASIA,symmetra,Circuit Royal,Escort,50.3,7.1
+ASIA,symmetra,Circuit Royal,Escort,49.3,6.9
+ASIA,symmetra,Hollywood,Hybrid,49.1,5.0
 ASIA,symmetra,Nepal,Control,48.6,7.6
 ASIA,symmetra,New Junk City,Flashpoint,47.9,6.8
-ASIA,symmetra,Runasapi,Push,47.8,5.1
+ASIA,symmetra,Runasapi,Push,47.8,5.2
 ASIA,symmetra,New Queen Street,Push,46.3,3.0
-ASIA,symmetra,Ilios,Control,45.7,6.7
-ASIA,symmetra,Numbani,Hybrid,45.4,4.5
-ASIA,symmetra,Lijiang Tower,Control,45.0,7.0
+ASIA,symmetra,Lijiang Tower,Control,44.8,7.3
+ASIA,symmetra,Ilios,Control,43.7,6.9
 ASIA,symmetra,Suravasa,Flashpoint,43.7,4.7
+ASIA,symmetra,Numbani,Hybrid,42.9,4.3
 ASIA,symmetra,Shambali Monastery,Escort,39.3,4.4
 ASIA,symmetra,Paraíso,Hybrid,14.3,6.2
-US,symmetra,Junkertown,Escort,94.0,2.2
+US,symmetra,Junkertown,Escort,84.5,2.2
 US,symmetra,Esperança,Push,71.4,2.3
 US,symmetra,Route 66,Escort,64.6,3.5
 US,symmetra,Nepal,Control,61.2,6.0
@@ -3483,13 +3483,13 @@ US,symmetra,Samoa,Control,57.0,3.8
 US,symmetra,Lijiang Tower,Control,56.2,5.3
 US,symmetra,Shambali Monastery,Escort,55.9,2.2
 US,symmetra,Midtown,Hybrid,55.1,3.2
-US,symmetra,Dorado,Escort,54.4,1.8
 US,symmetra,New Junk City,Flashpoint,54.4,3.8
 US,symmetra,Runasapi,Push,52.8,1.4
 US,symmetra,Blizzard World,Hybrid,52.6,2.8
 US,symmetra,Eichenwalde,Hybrid,52.3,3.4
-US,symmetra,Circuit Royal,Escort,51.0,3.1
+US,symmetra,Dorado,Escort,51.7,1.7
 US,symmetra,Ilios,Control,50.9,3.1
+US,symmetra,Circuit Royal,Escort,49.6,3.1
 US,symmetra,King's Row,Hybrid,48.6,3.4
 US,symmetra,Rialto,Escort,47.0,2.3
 US,symmetra,Suravasa,Flashpoint,45.8,2.9
@@ -3503,11 +3503,11 @@ EU,symmetra,Havana,Escort,65.8,4.5
 EU,symmetra,Suravasa,Flashpoint,64.4,3.5
 EU,symmetra,Hollywood,Hybrid,60.7,5.8
 EU,symmetra,New Junk City,Flashpoint,59.9,5.9
-EU,symmetra,King's Row,Hybrid,59.1,6.0
+EU,symmetra,King's Row,Hybrid,59.3,5.9
 EU,symmetra,Aatlis,Flashpoint,58.8,5.7
 EU,symmetra,Circuit Royal,Escort,57.2,6.6
-EU,symmetra,Numbani,Hybrid,56.6,4.0
 EU,symmetra,Lijiang Tower,Control,56.6,7.1
+EU,symmetra,Numbani,Hybrid,56.6,4.0
 EU,symmetra,New Queen Street,Push,56.2,3.4
 EU,symmetra,Oasis,Control,56.1,4.5
 EU,symmetra,Watchpoint: Gibraltar,Escort,56.0,3.6
@@ -3516,62 +3516,61 @@ EU,symmetra,Junkertown,Escort,55.2,3.9
 EU,symmetra,Nepal,Control,54.4,8.0
 EU,symmetra,Busan,Control,54.1,5.3
 EU,symmetra,Paraíso,Hybrid,53.0,4.5
-EU,symmetra,Route 66,Escort,53.0,5.7
+EU,symmetra,Route 66,Escort,53.0,5.4
 EU,symmetra,Colosseo,Push,51.9,4.0
-EU,symmetra,Midtown,Hybrid,51.0,6.5
+EU,symmetra,Eichenwalde,Hybrid,51.1,5.0
 EU,symmetra,Runasapi,Push,51.0,4.9
+EU,symmetra,Midtown,Hybrid,51.0,6.5
 EU,symmetra,Samoa,Control,50.9,6.1
-EU,symmetra,Eichenwalde,Hybrid,50.2,4.9
 EU,symmetra,Blizzard World,Hybrid,47.0,5.7
 EU,symmetra,Ilios,Control,46.9,3.8
 EU,symmetra,Dorado,Escort,46.2,4.1
 EU,symmetra,Rialto,Escort,40.5,3.8
 EU,symmetra,Esperança,Push,37.2,3.0
 ASIA,lifeweaver,Watchpoint: Gibraltar,Escort,59.4,0.8
+ASIA,lifeweaver,Samoa,Control,47.5,0.8
 ASIA,lifeweaver,Nepal,Control,47.4,1.1
 ASIA,lifeweaver,Route 66,Escort,46.9,2.4
 ASIA,lifeweaver,Havana,Escort,46.4,2.7
-ASIA,lifeweaver,Ilios,Control,43.8,0.8
 ASIA,lifeweaver,Esperança,Push,43.7,0.9
-ASIA,lifeweaver,Samoa,Control,39.2,0.8
+ASIA,lifeweaver,Ilios,Control,43.7,0.8
 ASIA,lifeweaver,New Queen Street,Push,36.9,0.9
-ASIA,lifeweaver,Busan,Control,32.7,1.1
+ASIA,lifeweaver,Busan,Control,31.8,1.1
 ASIA,lifeweaver,King's Row,Hybrid,28.5,1.9
-ASIA,lifeweaver,Midtown,Hybrid,28.5,1.8
 ASIA,lifeweaver,Aatlis,Flashpoint,28.3,0.8
-ASIA,lifeweaver,Hollywood,Hybrid,27.9,1.7
-ASIA,lifeweaver,Blizzard World,Hybrid,27.8,1.8
-ASIA,lifeweaver,Circuit Royal,Escort,27.3,2.4
-ASIA,lifeweaver,Lijiang Tower,Control,23.7,1.3
-ASIA,lifeweaver,Colosseo,Push,19.4,1.1
-ASIA,lifeweaver,Numbani,Hybrid,16.9,1.3
-ASIA,lifeweaver,Runasapi,Push,14.1,0.9
+ASIA,lifeweaver,Midtown,Hybrid,28.2,1.7
+ASIA,lifeweaver,Hollywood,Hybrid,27.9,1.6
+ASIA,lifeweaver,Blizzard World,Hybrid,27.8,1.6
+ASIA,lifeweaver,Circuit Royal,Escort,27.3,2.3
+ASIA,lifeweaver,Lijiang Tower,Control,21.7,1.3
+ASIA,lifeweaver,Colosseo,Push,19.4,1.0
+ASIA,lifeweaver,Numbani,Hybrid,16.9,1.2
+ASIA,lifeweaver,Runasapi,Push,14.1,0.8
 ASIA,lifeweaver,Shambali Monastery,Escort,13.7,1.2
 ASIA,lifeweaver,Suravasa,Flashpoint,12.6,0.8
 ASIA,lifeweaver,Rialto,Escort,10.1,1.9
 ASIA,lifeweaver,Eichenwalde,Hybrid,10.1,1.8
 ASIA,lifeweaver,Oasis,Control,9.9,0.8
-ASIA,lifeweaver,Junkertown,Escort,1.1,1.7
-ASIA,lifeweaver,Dorado,Escort,0.4,0.5
+ASIA,lifeweaver,Junkertown,Escort,1.1,1.6
 ASIA,lifeweaver,New Junk City,Flashpoint,0.3,0.3
+ASIA,lifeweaver,Dorado,Escort,0.3,0.5
 ASIA,lifeweaver,Paraíso,Hybrid,0.0,3.8
 US,lifeweaver,Busan,Control,63.8,1.9
 US,lifeweaver,Paraíso,Hybrid,62.1,4.2
 US,lifeweaver,Blizzard World,Hybrid,58.3,2.9
 US,lifeweaver,Numbani,Hybrid,56.1,2.7
-US,lifeweaver,Circuit Royal,Escort,53.6,3.1
 US,lifeweaver,Ilios,Control,53.4,2.2
+US,lifeweaver,Circuit Royal,Escort,51.6,3.1
+US,lifeweaver,Dorado,Escort,50.3,2.7
 US,lifeweaver,Samoa,Control,50.1,2.3
 US,lifeweaver,New Queen Street,Push,49.6,1.7
 US,lifeweaver,Eichenwalde,Hybrid,48.3,3.0
 US,lifeweaver,Havana,Escort,46.8,2.5
 US,lifeweaver,Shambali Monastery,Escort,45.4,2.3
 US,lifeweaver,King's Row,Hybrid,45.1,2.1
-US,lifeweaver,Dorado,Escort,44.6,2.5
 US,lifeweaver,Rialto,Escort,44.5,2.7
 US,lifeweaver,Nepal,Control,43.8,1.2
 US,lifeweaver,Midtown,Hybrid,42.6,2.0
-US,lifeweaver,Junkertown,Escort,40.9,3.1
 US,lifeweaver,Suravasa,Flashpoint,39.9,1.8
 US,lifeweaver,Watchpoint: Gibraltar,Escort,38.0,3.5
 US,lifeweaver,Lijiang Tower,Control,37.9,1.1
@@ -3579,6 +3578,7 @@ US,lifeweaver,Runasapi,Push,37.4,1.9
 US,lifeweaver,Hollywood,Hybrid,37.1,1.8
 US,lifeweaver,Oasis,Control,34.1,1.8
 US,lifeweaver,New Junk City,Flashpoint,33.8,1.1
+US,lifeweaver,Junkertown,Escort,33.7,3.5
 US,lifeweaver,Colosseo,Push,33.6,1.4
 US,lifeweaver,Esperança,Push,32.6,2.0
 US,lifeweaver,Route 66,Escort,31.8,2.3
@@ -3589,8 +3589,8 @@ EU,lifeweaver,Shambali Monastery,Escort,57.0,2.2
 EU,lifeweaver,Colosseo,Push,54.5,2.3
 EU,lifeweaver,Blizzard World,Hybrid,53.0,3.0
 EU,lifeweaver,Nepal,Control,51.8,1.7
-EU,lifeweaver,Route 66,Escort,51.8,2.8
 EU,lifeweaver,New Queen Street,Push,51.3,2.6
+EU,lifeweaver,Route 66,Escort,50.6,2.7
 EU,lifeweaver,Midtown,Hybrid,50.2,3.2
 EU,lifeweaver,Oasis,Control,49.7,2.1
 EU,lifeweaver,Rialto,Escort,49.5,2.3
@@ -3603,44 +3603,44 @@ EU,lifeweaver,Busan,Control,43.2,2.5
 EU,lifeweaver,Runasapi,Push,42.0,1.7
 EU,lifeweaver,Paraíso,Hybrid,41.6,1.6
 EU,lifeweaver,Ilios,Control,41.6,2.0
-EU,lifeweaver,King's Row,Hybrid,40.6,2.6
+EU,lifeweaver,King's Row,Hybrid,40.1,2.6
 EU,lifeweaver,Dorado,Escort,39.6,2.6
 EU,lifeweaver,Lijiang Tower,Control,36.3,1.6
 EU,lifeweaver,New Junk City,Flashpoint,36.1,1.3
-EU,lifeweaver,Eichenwalde,Hybrid,33.3,2.6
+EU,lifeweaver,Eichenwalde,Hybrid,35.3,2.6
 EU,lifeweaver,Numbani,Hybrid,31.9,2.5
 EU,lifeweaver,Junkertown,Escort,27.9,2.1
 EU,lifeweaver,Aatlis,Flashpoint,26.5,0.9
 ASIA,sombra,Paraíso,Hybrid,84.7,5.3
 ASIA,sombra,New Junk City,Flashpoint,74.9,1.9
 ASIA,sombra,Havana,Escort,65.9,2.8
-ASIA,sombra,Circuit Royal,Escort,58.3,1.4
-ASIA,sombra,Midtown,Hybrid,57.7,1.7
-ASIA,sombra,Junkertown,Escort,55.9,4.0
+ASIA,sombra,Junkertown,Escort,59.4,4.4
+ASIA,sombra,Midtown,Hybrid,53.9,1.7
+ASIA,sombra,Circuit Royal,Escort,53.8,1.4
 ASIA,sombra,Rialto,Escort,53.8,2.9
 ASIA,sombra,Shambali Monastery,Escort,52.1,3.0
-ASIA,sombra,Busan,Control,50.4,3.5
+ASIA,sombra,Busan,Control,50.1,3.8
 ASIA,sombra,Esperança,Push,48.7,2.7
 ASIA,sombra,Eichenwalde,Hybrid,48.3,2.6
-ASIA,sombra,Hollywood,Hybrid,47.6,1.8
 ASIA,sombra,Route 66,Escort,46.7,2.3
 ASIA,sombra,Nepal,Control,45.8,2.8
-ASIA,sombra,Lijiang Tower,Control,45.6,1.6
-ASIA,sombra,Colosseo,Push,44.5,3.1
+ASIA,sombra,Hollywood,Hybrid,44.7,1.8
+ASIA,sombra,Lijiang Tower,Control,44.1,1.7
 ASIA,sombra,Oasis,Control,44.0,4.0
-ASIA,sombra,Ilios,Control,43.4,4.4
-ASIA,sombra,Dorado,Escort,42.6,2.7
+ASIA,sombra,Ilios,Control,42.2,4.3
+ASIA,sombra,Colosseo,Push,41.9,3.5
 ASIA,sombra,Watchpoint: Gibraltar,Escort,41.3,2.6
-ASIA,sombra,Samoa,Control,40.1,2.1
-ASIA,sombra,Runasapi,Push,37.5,3.5
+ASIA,sombra,Samoa,Control,39.2,2.1
+ASIA,sombra,Runasapi,Push,38.6,3.3
+ASIA,sombra,Dorado,Escort,34.6,3.0
 ASIA,sombra,Suravasa,Flashpoint,34.6,4.7
 ASIA,sombra,King's Row,Hybrid,33.4,1.7
-ASIA,sombra,Blizzard World,Hybrid,32.3,2.6
 ASIA,sombra,New Queen Street,Push,28.8,4.3
+ASIA,sombra,Blizzard World,Hybrid,27.7,2.9
 ASIA,sombra,Aatlis,Flashpoint,25.3,2.2
-ASIA,sombra,Numbani,Hybrid,21.2,3.1
+ASIA,sombra,Numbani,Hybrid,22.8,3.3
 US,sombra,Numbani,Hybrid,81.4,2.2
-US,sombra,Junkertown,Escort,63.6,2.5
+US,sombra,Junkertown,Escort,69.4,2.8
 US,sombra,Route 66,Escort,63.3,1.9
 US,sombra,Hollywood,Hybrid,61.6,2.3
 US,sombra,Paraíso,Hybrid,59.4,3.6
@@ -3657,22 +3657,22 @@ US,sombra,Shambali Monastery,Escort,46.3,1.9
 US,sombra,King's Row,Hybrid,46.1,1.5
 US,sombra,Blizzard World,Hybrid,45.0,2.1
 US,sombra,Lijiang Tower,Control,44.5,2.0
+US,sombra,Circuit Royal,Escort,40.2,0.9
+US,sombra,Dorado,Escort,40.0,2.6
 US,sombra,Watchpoint: Gibraltar,Escort,39.8,1.9
 US,sombra,Runasapi,Push,39.5,2.9
 US,sombra,Esperança,Push,39.1,2.4
 US,sombra,Busan,Control,37.0,2.5
 US,sombra,Rialto,Escort,36.4,2.3
-US,sombra,Dorado,Escort,36.2,2.6
 US,sombra,Havana,Escort,33.9,1.8
 US,sombra,Nepal,Control,33.7,1.9
-US,sombra,Circuit Royal,Escort,30.2,0.8
 US,sombra,Aatlis,Flashpoint,27.9,1.7
 EU,sombra,Midtown,Hybrid,68.7,1.6
 EU,sombra,Paraíso,Hybrid,66.1,3.7
 EU,sombra,Junkertown,Escort,58.4,3.1
-EU,sombra,Hollywood,Hybrid,56.9,2.7
 EU,sombra,Havana,Escort,56.9,1.9
-EU,sombra,Eichenwalde,Hybrid,54.4,2.6
+EU,sombra,Hollywood,Hybrid,56.9,2.7
+EU,sombra,Eichenwalde,Hybrid,56.6,2.6
 EU,sombra,Rialto,Escort,54.1,2.4
 EU,sombra,Nepal,Control,52.9,2.7
 EU,sombra,Blizzard World,Hybrid,51.0,2.4
@@ -3680,13 +3680,13 @@ EU,sombra,Suravasa,Flashpoint,50.0,3.4
 EU,sombra,Shambali Monastery,Escort,49.9,1.7
 EU,sombra,Colosseo,Push,48.9,3.4
 EU,sombra,Ilios,Control,48.5,3.0
-EU,sombra,Route 66,Escort,48.3,2.1
 EU,sombra,Busan,Control,47.1,3.1
+EU,sombra,Route 66,Escort,46.9,2.5
 EU,sombra,Runasapi,Push,46.6,3.7
 EU,sombra,Lijiang Tower,Control,45.5,2.4
-EU,sombra,King's Row,Hybrid,43.9,1.7
 EU,sombra,Aatlis,Flashpoint,43.5,3.3
 EU,sombra,New Junk City,Flashpoint,42.6,2.2
+EU,sombra,King's Row,Hybrid,41.4,1.7
 EU,sombra,New Queen Street,Push,40.7,3.7
 EU,sombra,Circuit Royal,Escort,40.6,1.2
 EU,sombra,Numbani,Hybrid,40.3,3.1
@@ -3695,28 +3695,28 @@ EU,sombra,Samoa,Control,38.1,2.8
 EU,sombra,Oasis,Control,37.5,3.4
 EU,sombra,Watchpoint: Gibraltar,Escort,37.4,3.1
 EU,sombra,Dorado,Escort,36.2,2.3
-ASIA,wreckingball,Circuit Royal,Escort,63.5,1.1
 ASIA,wreckingball,Eichenwalde,Hybrid,63.0,6.3
 ASIA,wreckingball,Esperança,Push,62.5,9.0
 ASIA,wreckingball,Suravasa,Flashpoint,60.3,11.7
-ASIA,wreckingball,Hollywood,Hybrid,58.1,5.3
+ASIA,wreckingball,Hollywood,Hybrid,58.4,5.1
+ASIA,wreckingball,Junkertown,Escort,56.7,9.7
 ASIA,wreckingball,Watchpoint: Gibraltar,Escort,55.3,5.8
-ASIA,wreckingball,Junkertown,Escort,54.5,9.7
 ASIA,wreckingball,Aatlis,Flashpoint,54.0,8.0
-ASIA,wreckingball,Ilios,Control,53.9,12.5
+ASIA,wreckingball,Circuit Royal,Escort,53.9,1.2
 ASIA,wreckingball,King's Row,Hybrid,53.9,3.2
+ASIA,wreckingball,Ilios,Control,53.3,12.0
 ASIA,wreckingball,Paraíso,Hybrid,52.3,5.5
+ASIA,wreckingball,Lijiang Tower,Control,51.1,8.6
 ASIA,wreckingball,Oasis,Control,50.5,8.2
-ASIA,wreckingball,Numbani,Hybrid,49.9,5.5
-ASIA,wreckingball,Lijiang Tower,Control,49.2,8.3
-ASIA,wreckingball,Samoa,Control,48.7,6.7
+ASIA,wreckingball,Blizzard World,Hybrid,50.5,8.0
+ASIA,wreckingball,Numbani,Hybrid,50.1,5.6
 ASIA,wreckingball,New Queen Street,Push,48.1,11.7
-ASIA,wreckingball,Colosseo,Push,47.9,7.5
-ASIA,wreckingball,Midtown,Hybrid,47.7,3.7
-ASIA,wreckingball,Blizzard World,Hybrid,46.9,7.3
-ASIA,wreckingball,Busan,Control,45.8,8.8
-ASIA,wreckingball,Dorado,Escort,45.0,7.7
-ASIA,wreckingball,Runasapi,Push,43.4,8.1
+ASIA,wreckingball,Midtown,Hybrid,47.7,3.4
+ASIA,wreckingball,Dorado,Escort,47.2,7.6
+ASIA,wreckingball,Samoa,Control,47.1,6.6
+ASIA,wreckingball,Colosseo,Push,46.5,7.7
+ASIA,wreckingball,Busan,Control,46.2,8.6
+ASIA,wreckingball,Runasapi,Push,42.5,8.2
 ASIA,wreckingball,Shambali Monastery,Escort,42.1,4.6
 ASIA,wreckingball,Nepal,Control,41.7,6.3
 ASIA,wreckingball,Rialto,Escort,41.3,5.7
@@ -3724,7 +3724,7 @@ ASIA,wreckingball,New Junk City,Flashpoint,40.5,4.8
 ASIA,wreckingball,Route 66,Escort,34.7,6.1
 ASIA,wreckingball,Havana,Escort,28.4,4.5
 US,wreckingball,Paraíso,Hybrid,67.9,8.4
-US,wreckingball,Junkertown,Escort,61.4,7.8
+US,wreckingball,Junkertown,Escort,60.1,8.3
 US,wreckingball,Colosseo,Push,59.8,6.2
 US,wreckingball,Watchpoint: Gibraltar,Escort,58.2,7.7
 US,wreckingball,Rialto,Escort,55.8,5.7
@@ -3732,8 +3732,8 @@ US,wreckingball,Numbani,Hybrid,55.7,7.2
 US,wreckingball,New Junk City,Flashpoint,55.6,5.5
 US,wreckingball,Route 66,Escort,55.2,6.0
 US,wreckingball,Ilios,Control,54.9,12.2
-US,wreckingball,Dorado,Escort,54.0,6.6
-US,wreckingball,Circuit Royal,Escort,53.6,3.5
+US,wreckingball,Dorado,Escort,53.5,6.6
+US,wreckingball,Circuit Royal,Escort,52.5,3.6
 US,wreckingball,Suravasa,Flashpoint,52.4,9.1
 US,wreckingball,Esperança,Push,51.0,9.0
 US,wreckingball,Hollywood,Hybrid,50.8,5.3
@@ -3756,7 +3756,7 @@ EU,wreckingball,Havana,Escort,62.4,5.2
 EU,wreckingball,Numbani,Hybrid,60.7,10.3
 EU,wreckingball,New Queen Street,Push,60.5,13.0
 EU,wreckingball,New Junk City,Flashpoint,59.7,8.0
-EU,wreckingball,Route 66,Escort,59.0,11.4
+EU,wreckingball,Route 66,Escort,58.3,11.5
 EU,wreckingball,Ilios,Control,56.6,12.7
 EU,wreckingball,Lijiang Tower,Control,55.7,10.6
 EU,wreckingball,Watchpoint: Gibraltar,Escort,55.3,11.3
@@ -3768,12 +3768,12 @@ EU,wreckingball,Busan,Control,52.5,13.1
 EU,wreckingball,Rialto,Escort,51.9,7.1
 EU,wreckingball,Esperança,Push,51.8,12.0
 EU,wreckingball,Suravasa,Flashpoint,51.0,11.4
-EU,wreckingball,King's Row,Hybrid,50.0,5.6
 EU,wreckingball,Nepal,Control,50.0,10.3
 EU,wreckingball,Midtown,Hybrid,50.0,5.2
+EU,wreckingball,King's Row,Hybrid,50.0,5.8
 EU,wreckingball,Junkertown,Escort,49.4,8.5
+EU,wreckingball,Eichenwalde,Hybrid,47.9,9.7
 EU,wreckingball,Blizzard World,Hybrid,47.7,10.0
-EU,wreckingball,Eichenwalde,Hybrid,46.7,9.7
 EU,wreckingball,Samoa,Control,46.3,8.9
 EU,wreckingball,Runasapi,Push,45.0,10.9
 EU,wreckingball,Hollywood,Hybrid,43.4,7.1
@@ -3781,31 +3781,31 @@ EU,wreckingball,Circuit Royal,Escort,39.4,4.9
 EU,wreckingball,Paraíso,Hybrid,38.2,7.5
 ASIA,brigitte,Havana,Escort,63.3,7.1
 ASIA,brigitte,King's Row,Hybrid,60.9,7.5
-ASIA,brigitte,Blizzard World,Hybrid,58.2,9.2
-ASIA,brigitte,Runasapi,Push,58.1,9.2
+ASIA,brigitte,Runasapi,Push,57.9,9.2
 ASIA,brigitte,Nepal,Control,57.7,8.6
-ASIA,brigitte,Junkertown,Escort,55.3,11.3
+ASIA,brigitte,Blizzard World,Hybrid,55.9,9.2
+ASIA,brigitte,Junkertown,Escort,54.8,11.0
 ASIA,brigitte,Watchpoint: Gibraltar,Escort,54.6,13.9
 ASIA,brigitte,Rialto,Escort,54.3,11.5
 ASIA,brigitte,Shambali Monastery,Escort,53.6,6.7
-ASIA,brigitte,Dorado,Escort,52.5,16.4
-ASIA,brigitte,Circuit Royal,Escort,52.1,1.8
 ASIA,brigitte,Oasis,Control,50.3,11.2
-ASIA,brigitte,Ilios,Control,48.1,14.0
-ASIA,brigitte,Samoa,Control,47.6,9.8
-ASIA,brigitte,Hollywood,Hybrid,47.2,9.2
+ASIA,brigitte,Dorado,Escort,49.9,15.8
+ASIA,brigitte,Ilios,Control,47.7,13.4
+ASIA,brigitte,Samoa,Control,47.3,9.5
+ASIA,brigitte,Busan,Control,47.0,10.0
 ASIA,brigitte,New Queen Street,Push,46.9,9.0
-ASIA,brigitte,Lijiang Tower,Control,45.7,8.5
-ASIA,brigitte,Busan,Control,45.2,9.9
+ASIA,brigitte,Lijiang Tower,Control,46.8,8.7
+ASIA,brigitte,Hollywood,Hybrid,46.0,8.8
+ASIA,brigitte,Circuit Royal,Escort,45.4,1.9
 ASIA,brigitte,Suravasa,Flashpoint,45.1,8.8
-ASIA,brigitte,Colosseo,Push,44.4,9.5
 ASIA,brigitte,New Junk City,Flashpoint,43.5,6.6
 ASIA,brigitte,Eichenwalde,Hybrid,43.4,12.3
 ASIA,brigitte,Paraíso,Hybrid,43.2,9.4
 ASIA,brigitte,Route 66,Escort,42.8,13.7
+ASIA,brigitte,Colosseo,Push,42.6,9.4
 ASIA,brigitte,Esperança,Push,42.2,10.9
-ASIA,brigitte,Numbani,Hybrid,41.4,12.6
-ASIA,brigitte,Midtown,Hybrid,40.8,5.8
+ASIA,brigitte,Midtown,Hybrid,41.9,6.3
+ASIA,brigitte,Numbani,Hybrid,38.7,12.9
 ASIA,brigitte,Aatlis,Flashpoint,36.0,10.2
 US,brigitte,Havana,Escort,69.1,2.8
 US,brigitte,Runasapi,Push,57.8,8.1
@@ -3821,11 +3821,11 @@ US,brigitte,Rialto,Escort,50.4,7.7
 US,brigitte,Nepal,Control,50.1,8.5
 US,brigitte,New Junk City,Flashpoint,49.9,7.5
 US,brigitte,Oasis,Control,48.6,9.9
+US,brigitte,Junkertown,Escort,48.0,9.2
 US,brigitte,Ilios,Control,47.9,9.9
 US,brigitte,Colosseo,Push,47.7,7.2
-US,brigitte,Junkertown,Escort,47.6,8.7
+US,brigitte,Dorado,Escort,47.6,16.9
 US,brigitte,Watchpoint: Gibraltar,Escort,47.5,15.7
-US,brigitte,Dorado,Escort,46.9,17.0
 US,brigitte,King's Row,Hybrid,46.5,4.8
 US,brigitte,Paraíso,Hybrid,45.1,12.1
 US,brigitte,Hollywood,Hybrid,44.2,9.4
@@ -3833,25 +3833,25 @@ US,brigitte,Shambali Monastery,Escort,43.1,6.5
 US,brigitte,Numbani,Hybrid,42.9,9.7
 US,brigitte,Esperança,Push,42.1,9.7
 US,brigitte,Blizzard World,Hybrid,41.6,8.1
-US,brigitte,Circuit Royal,Escort,40.1,2.2
+US,brigitte,Circuit Royal,Escort,39.5,2.2
 US,brigitte,Midtown,Hybrid,39.0,5.7
 EU,brigitte,Junkertown,Escort,56.8,8.5
 EU,brigitte,Samoa,Control,54.0,6.1
 EU,brigitte,New Queen Street,Push,53.3,8.3
 EU,brigitte,Rialto,Escort,51.6,6.8
+EU,brigitte,Route 66,Escort,51.5,10.1
 EU,brigitte,Midtown,Hybrid,51.5,5.9
 EU,brigitte,Paraíso,Hybrid,51.1,14.4
 EU,brigitte,Shambali Monastery,Escort,50.6,5.1
-EU,brigitte,Route 66,Escort,50.5,10.1
 EU,brigitte,Runasapi,Push,50.1,7.4
 EU,brigitte,Colosseo,Push,49.8,7.0
 EU,brigitte,Hollywood,Hybrid,49.7,7.9
-EU,brigitte,Eichenwalde,Hybrid,48.9,6.5
 EU,brigitte,Lijiang Tower,Control,48.6,5.5
 EU,brigitte,Nepal,Control,48.5,7.0
 EU,brigitte,Aatlis,Flashpoint,47.7,7.4
 EU,brigitte,Dorado,Escort,47.5,16.4
 EU,brigitte,Watchpoint: Gibraltar,Escort,47.4,12.8
+EU,brigitte,Eichenwalde,Hybrid,47.3,6.3
 EU,brigitte,Ilios,Control,47.0,8.1
 EU,brigitte,Busan,Control,46.7,7.6
 EU,brigitte,Suravasa,Flashpoint,46.6,7.0
@@ -3860,48 +3860,48 @@ EU,brigitte,Blizzard World,Hybrid,44.6,7.5
 EU,brigitte,Esperança,Push,44.2,7.8
 EU,brigitte,Oasis,Control,42.8,7.8
 EU,brigitte,Numbani,Hybrid,41.9,8.2
-EU,brigitte,King's Row,Hybrid,40.9,5.2
-EU,brigitte,Havana,Escort,40.1,3.6
+EU,brigitte,King's Row,Hybrid,41.2,5.1
 EU,brigitte,Circuit Royal,Escort,40.1,2.0
-ASIA,torbjorn,Runasapi,Push,67.5,1.4
+EU,brigitte,Havana,Escort,40.1,3.6
+ASIA,torbjorn,Runasapi,Push,71.5,1.5
 ASIA,torbjorn,Nepal,Control,67.3,1.5
-ASIA,torbjorn,Colosseo,Push,66.4,1.6
+ASIA,torbjorn,Colosseo,Push,66.4,1.5
+ASIA,torbjorn,Junkertown,Escort,61.1,4.3
 ASIA,torbjorn,Oasis,Control,59.6,2.0
 ASIA,torbjorn,New Junk City,Flashpoint,58.9,1.2
 ASIA,torbjorn,Rialto,Escort,57.0,1.3
-ASIA,torbjorn,Junkertown,Escort,56.9,4.1
-ASIA,torbjorn,Midtown,Hybrid,56.7,2.1
+ASIA,torbjorn,Midtown,Hybrid,56.7,2.0
 ASIA,torbjorn,Watchpoint: Gibraltar,Escort,56.1,2.0
-ASIA,torbjorn,Ilios,Control,55.1,0.9
-ASIA,torbjorn,Numbani,Hybrid,53.9,1.6
+ASIA,torbjorn,Ilios,Control,54.5,1.0
+ASIA,torbjorn,Dorado,Escort,52.5,1.5
 ASIA,torbjorn,New Queen Street,Push,52.5,1.8
+ASIA,torbjorn,Numbani,Hybrid,50.5,1.6
 ASIA,torbjorn,Aatlis,Flashpoint,49.8,1.2
+ASIA,torbjorn,Lijiang Tower,Control,45.9,1.5
 ASIA,torbjorn,Route 66,Escort,45.8,2.7
-ASIA,torbjorn,Dorado,Escort,45.8,1.4
-ASIA,torbjorn,Samoa,Control,42.2,1.7
-ASIA,torbjorn,Busan,Control,42.0,2.7
-ASIA,torbjorn,Lijiang Tower,Control,41.8,1.3
+ASIA,torbjorn,Busan,Control,44.7,2.8
+ASIA,torbjorn,Samoa,Control,42.0,1.9
 ASIA,torbjorn,Suravasa,Flashpoint,41.2,2.1
 ASIA,torbjorn,King's Row,Hybrid,40.1,1.7
-ASIA,torbjorn,Circuit Royal,Escort,38.0,1.4
+ASIA,torbjorn,Circuit Royal,Escort,34.9,1.5
+ASIA,torbjorn,Hollywood,Hybrid,28.7,2.2
 ASIA,torbjorn,Eichenwalde,Hybrid,28.1,2.0
 ASIA,torbjorn,Shambali Monastery,Escort,28.1,1.4
-ASIA,torbjorn,Blizzard World,Hybrid,28.0,2.0
-ASIA,torbjorn,Hollywood,Hybrid,25.9,2.3
+ASIA,torbjorn,Blizzard World,Hybrid,28.0,1.8
 ASIA,torbjorn,Esperança,Push,21.9,1.4
 ASIA,torbjorn,Havana,Escort,21.5,1.1
 ASIA,torbjorn,Paraíso,Hybrid,0.0,1.4
-US,torbjorn,Junkertown,Escort,81.5,7.4
+US,torbjorn,Junkertown,Escort,77.4,7.2
 US,torbjorn,New Junk City,Flashpoint,56.8,3.2
 US,torbjorn,Numbani,Hybrid,56.8,4.8
 US,torbjorn,Oasis,Control,56.3,2.8
+US,torbjorn,Dorado,Escort,56.0,4.3
 US,torbjorn,Havana,Escort,54.4,2.8
 US,torbjorn,Lijiang Tower,Control,54.3,2.6
 US,torbjorn,Colosseo,Push,53.0,3.9
 US,torbjorn,Route 66,Escort,51.8,5.8
 US,torbjorn,King's Row,Hybrid,51.6,3.8
 US,torbjorn,Samoa,Control,51.4,4.4
-US,torbjorn,Dorado,Escort,50.9,4.1
 US,torbjorn,Suravasa,Flashpoint,50.7,4.2
 US,torbjorn,Runasapi,Push,49.9,3.4
 US,torbjorn,Nepal,Control,49.5,3.2
@@ -3916,7 +3916,7 @@ US,torbjorn,Rialto,Escort,41.6,3.4
 US,torbjorn,Watchpoint: Gibraltar,Escort,41.5,3.9
 US,torbjorn,Blizzard World,Hybrid,40.9,4.2
 US,torbjorn,Hollywood,Hybrid,39.0,5.3
-US,torbjorn,Circuit Royal,Escort,36.4,3.3
+US,torbjorn,Circuit Royal,Escort,36.2,3.4
 US,torbjorn,Midtown,Hybrid,34.2,3.8
 US,torbjorn,Paraíso,Hybrid,26.4,1.5
 EU,torbjorn,Samoa,Control,59.4,2.3
@@ -3928,15 +3928,15 @@ EU,torbjorn,New Queen Street,Push,50.0,2.3
 EU,torbjorn,Dorado,Escort,48.6,2.2
 EU,torbjorn,Junkertown,Escort,47.5,1.7
 EU,torbjorn,Ilios,Control,45.7,1.7
+EU,torbjorn,King's Row,Hybrid,45.3,2.6
 EU,torbjorn,Aatlis,Flashpoint,45.2,1.6
+EU,torbjorn,Route 66,Escort,45.1,3.6
 EU,torbjorn,Lijiang Tower,Control,44.9,1.8
 EU,torbjorn,Esperança,Push,44.8,1.6
 EU,torbjorn,Shambali Monastery,Escort,43.6,2.3
 EU,torbjorn,Blizzard World,Hybrid,42.5,2.7
-EU,torbjorn,Route 66,Escort,42.4,3.5
-EU,torbjorn,Eichenwalde,Hybrid,41.8,3.1
-EU,torbjorn,King's Row,Hybrid,41.5,2.4
 EU,torbjorn,Colosseo,Push,41.5,2.1
+EU,torbjorn,Eichenwalde,Hybrid,40.4,3.0
 EU,torbjorn,Runasapi,Push,38.7,1.2
 EU,torbjorn,Oasis,Control,36.1,1.9
 EU,torbjorn,Rialto,Escort,35.4,2.2
@@ -3950,34 +3950,34 @@ EU,torbjorn,Paraíso,Hybrid,16.9,2.9
 ASIA,mauga,Route 66,Escort,99.3,0.7
 ASIA,mauga,King's Row,Hybrid,87.7,0.7
 ASIA,mauga,Blizzard World,Hybrid,84.3,0.3
-ASIA,mauga,Busan,Control,71.9,2.0
+ASIA,mauga,Busan,Control,71.5,2.2
 ASIA,mauga,New Junk City,Flashpoint,56.7,0.8
-ASIA,mauga,Ilios,Control,52.8,0.5
+ASIA,mauga,Dorado,Escort,52.8,0.7
 ASIA,mauga,Hollywood,Hybrid,52.4,0.3
+ASIA,mauga,Ilios,Control,50.0,0.7
 ASIA,mauga,Circuit Royal,Escort,49.8,0.4
-ASIA,mauga,Dorado,Escort,49.4,0.8
 ASIA,mauga,Nepal,Control,48.8,0.6
-ASIA,mauga,Midtown,Hybrid,48.0,0.3
-ASIA,mauga,Colosseo,Push,46.6,0.6
+ASIA,mauga,Colosseo,Push,48.7,0.6
 ASIA,mauga,Shambali Monastery,Escort,42.8,1.0
+ASIA,mauga,Midtown,Hybrid,41.3,0.3
 ASIA,mauga,Suravasa,Flashpoint,41.3,0.9
-ASIA,mauga,Runasapi,Push,38.8,1.2
-ASIA,mauga,Samoa,Control,32.1,0.7
-ASIA,mauga,Lijiang Tower,Control,26.4,0.7
+ASIA,mauga,Runasapi,Push,38.8,1.1
+ASIA,mauga,Samoa,Control,31.5,0.8
 ASIA,mauga,Esperança,Push,25.8,0.8
+ASIA,mauga,Lijiang Tower,Control,25.6,0.6
 ASIA,mauga,Aatlis,Flashpoint,25.2,1.0
 ASIA,mauga,Oasis,Control,23.5,0.7
 ASIA,mauga,Eichenwalde,Hybrid,18.2,0.5
 ASIA,mauga,Havana,Escort,17.5,0.5
+ASIA,mauga,Numbani,Hybrid,15.6,0.2
 ASIA,mauga,Watchpoint: Gibraltar,Escort,13.7,0.5
 ASIA,mauga,New Queen Street,Push,11.7,0.6
 ASIA,mauga,Rialto,Escort,7.2,0.5
-ASIA,mauga,Numbani,Hybrid,1.5,0.1
 ASIA,mauga,Paraíso,Hybrid,0.0,1.7
 ASIA,mauga,Junkertown,Escort,0.0,0.3
 US,mauga,Paraíso,Hybrid,68.4,2.0
-US,mauga,Circuit Royal,Escort,65.8,2.1
-US,mauga,Dorado,Escort,63.4,2.5
+US,mauga,Dorado,Escort,64.2,2.5
+US,mauga,Circuit Royal,Escort,63.6,2.1
 US,mauga,Aatlis,Flashpoint,62.6,5.3
 US,mauga,Suravasa,Flashpoint,62.3,4.3
 US,mauga,Colosseo,Push,60.7,3.3
@@ -4001,7 +4001,7 @@ US,mauga,Busan,Control,43.2,4.6
 US,mauga,Havana,Escort,39.3,1.6
 US,mauga,Ilios,Control,38.9,3.2
 US,mauga,Shambali Monastery,Escort,36.7,3.5
-US,mauga,Junkertown,Escort,18.0,1.9
+US,mauga,Junkertown,Escort,17.5,1.8
 US,mauga,Blizzard World,Hybrid,14.8,1.9
 EU,mauga,New Queen Street,Push,65.1,3.3
 EU,mauga,Junkertown,Escort,59.5,1.8
@@ -4010,21 +4010,21 @@ EU,mauga,Suravasa,Flashpoint,55.8,3.0
 EU,mauga,Watchpoint: Gibraltar,Escort,54.7,1.8
 EU,mauga,Havana,Escort,54.3,1.9
 EU,mauga,Busan,Control,54.2,3.3
-EU,mauga,King's Row,Hybrid,52.2,2.2
+EU,mauga,King's Row,Hybrid,53.5,2.3
 EU,mauga,Circuit Royal,Escort,50.7,1.0
 EU,mauga,Colosseo,Push,50.5,2.7
 EU,mauga,Lijiang Tower,Control,50.5,3.1
-EU,mauga,Eichenwalde,Hybrid,50.0,3.1
-EU,mauga,Midtown,Hybrid,49.2,1.8
+EU,mauga,Eichenwalde,Hybrid,49.5,3.2
 EU,mauga,Nepal,Control,49.2,2.2
+EU,mauga,Midtown,Hybrid,49.2,1.8
 EU,mauga,Samoa,Control,48.7,3.6
 EU,mauga,Runasapi,Push,48.3,3.2
 EU,mauga,Esperança,Push,48.2,2.9
 EU,mauga,Hollywood,Hybrid,48.1,2.0
 EU,mauga,New Junk City,Flashpoint,47.2,4.1
 EU,mauga,Oasis,Control,47.1,2.5
-EU,mauga,Route 66,Escort,44.1,2.5
 EU,mauga,Dorado,Escort,43.4,1.9
+EU,mauga,Route 66,Escort,42.2,2.5
 EU,mauga,Rialto,Escort,39.2,2.3
 EU,mauga,Ilios,Control,39.1,2.1
 EU,mauga,Aatlis,Flashpoint,38.9,3.2
@@ -4033,29 +4033,29 @@ EU,mauga,Paraíso,Hybrid,23.2,0.2
 EU,mauga,Numbani,Hybrid,20.4,2.4
 ASIA,junkerqueen,Havana,Escort,87.9,0.4
 ASIA,junkerqueen,Shambali Monastery,Escort,68.6,0.3
-ASIA,junkerqueen,Lijiang Tower,Control,66.6,0.7
+ASIA,junkerqueen,Lijiang Tower,Control,61.1,0.6
 ASIA,junkerqueen,Suravasa,Flashpoint,57.8,1.3
 ASIA,junkerqueen,Colosseo,Push,57.0,0.8
 ASIA,junkerqueen,Aatlis,Flashpoint,56.9,1.1
-ASIA,junkerqueen,Samoa,Control,54.9,1.3
+ASIA,junkerqueen,Samoa,Control,56.6,1.3
 ASIA,junkerqueen,Nepal,Control,52.8,0.5
-ASIA,junkerqueen,Ilios,Control,50.1,0.6
 ASIA,junkerqueen,Paraíso,Hybrid,46.2,1.1
+ASIA,junkerqueen,Ilios,Control,44.0,0.7
 ASIA,junkerqueen,Midtown,Hybrid,42.8,0.9
 ASIA,junkerqueen,Runasapi,Push,40.3,0.3
 ASIA,junkerqueen,Esperança,Push,38.8,0.6
 ASIA,junkerqueen,New Queen Street,Push,38.6,1.0
-ASIA,junkerqueen,Busan,Control,36.8,0.9
+ASIA,junkerqueen,Busan,Control,36.8,0.8
 ASIA,junkerqueen,New Junk City,Flashpoint,34.2,1.9
 ASIA,junkerqueen,Oasis,Control,34.0,1.1
 ASIA,junkerqueen,King's Row,Hybrid,32.7,0.6
-ASIA,junkerqueen,Dorado,Escort,30.0,0.8
+ASIA,junkerqueen,Dorado,Escort,29.3,0.7
 ASIA,junkerqueen,Watchpoint: Gibraltar,Escort,28.2,0.1
 ASIA,junkerqueen,Blizzard World,Hybrid,23.6,0.1
 ASIA,junkerqueen,Rialto,Escort,21.3,0.7
 ASIA,junkerqueen,Hollywood,Hybrid,21.1,0.2
 ASIA,junkerqueen,Circuit Royal,Escort,12.2,0.4
-ASIA,junkerqueen,Numbani,Hybrid,11.9,0.5
+ASIA,junkerqueen,Numbani,Hybrid,11.4,0.5
 ASIA,junkerqueen,Eichenwalde,Hybrid,9.8,0.5
 ASIA,junkerqueen,Route 66,Escort,1.6,0.4
 ASIA,junkerqueen,Junkertown,Escort,0.4,0.5
@@ -4065,26 +4065,26 @@ US,junkerqueen,Aatlis,Flashpoint,55.9,7.3
 US,junkerqueen,Busan,Control,55.8,5.5
 US,junkerqueen,King's Row,Hybrid,55.6,3.8
 US,junkerqueen,Samoa,Control,53.8,4.8
-US,junkerqueen,Suravasa,Flashpoint,51.9,6.5
 US,junkerqueen,Ilios,Control,51.9,3.5
+US,junkerqueen,Suravasa,Flashpoint,51.9,6.5
 US,junkerqueen,Runasapi,Push,51.3,5.3
 US,junkerqueen,New Queen Street,Push,50.9,4.3
 US,junkerqueen,Nepal,Control,50.5,4.5
 US,junkerqueen,Hollywood,Hybrid,50.3,3.3
 US,junkerqueen,Blizzard World,Hybrid,49.8,2.5
-US,junkerqueen,Colosseo,Push,48.4,5.6
 US,junkerqueen,Watchpoint: Gibraltar,Escort,48.4,1.5
+US,junkerqueen,Colosseo,Push,48.4,5.6
 US,junkerqueen,Midtown,Hybrid,47.5,1.7
 US,junkerqueen,Havana,Escort,47.3,1.8
 US,junkerqueen,Eichenwalde,Hybrid,47.2,4.0
 US,junkerqueen,Circuit Royal,Escort,45.7,1.1
 US,junkerqueen,Lijiang Tower,Control,45.6,5.9
 US,junkerqueen,Esperança,Push,44.4,5.1
-US,junkerqueen,Dorado,Escort,42.9,2.1
+US,junkerqueen,Dorado,Escort,40.9,2.0
 US,junkerqueen,Shambali Monastery,Escort,39.3,3.0
 US,junkerqueen,Oasis,Control,37.3,4.6
 US,junkerqueen,Rialto,Escort,32.1,2.0
-US,junkerqueen,Junkertown,Escort,27.9,2.5
+US,junkerqueen,Junkertown,Escort,27.9,2.3
 US,junkerqueen,Numbani,Hybrid,14.1,1.5
 US,junkerqueen,Paraíso,Hybrid,0.0,0.4
 EU,junkerqueen,New Junk City,Flashpoint,67.0,7.0
@@ -4099,15 +4099,15 @@ EU,junkerqueen,New Queen Street,Push,51.3,3.8
 EU,junkerqueen,Colosseo,Push,51.3,4.4
 EU,junkerqueen,Runasapi,Push,49.9,3.6
 EU,junkerqueen,Oasis,Control,49.7,5.4
+EU,junkerqueen,Eichenwalde,Hybrid,49.4,3.4
 EU,junkerqueen,Lijiang Tower,Control,48.9,4.8
-EU,junkerqueen,Eichenwalde,Hybrid,47.7,3.3
-EU,junkerqueen,King's Row,Hybrid,47.3,3.7
 EU,junkerqueen,Midtown,Hybrid,46.9,3.7
+EU,junkerqueen,King's Row,Hybrid,45.4,3.7
 EU,junkerqueen,Samoa,Control,43.5,4.8
 EU,junkerqueen,Nepal,Control,42.7,4.1
 EU,junkerqueen,Watchpoint: Gibraltar,Escort,41.1,1.8
 EU,junkerqueen,Hollywood,Hybrid,40.6,2.9
-EU,junkerqueen,Route 66,Escort,38.6,3.1
+EU,junkerqueen,Route 66,Escort,40.6,3.1
 EU,junkerqueen,Blizzard World,Hybrid,36.3,3.0
 EU,junkerqueen,Junkertown,Escort,35.4,2.7
 EU,junkerqueen,Shambali Monastery,Escort,32.9,2.5
@@ -4116,35 +4116,35 @@ EU,junkerqueen,Paraíso,Hybrid,31.6,2.8
 EU,junkerqueen,Numbani,Hybrid,28.6,0.9
 EU,junkerqueen,Havana,Escort,13.5,1.5
 ASIA,hazard,Paraíso,Hybrid,68.7,2.2
-ASIA,hazard,Numbani,Hybrid,67.8,1.7
+ASIA,hazard,Numbani,Hybrid,63.9,2.0
 ASIA,hazard,Route 66,Escort,61.5,1.9
-ASIA,hazard,Blizzard World,Hybrid,61.1,1.3
+ASIA,hazard,Blizzard World,Hybrid,61.1,1.2
 ASIA,hazard,King's Row,Hybrid,57.9,1.1
-ASIA,hazard,Samoa,Control,56.4,1.2
+ASIA,hazard,Samoa,Control,56.4,1.1
 ASIA,hazard,Midtown,Hybrid,52.5,0.9
-ASIA,hazard,Ilios,Control,52.0,3.8
-ASIA,hazard,Busan,Control,51.8,1.5
+ASIA,hazard,Busan,Control,51.8,1.4
+ASIA,hazard,Ilios,Control,51.4,3.8
 ASIA,hazard,Aatlis,Flashpoint,51.1,3.5
-ASIA,hazard,Colosseo,Push,50.1,1.4
-ASIA,hazard,Circuit Royal,Escort,49.2,0.8
+ASIA,hazard,Circuit Royal,Escort,49.2,0.7
 ASIA,hazard,Nepal,Control,47.7,2.0
 ASIA,hazard,Shambali Monastery,Escort,46.5,1.3
+ASIA,hazard,Colosseo,Push,45.8,1.4
 ASIA,hazard,Watchpoint: Gibraltar,Escort,43.5,4.4
-ASIA,hazard,Runasapi,Push,41.2,2.3
 ASIA,hazard,Esperança,Push,39.4,1.1
-ASIA,hazard,Lijiang Tower,Control,38.5,0.8
+ASIA,hazard,Runasapi,Push,38.8,2.2
 ASIA,hazard,Oasis,Control,36.9,1.8
 ASIA,hazard,Eichenwalde,Hybrid,35.4,3.5
+ASIA,hazard,Lijiang Tower,Control,34.3,0.9
 ASIA,hazard,Rialto,Escort,33.5,1.9
 ASIA,hazard,New Queen Street,Push,33.1,1.7
 ASIA,hazard,New Junk City,Flashpoint,32.1,2.1
 ASIA,hazard,Suravasa,Flashpoint,29.1,2.4
-ASIA,hazard,Dorado,Escort,28.8,1.8
-ASIA,hazard,Hollywood,Hybrid,18.7,2.1
-ASIA,hazard,Junkertown,Escort,14.9,1.5
+ASIA,hazard,Dorado,Escort,26.4,1.9
+ASIA,hazard,Hollywood,Hybrid,18.7,2.0
+ASIA,hazard,Junkertown,Escort,13.1,1.6
 ASIA,hazard,Havana,Escort,0.0,0.3
 US,hazard,Blizzard World,Hybrid,78.6,2.3
-US,hazard,Junkertown,Escort,70.4,1.6
+US,hazard,Junkertown,Escort,70.7,1.5
 US,hazard,Circuit Royal,Escort,68.6,0.3
 US,hazard,King's Row,Hybrid,66.0,1.7
 US,hazard,Runasapi,Push,56.2,2.3
@@ -4166,7 +4166,7 @@ US,hazard,Samoa,Control,42.7,2.4
 US,hazard,Paraíso,Hybrid,40.6,4.8
 US,hazard,Route 66,Escort,40.2,1.3
 US,hazard,Watchpoint: Gibraltar,Escort,39.0,6.3
-US,hazard,Dorado,Escort,34.7,4.2
+US,hazard,Dorado,Escort,35.7,4.2
 US,hazard,Numbani,Hybrid,33.8,4.3
 US,hazard,Shambali Monastery,Escort,31.6,1.2
 US,hazard,Hollywood,Hybrid,25.2,1.8
@@ -4174,10 +4174,10 @@ US,hazard,Havana,Escort,21.6,0.2
 EU,hazard,Havana,Escort,92.4,0.5
 EU,hazard,Midtown,Hybrid,57.5,2.3
 EU,hazard,Esperança,Push,53.2,4.2
-EU,hazard,Eichenwalde,Hybrid,53.1,3.8
+EU,hazard,Eichenwalde,Hybrid,52.7,3.7
 EU,hazard,Shambali Monastery,Escort,51.4,3.3
+EU,hazard,King's Row,Hybrid,51.1,2.1
 EU,hazard,Nepal,Control,50.6,4.6
-EU,hazard,King's Row,Hybrid,49.8,2.1
 EU,hazard,Circuit Royal,Escort,48.8,0.9
 EU,hazard,Lijiang Tower,Control,48.8,3.9
 EU,hazard,New Queen Street,Push,48.8,3.9
@@ -4193,7 +4193,7 @@ EU,hazard,Suravasa,Flashpoint,45.1,4.3
 EU,hazard,Oasis,Control,44.3,5.9
 EU,hazard,Aatlis,Flashpoint,43.9,4.9
 EU,hazard,Dorado,Escort,41.8,8.1
-EU,hazard,Route 66,Escort,40.9,4.9
+EU,hazard,Route 66,Escort,40.9,4.7
 EU,hazard,Paraíso,Hybrid,37.4,4.8
 EU,hazard,Colosseo,Push,36.1,3.9
 EU,hazard,Hollywood,Hybrid,35.8,4.2
