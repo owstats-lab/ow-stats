@@ -1,22 +1,22 @@
 ﻿region,hero,map_name,map_type,win_rate,pick_rate
 ASIA,ana,Havana,,66.2,57.0
 ASIA,ana,Dorado,,63.3,58.6
-ASIA,ana,Paraíso,,62.0,46.6
 ASIA,ana,Route 66,,61.8,60.2
+ASIA,ana,Paraíso,,61.6,50.5
 ASIA,ana,Circuit Royal,,57.3,48.2
 ASIA,ana,Rialto,,56.9,58.2
 ASIA,ana,Blizzard World,,56.8,53.3
 ASIA,ana,Eichenwalde,,56.3,42.1
 ASIA,ana,Colosseo,,54.7,39.6
-ASIA,ana,Hollywood,,54.4,54.0
 ASIA,ana,King's Row,,54.0,52.2
+ASIA,ana,Midtown,,53.2,47.2
+ASIA,ana,Ilios,,53.1,45.9
+ASIA,ana,Hollywood,,53.1,55.3
 ASIA,ana,New Queen Street,,52.3,37.9
-ASIA,ana,Midtown,,51.5,47.9
 ASIA,ana,Shambali Monastery,,51.3,45.6
-ASIA,ana,Ilios,,51.2,45.9
-ASIA,ana,Aatlis,,50.7,20.7
+ASIA,ana,Nepal,,51.3,38.5
 ASIA,ana,Numbani,,50.5,60.1
-ASIA,ana,Nepal,,50.0,38.1
+ASIA,ana,Aatlis,,50.3,23.9
 ASIA,ana,Junkertown,,49.5,55.7
 ASIA,ana,New Junk City,,49.3,29.7
 ASIA,ana,Lijiang Tower,,49.0,37.8
@@ -27,336 +27,336 @@ ASIA,ana,Runasapi,,47.0,32.4
 ASIA,ana,Oasis,,46.4,33.9
 ASIA,ana,Esperança,,40.2,36.0
 ASIA,ana,Suravasa,,38.8,30.2
-US,ana,Dorado,,59.1,33.7
-US,ana,Route 66,,58.4,32.7
-US,ana,Watchpoint: Gibraltar,,58.1,36.3
-US,ana,Havana,,57.9,38.2
-US,ana,Midtown,,55.8,25.5
-US,ana,Junkertown,,53.9,36.6
+US,ana,Route 66,,59.6,32.2
+US,ana,Midtown,,57.0,25.1
+US,ana,Watchpoint: Gibraltar,,56.0,37.5
+US,ana,Dorado,,55.4,33.4
+US,ana,Havana,,54.8,35.7
+US,ana,Junkertown,,52.9,34.5
 US,ana,Rialto,,51.2,37.2
+US,ana,Circuit Royal,,50.7,28.5
 US,ana,Shambali Monastery,,50.6,26.2
-US,ana,Colosseo,,50.2,22.1
 US,ana,Samoa,,50.2,21.1
+US,ana,Colosseo,,50.2,22.1
 US,ana,New Queen Street,,50.1,22.4
 US,ana,King's Row,,49.3,27.0
 US,ana,Ilios,,48.8,17.1
-US,ana,Oasis,,48.7,13.9
-US,ana,Circuit Royal,,48.5,29.0
-US,ana,Blizzard World,,47.8,24.0
+US,ana,Oasis,,47.8,14.3
 US,ana,Runasapi,,47.7,14.6
+US,ana,Hollywood,,47.1,32.2
 US,ana,Lijiang Tower,,46.8,14.6
-US,ana,Hollywood,,46.7,32.7
-US,ana,Suravasa,,46.7,12.8
+US,ana,Blizzard World,,46.6,25.1
 US,ana,Busan,,45.7,22.4
 US,ana,Numbani,,44.6,29.6
 US,ana,Nepal,,43.7,15.6
 US,ana,Eichenwalde,,43.3,21.6
+US,ana,Suravasa,,42.8,12.7
 US,ana,Aatlis,,41.2,11.1
 US,ana,Esperança,,38.8,17.4
+US,ana,New Junk City,,36.8,12.2
 US,ana,Paraíso,,34.6,28.7
-US,ana,New Junk City,,31.9,12.0
-EU,ana,Junkertown,,54.8,35.9
-EU,ana,Route 66,,52.6,40.5
-EU,ana,Rialto,,52.6,42.2
-EU,ana,Circuit Royal,,51.6,37.5
-EU,ana,King's Row,,51.4,31.5
+EU,ana,Junkertown,,57.7,38.7
+EU,ana,Route 66,,56.5,39.5
+EU,ana,Rialto,,50.7,42.3
 EU,ana,Dorado,,50.4,39.7
+EU,ana,King's Row,,50.3,32.4
 EU,ana,Havana,,50.0,39.8
-EU,ana,New Queen Street,,49.6,25.3
-EU,ana,Shambali Monastery,,49.6,33.3
+EU,ana,New Junk City,,49.4,16.2
 EU,ana,Busan,,48.8,28.1
 EU,ana,Colosseo,,48.7,26.9
 EU,ana,Runasapi,,48.1,19.2
 EU,ana,Eichenwalde,,48.0,26.7
-EU,ana,New Junk City,,48.0,14.7
 EU,ana,Hollywood,,47.9,38.5
+EU,ana,Circuit Royal,,47.6,37.0
 EU,ana,Numbani,,47.4,41.4
+EU,ana,Shambali Monastery,,47.3,32.9
 EU,ana,Watchpoint: Gibraltar,,47.0,45.5
-EU,ana,Ilios,,46.6,22.1
-EU,ana,Oasis,,46.1,21.3
 EU,ana,Paraíso,,46.1,39.1
+EU,ana,Samoa,,46.0,27.0
+EU,ana,Blizzard World,,45.7,39.6
+EU,ana,New Queen Street,,45.5,26.3
 EU,ana,Nepal,,45.5,20.1
 EU,ana,Aatlis,,45.4,14.6
-EU,ana,Samoa,,45.4,25.6
-EU,ana,Suravasa,,44.7,16.8
+EU,ana,Oasis,,44.9,21.8
 EU,ana,Midtown,,44.5,28.2
-EU,ana,Blizzard World,,43.6,37.9
+EU,ana,Suravasa,,44.0,17.0
+EU,ana,Ilios,,43.7,22.6
 EU,ana,Lijiang Tower,,43.5,20.4
-EU,ana,Esperança,,36.9,20.7
+EU,ana,Esperança,,42.1,22.9
 ASIA,kiriko,Blizzard World,,58.8,44.5
 ASIA,kiriko,Esperança,,54.9,53.3
-ASIA,kiriko,Aatlis,,53.6,62.6
 ASIA,kiriko,Runasapi,,53.5,57.9
+ASIA,kiriko,Aatlis,,53.5,60.6
 ASIA,kiriko,Suravasa,,53.0,56.4
 ASIA,kiriko,Eichenwalde,,52.6,40.7
 ASIA,kiriko,Numbani,,51.8,47.9
+ASIA,kiriko,Nepal,,51.6,49.3
 ASIA,kiriko,Samoa,,51.1,55.4
+ASIA,kiriko,Paraíso,,50.9,38.5
 ASIA,kiriko,Watchpoint: Gibraltar,,50.4,43.0
-ASIA,kiriko,Nepal,,49.0,48.4
-ASIA,kiriko,Lijiang Tower,,47.8,53.9
 ASIA,kiriko,King's Row,,47.8,37.4
+ASIA,kiriko,Lijiang Tower,,47.8,53.9
 ASIA,kiriko,Rialto,,46.9,35.1
-ASIA,kiriko,Ilios,,46.2,52.2
-ASIA,kiriko,Hollywood,,46.1,35.5
+ASIA,kiriko,Ilios,,46.0,52.5
 ASIA,kiriko,Junkertown,,45.9,30.2
 ASIA,kiriko,Shambali Monastery,,45.8,35.6
 ASIA,kiriko,Busan,,45.5,54.4
-ASIA,kiriko,Paraíso,,45.4,38.7
 ASIA,kiriko,Oasis,,45.4,56.7
 ASIA,kiriko,New Queen Street,,45.3,52.3
-ASIA,kiriko,Midtown,,44.6,36.0
 ASIA,kiriko,Dorado,,44.6,37.3
+ASIA,kiriko,Hollywood,,43.9,34.7
 ASIA,kiriko,Colosseo,,42.1,48.2
 ASIA,kiriko,New Junk City,,42.0,60.2
 ASIA,kiriko,Route 66,,41.4,32.0
+ASIA,kiriko,Midtown,,40.0,36.1
 ASIA,kiriko,Circuit Royal,,32.0,9.7
 ASIA,kiriko,Havana,,24.1,19.7
-US,kiriko,New Junk City,,54.8,64.7
+US,kiriko,New Junk City,,53.6,62.7
 US,kiriko,Aatlis,,53.3,64.2
 US,kiriko,Busan,,53.0,58.1
-US,kiriko,Suravasa,,52.3,63.4
-US,kiriko,Junkertown,,52.1,39.0
-US,kiriko,Oasis,,52.0,60.0
-US,kiriko,Midtown,,51.9,50.6
 US,kiriko,Esperança,,50.2,60.2
 US,kiriko,Runasapi,,49.8,58.4
+US,kiriko,Suravasa,,49.7,61.4
 US,kiriko,Samoa,,49.7,56.3
 US,kiriko,King's Row,,49.5,46.4
+US,kiriko,Midtown,,49.1,50.6
+US,kiriko,Oasis,,49.0,60.6
 US,kiriko,Paraíso,,48.6,45.5
 US,kiriko,Shambali Monastery,,48.5,45.8
 US,kiriko,New Queen Street,,48.1,59.3
+US,kiriko,Junkertown,,47.7,42.1
+US,kiriko,Havana,,47.6,38.0
 US,kiriko,Ilios,,47.2,57.1
 US,kiriko,Lijiang Tower,,46.8,56.7
+US,kiriko,Dorado,,46.7,49.7
 US,kiriko,Numbani,,46.4,52.5
-US,kiriko,Havana,,46.3,38.2
 US,kiriko,Eichenwalde,,46.2,52.7
 US,kiriko,Rialto,,45.6,46.0
 US,kiriko,Nepal,,44.8,56.0
-US,kiriko,Watchpoint: Gibraltar,,44.7,47.6
+US,kiriko,Watchpoint: Gibraltar,,43.1,47.3
 US,kiriko,Colosseo,,42.9,56.0
-US,kiriko,Route 66,,41.9,47.6
-US,kiriko,Circuit Royal,,41.6,31.6
-US,kiriko,Dorado,,41.2,50.1
-US,kiriko,Blizzard World,,41.0,56.0
-US,kiriko,Hollywood,,40.9,42.8
+US,kiriko,Blizzard World,,42.7,54.5
+US,kiriko,Circuit Royal,,42.6,32.3
+US,kiriko,Route 66,,41.5,46.7
+US,kiriko,Hollywood,,40.1,44.1
 EU,kiriko,Colosseo,,52.2,47.1
-EU,kiriko,Junkertown,,51.6,36.2
 EU,kiriko,Lijiang Tower,,51.3,54.5
-EU,kiriko,Oasis,,49.9,55.4
+EU,kiriko,Oasis,,51.0,54.9
 EU,kiriko,Dorado,,49.6,42.9
-EU,kiriko,New Queen Street,,49.1,54.5
+EU,kiriko,Esperança,,49.3,56.6
+EU,kiriko,Samoa,,49.1,51.6
 EU,kiriko,Watchpoint: Gibraltar,,49.1,44.0
-EU,kiriko,Shambali Monastery,,48.9,39.5
+EU,kiriko,Shambali Monastery,,48.9,38.6
 EU,kiriko,Runasapi,,48.3,56.9
-EU,kiriko,Samoa,,48.3,52.1
+EU,kiriko,Junkertown,,48.1,36.7
 EU,kiriko,Busan,,48.1,51.9
-EU,kiriko,Suravasa,,47.9,57.8
-EU,kiriko,Rialto,,47.8,39.4
-EU,kiriko,Esperança,,47.8,56.4
 EU,kiriko,Nepal,,47.6,50.5
-EU,kiriko,Blizzard World,,46.6,43.1
-EU,kiriko,King's Row,,46.3,41.6
+EU,kiriko,Ilios,,47.5,53.5
+EU,kiriko,King's Row,,46.9,41.7
+EU,kiriko,Rialto,,46.5,39.3
+EU,kiriko,New Queen Street,,46.5,53.6
+EU,kiriko,Suravasa,,46.4,57.7
 EU,kiriko,Eichenwalde,,46.0,44.0
-EU,kiriko,Ilios,,45.9,52.9
 EU,kiriko,Havana,,45.7,27.8
+EU,kiriko,New Junk City,,45.5,59.9
+EU,kiriko,Blizzard World,,45.5,42.1
 EU,kiriko,Aatlis,,45.4,59.3
-EU,kiriko,New Junk City,,44.5,60.8
-EU,kiriko,Circuit Royal,,44.4,22.9
 EU,kiriko,Midtown,,44.2,40.8
-EU,kiriko,Hollywood,,39.2,37.5
+EU,kiriko,Circuit Royal,,43.3,24.0
 EU,kiriko,Numbani,,39.2,40.0
+EU,kiriko,Hollywood,,39.2,37.5
 EU,kiriko,Paraíso,,38.8,44.1
-EU,kiriko,Route 66,,37.7,38.6
-ASIA,cassidy,Midtown,,56.2,22.0
+EU,kiriko,Route 66,,36.5,39.7
 ASIA,cassidy,Oasis,,53.8,42.4
+ASIA,cassidy,Midtown,,52.5,20.2
 ASIA,cassidy,Colosseo,,51.6,23.1
 ASIA,cassidy,Route 66,,50.9,25.1
 ASIA,cassidy,Watchpoint: Gibraltar,,50.8,26.1
 ASIA,cassidy,New Junk City,,50.3,31.8
-ASIA,cassidy,Aatlis,,48.8,33.5
 ASIA,cassidy,Dorado,,48.7,20.8
 ASIA,cassidy,King's Row,,48.6,23.5
-ASIA,cassidy,Nepal,,47.3,26.8
+ASIA,cassidy,Aatlis,,48.6,33.9
+ASIA,cassidy,Nepal,,47.0,27.0
 ASIA,cassidy,Runasapi,,46.7,26.7
 ASIA,cassidy,Shambali Monastery,,46.7,22.1
 ASIA,cassidy,Lijiang Tower,,46.7,30.0
-ASIA,cassidy,Havana,,45.8,9.7
+ASIA,cassidy,Ilios,,46.4,31.6
 ASIA,cassidy,Circuit Royal,,45.8,5.2
-ASIA,cassidy,Ilios,,45.7,31.6
+ASIA,cassidy,Havana,,45.8,9.7
 ASIA,cassidy,Samoa,,45.2,32.3
 ASIA,cassidy,Blizzard World,,44.9,19.4
-ASIA,cassidy,Rialto,,44.4,19.1
 ASIA,cassidy,New Queen Street,,44.4,25.1
+ASIA,cassidy,Rialto,,44.4,19.1
 ASIA,cassidy,Esperança,,43.1,27.9
-ASIA,cassidy,Paraíso,,42.9,24.6
-ASIA,cassidy,Hollywood,,42.7,25.1
 ASIA,cassidy,Numbani,,42.6,21.9
+ASIA,cassidy,Paraíso,,42.4,26.5
 ASIA,cassidy,Suravasa,,41.9,29.8
+ASIA,cassidy,Hollywood,,41.6,25.0
 ASIA,cassidy,Eichenwalde,,36.5,30.6
 ASIA,cassidy,Busan,,36.1,22.9
 ASIA,cassidy,Junkertown,,30.7,14.9
-US,cassidy,Dorado,,55.4,15.5
+US,cassidy,Junkertown,,53.5,11.5
+US,cassidy,Oasis,,53.1,27.3
 US,cassidy,Lijiang Tower,,52.9,21.3
-US,cassidy,Oasis,,52.7,27.6
-US,cassidy,Watchpoint: Gibraltar,,51.4,15.2
-US,cassidy,Suravasa,,51.3,22.7
+US,cassidy,Havana,,52.3,8.1
+US,cassidy,Watchpoint: Gibraltar,,51.4,15.1
 US,cassidy,Eichenwalde,,51.3,21.2
 US,cassidy,Esperança,,50.4,21.5
 US,cassidy,Rialto,,50.3,12.5
-US,cassidy,Junkertown,,50.1,11.4
 US,cassidy,Ilios,,50.0,24.5
 US,cassidy,Samoa,,48.0,25.9
-US,cassidy,Midtown,,47.8,12.9
+US,cassidy,Dorado,,47.9,16.0
+US,cassidy,Suravasa,,47.7,22.1
 US,cassidy,Nepal,,47.5,20.7
 US,cassidy,New Queen Street,,47.3,16.1
-US,cassidy,New Junk City,,46.5,24.3
+US,cassidy,Midtown,,46.5,12.8
 US,cassidy,Paraíso,,45.5,14.1
-US,cassidy,Blizzard World,,45.2,14.6
+US,cassidy,Route 66,,45.5,16.5
+US,cassidy,New Junk City,,44.9,24.8
 US,cassidy,Aatlis,,44.7,26.5
-US,cassidy,Route 66,,44.6,16.7
+US,cassidy,Blizzard World,,43.8,13.6
 US,cassidy,Busan,,43.4,17.3
-US,cassidy,Havana,,42.9,7.8
 US,cassidy,Shambali Monastery,,40.3,14.9
 US,cassidy,King's Row,,38.7,16.0
 US,cassidy,Runasapi,,38.5,17.8
-US,cassidy,Hollywood,,34.6,12.8
+US,cassidy,Hollywood,,37.8,13.8
+US,cassidy,Circuit Royal,,36.3,7.1
 US,cassidy,Numbani,,34.3,14.6
-US,cassidy,Circuit Royal,,33.4,7.3
 US,cassidy,Colosseo,,29.2,14.9
+EU,cassidy,Route 66,,54.5,13.6
 EU,cassidy,Runasapi,,52.6,17.6
-EU,cassidy,New Junk City,,50.8,21.8
-EU,cassidy,Route 66,,50.3,13.7
-EU,cassidy,Oasis,,50.2,25.8
+EU,cassidy,New Junk City,,50.5,22.3
 EU,cassidy,Aatlis,,49.8,25.2
 EU,cassidy,Lijiang Tower,,49.8,19.7
 EU,cassidy,Paraíso,,49.2,15.8
 EU,cassidy,Busan,,48.5,19.2
-EU,cassidy,Rialto,,47.6,10.5
-EU,cassidy,Suravasa,,47.5,18.5
-EU,cassidy,Samoa,,46.7,20.1
-EU,cassidy,Shambali Monastery,,46.4,12.9
-EU,cassidy,Esperança,,46.4,17.7
-EU,cassidy,Ilios,,45.6,20.9
+EU,cassidy,Junkertown,,48.2,12.0
+EU,cassidy,Oasis,,47.9,25.8
+EU,cassidy,Samoa,,47.5,20.8
+EU,cassidy,Ilios,,47.1,20.1
+EU,cassidy,Shambali Monastery,,46.6,12.3
+EU,cassidy,Rialto,,46.5,10.6
+EU,cassidy,Suravasa,,45.5,19.4
+EU,cassidy,New Queen Street,,45.2,17.0
 EU,cassidy,Midtown,,45.0,13.8
+EU,cassidy,Esperança,,44.9,17.2
 EU,cassidy,Nepal,,44.4,18.4
+EU,cassidy,Blizzard World,,44.2,13.5
 EU,cassidy,Dorado,,44.0,14.0
-EU,cassidy,New Queen Street,,43.8,17.7
 EU,cassidy,Numbani,,43.5,14.3
-EU,cassidy,Circuit Royal,,43.5,6.1
+EU,cassidy,Circuit Royal,,42.6,6.2
 EU,cassidy,Watchpoint: Gibraltar,,42.5,12.2
-EU,cassidy,Blizzard World,,41.3,14.4
-EU,cassidy,Junkertown,,41.2,11.3
-EU,cassidy,King's Row,,39.6,13.9
+EU,cassidy,King's Row,,39.6,13.8
 EU,cassidy,Havana,,38.5,7.7
 EU,cassidy,Eichenwalde,,38.2,19.8
 EU,cassidy,Colosseo,,37.1,16.7
 EU,cassidy,Hollywood,,33.8,14.2
-ASIA,emre,Paraíso,,71.7,26.0
+ASIA,emre,Paraíso,,67.1,24.2
 ASIA,emre,Circuit Royal,,61.2,30.2
 ASIA,emre,Havana,,59.1,23.5
 ASIA,emre,Samoa,,58.8,28.2
 ASIA,emre,Runasapi,,56.2,27.3
 ASIA,emre,Suravasa,,55.8,27.5
+ASIA,emre,Hollywood,,55.5,25.9
 ASIA,emre,Busan,,55.3,32.9
 ASIA,emre,Shambali Monastery,,55.0,29.3
 ASIA,emre,Junkertown,,54.6,31.7
 ASIA,emre,New Junk City,,54.5,24.1
-ASIA,emre,Hollywood,,54.5,24.5
 ASIA,emre,Route 66,,52.9,27.6
 ASIA,emre,New Queen Street,,52.7,29.5
-ASIA,emre,Aatlis,,52.4,20.9
-ASIA,emre,Ilios,,51.6,23.6
+ASIA,emre,Ilios,,52.1,22.2
 ASIA,emre,Blizzard World,,51.5,30.2
+ASIA,emre,Aatlis,,51.0,20.2
 ASIA,emre,Rialto,,50.3,29.0
 ASIA,emre,King's Row,,50.2,28.7
 ASIA,emre,Lijiang Tower,,49.6,27.3
 ASIA,emre,Dorado,,49.4,31.5
+ASIA,emre,Nepal,,49.1,29.0
 ASIA,emre,Eichenwalde,,49.0,22.4
-ASIA,emre,Nepal,,48.7,29.4
 ASIA,emre,Colosseo,,48.3,32.7
 ASIA,emre,Esperança,,46.9,31.7
 ASIA,emre,Watchpoint: Gibraltar,,46.6,27.0
 ASIA,emre,Oasis,,45.2,22.3
-ASIA,emre,Midtown,,43.3,32.1
+ASIA,emre,Midtown,,43.8,30.6
 ASIA,emre,Numbani,,42.4,29.2
 US,emre,Numbani,,63.7,28.4
+US,emre,New Junk City,,57.9,19.4
 US,emre,Colosseo,,56.7,29.4
-US,emre,New Junk City,,55.8,19.3
 US,emre,Samoa,,55.2,25.6
+US,emre,Havana,,54.4,30.7
 US,emre,Runasapi,,54.3,27.5
-US,emre,Suravasa,,54.2,24.2
-US,emre,Havana,,54.1,27.4
+US,emre,Suravasa,,53.5,24.9
+US,emre,Circuit Royal,,53.4,25.4
+US,emre,Route 66,,52.5,28.4
+US,emre,Dorado,,52.5,25.1
 US,emre,Paraíso,,52.1,29.8
-US,emre,Oasis,,51.6,24.5
-US,emre,Circuit Royal,,50.8,25.0
-US,emre,Dorado,,50.3,26.3
-US,emre,Busan,,50.2,28.6
+US,emre,Midtown,,52.0,24.2
+US,emre,Hollywood,,51.7,29.4
+US,emre,Blizzard World,,50.7,29.4
+US,emre,Oasis,,50.6,24.8
 US,emre,Nepal,,50.2,26.4
+US,emre,Busan,,50.2,28.6
 US,emre,Esperança,,50.0,25.7
-US,emre,Hollywood,,49.2,30.5
 US,emre,Shambali Monastery,,49.1,27.1
 US,emre,Rialto,,48.7,24.2
 US,emre,King's Row,,48.5,25.0
 US,emre,Ilios,,48.2,22.6
 US,emre,New Queen Street,,48.0,27.4
-US,emre,Route 66,,47.8,28.8
 US,emre,Lijiang Tower,,47.3,23.9
-US,emre,Junkertown,,46.9,29.5
+US,emre,Junkertown,,47.2,28.3
 US,emre,Aatlis,,46.7,22.0
-US,emre,Blizzard World,,46.6,29.4
-US,emre,Watchpoint: Gibraltar,,46.4,23.7
-US,emre,Midtown,,45.9,25.5
+US,emre,Watchpoint: Gibraltar,,45.2,22.4
 US,emre,Eichenwalde,,43.8,21.8
 EU,emre,Hollywood,,64.0,28.9
 EU,emre,Eichenwalde,,62.3,27.0
-EU,emre,Samoa,,56.3,31.2
 EU,emre,Midtown,,56.1,28.6
 EU,emre,Busan,,55.7,26.7
+EU,emre,Blizzard World,,55.4,31.7
 EU,emre,Colosseo,,55.3,29.9
+EU,emre,Rialto,,54.8,29.4
+EU,emre,Samoa,,54.7,29.5
 EU,emre,Watchpoint: Gibraltar,,54.4,27.9
-EU,emre,Rialto,,54.2,29.6
-EU,emre,Blizzard World,,54.0,32.2
-EU,emre,New Junk City,,53.8,22.8
+EU,emre,New Junk City,,53.7,23.2
+EU,emre,Esperança,,53.2,31.4
+EU,emre,King's Row,,53.1,26.6
 EU,emre,Lijiang Tower,,52.6,25.8
-EU,emre,New Queen Street,,52.5,29.6
-EU,emre,King's Row,,52.3,26.8
-EU,emre,Esperança,,52.2,30.3
+EU,emre,Circuit Royal,,52.3,34.9
 EU,emre,Nepal,,52.2,28.9
 EU,emre,Havana,,51.6,33.4
-EU,emre,Circuit Royal,,51.6,35.3
 EU,emre,Numbani,,51.5,24.1
+EU,emre,New Queen Street,,51.5,30.3
+EU,emre,Shambali Monastery,,51.1,33.2
+EU,emre,Suravasa,,50.9,28.6
 EU,emre,Runasapi,,50.3,30.2
-EU,emre,Route 66,,50.0,29.0
-EU,emre,Junkertown,,49.8,28.8
 EU,emre,Dorado,,49.4,27.6
-EU,emre,Suravasa,,49.3,27.4
 EU,emre,Aatlis,,49.3,22.4
-EU,emre,Shambali Monastery,,49.1,33.4
-EU,emre,Ilios,,48.4,24.0
-EU,emre,Oasis,,46.4,24.8
+EU,emre,Ilios,,48.8,24.4
+EU,emre,Oasis,,47.8,24.0
+EU,emre,Route 66,,47.8,30.1
+EU,emre,Junkertown,,46.1,29.6
 EU,emre,Paraíso,,42.9,27.4
 ASIA,moira,Circuit Royal,,70.8,3.7
-ASIA,moira,Paraíso,,69.9,7.2
-ASIA,moira,Hollywood,,69.4,2.7
+ASIA,moira,Midtown,,69.3,5.6
 ASIA,moira,Shambali Monastery,,65.1,4.6
 ASIA,moira,Esperança,,64.6,4.3
 ASIA,moira,Rialto,,64.5,3.7
+ASIA,moira,Paraíso,,59.7,6.0
 ASIA,moira,Watchpoint: Gibraltar,,58.1,3.1
 ASIA,moira,Colosseo,,57.3,5.4
+ASIA,moira,Ilios,,56.5,4.1
 ASIA,moira,King's Row,,56.4,3.8
+ASIA,moira,Hollywood,,55.8,2.9
 ASIA,moira,Lijiang Tower,,55.8,5.7
 ASIA,moira,Busan,,54.6,6.2
-ASIA,moira,Ilios,,54.4,3.9
-ASIA,moira,Midtown,,51.6,4.8
 ASIA,moira,Samoa,,50.5,5.1
 ASIA,moira,Dorado,,47.4,4.5
-ASIA,moira,Nepal,,46.7,5.2
+ASIA,moira,Nepal,,44.1,5.6
 ASIA,moira,Havana,,42.1,2.8
 ASIA,moira,New Queen Street,,41.8,3.1
 ASIA,moira,Oasis,,41.7,4.0
 ASIA,moira,Suravasa,,41.6,5.5
 ASIA,moira,Runasapi,,37.7,4.7
-ASIA,moira,Aatlis,,35.3,8.0
+ASIA,moira,Aatlis,,34.4,8.1
 ASIA,moira,Numbani,,30.5,2.4
 ASIA,moira,New Junk City,,30.2,5.3
 ASIA,moira,Junkertown,,29.4,1.9
@@ -364,238 +364,237 @@ ASIA,moira,Eichenwalde,,24.6,3.0
 ASIA,moira,Blizzard World,,16.0,2.8
 ASIA,moira,Route 66,,13.3,2.3
 US,moira,Shambali Monastery,,63.1,7.6
-US,moira,Midtown,,58.6,6.6
+US,moira,Midtown,,59.6,6.0
 US,moira,King's Row,,58.6,8.1
+US,moira,Hollywood,,57.4,6.5
 US,moira,Samoa,,56.5,6.8
+US,moira,Junkertown,,56.4,6.9
 US,moira,Nepal,,55.9,8.4
 US,moira,Colosseo,,54.5,6.6
-US,moira,Hollywood,,54.4,6.3
-US,moira,Junkertown,,52.7,7.3
-US,moira,Suravasa,,52.3,8.4
+US,moira,Route 66,,54.4,5.1
+US,moira,Suravasa,,54.1,8.9
 US,moira,Lijiang Tower,,51.5,10.0
 US,moira,New Queen Street,,50.6,7.3
-US,moira,Oasis,,50.3,8.5
 US,moira,Ilios,,49.9,8.2
-US,moira,Circuit Royal,,49.0,4.5
-US,moira,Route 66,,48.9,5.1
+US,moira,Oasis,,49.5,8.9
 US,moira,Busan,,48.8,8.1
 US,moira,Esperança,,48.1,6.5
-US,moira,New Junk City,,47.3,9.9
-US,moira,Watchpoint: Gibraltar,,47.3,5.1
+US,moira,Dorado,,45.9,5.4
+US,moira,New Junk City,,45.7,10.3
+US,moira,Circuit Royal,,45.3,4.4
 US,moira,Runasapi,,43.9,8.9
-US,moira,Blizzard World,,42.5,7.8
+US,moira,Watchpoint: Gibraltar,,42.5,4.6
 US,moira,Aatlis,,41.5,12.4
-US,moira,Dorado,,40.2,6.2
+US,moira,Blizzard World,,40.3,7.9
 US,moira,Rialto,,40.1,4.8
 US,moira,Eichenwalde,,40.0,5.8
-US,moira,Havana,,38.7,3.9
+US,moira,Havana,,32.4,4.1
 US,moira,Numbani,,21.1,5.1
 US,moira,Paraíso,,19.0,5.7
 EU,moira,Dorado,,68.1,2.7
 EU,moira,Midtown,,68.0,4.2
 EU,moira,Watchpoint: Gibraltar,,67.2,2.6
-EU,moira,Esperança,,61.5,5.1
 EU,moira,Hollywood,,59.4,3.1
+EU,moira,Esperança,,59.3,4.6
 EU,moira,Numbani,,57.5,3.7
 EU,moira,Nepal,,54.1,5.6
 EU,moira,Busan,,53.5,5.7
-EU,moira,Ilios,,53.4,5.8
 EU,moira,Eichenwalde,,52.9,4.2
-EU,moira,Samoa,,52.2,5.5
-EU,moira,Rialto,,51.9,3.2
+EU,moira,Ilios,,52.4,5.4
+EU,moira,Rialto,,51.7,3.2
+EU,moira,New Queen Street,,50.5,4.9
+EU,moira,Samoa,,50.4,5.5
 EU,moira,Aatlis,,49.0,10.2
-EU,moira,New Queen Street,,48.6,4.8
 EU,moira,Lijiang Tower,,46.5,5.5
-EU,moira,New Junk City,,45.6,8.7
-EU,moira,Shambali Monastery,,45.2,4.0
-EU,moira,Junkertown,,44.8,3.8
-EU,moira,Oasis,,44.6,5.7
-EU,moira,King's Row,,42.2,4.6
+EU,moira,Junkertown,,46.1,3.7
+EU,moira,New Junk City,,45.9,8.7
+EU,moira,Shambali Monastery,,45.8,3.5
+EU,moira,King's Row,,44.2,4.5
+EU,moira,Oasis,,44.2,5.4
 EU,moira,Runasapi,,41.7,6.3
-EU,moira,Suravasa,,40.0,6.3
-EU,moira,Blizzard World,,39.4,4.6
-EU,moira,Circuit Royal,,34.9,1.7
+EU,moira,Blizzard World,,39.9,4.2
+EU,moira,Suravasa,,39.5,6.1
+EU,moira,Circuit Royal,,37.2,1.7
 EU,moira,Colosseo,,34.1,5.0
-EU,moira,Route 66,,31.7,2.9
+EU,moira,Route 66,,33.5,3.3
 EU,moira,Havana,,30.6,2.7
 EU,moira,Paraíso,,28.7,2.4
-ASIA,mizuki,Junkertown,,61.8,8.0
-ASIA,mizuki,Oasis,,61.7,22.8
-ASIA,mizuki,Runasapi,,60.8,17.0
-ASIA,mizuki,Nepal,,56.8,18.0
-ASIA,mizuki,Ilios,,56.7,17.0
-ASIA,mizuki,Colosseo,,56.5,16.0
-ASIA,mizuki,Busan,,56.3,16.3
-ASIA,mizuki,King's Row,,55.8,16.6
-ASIA,mizuki,Shambali Monastery,,55.3,14.0
-ASIA,mizuki,Samoa,,55.2,16.1
-ASIA,mizuki,Watchpoint: Gibraltar,,54.3,12.2
-ASIA,mizuki,Aatlis,,53.2,22.5
-ASIA,mizuki,Midtown,,51.4,14.4
-ASIA,mizuki,New Junk City,,51.1,24.6
-ASIA,mizuki,Lijiang Tower,,50.4,18.6
-ASIA,mizuki,Rialto,,50.3,10.9
-ASIA,mizuki,Esperança,,49.8,18.5
-ASIA,mizuki,Eichenwalde,,48.9,16.7
-ASIA,mizuki,Route 66,,48.6,13.7
-ASIA,mizuki,Circuit Royal,,48.4,5.3
-ASIA,mizuki,Suravasa,,48.0,20.8
-ASIA,mizuki,New Queen Street,,47.3,14.9
-ASIA,mizuki,Dorado,,44.7,13.4
-ASIA,mizuki,Hollywood,,43.7,14.3
-ASIA,mizuki,Paraíso,,40.6,10.2
-ASIA,mizuki,Numbani,,40.1,9.0
-ASIA,mizuki,Havana,,40.0,5.6
-ASIA,mizuki,Blizzard World,,35.7,9.1
-US,mizuki,Havana,,61.9,7.8
-US,mizuki,Runasapi,,60.8,13.1
-US,mizuki,Blizzard World,,59.5,12.5
-US,mizuki,King's Row,,56.9,11.4
-US,mizuki,Watchpoint: Gibraltar,,56.6,10.1
-US,mizuki,Busan,,56.1,11.8
-US,mizuki,Paraíso,,53.9,7.9
-US,mizuki,Rialto,,53.5,10.5
-US,mizuki,Hollywood,,52.9,12.5
-US,mizuki,Dorado,,52.8,10.2
-US,mizuki,New Queen Street,,52.4,12.0
-US,mizuki,Route 66,,52.2,11.4
-US,mizuki,Eichenwalde,,52.1,13.9
-US,mizuki,New Junk City,,51.9,16.7
-US,mizuki,Colosseo,,51.9,12.6
-US,mizuki,Aatlis,,51.7,15.3
-US,mizuki,Lijiang Tower,,51.1,12.1
-US,mizuki,Oasis,,50.8,14.7
-US,mizuki,Ilios,,50.8,13.0
-US,mizuki,Esperança,,50.3,10.3
-US,mizuki,Samoa,,47.0,14.6
-US,mizuki,Nepal,,46.3,14.2
-US,mizuki,Suravasa,,44.7,14.3
-US,mizuki,Circuit Royal,,44.5,6.0
-US,mizuki,Junkertown,,43.4,10.6
-US,mizuki,Midtown,,43.4,10.0
-US,mizuki,Numbani,,42.3,10.3
-US,mizuki,Shambali Monastery,,38.8,10.1
-EU,mizuki,Rialto,,58.2,7.1
-EU,mizuki,Midtown,,57.8,10.0
-EU,mizuki,Runasapi,,54.1,10.2
-EU,mizuki,Lijiang Tower,,51.2,11.4
-EU,mizuki,King's Row,,51.2,11.2
-EU,mizuki,Havana,,51.1,5.5
-EU,mizuki,Watchpoint: Gibraltar,,51.0,6.5
-EU,mizuki,Nepal,,50.8,10.3
-EU,mizuki,Ilios,,50.5,11.7
-EU,mizuki,Suravasa,,50.5,12.2
-EU,mizuki,Aatlis,,50.5,16.3
-EU,mizuki,Esperança,,48.6,10.4
-EU,mizuki,Blizzard World,,48.3,9.2
-EU,mizuki,Colosseo,,47.1,12.1
-EU,mizuki,Oasis,,46.4,13.6
-EU,mizuki,Numbani,,46.0,6.5
-EU,mizuki,Eichenwalde,,45.8,9.3
-EU,mizuki,New Junk City,,45.7,14.6
-EU,mizuki,Shambali Monastery,,45.2,9.7
-EU,mizuki,Samoa,,45.0,11.0
-EU,mizuki,New Queen Street,,44.6,8.8
-EU,mizuki,Busan,,44.4,11.0
-EU,mizuki,Route 66,,44.3,7.5
-EU,mizuki,Dorado,,42.7,7.5
-EU,mizuki,Circuit Royal,,37.7,3.5
-EU,mizuki,Hollywood,,36.4,8.0
-EU,mizuki,Paraíso,,34.1,9.6
-EU,mizuki,Junkertown,,31.1,8.2
 ASIA,soldier76,Numbani,,66.4,5.2
 ASIA,soldier76,Runasapi,,63.9,11.4
-ASIA,soldier76,Aatlis,,63.4,3.7
 ASIA,soldier76,Havana,,60.0,3.7
 ASIA,soldier76,Lijiang Tower,,58.8,3.7
+ASIA,soldier76,Aatlis,,58.7,3.5
 ASIA,soldier76,Esperança,,56.8,6.3
 ASIA,soldier76,Busan,,56.4,8.4
 ASIA,soldier76,Oasis,,54.3,5.9
 ASIA,soldier76,Colosseo,,54.2,5.2
-ASIA,soldier76,Nepal,,53.4,4.7
 ASIA,soldier76,Dorado,,50.8,6.2
 ASIA,soldier76,Junkertown,,50.5,8.0
 ASIA,soldier76,Suravasa,,50.3,7.4
 ASIA,soldier76,Circuit Royal,,49.4,2.2
 ASIA,soldier76,Watchpoint: Gibraltar,,49.1,4.3
+ASIA,soldier76,Midtown,,48.6,3.0
 ASIA,soldier76,Blizzard World,,47.3,4.8
 ASIA,soldier76,New Queen Street,,47.2,16.0
-ASIA,soldier76,Ilios,,44.2,3.6
+ASIA,soldier76,Ilios,,44.9,3.5
+ASIA,soldier76,Nepal,,44.7,4.6
 ASIA,soldier76,Samoa,,42.8,5.6
+ASIA,soldier76,Hollywood,,41.7,3.6
 ASIA,soldier76,New Junk City,,41.2,6.2
 ASIA,soldier76,King's Row,,40.7,2.3
-ASIA,soldier76,Paraíso,,39.1,4.0
 ASIA,soldier76,Rialto,,35.6,3.5
-ASIA,soldier76,Midtown,,35.6,2.1
 ASIA,soldier76,Route 66,,32.2,4.7
-ASIA,soldier76,Hollywood,,29.8,2.9
+ASIA,soldier76,Paraíso,,31.5,3.6
 ASIA,soldier76,Shambali Monastery,,29.2,2.9
 ASIA,soldier76,Eichenwalde,,27.1,2.7
 US,soldier76,Eichenwalde,,58.7,7.1
 US,soldier76,Runasapi,,56.8,19.4
 US,soldier76,Shambali Monastery,,56.8,8.6
 US,soldier76,Busan,,56.0,16.0
-US,soldier76,Oasis,,55.1,9.7
+US,soldier76,Suravasa,,55.0,13.9
 US,soldier76,New Queen Street,,54.8,30.1
 US,soldier76,Nepal,,53.7,11.7
-US,soldier76,Watchpoint: Gibraltar,,53.5,11.6
 US,soldier76,Paraíso,,53.1,13.2
 US,soldier76,Esperança,,53.0,15.4
-US,soldier76,Suravasa,,52.8,13.7
+US,soldier76,Oasis,,52.9,9.5
 US,soldier76,Samoa,,51.5,10.0
-US,soldier76,Havana,,50.2,8.9
+US,soldier76,New Junk City,,50.7,11.6
 US,soldier76,Aatlis,,49.8,9.4
 US,soldier76,Colosseo,,49.2,14.8
 US,soldier76,Rialto,,48.5,8.3
+US,soldier76,Watchpoint: Gibraltar,,48.5,12.1
 US,soldier76,Ilios,,47.9,8.2
-US,soldier76,Junkertown,,47.5,11.8
 US,soldier76,King's Row,,47.0,6.5
 US,soldier76,Lijiang Tower,,47.0,8.0
-US,soldier76,New Junk City,,44.8,11.6
-US,soldier76,Blizzard World,,44.0,10.4
-US,soldier76,Hollywood,,42.8,8.6
-US,soldier76,Route 66,,41.4,10.2
-US,soldier76,Dorado,,39.7,11.3
+US,soldier76,Dorado,,46.9,11.6
+US,soldier76,Junkertown,,46.6,11.5
+US,soldier76,Blizzard World,,46.0,10.2
+US,soldier76,Havana,,45.5,9.4
+US,soldier76,Hollywood,,43.0,8.0
+US,soldier76,Route 66,,41.2,10.3
 US,soldier76,Numbani,,39.2,9.9
-US,soldier76,Midtown,,37.9,10.1
-US,soldier76,Circuit Royal,,32.9,6.6
+US,soldier76,Midtown,,36.5,10.4
+US,soldier76,Circuit Royal,,32.6,6.0
 EU,soldier76,Watchpoint: Gibraltar,,61.1,11.1
 EU,soldier76,Dorado,,59.5,13.0
-EU,soldier76,King's Row,,55.3,6.8
-EU,soldier76,Rialto,,54.6,10.0
-EU,soldier76,Route 66,,53.2,7.5
+EU,soldier76,Route 66,,55.7,8.6
+EU,soldier76,Rialto,,54.9,9.9
+EU,soldier76,King's Row,,54.8,7.1
 EU,soldier76,Aatlis,,52.8,8.8
+EU,soldier76,Suravasa,,52.8,14.3
 EU,soldier76,Paraíso,,52.8,12.0
-EU,soldier76,Suravasa,,52.7,15.1
-EU,soldier76,New Junk City,,52.5,12.0
+EU,soldier76,New Queen Street,,52.2,26.5
 EU,soldier76,Colosseo,,51.7,12.4
-EU,soldier76,Circuit Royal,,51.1,8.2
-EU,soldier76,Samoa,,50.6,9.0
-EU,soldier76,Shambali Monastery,,50.2,7.8
-EU,soldier76,Oasis,,49.6,9.2
-EU,soldier76,New Queen Street,,49.5,26.4
+EU,soldier76,Oasis,,51.3,10.5
+EU,soldier76,Junkertown,,50.4,11.0
+EU,soldier76,Samoa,,50.4,9.3
 EU,soldier76,Lijiang Tower,,49.3,9.9
+EU,soldier76,Shambali Monastery,,49.2,8.4
 EU,soldier76,Nepal,,49.2,9.7
+EU,soldier76,Circuit Royal,,49.1,8.5
 EU,soldier76,Busan,,48.7,17.2
 EU,soldier76,Runasapi,,48.5,20.0
-EU,soldier76,Ilios,,47.8,7.4
-EU,soldier76,Junkertown,,47.2,9.4
+EU,soldier76,New Junk City,,48.5,11.7
 EU,soldier76,Midtown,,47.1,9.8
-EU,soldier76,Esperança,,46.9,14.1
-EU,soldier76,Blizzard World,,42.3,10.7
+EU,soldier76,Esperança,,46.3,13.9
+EU,soldier76,Ilios,,46.2,7.7
+EU,soldier76,Blizzard World,,44.1,10.7
 EU,soldier76,Numbani,,40.9,12.1
 EU,soldier76,Eichenwalde,,40.6,6.9
 EU,soldier76,Hollywood,,38.6,8.9
 EU,soldier76,Havana,,34.6,10.2
+ASIA,mizuki,Junkertown,,61.8,8.0
+ASIA,mizuki,Oasis,,61.7,22.8
+ASIA,mizuki,Runasapi,,60.8,17.0
+ASIA,mizuki,Colosseo,,56.5,16.0
+ASIA,mizuki,Busan,,56.3,16.3
+ASIA,mizuki,King's Row,,55.8,16.6
+ASIA,mizuki,Shambali Monastery,,55.3,14.0
+ASIA,mizuki,Samoa,,55.2,16.1
+ASIA,mizuki,Ilios,,55.0,15.9
+ASIA,mizuki,Watchpoint: Gibraltar,,54.3,12.2
+ASIA,mizuki,Nepal,,53.5,16.5
+ASIA,mizuki,Midtown,,52.7,12.1
+ASIA,mizuki,New Junk City,,51.1,24.6
+ASIA,mizuki,Lijiang Tower,,50.4,18.6
+ASIA,mizuki,Rialto,,50.3,10.9
+ASIA,mizuki,Esperança,,49.8,18.5
+ASIA,mizuki,Aatlis,,49.4,21.0
+ASIA,mizuki,Eichenwalde,,48.9,16.7
+ASIA,mizuki,Route 66,,48.6,13.7
+ASIA,mizuki,Circuit Royal,,48.4,5.3
+ASIA,mizuki,Suravasa,,48.0,20.8
+ASIA,mizuki,New Queen Street,,47.3,14.9
+ASIA,mizuki,Dorado,,44.7,13.4
+ASIA,mizuki,Hollywood,,44.6,13.3
+ASIA,mizuki,Numbani,,40.1,9.0
+ASIA,mizuki,Havana,,40.0,5.6
+ASIA,mizuki,Paraíso,,35.9,8.4
+ASIA,mizuki,Blizzard World,,35.7,9.1
+US,mizuki,Runasapi,,60.8,13.1
+US,mizuki,Havana,,59.3,7.4
+US,mizuki,Blizzard World,,57.2,11.0
+US,mizuki,King's Row,,56.9,11.4
+US,mizuki,Watchpoint: Gibraltar,,56.1,9.6
+US,mizuki,Busan,,56.1,11.8
+US,mizuki,Paraíso,,53.9,7.9
+US,mizuki,Rialto,,53.5,10.5
+US,mizuki,Hollywood,,52.6,11.5
+US,mizuki,Circuit Royal,,52.6,5.5
+US,mizuki,New Queen Street,,52.4,12.0
+US,mizuki,Oasis,,52.3,14.8
+US,mizuki,Eichenwalde,,52.1,13.9
+US,mizuki,Colosseo,,51.9,12.6
+US,mizuki,Aatlis,,51.7,15.3
+US,mizuki,New Junk City,,51.3,16.3
+US,mizuki,Route 66,,51.2,11.0
+US,mizuki,Lijiang Tower,,51.1,12.1
+US,mizuki,Ilios,,50.8,13.0
+US,mizuki,Dorado,,50.5,8.8
+US,mizuki,Esperança,,50.3,10.3
+US,mizuki,Junkertown,,48.2,10.0
+US,mizuki,Midtown,,47.0,9.2
+US,mizuki,Samoa,,47.0,14.6
+US,mizuki,Nepal,,46.3,14.2
+US,mizuki,Suravasa,,46.2,14.6
+US,mizuki,Numbani,,42.3,10.3
+US,mizuki,Shambali Monastery,,38.8,10.1
+EU,mizuki,Rialto,,58.7,6.9
+EU,mizuki,Midtown,,57.8,10.0
+EU,mizuki,Runasapi,,54.1,10.2
+EU,mizuki,Suravasa,,52.0,11.2
+EU,mizuki,Lijiang Tower,,51.2,11.4
+EU,mizuki,Havana,,51.1,5.5
+EU,mizuki,Watchpoint: Gibraltar,,51.0,6.5
+EU,mizuki,Nepal,,50.8,10.3
+EU,mizuki,Aatlis,,50.5,16.3
+EU,mizuki,Ilios,,49.5,10.5
+EU,mizuki,Circuit Royal,,48.2,3.9
+EU,mizuki,New Queen Street,,47.9,8.5
+EU,mizuki,King's Row,,47.6,10.5
+EU,mizuki,Colosseo,,47.1,12.1
+EU,mizuki,Oasis,,46.7,13.2
+EU,mizuki,Esperança,,46.7,9.2
+EU,mizuki,New Junk City,,46.6,13.9
+EU,mizuki,Blizzard World,,46.5,8.2
+EU,mizuki,Numbani,,46.0,6.5
+EU,mizuki,Eichenwalde,,45.8,9.3
+EU,mizuki,Samoa,,45.4,10.6
+EU,mizuki,Busan,,44.4,11.0
+EU,mizuki,Shambali Monastery,,43.0,9.6
+EU,mizuki,Dorado,,42.7,7.5
+EU,mizuki,Route 66,,42.1,6.7
+EU,mizuki,Hollywood,,36.4,8.0
+EU,mizuki,Paraíso,,34.1,9.6
+EU,mizuki,Junkertown,,27.3,8.0
 ASIA,sojourn,Eichenwalde,,60.7,12.3
-ASIA,sojourn,Paraíso,,60.5,5.4
 ASIA,sojourn,Blizzard World,,55.8,19.9
 ASIA,sojourn,Watchpoint: Gibraltar,,55.6,5.0
 ASIA,sojourn,Rialto,,55.1,12.8
+ASIA,sojourn,Paraíso,,54.2,7.2
 ASIA,sojourn,Esperança,,54.2,20.4
-ASIA,sojourn,Midtown,,53.3,21.7
+ASIA,sojourn,Nepal,,53.3,21.1
 ASIA,sojourn,New Junk City,,51.4,26.7
-ASIA,sojourn,Nepal,,51.1,21.3
 ASIA,sojourn,Busan,,50.9,21.1
 ASIA,sojourn,Colosseo,,50.8,21.7
 ASIA,sojourn,Numbani,,50.6,9.2
@@ -603,72 +602,73 @@ ASIA,sojourn,Circuit Royal,,49.9,39.5
 ASIA,sojourn,Oasis,,49.8,17.4
 ASIA,sojourn,Lijiang Tower,,49.7,25.3
 ASIA,sojourn,New Queen Street,,48.4,19.0
+ASIA,sojourn,Midtown,,48.1,21.3
 ASIA,sojourn,Dorado,,48.1,4.6
 ASIA,sojourn,Route 66,,47.8,12.3
+ASIA,sojourn,Hollywood,,47.7,13.6
+ASIA,sojourn,Aatlis,,46.8,25.6
 ASIA,sojourn,Samoa,,46.3,22.5
 ASIA,sojourn,Shambali Monastery,,46.0,20.5
-ASIA,sojourn,Hollywood,,45.6,13.4
 ASIA,sojourn,King's Row,,45.0,17.0
 ASIA,sojourn,Suravasa,,42.9,27.5
-ASIA,sojourn,Ilios,,42.3,9.1
 ASIA,sojourn,Havana,,41.0,26.3
-ASIA,sojourn,Aatlis,,40.5,25.8
+ASIA,sojourn,Ilios,,41.0,9.7
 ASIA,sojourn,Runasapi,,37.6,27.3
 ASIA,sojourn,Junkertown,,29.3,11.9
-US,sojourn,Blizzard World,,56.6,26.6
 US,sojourn,Runasapi,,55.1,30.4
+US,sojourn,Blizzard World,,53.0,25.8
 US,sojourn,Aatlis,,52.9,27.1
 US,sojourn,New Queen Street,,50.6,24.7
-US,sojourn,Dorado,,49.9,11.4
+US,sojourn,Hollywood,,50.5,20.5
+US,sojourn,Route 66,,49.7,20.2
 US,sojourn,Colosseo,,49.4,30.5
-US,sojourn,Havana,,49.3,38.0
 US,sojourn,Lijiang Tower,,49.3,31.2
+US,sojourn,Havana,,49.1,34.3
 US,sojourn,Nepal,,49.0,27.8
-US,sojourn,Route 66,,48.8,20.5
 US,sojourn,Shambali Monastery,,48.7,27.4
-US,sojourn,Midtown,,48.5,30.4
-US,sojourn,Hollywood,,48.5,20.8
+US,sojourn,Dorado,,48.2,12.0
 US,sojourn,Rialto,,48.1,23.7
-US,sojourn,Circuit Royal,,47.9,35.2
+US,sojourn,Midtown,,47.6,30.3
+US,sojourn,Circuit Royal,,47.3,35.3
 US,sojourn,Busan,,46.9,21.7
 US,sojourn,Eichenwalde,,46.5,22.3
 US,sojourn,Samoa,,45.8,24.0
 US,sojourn,Esperança,,45.2,25.2
-US,sojourn,New Junk City,,45.1,30.9
-US,sojourn,Suravasa,,44.9,31.3
+US,sojourn,Oasis,,44.5,22.0
+US,sojourn,New Junk City,,44.5,30.1
 US,sojourn,Paraíso,,44.2,16.3
 US,sojourn,King's Row,,44.2,26.3
-US,sojourn,Oasis,,43.4,22.7
-US,sojourn,Junkertown,,41.1,21.9
+US,sojourn,Suravasa,,44.2,32.0
 US,sojourn,Ilios,,40.5,16.1
+US,sojourn,Watchpoint: Gibraltar,,38.8,11.0
+US,sojourn,Junkertown,,38.0,20.7
 US,sojourn,Numbani,,37.3,15.6
-US,sojourn,Watchpoint: Gibraltar,,36.6,10.3
 EU,sojourn,Havana,,54.7,30.9
-EU,sojourn,Blizzard World,,52.9,24.9
-EU,sojourn,Ilios,,52.9,15.1
-EU,sojourn,Route 66,,52.8,22.0
-EU,sojourn,Esperança,,51.8,25.2
+EU,sojourn,Blizzard World,,51.9,24.6
+EU,sojourn,Route 66,,51.8,22.3
+EU,sojourn,Ilios,,51.2,14.2
 EU,sojourn,Paraíso,,50.7,17.0
-EU,sojourn,New Junk City,,50.5,26.7
+EU,sojourn,Esperança,,50.3,24.5
 EU,sojourn,Aatlis,,50.1,23.4
-EU,sojourn,Rialto,,49.9,20.3
+EU,sojourn,Rialto,,49.3,20.2
+EU,sojourn,Oasis,,49.3,20.7
+EU,sojourn,New Junk City,,49.3,25.9
 EU,sojourn,Nepal,,48.8,23.6
+EU,sojourn,Junkertown,,48.7,26.6
+EU,sojourn,King's Row,,48.3,25.0
 EU,sojourn,Colosseo,,48.0,25.4
-EU,sojourn,Oasis,,47.9,21.7
-EU,sojourn,King's Row,,47.9,25.6
-EU,sojourn,Junkertown,,47.8,26.9
 EU,sojourn,Eichenwalde,,47.4,18.1
+EU,sojourn,Circuit Royal,,47.2,34.1
 EU,sojourn,Lijiang Tower,,46.7,26.0
-EU,sojourn,Circuit Royal,,46.4,34.4
-EU,sojourn,Shambali Monastery,,46.0,24.5
 EU,sojourn,Dorado,,45.7,14.9
+EU,sojourn,Suravasa,,45.2,27.1
 EU,sojourn,Runasapi,,43.6,27.4
 EU,sojourn,Busan,,43.4,21.1
-EU,sojourn,Suravasa,,43.2,27.7
 EU,sojourn,Midtown,,42.2,31.9
-EU,sojourn,New Queen Street,,41.7,25.3
+EU,sojourn,Samoa,,42.0,23.7
+EU,sojourn,Shambali Monastery,,41.7,23.3
 EU,sojourn,Numbani,,41.4,14.6
-EU,sojourn,Samoa,,41.3,23.9
+EU,sojourn,New Queen Street,,41.1,23.9
 EU,sojourn,Hollywood,,36.2,18.7
 EU,sojourn,Watchpoint: Gibraltar,,32.1,10.4
 ASIA,sigma,Circuit Royal,,67.4,39.5
@@ -678,251 +678,251 @@ ASIA,sigma,King's Row,,60.0,18.8
 ASIA,sigma,Route 66,,59.5,16.5
 ASIA,sigma,Esperança,,58.5,6.9
 ASIA,sigma,Shambali Monastery,,57.5,22.6
-ASIA,sigma,Paraíso,,57.4,10.1
+ASIA,sigma,Hollywood,,56.8,13.1
 ASIA,sigma,New Junk City,,56.7,11.6
-ASIA,sigma,Hollywood,,56.1,14.2
 ASIA,sigma,Eichenwalde,,55.5,15.0
-ASIA,sigma,Nepal,,54.8,15.9
 ASIA,sigma,Busan,,54.6,11.9
+ASIA,sigma,Nepal,,53.8,15.8
 ASIA,sigma,New Queen Street,,52.0,8.3
+ASIA,sigma,Midtown,,51.6,21.7
 ASIA,sigma,Rialto,,50.5,15.1
 ASIA,sigma,Runasapi,,49.9,9.7
 ASIA,sigma,Suravasa,,49.4,7.2
 ASIA,sigma,Junkertown,,49.2,29.8
-ASIA,sigma,Midtown,,49.1,23.4
-ASIA,sigma,Aatlis,,48.9,8.1
 ASIA,sigma,Lijiang Tower,,48.4,10.0
 ASIA,sigma,Samoa,,47.4,13.5
+ASIA,sigma,Paraíso,,47.3,9.4
 ASIA,sigma,Numbani,,47.2,11.7
+ASIA,sigma,Aatlis,,47.2,8.2
 ASIA,sigma,Colosseo,,46.3,10.6
 ASIA,sigma,Watchpoint: Gibraltar,,46.1,6.8
 ASIA,sigma,Blizzard World,,45.9,15.2
 ASIA,sigma,Dorado,,41.1,7.4
-ASIA,sigma,Ilios,,40.8,4.9
-US,sigma,Circuit Royal,,63.8,34.2
+ASIA,sigma,Ilios,,39.7,4.4
+US,sigma,Circuit Royal,,66.2,33.9
+US,sigma,Blizzard World,,60.8,15.6
 US,sigma,Shambali Monastery,,59.4,20.1
-US,sigma,Dorado,,59.0,10.0
+US,sigma,Dorado,,59.4,9.2
 US,sigma,Eichenwalde,,56.3,13.5
-US,sigma,Blizzard World,,55.9,15.6
+US,sigma,Havana,,55.4,35.7
+US,sigma,Junkertown,,55.1,26.3
 US,sigma,Paraíso,,54.7,19.7
-US,sigma,Colosseo,,53.6,11.3
 US,sigma,Rialto,,53.6,15.2
+US,sigma,Colosseo,,53.6,11.3
 US,sigma,New Queen Street,,53.4,12.1
-US,sigma,Junkertown,,52.8,25.2
-US,sigma,Havana,,52.8,35.0
+US,sigma,Watchpoint: Gibraltar,,53.3,7.4
+US,sigma,New Junk City,,51.5,6.0
+US,sigma,Route 66,,51.2,18.1
 US,sigma,Ilios,,50.7,4.5
 US,sigma,King's Row,,50.6,16.2
-US,sigma,Watchpoint: Gibraltar,,50.3,7.2
 US,sigma,Samoa,,49.6,10.9
 US,sigma,Nepal,,48.7,12.6
-US,sigma,Route 66,,48.4,18.0
-US,sigma,Oasis,,48.2,6.7
-US,sigma,New Junk City,,47.7,5.8
+US,sigma,Midtown,,48.1,24.5
+US,sigma,Oasis,,47.9,6.9
 US,sigma,Lijiang Tower,,47.6,6.2
-US,sigma,Midtown,,47.3,24.0
 US,sigma,Busan,,47.2,11.2
 US,sigma,Aatlis,,43.6,6.2
 US,sigma,Runasapi,,42.7,8.9
-US,sigma,Suravasa,,38.7,7.3
-US,sigma,Hollywood,,36.7,12.4
+US,sigma,Suravasa,,41.9,7.0
+US,sigma,Hollywood,,36.2,13.2
 US,sigma,Esperança,,35.1,6.8
 US,sigma,Numbani,,20.1,8.8
-EU,sigma,Circuit Royal,,63.7,30.2
 EU,sigma,Havana,,61.2,28.3
+EU,sigma,Circuit Royal,,60.4,31.0
 EU,sigma,Numbani,,58.6,9.1
-EU,sigma,Junkertown,,54.2,19.4
+EU,sigma,Samoa,,55.1,8.7
 EU,sigma,Busan,,54.2,6.4
+EU,sigma,Blizzard World,,54.1,12.6
 EU,sigma,Colosseo,,54.0,8.7
+EU,sigma,Shambali Monastery,,53.8,15.1
 EU,sigma,Nepal,,53.5,10.5
-EU,sigma,Samoa,,53.2,8.6
-EU,sigma,Shambali Monastery,,52.9,14.9
 EU,sigma,Runasapi,,52.6,6.8
-EU,sigma,King's Row,,52.3,12.8
-EU,sigma,Ilios,,51.0,3.2
-EU,sigma,Blizzard World,,49.7,12.1
+EU,sigma,Esperança,,51.5,4.9
+EU,sigma,Junkertown,,50.9,20.2
+EU,sigma,King's Row,,50.6,13.0
+EU,sigma,New Junk City,,49.6,5.0
 EU,sigma,Eichenwalde,,48.5,13.3
+EU,sigma,Rialto,,48.4,12.4
+EU,sigma,Ilios,,48.3,4.0
 EU,sigma,Midtown,,47.4,17.0
+EU,sigma,Oasis,,47.1,5.3
 EU,sigma,Dorado,,47.0,6.4
-EU,sigma,Esperança,,46.8,4.6
-EU,sigma,Rialto,,46.1,11.5
 EU,sigma,Watchpoint: Gibraltar,,45.7,5.2
+EU,sigma,Suravasa,,45.6,6.0
 EU,sigma,Lijiang Tower,,45.4,5.8
-EU,sigma,New Junk City,,44.9,4.7
-EU,sigma,Oasis,,44.5,4.9
-EU,sigma,Suravasa,,41.9,6.0
+EU,sigma,New Queen Street,,43.0,7.7
 EU,sigma,Paraíso,,41.8,6.2
-EU,sigma,Route 66,,41.4,14.7
+EU,sigma,Route 66,,39.7,14.0
 EU,sigma,Hollywood,,38.7,12.2
-EU,sigma,New Queen Street,,37.5,7.1
 EU,sigma,Aatlis,,33.0,4.4
 ASIA,wuyang,Junkertown,,64.4,17.9
 ASIA,wuyang,Blizzard World,,60.5,23.7
-ASIA,wuyang,Midtown,,59.1,27.3
 ASIA,wuyang,New Queen Street,,56.9,26.1
 ASIA,wuyang,Havana,,56.2,21.4
-ASIA,wuyang,Hollywood,,55.9,25.5
+ASIA,wuyang,Midtown,,55.6,26.7
 ASIA,wuyang,New Junk City,,55.5,29.3
-ASIA,wuyang,Route 66,,55.4,23.1
 ASIA,wuyang,Suravasa,,55.4,26.4
+ASIA,wuyang,Route 66,,55.4,23.1
 ASIA,wuyang,Shambali Monastery,,55.0,24.8
+ASIA,wuyang,Hollywood,,54.5,24.4
+ASIA,wuyang,Paraíso,,53.8,14.0
 ASIA,wuyang,Eichenwalde,,53.5,19.3
+ASIA,wuyang,Aatlis,,53.3,26.5
 ASIA,wuyang,Esperança,,52.5,21.2
 ASIA,wuyang,Lijiang Tower,,52.4,23.6
 ASIA,wuyang,Samoa,,51.8,27.0
 ASIA,wuyang,Numbani,,51.2,18.0
 ASIA,wuyang,Oasis,,50.8,20.2
-ASIA,wuyang,Paraíso,,50.7,14.8
 ASIA,wuyang,Colosseo,,50.6,23.8
-ASIA,wuyang,Aatlis,,49.9,25.9
 ASIA,wuyang,Dorado,,48.5,17.7
-ASIA,wuyang,Ilios,,46.9,16.9
 ASIA,wuyang,Runasapi,,46.7,23.9
 ASIA,wuyang,Busan,,46.5,22.5
 ASIA,wuyang,King's Row,,45.9,26.3
+ASIA,wuyang,Nepal,,45.7,24.5
 ASIA,wuyang,Circuit Royal,,45.7,24.3
-ASIA,wuyang,Nepal,,44.7,25.1
+ASIA,wuyang,Ilios,,44.4,17.8
 ASIA,wuyang,Rialto,,40.7,17.9
 ASIA,wuyang,Watchpoint: Gibraltar,,35.8,12.1
 US,wuyang,Numbani,,67.6,10.3
-US,wuyang,Blizzard World,,57.4,14.1
 US,wuyang,Ilios,,57.4,8.1
+US,wuyang,Blizzard World,,56.6,13.5
 US,wuyang,Eichenwalde,,56.3,11.4
 US,wuyang,Runasapi,,55.8,10.9
-US,wuyang,Oasis,,54.1,10.7
+US,wuyang,Oasis,,55.8,10.1
 US,wuyang,Lijiang Tower,,53.4,10.1
 US,wuyang,King's Row,,51.6,14.5
-US,wuyang,Midtown,,50.4,17.3
+US,wuyang,Circuit Royal,,50.9,13.4
 US,wuyang,Shambali Monastery,,50.3,14.1
 US,wuyang,New Queen Street,,50.2,13.6
 US,wuyang,Aatlis,,50.1,9.9
 US,wuyang,Colosseo,,50.0,12.2
+US,wuyang,Route 66,,49.8,11.7
+US,wuyang,Suravasa,,49.4,11.8
+US,wuyang,Watchpoint: Gibraltar,,49.4,10.6
+US,wuyang,Midtown,,48.8,18.1
 US,wuyang,Rialto,,48.6,14.2
-US,wuyang,Route 66,,48.2,13.0
 US,wuyang,Nepal,,47.9,10.8
-US,wuyang,Suravasa,,47.8,11.9
-US,wuyang,Circuit Royal,,47.0,13.3
-US,wuyang,Junkertown,,46.4,9.5
-US,wuyang,Watchpoint: Gibraltar,,46.3,10.6
-US,wuyang,Hollywood,,45.8,12.4
-US,wuyang,New Junk City,,45.5,11.1
+US,wuyang,New Junk City,,47.6,10.6
+US,wuyang,Dorado,,45.1,9.6
 US,wuyang,Busan,,45.1,10.4
+US,wuyang,Junkertown,,42.9,10.7
 US,wuyang,Paraíso,,42.8,11.8
 US,wuyang,Samoa,,42.6,10.3
 US,wuyang,Esperança,,42.2,11.9
-US,wuyang,Havana,,40.3,15.2
-US,wuyang,Dorado,,40.3,10.0
-EU,wuyang,Esperança,,60.7,10.8
-EU,wuyang,Shambali Monastery,,59.2,15.3
+US,wuyang,Hollywood,,40.5,12.4
+US,wuyang,Havana,,40.0,14.4
+EU,wuyang,Blizzard World,,60.2,14.4
 EU,wuyang,Aatlis,,58.3,11.9
-EU,wuyang,Blizzard World,,55.9,13.7
-EU,wuyang,New Junk City,,55.6,14.0
+EU,wuyang,New Junk City,,57.5,14.6
+EU,wuyang,Shambali Monastery,,57.1,15.9
+EU,wuyang,Esperança,,54.8,11.1
 EU,wuyang,Dorado,,53.8,13.1
-EU,wuyang,Oasis,,53.2,11.0
-EU,wuyang,Route 66,,53.2,13.2
-EU,wuyang,Suravasa,,53.0,13.8
-EU,wuyang,Samoa,,52.6,11.0
-EU,wuyang,Rialto,,52.5,13.6
-EU,wuyang,King's Row,,52.5,14.9
+EU,wuyang,Route 66,,53.3,13.7
+EU,wuyang,Suravasa,,53.2,14.3
+EU,wuyang,King's Row,,52.4,14.7
+EU,wuyang,Oasis,,52.4,11.7
+EU,wuyang,Rialto,,51.2,13.4
+EU,wuyang,Samoa,,51.0,12.0
 EU,wuyang,Eichenwalde,,51.0,13.6
 EU,wuyang,Lijiang Tower,,50.5,11.6
-EU,wuyang,Ilios,,50.3,8.1
 EU,wuyang,Hollywood,,48.7,12.4
-EU,wuyang,New Queen Street,,47.4,14.5
 EU,wuyang,Nepal,,46.2,13.1
 EU,wuyang,Colosseo,,45.9,11.4
 EU,wuyang,Midtown,,45.4,18.0
-EU,wuyang,Junkertown,,45.4,13.9
 EU,wuyang,Paraíso,,45.2,10.5
+EU,wuyang,Ilios,,45.0,8.3
+EU,wuyang,New Queen Street,,44.9,14.0
 EU,wuyang,Numbani,,44.8,9.8
 EU,wuyang,Busan,,44.7,11.7
 EU,wuyang,Havana,,44.6,16.0
 EU,wuyang,Runasapi,,44.2,14.1
-EU,wuyang,Circuit Royal,,43.7,13.2
+EU,wuyang,Circuit Royal,,43.3,13.4
+EU,wuyang,Junkertown,,42.6,12.8
 EU,wuyang,Watchpoint: Gibraltar,,38.8,10.5
 ASIA,genji,Circuit Royal,,67.2,10.6
 ASIA,genji,Blizzard World,,61.7,9.6
 ASIA,genji,Junkertown,,60.0,13.3
 ASIA,genji,Eichenwalde,,55.6,10.3
-ASIA,genji,Aatlis,,53.8,11.7
+ASIA,genji,Aatlis,,52.3,11.4
 ASIA,genji,Dorado,,51.3,14.4
-ASIA,genji,Hollywood,,51.3,15.2
 ASIA,genji,Shambali Monastery,,51.1,10.1
 ASIA,genji,New Queen Street,,49.9,8.1
 ASIA,genji,Busan,,48.6,9.3
+ASIA,genji,Hollywood,,48.6,15.1
+ASIA,genji,Midtown,,48.4,10.2
 ASIA,genji,Lijiang Tower,,48.0,7.0
+ASIA,genji,Paraíso,,48.0,8.6
 ASIA,genji,Havana,,46.9,16.6
 ASIA,genji,Colosseo,,46.5,10.9
-ASIA,genji,Paraíso,,45.8,10.5
 ASIA,genji,King's Row,,45.6,12.9
 ASIA,genji,Rialto,,45.4,11.6
 ASIA,genji,Numbani,,45.0,10.3
 ASIA,genji,Esperança,,44.0,7.5
 ASIA,genji,Suravasa,,43.0,8.5
+ASIA,genji,Ilios,,42.9,7.8
 ASIA,genji,Route 66,,42.3,15.2
-ASIA,genji,Nepal,,41.7,9.3
-ASIA,genji,Midtown,,40.8,9.6
-ASIA,genji,Ilios,,40.7,8.7
+ASIA,genji,Nepal,,41.4,9.8
 ASIA,genji,Runasapi,,39.7,6.3
 ASIA,genji,New Junk City,,38.8,13.2
 ASIA,genji,Oasis,,38.2,9.2
 ASIA,genji,Watchpoint: Gibraltar,,37.6,13.1
 ASIA,genji,Samoa,,36.2,7.1
-US,genji,Dorado,,58.8,11.2
+US,genji,Dorado,,59.8,12.4
 US,genji,New Queen Street,,56.5,9.8
-US,genji,Blizzard World,,55.2,10.9
-US,genji,Suravasa,,51.9,11.0
-US,genji,New Junk City,,51.3,13.0
+US,genji,Suravasa,,53.3,12.1
+US,genji,Blizzard World,,52.8,9.8
 US,genji,Rialto,,51.1,12.5
 US,genji,Colosseo,,50.3,9.7
 US,genji,Ilios,,50.3,9.0
 US,genji,Aatlis,,49.7,11.6
-US,genji,Watchpoint: Gibraltar,,49.5,11.8
-US,genji,Havana,,49.5,11.6
-US,genji,Circuit Royal,,48.3,8.1
+US,genji,New Junk City,,49.6,13.6
+US,genji,Junkertown,,48.4,14.5
+US,genji,Route 66,,48.4,12.2
 US,genji,Busan,,48.1,9.1
 US,genji,Lijiang Tower,,47.6,8.9
 US,genji,Nepal,,47.2,8.3
-US,genji,Route 66,,45.9,12.4
+US,genji,Havana,,47.0,13.2
+US,genji,Watchpoint: Gibraltar,,46.5,11.1
+US,genji,Circuit Royal,,45.4,8.3
 US,genji,King's Row,,45.4,11.2
 US,genji,Runasapi,,44.6,8.2
-US,genji,Junkertown,,43.6,14.2
-US,genji,Oasis,,42.9,8.9
+US,genji,Oasis,,42.7,8.8
 US,genji,Shambali Monastery,,42.6,9.6
 US,genji,Eichenwalde,,41.9,9.5
 US,genji,Paraíso,,40.7,10.9
+US,genji,Midtown,,40.6,9.7
+US,genji,Hollywood,,40.0,9.4
 US,genji,Numbani,,38.1,10.4
-US,genji,Midtown,,37.7,8.9
 US,genji,Samoa,,37.6,10.4
-US,genji,Hollywood,,36.2,9.4
 US,genji,Esperança,,36.1,9.4
 EU,genji,Colosseo,,60.6,12.4
-EU,genji,Junkertown,,59.7,17.7
-EU,genji,Route 66,,57.3,12.4
+EU,genji,Junkertown,,57.8,16.7
 EU,genji,Midtown,,56.9,11.4
 EU,genji,Havana,,56.0,12.9
-EU,genji,Esperança,,54.5,12.0
 EU,genji,Runasapi,,54.3,11.2
+EU,genji,Esperança,,54.2,12.5
+EU,genji,Shambali Monastery,,53.3,10.6
 EU,genji,Numbani,,53.3,13.6
-EU,genji,Shambali Monastery,,53.2,10.8
-EU,genji,New Junk City,,53.0,12.2
-EU,genji,Oasis,,52.1,12.5
-EU,genji,King's Row,,52.0,14.7
+EU,genji,Route 66,,53.2,13.5
+EU,genji,New Junk City,,51.4,13.2
 EU,genji,Nepal,,50.6,11.7
-EU,genji,Ilios,,49.9,12.3
-EU,genji,Suravasa,,49.8,14.0
-EU,genji,New Queen Street,,49.2,12.0
+EU,genji,King's Row,,50.1,14.7
+EU,genji,New Queen Street,,49.6,12.1
+EU,genji,Suravasa,,49.4,13.1
+EU,genji,Oasis,,49.4,13.2
+EU,genji,Ilios,,49.0,12.8
 EU,genji,Busan,,49.0,12.8
 EU,genji,Watchpoint: Gibraltar,,48.7,15.2
-EU,genji,Circuit Royal,,48.5,11.5
 EU,genji,Eichenwalde,,47.2,12.4
 EU,genji,Dorado,,46.8,11.5
-EU,genji,Samoa,,46.0,12.3
+EU,genji,Circuit Royal,,46.2,11.6
 EU,genji,Hollywood,,45.3,14.3
-EU,genji,Rialto,,44.4,14.4
+EU,genji,Blizzard World,,44.6,11.5
+EU,genji,Samoa,,44.5,12.1
 EU,genji,Paraíso,,44.4,9.6
+EU,genji,Rialto,,44.1,14.5
 EU,genji,Lijiang Tower,,43.5,10.4
 EU,genji,Aatlis,,40.5,14.1
-EU,genji,Blizzard World,,39.7,11.4
 ASIA,reaper,Havana,,71.9,4.5
 ASIA,reaper,Shambali Monastery,,70.3,2.5
 ASIA,reaper,King's Row,,68.1,6.8
@@ -931,337 +931,421 @@ ASIA,reaper,Dorado,,57.8,6.0
 ASIA,reaper,Oasis,,53.4,4.5
 ASIA,reaper,Lijiang Tower,,53.2,4.7
 ASIA,reaper,Suravasa,,50.7,6.2
+ASIA,reaper,Paraíso,,50.5,4.7
 ASIA,reaper,Esperança,,50.0,4.6
 ASIA,reaper,Junkertown,,48.7,5.8
 ASIA,reaper,New Junk City,,48.0,6.7
 ASIA,reaper,Route 66,,46.7,2.6
 ASIA,reaper,Rialto,,46.5,3.4
-ASIA,reaper,Aatlis,,44.9,8.4
 ASIA,reaper,New Queen Street,,44.9,5.6
-ASIA,reaper,Ilios,,44.3,7.3
+ASIA,reaper,Ilios,,44.5,7.6
+ASIA,reaper,Aatlis,,43.6,8.4
 ASIA,reaper,Watchpoint: Gibraltar,,43.4,5.6
 ASIA,reaper,Colosseo,,43.4,5.9
 ASIA,reaper,Busan,,42.3,4.8
-ASIA,reaper,Hollywood,,40.1,4.8
-ASIA,reaper,Nepal,,38.9,5.8
+ASIA,reaper,Nepal,,37.4,5.7
+ASIA,reaper,Hollywood,,36.6,5.4
 ASIA,reaper,Runasapi,,35.0,4.6
 ASIA,reaper,Eichenwalde,,34.3,4.4
 ASIA,reaper,Numbani,,32.6,5.0
-ASIA,reaper,Midtown,,29.7,4.4
 ASIA,reaper,Circuit Royal,,28.9,2.9
+ASIA,reaper,Midtown,,28.2,4.4
 ASIA,reaper,Blizzard World,,27.4,5.2
-ASIA,reaper,Paraíso,,23.7,4.4
 US,reaper,Aatlis,,65.1,10.7
+US,reaper,Blizzard World,,61.5,5.3
 US,reaper,Paraíso,,61.2,4.2
 US,reaper,Esperança,,56.6,7.6
 US,reaper,Colosseo,,55.3,4.7
+US,reaper,Havana,,54.9,2.7
 US,reaper,Rialto,,53.2,6.2
 US,reaper,Busan,,52.5,6.5
 US,reaper,Samoa,,52.4,8.7
-US,reaper,Watchpoint: Gibraltar,,51.6,7.5
+US,reaper,Hollywood,,51.8,5.5
+US,reaper,Watchpoint: Gibraltar,,50.4,7.8
 US,reaper,Lijiang Tower,,50.1,8.4
 US,reaper,Ilios,,49.6,7.3
 US,reaper,Nepal,,49.3,7.3
-US,reaper,Blizzard World,,48.6,4.2
-US,reaper,Junkertown,,48.1,2.7
+US,reaper,Midtown,,48.6,4.7
+US,reaper,Suravasa,,46.8,7.9
 US,reaper,Eichenwalde,,46.5,6.6
-US,reaper,Route 66,,46.5,6.5
-US,reaper,Hollywood,,46.5,5.4
-US,reaper,Oasis,,46.0,7.4
+US,reaper,Route 66,,45.7,5.9
 US,reaper,King's Row,,45.5,6.2
 US,reaper,Shambali Monastery,,45.2,4.3
 US,reaper,Numbani,,44.3,4.0
-US,reaper,Suravasa,,43.7,8.0
 US,reaper,Runasapi,,43.5,6.1
+US,reaper,Oasis,,43.5,7.0
 US,reaper,New Queen Street,,42.1,6.3
-US,reaper,New Junk City,,41.8,9.6
-US,reaper,Midtown,,40.6,4.5
-US,reaper,Havana,,32.0,2.1
-US,reaper,Circuit Royal,,29.3,2.1
-US,reaper,Dorado,,27.4,7.4
+US,reaper,Junkertown,,41.1,3.2
+US,reaper,New Junk City,,40.8,10.2
+US,reaper,Dorado,,33.1,7.6
+US,reaper,Circuit Royal,,28.3,1.8
 EU,reaper,Paraíso,,83.2,4.7
 EU,reaper,Eichenwalde,,76.7,7.5
-EU,reaper,Blizzard World,,62.2,5.1
-EU,reaper,New Queen Street,,59.7,6.3
-EU,reaper,Shambali Monastery,,57.6,4.6
-EU,reaper,Samoa,,54.5,8.5
-EU,reaper,Circuit Royal,,53.3,2.6
-EU,reaper,Midtown,,52.9,4.9
+EU,reaper,New Queen Street,,58.3,6.2
+EU,reaper,Circuit Royal,,56.9,2.7
+EU,reaper,Blizzard World,,56.0,5.0
+EU,reaper,Shambali Monastery,,55.3,4.8
+EU,reaper,Samoa,,55.2,8.7
 EU,reaper,Lijiang Tower,,52.9,7.7
-EU,reaper,Junkertown,,52.7,4.9
+EU,reaper,Midtown,,52.9,4.9
 EU,reaper,Dorado,,52.4,8.9
-EU,reaper,Oasis,,52.3,8.3
 EU,reaper,Hollywood,,51.8,6.8
 EU,reaper,Aatlis,,51.1,12.0
-EU,reaper,Suravasa,,51.0,8.3
+EU,reaper,Suravasa,,50.9,7.7
 EU,reaper,Nepal,,49.9,7.3
+EU,reaper,Junkertown,,49.6,4.9
+EU,reaper,Oasis,,49.4,8.3
 EU,reaper,Watchpoint: Gibraltar,,49.2,7.3
-EU,reaper,Route 66,,47.6,5.3
-EU,reaper,Rialto,,47.3,5.0
+EU,reaper,Rialto,,49.2,5.1
 EU,reaper,Colosseo,,47.3,7.0
+EU,reaper,New Junk City,,46.9,9.5
 EU,reaper,Havana,,46.8,2.2
 EU,reaper,Runasapi,,46.1,6.9
-EU,reaper,New Junk City,,44.6,10.1
-EU,reaper,King's Row,,44.3,5.4
+EU,reaper,Route 66,,45.8,5.0
+EU,reaper,King's Row,,44.8,5.0
+EU,reaper,Ilios,,43.9,9.2
 EU,reaper,Busan,,42.0,5.8
-EU,reaper,Ilios,,41.7,9.5
-EU,reaper,Esperança,,38.6,7.1
+EU,reaper,Esperança,,37.9,6.4
 EU,reaper,Numbani,,37.2,6.2
 ASIA,ashe,Junkertown,,72.4,12.8
 ASIA,ashe,King's Row,,63.9,8.4
 ASIA,ashe,Dorado,,63.2,16.7
-ASIA,ashe,Ilios,,62.8,4.9
 ASIA,ashe,Runasapi,,62.5,2.4
-ASIA,ashe,Nepal,,62.1,4.7
 ASIA,ashe,Blizzard World,,61.3,10.9
+ASIA,ashe,Ilios,,60.9,5.0
 ASIA,ashe,Samoa,,60.0,2.6
 ASIA,ashe,Numbani,,58.5,22.5
+ASIA,ashe,Nepal,,58.3,4.4
 ASIA,ashe,Colosseo,,55.1,5.6
-ASIA,ashe,Aatlis,,54.7,1.2
 ASIA,ashe,Rialto,,54.6,12.2
 ASIA,ashe,Busan,,53.9,4.3
 ASIA,ashe,Suravasa,,53.2,2.1
+ASIA,ashe,Paraíso,,50.7,14.3
 ASIA,ashe,Route 66,,48.4,15.7
 ASIA,ashe,Havana,,47.3,10.4
+ASIA,ashe,Aatlis,,46.4,1.1
 ASIA,ashe,Shambali Monastery,,46.1,9.4
-ASIA,ashe,Midtown,,45.1,12.5
-ASIA,ashe,Hollywood,,44.0,12.7
+ASIA,ashe,Midtown,,46.0,12.2
+ASIA,ashe,Hollywood,,44.5,11.7
 ASIA,ashe,Watchpoint: Gibraltar,,43.6,17.5
 ASIA,ashe,Eichenwalde,,41.0,5.0
-ASIA,ashe,Paraíso,,40.9,14.3
 ASIA,ashe,Esperança,,40.1,3.7
 ASIA,ashe,New Queen Street,,40.0,5.3
 ASIA,ashe,Circuit Royal,,36.4,10.4
 ASIA,ashe,Lijiang Tower,,36.1,2.4
 ASIA,ashe,New Junk City,,28.9,1.8
 ASIA,ashe,Oasis,,27.1,1.4
-US,ashe,Midtown,,68.3,13.0
-US,ashe,Dorado,,63.6,18.8
+US,ashe,Dorado,,62.0,18.9
 US,ashe,Numbani,,60.7,19.1
+US,ashe,Midtown,,59.9,13.0
+US,ashe,New Junk City,,58.2,2.2
 US,ashe,Busan,,56.3,8.4
-US,ashe,Oasis,,56.2,3.1
-US,ashe,Watchpoint: Gibraltar,,54.4,18.2
 US,ashe,Nepal,,54.3,6.9
+US,ashe,Watchpoint: Gibraltar,,54.1,18.2
 US,ashe,Lijiang Tower,,53.9,3.4
-US,ashe,Blizzard World,,53.7,12.0
+US,ashe,Oasis,,53.7,3.8
 US,ashe,Ilios,,53.6,5.7
-US,ashe,Hollywood,,51.0,16.6
+US,ashe,Blizzard World,,52.6,12.8
 US,ashe,King's Row,,50.8,9.1
-US,ashe,New Junk City,,50.4,2.0
+US,ashe,Junkertown,,50.8,20.2
 US,ashe,Rialto,,50.3,14.8
+US,ashe,Circuit Royal,,50.3,17.2
 US,ashe,Eichenwalde,,50.2,7.8
-US,ashe,Havana,,50.2,17.7
+US,ashe,Hollywood,,50.2,17.5
+US,ashe,Havana,,49.8,17.5
 US,ashe,New Queen Street,,49.8,8.4
-US,ashe,Suravasa,,49.5,4.1
 US,ashe,Shambali Monastery,,49.5,12.1
 US,ashe,Esperança,,49.4,5.7
-US,ashe,Junkertown,,49.1,19.8
-US,ashe,Route 66,,47.0,16.3
+US,ashe,Route 66,,46.3,16.4
 US,ashe,Samoa,,46.2,6.6
-US,ashe,Circuit Royal,,46.1,15.8
+US,ashe,Suravasa,,44.7,4.0
 US,ashe,Runasapi,,42.2,4.9
 US,ashe,Colosseo,,37.6,6.9
 US,ashe,Paraíso,,34.7,16.2
 US,ashe,Aatlis,,31.1,1.2
 EU,ashe,Numbani,,59.7,12.2
-EU,ashe,Samoa,,57.2,5.6
 EU,ashe,Dorado,,57.2,13.4
-EU,ashe,Rialto,,56.7,12.3
-EU,ashe,New Queen Street,,54.1,4.8
-EU,ashe,Shambali Monastery,,53.9,9.0
-EU,ashe,Circuit Royal,,53.1,14.7
+EU,ashe,Rialto,,57.1,12.5
+EU,ashe,Samoa,,56.7,5.5
+EU,ashe,Shambali Monastery,,53.1,9.3
 EU,ashe,Watchpoint: Gibraltar,,52.5,16.3
+EU,ashe,Circuit Royal,,51.4,14.5
+EU,ashe,New Queen Street,,51.1,4.8
 EU,ashe,Nepal,,50.2,5.8
 EU,ashe,Eichenwalde,,49.3,6.9
-EU,ashe,Route 66,,48.6,11.3
-EU,ashe,Oasis,,47.6,4.5
+EU,ashe,Route 66,,48.5,12.0
 EU,ashe,Havana,,47.4,15.0
+EU,ashe,Ilios,,47.2,5.1
+EU,ashe,Oasis,,47.0,4.8
+EU,ashe,King's Row,,46.6,7.2
 EU,ashe,Busan,,46.3,7.0
-EU,ashe,Esperança,,46.3,6.0
+EU,ashe,Suravasa,,45.5,3.5
 EU,ashe,Lijiang Tower,,44.5,2.6
-EU,ashe,Suravasa,,44.4,3.1
-EU,ashe,Junkertown,,43.9,13.4
-EU,ashe,Ilios,,43.6,5.0
+EU,ashe,Blizzard World,,43.9,10.6
 EU,ashe,Midtown,,43.5,10.8
 EU,ashe,Runasapi,,43.0,4.5
-EU,ashe,King's Row,,43.0,6.7
 EU,ashe,Hollywood,,41.9,11.3
-EU,ashe,Blizzard World,,40.5,11.2
+EU,ashe,Esperança,,41.9,5.7
+EU,ashe,Junkertown,,40.0,14.2
 EU,ashe,Paraíso,,37.4,9.4
 EU,ashe,Colosseo,,36.8,6.9
 EU,ashe,Aatlis,,34.1,1.8
-EU,ashe,New Junk City,,31.0,2.3
+EU,ashe,New Junk City,,28.2,2.3
 ASIA,illari,Busan,,65.3,14.6
 ASIA,illari,Rialto,,62.3,25.4
-ASIA,illari,Aatlis,,59.8,9.8
 ASIA,illari,New Junk City,,59.1,13.3
 ASIA,illari,Dorado,,58.7,22.6
-ASIA,illari,Ilios,,57.2,14.3
-ASIA,illari,Midtown,,56.5,23.5
 ASIA,illari,Suravasa,,55.9,15.6
+ASIA,illari,Midtown,,55.6,23.1
 ASIA,illari,Samoa,,55.3,15.9
+ASIA,illari,Aatlis,,54.6,10.3
+ASIA,illari,Ilios,,54.4,14.9
 ASIA,illari,Esperança,,54.1,18.9
-ASIA,illari,Nepal,,53.8,18.2
 ASIA,illari,Numbani,,53.8,17.9
 ASIA,illari,New Queen Street,,53.7,21.0
 ASIA,illari,Havana,,53.3,28.3
 ASIA,illari,Colosseo,,53.1,19.5
+ASIA,illari,Nepal,,52.5,18.9
 ASIA,illari,Shambali Monastery,,51.9,23.3
 ASIA,illari,Runasapi,,51.2,18.1
 ASIA,illari,Oasis,,51.2,16.3
+ASIA,illari,Hollywood,,50.1,23.6
 ASIA,illari,Route 66,,49.8,24.3
-ASIA,illari,Circuit Royal,,49.3,29.5
 ASIA,illari,Eichenwalde,,49.3,23.4
-ASIA,illari,Paraíso,,48.7,22.2
+ASIA,illari,Circuit Royal,,49.3,29.5
 ASIA,illari,Lijiang Tower,,48.6,13.5
 ASIA,illari,King's Row,,48.4,20.8
 ASIA,illari,Watchpoint: Gibraltar,,46.8,22.7
 ASIA,illari,Junkertown,,45.5,27.1
-ASIA,illari,Hollywood,,43.1,22.1
+ASIA,illari,Paraíso,,44.1,23.6
 ASIA,illari,Blizzard World,,38.9,22.1
 US,illari,Shambali Monastery,,66.8,16.9
-US,illari,Havana,,66.7,20.1
 US,illari,Esperança,,65.3,10.7
 US,illari,Rialto,,64.8,15.6
-US,illari,Blizzard World,,62.9,14.9
 US,illari,Ilios,,60.0,8.5
-US,illari,Circuit Royal,,57.2,22.6
+US,illari,Junkertown,,59.8,20.9
+US,illari,Blizzard World,,58.5,15.3
+US,illari,Circuit Royal,,57.8,22.4
 US,illari,Nepal,,57.0,9.6
-US,illari,Junkertown,,56.9,22.2
-US,illari,Dorado,,56.8,16.5
-US,illari,Midtown,,56.6,14.4
-US,illari,Suravasa,,55.7,9.6
+US,illari,Havana,,56.7,23.0
+US,illari,Dorado,,56.6,17.5
 US,illari,Eichenwalde,,55.7,12.4
 US,illari,Numbani,,55.2,12.5
+US,illari,Midtown,,55.2,15.0
+US,illari,Suravasa,,55.1,10.3
 US,illari,Samoa,,54.1,9.4
 US,illari,Busan,,53.7,11.6
 US,illari,Lijiang Tower,,52.4,8.2
-US,illari,Watchpoint: Gibraltar,,51.2,15.0
+US,illari,Watchpoint: Gibraltar,,51.3,15.6
 US,illari,New Queen Street,,51.1,10.2
 US,illari,Colosseo,,50.7,10.1
-US,illari,New Junk City,,50.3,7.8
+US,illari,Hollywood,,50.0,17.0
 US,illari,King's Row,,49.4,10.9
-US,illari,Route 66,,48.9,15.7
+US,illari,New Junk City,,47.8,8.0
 US,illari,Runasapi,,47.2,9.7
 US,illari,Paraíso,,45.4,18.8
 US,illari,Aatlis,,42.9,5.8
-US,illari,Oasis,,42.6,8.3
-US,illari,Hollywood,,41.6,16.7
+US,illari,Oasis,,42.5,8.2
+US,illari,Route 66,,41.9,16.6
 EU,illari,Numbani,,65.3,20.4
-EU,illari,Junkertown,,64.3,24.1
+EU,illari,Junkertown,,63.3,23.9
 EU,illari,Lijiang Tower,,61.6,11.2
-EU,illari,Oasis,,60.1,13.4
 EU,illari,Runasapi,,58.7,12.5
-EU,illari,Route 66,,58.5,21.5
 EU,illari,Havana,,58.5,23.8
-EU,illari,Samoa,,56.8,16.5
+EU,illari,Oasis,,56.6,13.3
 EU,illari,Paraíso,,56.2,20.5
 EU,illari,Eichenwalde,,55.9,18.5
-EU,illari,Rialto,,55.3,20.8
-EU,illari,Circuit Royal,,55.3,29.5
-EU,illari,Esperança,,54.7,16.0
+EU,illari,Circuit Royal,,55.3,27.7
+EU,illari,Route 66,,55.2,23.0
+EU,illari,Esperança,,55.2,15.3
 EU,illari,Aatlis,,54.2,10.1
+EU,illari,Rialto,,54.2,20.1
+EU,illari,Samoa,,54.0,15.7
 EU,illari,Hollywood,,53.8,19.4
-EU,illari,Blizzard World,,53.5,18.9
 EU,illari,Busan,,53.5,12.1
 EU,illari,Colosseo,,53.3,15.9
-EU,illari,King's Row,,51.4,15.2
+EU,illari,Blizzard World,,53.3,19.2
+EU,illari,King's Row,,51.8,15.4
 EU,illari,Nepal,,51.4,14.8
+EU,illari,New Queen Street,,50.7,16.2
 EU,illari,Watchpoint: Gibraltar,,50.1,19.5
-EU,illari,New Queen Street,,49.6,16.0
-EU,illari,Ilios,,49.2,13.8
-EU,illari,New Junk City,,46.2,9.1
-EU,illari,Suravasa,,45.7,12.9
+EU,illari,Ilios,,49.4,13.5
+EU,illari,Shambali Monastery,,48.7,21.7
+EU,illari,New Junk City,,47.6,9.1
+EU,illari,Suravasa,,47.2,12.6
 EU,illari,Dorado,,44.7,18.9
-EU,illari,Shambali Monastery,,44.6,21.8
 EU,illari,Midtown,,42.4,22.2
 ASIA,zenyatta,New Queen Street,,64.3,2.8
 ASIA,zenyatta,Watchpoint: Gibraltar,,61.4,5.4
-ASIA,zenyatta,Ilios,,57.7,3.9
+ASIA,zenyatta,Ilios,,57.0,3.7
 ASIA,zenyatta,Busan,,55.7,4.8
 ASIA,zenyatta,Lijiang Tower,,55.6,4.4
 ASIA,zenyatta,Route 66,,54.3,7.5
 ASIA,zenyatta,Circuit Royal,,54.2,20.4
 ASIA,zenyatta,Runasapi,,51.8,1.9
 ASIA,zenyatta,Numbani,,51.1,5.0
+ASIA,zenyatta,Hollywood,,50.9,7.3
 ASIA,zenyatta,Havana,,50.5,19.9
 ASIA,zenyatta,Esperança,,50.5,2.9
 ASIA,zenyatta,Suravasa,,50.2,3.6
-ASIA,zenyatta,Hollywood,,49.7,7.7
-ASIA,zenyatta,Nepal,,48.7,5.5
 ASIA,zenyatta,Rialto,,47.1,8.4
 ASIA,zenyatta,King's Row,,46.5,6.7
 ASIA,zenyatta,Junkertown,,46.5,13.8
+ASIA,zenyatta,Nepal,,45.3,5.3
 ASIA,zenyatta,Colosseo,,44.1,3.9
-ASIA,zenyatta,Midtown,,42.0,7.6
+ASIA,zenyatta,Midtown,,42.2,7.3
 ASIA,zenyatta,Samoa,,41.0,3.9
 ASIA,zenyatta,Blizzard World,,39.2,8.0
 ASIA,zenyatta,Dorado,,38.3,4.8
 ASIA,zenyatta,Eichenwalde,,37.8,8.1
-ASIA,zenyatta,Aatlis,,33.9,2.0
+ASIA,zenyatta,Paraíso,,35.7,3.8
+ASIA,zenyatta,Aatlis,,34.9,1.9
 ASIA,zenyatta,Oasis,,33.3,3.2
 ASIA,zenyatta,Shambali Monastery,,31.0,7.6
 ASIA,zenyatta,New Junk City,,28.0,2.4
-ASIA,zenyatta,Paraíso,,25.4,4.3
-US,zenyatta,Suravasa,,71.7,3.1
+US,zenyatta,Suravasa,,65.8,3.8
 US,zenyatta,Paraíso,,65.5,10.7
 US,zenyatta,Aatlis,,65.2,2.3
 US,zenyatta,New Queen Street,,62.7,5.0
+US,zenyatta,New Junk City,,61.8,4.0
 US,zenyatta,Nepal,,60.0,5.7
 US,zenyatta,Busan,,57.1,6.1
+US,zenyatta,Hollywood,,57.1,8.5
 US,zenyatta,Rialto,,55.5,8.7
 US,zenyatta,Lijiang Tower,,55.2,4.2
-US,zenyatta,New Junk City,,54.4,3.8
-US,zenyatta,Dorado,,53.3,6.7
-US,zenyatta,Hollywood,,53.1,8.8
-US,zenyatta,Route 66,,53.0,8.5
+US,zenyatta,Watchpoint: Gibraltar,,52.3,4.9
 US,zenyatta,Colosseo,,52.0,6.8
-US,zenyatta,Watchpoint: Gibraltar,,50.8,5.1
-US,zenyatta,Havana,,50.0,19.7
+US,zenyatta,Havana,,51.4,18.9
+US,zenyatta,Blizzard World,,50.7,8.7
+US,zenyatta,Oasis,,49.6,5.4
 US,zenyatta,Runasapi,,49.3,5.0
+US,zenyatta,Route 66,,49.1,7.7
 US,zenyatta,Numbani,,48.3,4.7
-US,zenyatta,Midtown,,47.7,12.7
-US,zenyatta,Blizzard World,,47.4,8.3
+US,zenyatta,Midtown,,48.1,11.2
 US,zenyatta,Samoa,,47.3,6.2
-US,zenyatta,Circuit Royal,,47.0,15.0
-US,zenyatta,Oasis,,46.9,5.7
+US,zenyatta,Circuit Royal,,45.3,15.7
 US,zenyatta,Eichenwalde,,44.9,7.3
-US,zenyatta,Junkertown,,39.1,10.7
-US,zenyatta,King's Row,,38.9,9.5
+US,zenyatta,Dorado,,43.9,6.2
+US,zenyatta,Junkertown,,40.5,11.3
 US,zenyatta,Shambali Monastery,,38.9,10.5
+US,zenyatta,King's Row,,38.9,9.5
 US,zenyatta,Esperança,,35.7,4.5
 US,zenyatta,Ilios,,35.3,3.3
 EU,zenyatta,Paraíso,,65.4,13.5
 EU,zenyatta,Runasapi,,62.9,7.8
 EU,zenyatta,Busan,,59.4,9.0
-EU,zenyatta,Junkertown,,58.8,16.9
-EU,zenyatta,Blizzard World,,57.2,12.3
+EU,zenyatta,Junkertown,,59.0,16.0
 EU,zenyatta,Havana,,56.3,25.3
 EU,zenyatta,Dorado,,56.2,7.7
-EU,zenyatta,New Queen Street,,55.8,9.3
+EU,zenyatta,New Queen Street,,56.0,8.5
 EU,zenyatta,Aatlis,,55.0,4.8
-EU,zenyatta,New Junk City,,53.7,6.7
+EU,zenyatta,Ilios,,54.8,6.5
+EU,zenyatta,Suravasa,,54.4,5.9
+EU,zenyatta,Shambali Monastery,,53.9,10.6
+EU,zenyatta,Esperança,,53.8,5.8
 EU,zenyatta,Midtown,,53.0,11.0
-EU,zenyatta,Shambali Monastery,,52.1,10.8
-EU,zenyatta,Ilios,,52.0,6.6
-EU,zenyatta,Route 66,,51.9,11.0
+EU,zenyatta,Blizzard World,,52.3,11.7
 EU,zenyatta,Nepal,,51.7,8.9
-EU,zenyatta,Esperança,,50.9,6.2
+EU,zenyatta,Oasis,,51.6,6.4
+EU,zenyatta,New Junk City,,51.4,6.0
+EU,zenyatta,King's Row,,50.8,13.6
+EU,zenyatta,Samoa,,50.4,7.0
 EU,zenyatta,Hollywood,,50.1,11.3
-EU,zenyatta,Oasis,,49.8,7.2
-EU,zenyatta,Suravasa,,49.7,5.2
 EU,zenyatta,Colosseo,,49.3,8.6
-EU,zenyatta,Circuit Royal,,48.4,18.6
-EU,zenyatta,King's Row,,48.2,13.5
+EU,zenyatta,Route 66,,48.4,10.5
 EU,zenyatta,Watchpoint: Gibraltar,,48.2,8.7
 EU,zenyatta,Numbani,,47.7,9.0
+EU,zenyatta,Rialto,,47.4,13.8
+EU,zenyatta,Circuit Royal,,47.0,18.4
 EU,zenyatta,Eichenwalde,,46.6,12.8
-EU,zenyatta,Rialto,,46.3,14.5
-EU,zenyatta,Samoa,,46.3,7.5
 EU,zenyatta,Lijiang Tower,,44.8,9.1
+ASIA,orisa,Watchpoint: Gibraltar,,64.9,2.0
+ASIA,orisa,King's Row,,63.7,5.2
+ASIA,orisa,Shambali Monastery,,61.2,4.9
+ASIA,orisa,Blizzard World,,56.9,4.9
+ASIA,orisa,Route 66,,55.6,2.9
+ASIA,orisa,Lijiang Tower,,52.2,5.9
+ASIA,orisa,Aatlis,,51.3,6.9
+ASIA,orisa,Rialto,,51.2,2.4
+ASIA,orisa,Samoa,,50.4,4.6
+ASIA,orisa,New Junk City,,49.9,4.5
+ASIA,orisa,Eichenwalde,,47.6,7.0
+ASIA,orisa,Oasis,,47.3,5.9
+ASIA,orisa,Suravasa,,44.2,5.6
+ASIA,orisa,Nepal,,43.1,5.3
+ASIA,orisa,Circuit Royal,,42.9,5.3
+ASIA,orisa,Busan,,42.7,5.0
+ASIA,orisa,Ilios,,42.4,3.1
+ASIA,orisa,Havana,,40.7,3.4
+ASIA,orisa,Hollywood,,39.7,5.6
+ASIA,orisa,Runasapi,,38.6,5.5
+ASIA,orisa,Dorado,,36.8,2.1
+ASIA,orisa,New Queen Street,,36.1,3.9
+ASIA,orisa,Esperança,,34.6,3.2
+ASIA,orisa,Junkertown,,32.6,3.8
+ASIA,orisa,Midtown,,29.7,5.4
+ASIA,orisa,Colosseo,,28.8,3.0
+ASIA,orisa,Numbani,,28.6,2.4
+ASIA,orisa,Paraíso,,23.9,2.1
+US,orisa,Numbani,,74.5,4.3
+US,orisa,Havana,,65.5,4.1
+US,orisa,Busan,,62.7,6.5
+US,orisa,Runasapi,,62.4,5.2
+US,orisa,Junkertown,,61.3,4.8
+US,orisa,Aatlis,,58.1,6.6
+US,orisa,New Queen Street,,57.7,4.8
+US,orisa,Oasis,,56.6,4.9
+US,orisa,Shambali Monastery,,54.5,6.5
+US,orisa,Samoa,,54.3,6.5
+US,orisa,Esperança,,52.7,4.9
+US,orisa,Suravasa,,51.9,5.9
+US,orisa,Colosseo,,51.8,5.9
+US,orisa,Circuit Royal,,51.2,6.7
+US,orisa,Midtown,,50.8,6.0
+US,orisa,Ilios,,50.3,4.8
+US,orisa,Nepal,,49.9,7.4
+US,orisa,Lijiang Tower,,47.7,6.4
+US,orisa,Paraíso,,44.2,6.6
+US,orisa,Blizzard World,,41.5,5.6
+US,orisa,Watchpoint: Gibraltar,,39.9,2.6
+US,orisa,New Junk City,,38.1,7.3
+US,orisa,King's Row,,37.4,5.6
+US,orisa,Hollywood,,37.3,5.6
+US,orisa,Rialto,,36.5,6.3
+US,orisa,Route 66,,35.3,5.1
+US,orisa,Eichenwalde,,34.3,5.1
+US,orisa,Dorado,,31.2,2.4
+EU,orisa,Junkertown,,59.8,4.1
+EU,orisa,Watchpoint: Gibraltar,,55.5,3.4
+EU,orisa,Nepal,,54.9,7.1
+EU,orisa,New Junk City,,51.2,8.7
+EU,orisa,Rialto,,51.1,6.6
+EU,orisa,Dorado,,50.8,3.9
+EU,orisa,King's Row,,50.1,7.2
+EU,orisa,Suravasa,,50.0,5.8
+EU,orisa,Ilios,,49.9,6.5
+EU,orisa,Circuit Royal,,49.7,5.4
+EU,orisa,Busan,,48.0,6.2
+EU,orisa,Runasapi,,47.5,6.7
+EU,orisa,Samoa,,46.9,6.4
+EU,orisa,Esperança,,45.4,5.6
+EU,orisa,Midtown,,44.6,7.0
+EU,orisa,Numbani,,44.5,4.8
+EU,orisa,Oasis,,43.8,5.5
+EU,orisa,Lijiang Tower,,43.7,5.5
+EU,orisa,Blizzard World,,43.6,5.5
+EU,orisa,Hollywood,,43.2,6.2
+EU,orisa,Aatlis,,43.0,4.9
+EU,orisa,Havana,,42.9,2.9
+EU,orisa,New Queen Street,,42.5,6.6
+EU,orisa,Colosseo,,40.7,6.3
+EU,orisa,Shambali Monastery,,38.4,6.8
+EU,orisa,Route 66,,33.7,5.5
+EU,orisa,Eichenwalde,,33.4,5.9
+EU,orisa,Paraíso,,25.6,3.6
 ASIA,winston,Junkertown,,70.6,13.8
 ASIA,winston,Numbani,,66.6,35.8
-ASIA,winston,Paraíso,,66.4,26.7
+ASIA,winston,Paraíso,,65.1,24.9
 ASIA,winston,Dorado,,63.5,39.9
 ASIA,winston,Rialto,,60.7,25.1
 ASIA,winston,Busan,,60.3,19.0
@@ -1270,163 +1354,79 @@ ASIA,winston,Blizzard World,,59.2,25.6
 ASIA,winston,Colosseo,,59.1,25.1
 ASIA,winston,Esperança,,58.4,28.7
 ASIA,winston,New Queen Street,,55.5,24.6
-ASIA,winston,Midtown,,55.1,13.5
-ASIA,winston,Nepal,,53.5,14.4
+ASIA,winston,Nepal,,53.7,14.9
+ASIA,winston,Midtown,,53.0,14.0
 ASIA,winston,Suravasa,,52.7,23.1
-ASIA,winston,Ilios,,52.6,32.2
-ASIA,winston,Hollywood,,52.4,20.3
+ASIA,winston,Aatlis,,52.6,11.5
+ASIA,winston,Hollywood,,52.6,20.2
 ASIA,winston,Eichenwalde,,51.9,13.5
 ASIA,winston,Watchpoint: Gibraltar,,51.8,46.8
-ASIA,winston,Aatlis,,51.6,10.5
+ASIA,winston,Ilios,,51.5,31.5
 ASIA,winston,New Junk City,,50.5,10.9
 ASIA,winston,Lijiang Tower,,48.8,16.1
 ASIA,winston,Samoa,,48.2,17.3
 ASIA,winston,Shambali Monastery,,47.9,9.0
-ASIA,winston,Runasapi,,47.7,18.5
 ASIA,winston,King's Row,,47.7,16.2
+ASIA,winston,Runasapi,,47.7,18.5
 ASIA,winston,Oasis,,47.5,21.1
 ASIA,winston,Havana,,47.1,11.4
 ASIA,winston,Circuit Royal,,39.5,3.6
-US,winston,Havana,,66.9,4.9
-US,winston,Dorado,,61.6,24.5
-US,winston,Hollywood,,60.4,13.9
-US,winston,Blizzard World,,57.5,11.2
+US,winston,Hollywood,,61.4,13.6
+US,winston,Dorado,,60.3,27.0
+US,winston,Blizzard World,,56.4,12.5
 US,winston,Runasapi,,55.9,6.3
 US,winston,Rialto,,55.2,10.2
 US,winston,Paraíso,,54.6,18.5
-US,winston,Suravasa,,53.4,9.3
-US,winston,Junkertown,,53.1,7.4
 US,winston,Lijiang Tower,,52.9,4.9
-US,winston,Watchpoint: Gibraltar,,51.7,30.3
-US,winston,Oasis,,51.5,9.2
 US,winston,Esperança,,51.1,17.4
+US,winston,Watchpoint: Gibraltar,,49.5,29.9
 US,winston,Numbani,,49.3,21.4
+US,winston,Oasis,,48.4,10.2
+US,winston,New Junk City,,48.3,4.4
+US,winston,Junkertown,,48.2,7.3
 US,winston,Ilios,,48.0,17.5
 US,winston,New Queen Street,,47.5,11.3
 US,winston,Colosseo,,47.3,10.0
 US,winston,Samoa,,47.0,4.8
-US,winston,Route 66,,47.0,12.4
-US,winston,New Junk City,,46.8,4.4
+US,winston,Havana,,46.5,5.4
+US,winston,Midtown,,46.4,4.2
+US,winston,Suravasa,,46.3,9.0
+US,winston,Route 66,,45.7,13.3
 US,winston,Nepal,,45.6,4.4
-US,winston,Midtown,,44.4,4.2
 US,winston,Busan,,43.8,10.8
+US,winston,Circuit Royal,,42.4,2.6
 US,winston,Shambali Monastery,,40.3,4.4
 US,winston,Aatlis,,39.7,6.6
-US,winston,Circuit Royal,,37.4,2.5
 US,winston,Eichenwalde,,37.2,5.6
 US,winston,King's Row,,36.8,5.5
 EU,winston,Paraíso,,68.9,28.1
 EU,winston,Colosseo,,58.5,13.3
-EU,winston,Rialto,,58.3,15.8
 EU,winston,Dorado,,57.7,30.8
-EU,winston,Esperança,,55.8,18.7
-EU,winston,Ilios,,55.6,22.5
-EU,winston,Blizzard World,,55.4,16.6
+EU,winston,Rialto,,56.0,15.8
 EU,winston,Watchpoint: Gibraltar,,55.1,30.9
-EU,winston,New Junk City,,53.8,5.9
-EU,winston,Suravasa,,53.6,13.6
+EU,winston,New Junk City,,54.5,5.7
+EU,winston,Oasis,,53.9,14.6
+EU,winston,Esperança,,53.8,17.8
+EU,winston,Suravasa,,52.9,13.4
 EU,winston,Runasapi,,52.4,11.0
 EU,winston,Lijiang Tower,,52.2,7.7
 EU,winston,Hollywood,,52.2,16.5
-EU,winston,Oasis,,52.2,13.5
 EU,winston,Numbani,,52.0,27.9
-EU,winston,Circuit Royal,,51.1,4.0
+EU,winston,Ilios,,51.5,20.7
+EU,winston,Blizzard World,,48.9,16.0
 EU,winston,Busan,,48.9,17.9
+EU,winston,Route 66,,47.6,17.2
+EU,winston,Junkertown,,47.4,16.0
+EU,winston,Samoa,,47.3,11.0
 EU,winston,Havana,,47.2,7.6
-EU,winston,Route 66,,46.6,17.5
+EU,winston,Circuit Royal,,47.1,4.1
 EU,winston,Midtown,,46.3,6.8
-EU,winston,Junkertown,,45.9,15.6
-EU,winston,King's Row,,45.7,8.7
-EU,winston,Samoa,,45.6,11.0
-EU,winston,New Queen Street,,45.3,16.0
 EU,winston,Eichenwalde,,44.8,8.3
 EU,winston,Aatlis,,44.3,6.8
-EU,winston,Shambali Monastery,,43.7,5.3
+EU,winston,New Queen Street,,42.7,16.6
+EU,winston,King's Row,,41.9,8.7
+EU,winston,Shambali Monastery,,41.6,5.9
 EU,winston,Nepal,,39.9,8.1
-ASIA,orisa,Watchpoint: Gibraltar,,64.9,2.0
-ASIA,orisa,King's Row,,63.7,5.2
-ASIA,orisa,Shambali Monastery,,61.2,4.9
-ASIA,orisa,Blizzard World,,56.9,4.9
-ASIA,orisa,Route 66,,55.6,2.9
-ASIA,orisa,Lijiang Tower,,52.2,5.9
-ASIA,orisa,Rialto,,51.2,2.4
-ASIA,orisa,Samoa,,50.4,4.6
-ASIA,orisa,Aatlis,,50.3,5.8
-ASIA,orisa,New Junk City,,49.9,4.5
-ASIA,orisa,Eichenwalde,,47.6,7.0
-ASIA,orisa,Oasis,,47.3,5.9
-ASIA,orisa,Nepal,,44.6,4.7
-ASIA,orisa,Suravasa,,44.2,5.6
-ASIA,orisa,Circuit Royal,,42.9,5.3
-ASIA,orisa,Busan,,42.7,5.0
-ASIA,orisa,Ilios,,41.8,3.1
-ASIA,orisa,Havana,,40.7,3.4
-ASIA,orisa,Runasapi,,38.6,5.5
-ASIA,orisa,Dorado,,36.8,2.1
-ASIA,orisa,Paraíso,,36.3,2.0
-ASIA,orisa,New Queen Street,,36.1,3.9
-ASIA,orisa,Hollywood,,35.4,4.9
-ASIA,orisa,Esperança,,34.6,3.2
-ASIA,orisa,Junkertown,,32.6,3.8
-ASIA,orisa,Colosseo,,28.8,3.0
-ASIA,orisa,Numbani,,28.6,2.4
-ASIA,orisa,Midtown,,20.8,4.4
-US,orisa,Numbani,,74.5,4.3
-US,orisa,Busan,,62.7,6.5
-US,orisa,Runasapi,,62.4,5.2
-US,orisa,Junkertown,,59.0,4.9
-US,orisa,Aatlis,,58.1,6.6
-US,orisa,New Queen Street,,57.7,4.8
-US,orisa,Havana,,56.8,4.2
-US,orisa,Shambali Monastery,,54.5,6.5
-US,orisa,Samoa,,54.3,6.5
-US,orisa,Esperança,,52.7,4.9
-US,orisa,Colosseo,,51.8,5.9
-US,orisa,Ilios,,50.3,4.8
-US,orisa,Nepal,,49.9,7.4
-US,orisa,Lijiang Tower,,47.7,6.4
-US,orisa,Circuit Royal,,47.6,5.8
-US,orisa,Oasis,,46.8,4.0
-US,orisa,Hollywood,,46.8,5.0
-US,orisa,Suravasa,,46.4,5.6
-US,orisa,New Junk City,,45.4,7.1
-US,orisa,Paraíso,,44.2,6.6
-US,orisa,Midtown,,41.3,5.8
-US,orisa,Dorado,,40.6,2.1
-US,orisa,Blizzard World,,37.8,5.5
-US,orisa,King's Row,,37.4,5.6
-US,orisa,Rialto,,36.5,6.3
-US,orisa,Watchpoint: Gibraltar,,36.5,2.3
-US,orisa,Eichenwalde,,34.3,5.1
-US,orisa,Route 66,,31.0,5.4
-EU,orisa,Junkertown,,57.6,4.4
-EU,orisa,Watchpoint: Gibraltar,,55.5,3.4
-EU,orisa,Nepal,,54.9,7.1
-EU,orisa,New Junk City,,53.7,7.6
-EU,orisa,Suravasa,,52.3,5.5
-EU,orisa,Rialto,,50.8,6.4
-EU,orisa,Dorado,,50.8,3.9
-EU,orisa,Ilios,,50.2,5.6
-EU,orisa,King's Row,,50.0,7.5
-EU,orisa,Busan,,48.0,6.2
-EU,orisa,Runasapi,,47.5,6.7
-EU,orisa,Samoa,,45.3,6.4
-EU,orisa,Esperança,,44.8,4.7
-EU,orisa,Midtown,,44.6,7.0
-EU,orisa,Numbani,,44.5,4.8
-EU,orisa,Oasis,,44.2,5.1
-EU,orisa,Lijiang Tower,,43.7,5.5
-EU,orisa,Hollywood,,43.2,6.2
-EU,orisa,Aatlis,,43.0,4.9
-EU,orisa,Havana,,42.9,2.9
-EU,orisa,Circuit Royal,,41.1,4.9
-EU,orisa,Colosseo,,40.7,6.3
-EU,orisa,Blizzard World,,37.0,5.5
-EU,orisa,New Queen Street,,37.0,6.0
-EU,orisa,Eichenwalde,,33.4,5.9
-EU,orisa,Shambali Monastery,,32.5,6.9
-EU,orisa,Paraíso,,25.6,3.6
-EU,orisa,Route 66,,23.1,4.4
 ASIA,juno,Dorado,,75.3,2.8
 ASIA,juno,Watchpoint: Gibraltar,,68.2,2.1
 ASIA,juno,Havana,,67.1,3.2
@@ -1435,164 +1435,164 @@ ASIA,juno,Circuit Royal,,65.2,8.4
 ASIA,juno,Shambali Monastery,,64.6,1.9
 ASIA,juno,Samoa,,63.0,1.5
 ASIA,juno,Colosseo,,63.0,2.3
-ASIA,juno,Midtown,,60.4,3.8
+ASIA,juno,Midtown,,61.1,2.8
 ASIA,juno,Suravasa,,60.3,1.6
 ASIA,juno,New Junk City,,57.1,3.4
 ASIA,juno,New Queen Street,,55.3,3.7
-ASIA,juno,Ilios,,53.6,1.6
+ASIA,juno,Ilios,,53.4,1.8
 ASIA,juno,Eichenwalde,,52.9,3.2
 ASIA,juno,Oasis,,51.3,2.8
 ASIA,juno,Blizzard World,,51.3,2.2
 ASIA,juno,Numbani,,50.3,3.5
 ASIA,juno,Route 66,,50.2,2.1
 ASIA,juno,Junkertown,,49.8,1.5
+ASIA,juno,Hollywood,,49.4,2.9
 ASIA,juno,Lijiang Tower,,47.6,3.1
 ASIA,juno,King's Row,,46.7,2.4
 ASIA,juno,Busan,,44.5,2.2
-ASIA,juno,Hollywood,,43.5,3.4
-ASIA,juno,Paraíso,,42.1,4.2
-ASIA,juno,Aatlis,,40.5,2.3
-ASIA,juno,Nepal,,40.0,3.2
+ASIA,juno,Nepal,,44.0,2.8
+ASIA,juno,Aatlis,,43.0,2.1
+ASIA,juno,Paraíso,,41.6,3.4
 ASIA,juno,Rialto,,38.5,2.6
 ASIA,juno,Esperança,,30.4,2.5
 US,juno,Numbani,,61.7,13.9
-US,juno,Hollywood,,60.1,10.7
+US,juno,Junkertown,,60.4,12.7
 US,juno,Esperança,,58.4,14.0
-US,juno,Circuit Royal,,57.7,19.7
-US,juno,Junkertown,,56.4,12.3
+US,juno,Circuit Royal,,56.6,19.4
+US,juno,Hollywood,,56.3,10.7
 US,juno,Paraíso,,53.9,10.8
-US,juno,New Junk City,,53.8,15.2
 US,juno,Rialto,,52.4,10.4
+US,juno,Blizzard World,,52.0,11.3
 US,juno,Colosseo,,51.5,15.0
-US,juno,Oasis,,50.8,13.8
+US,juno,Oasis,,50.8,13.5
+US,juno,New Junk City,,50.8,15.9
 US,juno,Eichenwalde,,50.7,14.8
-US,juno,Dorado,,50.7,9.8
 US,juno,Samoa,,50.7,13.4
 US,juno,New Queen Street,,50.6,13.6
-US,juno,Blizzard World,,49.6,11.4
+US,juno,Suravasa,,48.9,13.9
 US,juno,Runasapi,,48.6,18.2
+US,juno,Dorado,,47.9,9.7
 US,juno,Nepal,,47.8,15.5
+US,juno,Watchpoint: Gibraltar,,47.7,10.2
 US,juno,Aatlis,,46.6,14.0
 US,juno,Lijiang Tower,,46.4,15.1
 US,juno,Busan,,46.3,10.5
-US,juno,Watchpoint: Gibraltar,,46.2,9.8
 US,juno,King's Row,,45.6,14.5
+US,juno,Havana,,45.2,14.4
 US,juno,Ilios,,45.2,13.5
-US,juno,Suravasa,,42.9,13.1
+US,juno,Midtown,,43.3,11.0
 US,juno,Shambali Monastery,,40.1,14.0
-US,juno,Route 66,,37.0,12.9
-US,juno,Midtown,,34.3,8.4
-US,juno,Havana,,32.6,13.7
+US,juno,Route 66,,38.0,11.7
 EU,juno,Paraíso,,77.4,13.5
 EU,juno,Midtown,,60.4,15.3
-EU,juno,New Queen Street,,56.8,12.2
+EU,juno,New Queen Street,,58.5,13.0
+EU,juno,Shambali Monastery,,56.7,13.7
+EU,juno,Suravasa,,56.1,12.9
 EU,juno,Aatlis,,55.6,13.5
-EU,juno,New Junk City,,55.1,13.6
-EU,juno,Oasis,,54.9,11.3
+EU,juno,Ilios,,54.9,12.4
 EU,juno,Watchpoint: Gibraltar,,54.5,8.8
-EU,juno,Suravasa,,54.4,12.6
-EU,juno,Shambali Monastery,,54.1,12.9
+EU,juno,New Junk City,,53.9,13.1
+EU,juno,Circuit Royal,,53.7,20.5
 EU,juno,Runasapi,,53.6,14.7
-EU,juno,Ilios,,53.5,11.4
+EU,juno,Route 66,,53.2,12.4
+EU,juno,Blizzard World,,53.2,10.1
+EU,juno,Oasis,,53.1,11.5
 EU,juno,Colosseo,,52.7,14.0
-EU,juno,Blizzard World,,52.4,10.1
-EU,juno,Circuit Royal,,51.9,20.2
 EU,juno,Dorado,,51.5,10.3
 EU,juno,Eichenwalde,,51.3,14.9
-EU,juno,Samoa,,50.1,13.2
-EU,juno,Route 66,,49.9,12.0
+EU,juno,Junkertown,,49.9,11.6
 EU,juno,Nepal,,49.3,14.1
 EU,juno,Lijiang Tower,,49.3,13.6
 EU,juno,Hollywood,,49.2,14.7
-EU,juno,Junkertown,,48.3,10.7
+EU,juno,Samoa,,49.1,13.2
+EU,juno,Rialto,,48.7,11.8
 EU,juno,Busan,,48.0,12.4
-EU,juno,Esperança,,46.9,12.4
-EU,juno,Rialto,,46.7,11.5
-EU,juno,King's Row,,45.1,14.4
+EU,juno,Esperança,,47.2,12.5
+EU,juno,King's Row,,46.6,14.0
 EU,juno,Havana,,37.9,12.3
 EU,juno,Numbani,,32.0,13.4
 ASIA,tracer,Samoa,,62.6,50.1
-ASIA,tracer,Hollywood,,62.6,36.3
 ASIA,tracer,Suravasa,,62.5,51.8
 ASIA,tracer,Watchpoint: Gibraltar,,61.7,47.7
 ASIA,tracer,Numbani,,61.3,41.6
-ASIA,tracer,Midtown,,60.6,34.2
 ASIA,tracer,Busan,,60.1,53.5
-ASIA,tracer,Ilios,,58.8,49.3
 ASIA,tracer,Esperança,,58.5,53.8
 ASIA,tracer,Colosseo,,58.3,45.6
+ASIA,tracer,Midtown,,58.2,34.5
+ASIA,tracer,Ilios,,57.8,50.0
 ASIA,tracer,New Junk City,,57.4,43.8
-ASIA,tracer,Aatlis,,57.2,49.4
+ASIA,tracer,Hollywood,,57.1,37.2
 ASIA,tracer,New Queen Street,,56.3,54.8
 ASIA,tracer,Route 66,,56.2,36.5
 ASIA,tracer,Oasis,,55.9,49.7
 ASIA,tracer,Junkertown,,55.7,29.7
+ASIA,tracer,Aatlis,,54.2,49.8
 ASIA,tracer,Dorado,,54.0,38.6
-ASIA,tracer,Paraíso,,53.4,36.1
-ASIA,tracer,Runasapi,,53.0,53.5
 ASIA,tracer,Rialto,,53.0,33.8
+ASIA,tracer,Runasapi,,53.0,53.5
 ASIA,tracer,Blizzard World,,52.7,39.9
 ASIA,tracer,Lijiang Tower,,52.6,41.0
 ASIA,tracer,Eichenwalde,,51.1,39.1
-ASIA,tracer,Nepal,,50.7,40.8
+ASIA,tracer,Nepal,,50.7,42.4
+ASIA,tracer,Paraíso,,50.3,34.8
 ASIA,tracer,Shambali Monastery,,49.5,23.7
 ASIA,tracer,King's Row,,49.1,28.8
 ASIA,tracer,Circuit Royal,,44.3,5.4
 ASIA,tracer,Havana,,40.7,15.4
-US,tracer,Route 66,,64.9,26.5
 US,tracer,Colosseo,,61.6,34.6
+US,tracer,Route 66,,58.4,26.0
+US,tracer,Hollywood,,56.4,27.9
+US,tracer,Watchpoint: Gibraltar,,56.1,33.8
 US,tracer,Ilios,,54.9,36.2
-US,tracer,Hollywood,,54.6,28.1
-US,tracer,Suravasa,,54.5,33.2
-US,tracer,Watchpoint: Gibraltar,,54.4,34.4
-US,tracer,Blizzard World,,54.2,29.3
+US,tracer,Midtown,,54.4,23.1
 US,tracer,Nepal,,53.8,31.7
-US,tracer,Midtown,,53.6,21.7
+US,tracer,Suravasa,,53.3,32.4
 US,tracer,Numbani,,53.3,34.2
-US,tracer,New Junk City,,52.6,36.5
+US,tracer,Blizzard World,,52.6,29.0
 US,tracer,King's Row,,52.4,18.6
 US,tracer,Lijiang Tower,,52.1,30.6
 US,tracer,Samoa,,51.8,35.5
 US,tracer,Runasapi,,51.5,33.4
 US,tracer,Esperança,,50.8,38.3
-US,tracer,Oasis,,50.1,35.7
+US,tracer,Oasis,,50.8,35.9
+US,tracer,New Junk City,,50.5,35.7
 US,tracer,Aatlis,,49.6,38.5
-US,tracer,Junkertown,,49.5,15.7
 US,tracer,New Queen Street,,49.2,32.1
 US,tracer,Busan,,48.4,36.4
-US,tracer,Dorado,,46.4,30.1
-US,tracer,Havana,,45.4,12.0
+US,tracer,Junkertown,,47.9,17.1
+US,tracer,Dorado,,47.5,29.3
 US,tracer,Eichenwalde,,44.9,24.2
+US,tracer,Havana,,43.7,10.7
 US,tracer,Rialto,,43.6,20.1
 US,tracer,Shambali Monastery,,40.7,18.0
 US,tracer,Paraíso,,40.5,25.9
-US,tracer,Circuit Royal,,36.3,5.3
+US,tracer,Circuit Royal,,36.5,4.7
 EU,tracer,Watchpoint: Gibraltar,,58.4,35.7
 EU,tracer,Runasapi,,57.2,35.4
 EU,tracer,Numbani,,56.3,31.1
+EU,tracer,Route 66,,55.7,24.4
 EU,tracer,Busan,,55.2,35.1
+EU,tracer,Junkertown,,55.1,18.0
 EU,tracer,Aatlis,,54.7,36.8
-EU,tracer,Suravasa,,54.4,39.1
-EU,tracer,Ilios,,54.3,36.8
-EU,tracer,Route 66,,53.6,24.8
-EU,tracer,Samoa,,53.0,34.3
+EU,tracer,Samoa,,54.6,34.8
+EU,tracer,New Junk City,,54.0,37.5
+EU,tracer,Ilios,,53.9,35.1
+EU,tracer,Esperança,,53.2,39.4
+EU,tracer,Suravasa,,52.8,38.1
 EU,tracer,Colosseo,,52.6,34.2
-EU,tracer,Junkertown,,52.1,18.4
+EU,tracer,Blizzard World,,52.6,30.6
 EU,tracer,Hollywood,,52.0,30.1
-EU,tracer,King's Row,,51.8,19.8
+EU,tracer,Oasis,,51.9,36.2
 EU,tracer,Nepal,,51.6,32.9
-EU,tracer,New Queen Street,,51.4,36.4
 EU,tracer,Lijiang Tower,,51.4,31.8
-EU,tracer,New Junk City,,51.2,38.7
-EU,tracer,Circuit Royal,,50.9,5.6
+EU,tracer,Circuit Royal,,50.8,5.6
 EU,tracer,Paraíso,,50.8,34.1
-EU,tracer,Oasis,,50.8,37.0
-EU,tracer,Blizzard World,,50.7,30.1
+EU,tracer,New Queen Street,,50.7,36.8
 EU,tracer,Eichenwalde,,49.7,29.0
-EU,tracer,Rialto,,49.5,21.6
-EU,tracer,Esperança,,49.4,38.9
+EU,tracer,Rialto,,49.6,22.5
+EU,tracer,Shambali Monastery,,48.5,19.9
 EU,tracer,Dorado,,48.4,31.0
-EU,tracer,Shambali Monastery,,45.8,19.8
+EU,tracer,King's Row,,46.1,19.8
 EU,tracer,Midtown,,39.5,20.1
 EU,tracer,Havana,,35.1,14.1
 ASIA,anran,Numbani,,69.8,0.9
@@ -1605,95 +1605,95 @@ ASIA,anran,Suravasa,,50.2,1.4
 ASIA,anran,Samoa,,49.9,1.7
 ASIA,anran,New Junk City,,49.4,2.4
 ASIA,anran,Route 66,,47.4,1.8
-ASIA,anran,Ilios,,47.1,1.3
+ASIA,anran,Nepal,,46.2,1.7
 ASIA,anran,Havana,,45.7,0.4
-ASIA,anran,Nepal,,43.8,2.0
 ASIA,anran,Rialto,,42.5,1.0
 ASIA,anran,Busan,,41.1,2.1
-ASIA,anran,Aatlis,,40.0,3.3
+ASIA,anran,Aatlis,,40.6,2.9
+ASIA,anran,Ilios,,40.2,1.3
 ASIA,anran,Eichenwalde,,39.9,3.7
 ASIA,anran,King's Row,,38.1,2.4
 ASIA,anran,Shambali Monastery,,37.3,1.6
-ASIA,anran,Hollywood,,35.5,1.9
+ASIA,anran,Hollywood,,34.4,1.7
 ASIA,anran,Dorado,,33.9,1.4
 ASIA,anran,Colosseo,,32.7,1.0
 ASIA,anran,Runasapi,,30.9,2.1
-ASIA,anran,Midtown,,23.4,1.5
+ASIA,anran,Midtown,,25.3,1.6
 ASIA,anran,Esperança,,12.8,1.1
 ASIA,anran,Blizzard World,,4.5,1.8
 ASIA,anran,Paraíso,,0.0,0.2
 ASIA,anran,Junkertown,,0.0,0.7
-US,anran,Junkertown,,86.6,3.8
-US,anran,Route 66,,67.5,2.8
-US,anran,New Junk City,,62.1,6.0
-US,anran,Circuit Royal,,61.7,1.7
-US,anran,Oasis,,60.7,5.0
-US,anran,Suravasa,,60.0,4.7
-US,anran,Hollywood,,59.1,3.9
-US,anran,Blizzard World,,56.1,3.7
+US,anran,Junkertown,,87.7,3.3
+US,anran,Route 66,,68.6,2.9
+US,anran,Circuit Royal,,64.1,1.4
+US,anran,New Junk City,,59.1,5.4
+US,anran,Suravasa,,57.1,4.5
+US,anran,Oasis,,57.0,4.5
+US,anran,Hollywood,,54.1,3.3
 US,anran,Eichenwalde,,53.3,4.0
 US,anran,Ilios,,52.7,4.4
-US,anran,Midtown,,52.6,4.9
 US,anran,New Queen Street,,52.4,3.1
 US,anran,King's Row,,51.5,3.8
 US,anran,Aatlis,,50.4,6.1
+US,anran,Watchpoint: Gibraltar,,49.5,4.0
 US,anran,Colosseo,,48.8,4.6
-US,anran,Watchpoint: Gibraltar,,47.5,3.6
+US,anran,Midtown,,48.1,4.1
 US,anran,Rialto,,47.0,3.2
 US,anran,Runasapi,,46.8,6.0
 US,anran,Shambali Monastery,,46.0,3.5
+US,anran,Blizzard World,,45.4,3.9
 US,anran,Busan,,44.6,3.8
 US,anran,Esperança,,44.5,5.1
 US,anran,Samoa,,43.2,3.7
+US,anran,Dorado,,37.7,3.1
 US,anran,Lijiang Tower,,37.5,4.2
 US,anran,Nepal,,35.4,4.7
-US,anran,Dorado,,34.6,3.2
 US,anran,Numbani,,33.9,3.3
 US,anran,Paraíso,,32.4,1.4
-US,anran,Havana,,31.7,3.6
+US,anran,Havana,,29.1,2.8
 EU,anran,Eichenwalde,,63.3,1.8
 EU,anran,Midtown,,59.9,2.8
 EU,anran,Nepal,,55.7,3.5
+EU,anran,Oasis,,55.2,2.6
+EU,anran,King's Row,,55.0,2.2
 EU,anran,Colosseo,,54.7,2.3
-EU,anran,King's Row,,54.3,2.4
+EU,anran,Rialto,,54.1,1.9
 EU,anran,Hollywood,,53.9,2.4
 EU,anran,Aatlis,,53.8,4.2
-EU,anran,Rialto,,52.5,1.9
-EU,anran,Oasis,,52.4,2.5
 EU,anran,Watchpoint: Gibraltar,,51.5,2.2
-EU,anran,Samoa,,51.2,1.9
+EU,anran,Junkertown,,51.4,0.8
 EU,anran,Busan,,49.9,3.8
+EU,anran,Ilios,,49.7,1.8
+EU,anran,Samoa,,49.0,1.9
+EU,anran,Suravasa,,48.2,2.4
 EU,anran,Lijiang Tower,,48.1,2.7
-EU,anran,Suravasa,,46.1,2.4
-EU,anran,New Junk City,,45.2,3.7
-EU,anran,Circuit Royal,,43.9,1.0
-EU,anran,Junkertown,,43.1,0.9
-EU,anran,New Queen Street,,42.2,2.1
-EU,anran,Blizzard World,,41.3,1.7
-EU,anran,Route 66,,41.1,1.7
-EU,anran,Ilios,,39.8,1.7
-EU,anran,Shambali Monastery,,38.2,3.1
+EU,anran,New Queen Street,,44.1,2.0
+EU,anran,New Junk City,,43.5,3.4
+EU,anran,Circuit Royal,,42.6,1.1
+EU,anran,Route 66,,40.3,1.4
 EU,anran,Runasapi,,37.7,2.6
+EU,anran,Shambali Monastery,,35.2,2.5
 EU,anran,Dorado,,34.4,2.7
+EU,anran,Blizzard World,,28.6,1.9
 EU,anran,Numbani,,27.1,2.9
 EU,anran,Paraíso,,19.2,2.6
 EU,anran,Havana,,18.8,0.8
-EU,anran,Esperança,,11.4,2.3
-ASIA,dva,Paraíso,,64.5,6.9
+EU,anran,Esperança,,15.9,2.1
+ASIA,dva,Midtown,,63.9,9.9
+ASIA,dva,Paraíso,,62.9,9.9
 ASIA,dva,Blizzard World,,60.3,11.3
 ASIA,dva,Havana,,59.8,11.7
-ASIA,dva,Midtown,,59.7,10.7
 ASIA,dva,Suravasa,,58.2,10.9
+ASIA,dva,Aatlis,,58.1,10.1
 ASIA,dva,New Queen Street,,54.3,13.6
-ASIA,dva,Aatlis,,54.0,10.4
 ASIA,dva,Runasapi,,53.1,14.4
 ASIA,dva,Esperança,,51.8,15.9
-ASIA,dva,Nepal,,50.3,8.9
 ASIA,dva,Oasis,,49.2,9.9
+ASIA,dva,Ilios,,48.3,11.1
+ASIA,dva,Nepal,,48.3,8.7
 ASIA,dva,King's Row,,47.6,9.5
 ASIA,dva,Numbani,,46.8,11.0
 ASIA,dva,Busan,,46.4,13.4
-ASIA,dva,Ilios,,46.3,10.3
 ASIA,dva,Lijiang Tower,,46.1,7.6
 ASIA,dva,Colosseo,,46.0,11.7
 ASIA,dva,Rialto,,45.6,10.8
@@ -1703,69 +1703,69 @@ ASIA,dva,New Junk City,,42.6,8.9
 ASIA,dva,Eichenwalde,,40.9,11.6
 ASIA,dva,Junkertown,,40.8,15.4
 ASIA,dva,Shambali Monastery,,40.5,9.2
-ASIA,dva,Hollywood,,39.2,7.9
 ASIA,dva,Watchpoint: Gibraltar,,37.1,7.6
+ASIA,dva,Hollywood,,36.4,8.2
 ASIA,dva,Circuit Royal,,36.2,5.8
 ASIA,dva,Route 66,,34.2,9.8
 US,dva,Paraíso,,81.2,5.3
 US,dva,Numbani,,72.0,4.8
-US,dva,Dorado,,71.2,4.3
+US,dva,Dorado,,67.0,4.6
 US,dva,Rialto,,66.2,6.4
-US,dva,Midtown,,64.0,3.9
-US,dva,Blizzard World,,63.2,8.0
-US,dva,Watchpoint: Gibraltar,,59.7,7.2
+US,dva,Blizzard World,,64.9,6.5
+US,dva,Midtown,,63.3,4.2
 US,dva,Lijiang Tower,,57.0,6.1
-US,dva,New Junk City,,55.5,8.3
-US,dva,Suravasa,,54.4,7.7
-US,dva,Route 66,,53.2,8.1
-US,dva,Busan,,50.1,7.3
+US,dva,Watchpoint: Gibraltar,,56.4,7.7
+US,dva,New Junk City,,56.1,8.1
+US,dva,Route 66,,52.7,8.3
+US,dva,Suravasa,,52.4,7.0
 US,dva,King's Row,,50.1,5.0
-US,dva,Oasis,,50.0,9.0
+US,dva,Busan,,50.1,7.3
+US,dva,Junkertown,,49.5,7.0
 US,dva,Esperança,,49.2,7.6
 US,dva,Colosseo,,48.9,6.0
+US,dva,Oasis,,48.8,8.7
 US,dva,Runasapi,,48.7,7.7
 US,dva,Eichenwalde,,47.6,5.8
 US,dva,Ilios,,47.6,8.7
-US,dva,Havana,,46.9,4.4
-US,dva,Junkertown,,46.1,6.2
+US,dva,Havana,,47.5,4.2
 US,dva,Samoa,,45.7,5.3
 US,dva,New Queen Street,,44.9,8.1
-US,dva,Circuit Royal,,43.0,3.5
-US,dva,Hollywood,,41.5,6.6
+US,dva,Hollywood,,44.0,6.6
 US,dva,Nepal,,39.5,6.4
+US,dva,Circuit Royal,,38.0,3.5
 US,dva,Shambali Monastery,,34.3,4.3
 US,dva,Aatlis,,32.1,6.7
 EU,dva,Busan,,70.8,6.3
+EU,dva,Blizzard World,,70.5,6.8
 EU,dva,Eichenwalde,,65.4,8.5
-EU,dva,Blizzard World,,63.6,7.7
 EU,dva,Circuit Royal,,62.7,5.5
 EU,dva,Havana,,60.3,9.8
-EU,dva,Junkertown,,58.0,5.6
-EU,dva,Suravasa,,57.5,7.4
-EU,dva,Route 66,,56.9,6.5
+EU,dva,Ilios,,56.7,8.7
 EU,dva,Watchpoint: Gibraltar,,56.3,7.3
+EU,dva,Shambali Monastery,,56.3,6.0
+EU,dva,Junkertown,,55.8,5.7
+EU,dva,New Queen Street,,55.0,7.5
+EU,dva,Route 66,,55.0,6.3
+EU,dva,Suravasa,,54.9,7.3
 EU,dva,Numbani,,54.6,7.0
-EU,dva,Esperança,,53.9,9.1
-EU,dva,Ilios,,53.7,8.5
+EU,dva,Esperança,,53.5,8.6
 EU,dva,Lijiang Tower,,53.4,7.3
 EU,dva,Hollywood,,53.0,8.0
+EU,dva,King's Row,,52.7,5.9
 EU,dva,Paraíso,,52.1,7.1
 EU,dva,Aatlis,,51.2,6.9
-EU,dva,Rialto,,51.1,7.8
-EU,dva,New Queen Street,,50.6,7.5
-EU,dva,King's Row,,49.6,5.7
+EU,dva,New Junk City,,50.8,5.8
+EU,dva,Rialto,,50.4,7.0
 EU,dva,Runasapi,,48.5,7.2
-EU,dva,Shambali Monastery,,48.3,6.2
-EU,dva,Oasis,,47.8,7.4
 EU,dva,Midtown,,47.2,7.5
-EU,dva,New Junk City,,45.6,5.2
 EU,dva,Dorado,,44.3,6.5
 EU,dva,Nepal,,43.3,6.8
-EU,dva,Samoa,,41.3,8.0
+EU,dva,Samoa,,41.9,7.9
+EU,dva,Oasis,,41.8,7.2
 EU,dva,Colosseo,,35.0,6.0
-ASIA,bastion,Midtown,,77.4,1.1
 ASIA,bastion,Blizzard World,,66.2,1.6
-ASIA,bastion,Aatlis,,57.3,1.4
+ASIA,bastion,Midtown,,63.8,1.4
+ASIA,bastion,Aatlis,,60.5,1.4
 ASIA,bastion,Busan,,56.5,1.6
 ASIA,bastion,Numbani,,56.2,2.1
 ASIA,bastion,Circuit Royal,,54.5,3.1
@@ -1777,87 +1777,87 @@ ASIA,bastion,Colosseo,,51.0,1.0
 ASIA,bastion,Runasapi,,45.5,0.5
 ASIA,bastion,New Junk City,,44.2,1.2
 ASIA,bastion,Lijiang Tower,,42.0,1.3
-ASIA,bastion,Ilios,,42.0,0.8
 ASIA,bastion,Watchpoint: Gibraltar,,41.8,1.3
+ASIA,bastion,Ilios,,41.7,0.6
 ASIA,bastion,Oasis,,41.4,1.1
 ASIA,bastion,Samoa,,39.2,1.4
+ASIA,bastion,Hollywood,,39.0,2.1
 ASIA,bastion,King's Row,,38.4,2.1
 ASIA,bastion,Route 66,,36.4,2.3
 ASIA,bastion,New Queen Street,,35.5,0.9
 ASIA,bastion,Junkertown,,35.4,0.4
-ASIA,bastion,Nepal,,30.5,0.9
+ASIA,bastion,Nepal,,33.2,1.1
 ASIA,bastion,Dorado,,25.8,1.2
+ASIA,bastion,Paraíso,,22.5,3.7
 ASIA,bastion,Esperança,,13.8,0.5
-ASIA,bastion,Hollywood,,5.7,1.7
 ASIA,bastion,Shambali Monastery,,5.4,1.9
-ASIA,bastion,Paraíso,,1.0,3.1
 US,bastion,Numbani,,63.0,6.9
-US,bastion,New Junk City,,62.5,4.6
 US,bastion,Paraíso,,62.0,4.3
 US,bastion,Shambali Monastery,,60.0,8.5
-US,bastion,Midtown,,56.3,10.2
-US,bastion,Oasis,,55.0,5.7
+US,bastion,New Junk City,,59.3,4.2
+US,bastion,Circuit Royal,,55.6,12.0
+US,bastion,Midtown,,55.3,8.6
+US,bastion,Watchpoint: Gibraltar,,53.8,5.1
+US,bastion,Oasis,,53.7,5.3
 US,bastion,Ilios,,52.7,3.2
-US,bastion,Circuit Royal,,52.1,13.9
-US,bastion,Watchpoint: Gibraltar,,52.0,4.6
-US,bastion,Havana,,52.0,6.0
-US,bastion,Hollywood,,51.8,6.0
+US,bastion,Hollywood,,51.6,6.3
 US,bastion,Nepal,,50.6,4.1
 US,bastion,Colosseo,,49.3,4.5
+US,bastion,Junkertown,,48.0,4.8
 US,bastion,Eichenwalde,,47.9,7.4
+US,bastion,Blizzard World,,47.4,4.4
 US,bastion,King's Row,,47.0,9.1
-US,bastion,Junkertown,,46.7,5.9
-US,bastion,Route 66,,46.0,5.6
 US,bastion,Esperança,,45.7,4.1
 US,bastion,Lijiang Tower,,45.3,5.9
+US,bastion,Suravasa,,44.8,4.2
 US,bastion,Rialto,,44.7,6.5
 US,bastion,Busan,,44.5,4.0
-US,bastion,Suravasa,,41.7,4.4
-US,bastion,Blizzard World,,41.5,4.9
+US,bastion,Havana,,40.6,7.2
+US,bastion,Route 66,,40.5,5.8
 US,bastion,Runasapi,,39.1,3.7
+US,bastion,Dorado,,37.0,4.4
 US,bastion,New Queen Street,,36.7,3.3
 US,bastion,Aatlis,,36.1,4.8
-US,bastion,Dorado,,35.0,4.5
 US,bastion,Samoa,,33.0,5.1
 EU,bastion,Runasapi,,64.0,6.6
-EU,bastion,Ilios,,58.0,4.6
 EU,bastion,Busan,,56.2,5.4
-EU,bastion,Esperança,,55.8,5.5
-EU,bastion,Suravasa,,54.2,5.8
-EU,bastion,Circuit Royal,,53.9,9.2
-EU,bastion,Rialto,,52.9,7.0
+EU,bastion,Circuit Royal,,55.1,9.9
+EU,bastion,Esperança,,55.0,5.6
+EU,bastion,Ilios,,53.6,4.9
+EU,bastion,Suravasa,,53.4,5.9
+EU,bastion,Rialto,,52.5,7.3
 EU,bastion,Midtown,,51.9,8.7
 EU,bastion,Aatlis,,51.7,4.7
 EU,bastion,Nepal,,51.6,7.4
 EU,bastion,Havana,,51.5,9.7
-EU,bastion,King's Row,,50.7,9.3
-EU,bastion,New Junk City,,50.3,5.9
+EU,bastion,King's Row,,50.6,9.7
+EU,bastion,Blizzard World,,50.1,6.3
 EU,bastion,Eichenwalde,,50.0,7.3
+EU,bastion,Samoa,,49.5,7.5
+EU,bastion,Oasis,,49.3,5.6
 EU,bastion,Numbani,,48.8,9.0
-EU,bastion,Oasis,,48.6,5.4
-EU,bastion,Blizzard World,,47.9,6.1
-EU,bastion,Samoa,,47.8,7.1
+EU,bastion,New Junk City,,47.2,5.9
 EU,bastion,Dorado,,47.1,7.5
 EU,bastion,Lijiang Tower,,46.2,6.0
-EU,bastion,Junkertown,,45.6,9.6
-EU,bastion,New Queen Street,,43.2,4.3
+EU,bastion,New Queen Street,,44.9,4.6
+EU,bastion,Junkertown,,44.4,9.1
+EU,bastion,Shambali Monastery,,43.8,7.7
 EU,bastion,Colosseo,,43.1,5.3
+EU,bastion,Route 66,,42.7,7.4
 EU,bastion,Hollywood,,41.6,6.7
-EU,bastion,Shambali Monastery,,40.9,7.8
 EU,bastion,Paraíso,,38.5,6.7
-EU,bastion,Route 66,,37.5,7.7
 EU,bastion,Watchpoint: Gibraltar,,37.3,6.3
 ASIA,zarya,Runasapi,,68.6,5.9
-ASIA,zarya,Paraíso,,67.9,8.8
-ASIA,zarya,Midtown,,65.7,10.5
-ASIA,zarya,Hollywood,,61.8,10.9
+ASIA,zarya,Midtown,,63.9,10.1
 ASIA,zarya,Watchpoint: Gibraltar,,61.7,1.3
+ASIA,zarya,Hollywood,,60.7,11.4
+ASIA,zarya,Paraíso,,60.4,8.8
 ASIA,zarya,Samoa,,59.5,8.1
-ASIA,zarya,Aatlis,,59.3,13.7
 ASIA,zarya,Dorado,,58.8,3.4
-ASIA,zarya,Ilios,,57.3,2.6
 ASIA,zarya,Lijiang Tower,,57.1,12.0
+ASIA,zarya,Aatlis,,57.0,12.8
 ASIA,zarya,Circuit Royal,,56.9,10.1
+ASIA,zarya,Ilios,,55.2,2.6
 ASIA,zarya,King's Row,,53.7,10.4
 ASIA,zarya,Suravasa,,53.3,7.8
 ASIA,zarya,Rialto,,51.9,4.9
@@ -1866,7 +1866,7 @@ ASIA,zarya,New Junk City,,49.8,15.4
 ASIA,zarya,Oasis,,49.6,6.1
 ASIA,zarya,Havana,,48.5,4.9
 ASIA,zarya,Busan,,47.2,5.4
-ASIA,zarya,Nepal,,45.2,8.3
+ASIA,zarya,Nepal,,44.9,8.0
 ASIA,zarya,Numbani,,43.4,4.4
 ASIA,zarya,Shambali Monastery,,41.9,11.3
 ASIA,zarya,New Queen Street,,41.7,4.4
@@ -1876,59 +1876,59 @@ ASIA,zarya,Junkertown,,38.1,1.3
 ASIA,zarya,Colosseo,,36.7,7.9
 ASIA,zarya,Blizzard World,,36.0,4.5
 US,zarya,Paraíso,,74.0,4.7
-US,zarya,Midtown,,70.0,8.3
 US,zarya,Aatlis,,63.8,11.7
-US,zarya,Hollywood,,59.9,7.3
-US,zarya,Junkertown,,57.7,4.2
+US,zarya,Hollywood,,61.1,7.0
+US,zarya,Junkertown,,60.3,3.9
 US,zarya,Esperança,,56.5,6.6
 US,zarya,New Queen Street,,55.8,5.3
-US,zarya,Havana,,54.7,5.7
-US,zarya,Blizzard World,,54.5,7.2
+US,zarya,Route 66,,55.5,6.3
+US,zarya,Midtown,,55.5,9.2
+US,zarya,Havana,,54.6,6.5
 US,zarya,Ilios,,54.5,5.5
 US,zarya,Nepal,,53.6,8.7
-US,zarya,Route 66,,53.3,6.7
 US,zarya,Lijiang Tower,,53.1,10.2
 US,zarya,King's Row,,52.7,10.9
 US,zarya,Runasapi,,51.4,9.4
 US,zarya,Rialto,,50.3,5.8
-US,zarya,Suravasa,,48.7,9.5
-US,zarya,Oasis,,47.6,9.4
-US,zarya,New Junk City,,47.2,10.7
+US,zarya,Oasis,,49.5,8.6
+US,zarya,New Junk City,,48.0,10.6
 US,zarya,Numbani,,46.7,4.5
+US,zarya,Blizzard World,,46.4,7.2
 US,zarya,Colosseo,,46.3,7.0
+US,zarya,Suravasa,,46.1,9.1
 US,zarya,Eichenwalde,,44.3,11.2
 US,zarya,Samoa,,43.2,10.4
-US,zarya,Circuit Royal,,42.5,6.1
+US,zarya,Circuit Royal,,41.8,6.3
 US,zarya,Busan,,40.2,6.5
-US,zarya,Watchpoint: Gibraltar,,36.6,2.8
+US,zarya,Watchpoint: Gibraltar,,39.5,2.7
 US,zarya,Shambali Monastery,,34.5,8.6
-US,zarya,Dorado,,26.4,5.3
-EU,zarya,Samoa,,60.0,7.8
-EU,zarya,King's Row,,57.8,9.4
-EU,zarya,Junkertown,,56.8,3.0
+US,zarya,Dorado,,31.1,4.9
+EU,zarya,Samoa,,59.7,7.6
+EU,zarya,King's Row,,59.0,9.4
+EU,zarya,Junkertown,,57.3,2.6
 EU,zarya,Eichenwalde,,54.6,7.8
+EU,zarya,Blizzard World,,53.6,3.5
 EU,zarya,Aatlis,,53.1,10.5
-EU,zarya,Blizzard World,,52.4,3.1
-EU,zarya,Route 66,,48.8,4.8
+EU,zarya,Esperança,,48.8,4.6
+EU,zarya,Rialto,,48.6,4.7
 EU,zarya,Busan,,48.5,5.7
+EU,zarya,Suravasa,,48.1,6.7
 EU,zarya,Lijiang Tower,,47.6,9.8
 EU,zarya,Runasapi,,47.3,6.4
-EU,zarya,Oasis,,47.0,7.8
 EU,zarya,Nepal,,45.8,6.9
 EU,zarya,Paraíso,,45.1,0.9
-EU,zarya,Suravasa,,43.8,7.0
-EU,zarya,New Queen Street,,43.8,3.9
+EU,zarya,Oasis,,44.8,7.3
+EU,zarya,New Queen Street,,44.7,4.2
 EU,zarya,Hollywood,,43.6,5.7
-EU,zarya,Esperança,,43.4,5.0
 EU,zarya,Colosseo,,43.0,4.9
-EU,zarya,Ilios,,42.4,2.2
-EU,zarya,Rialto,,41.7,4.3
-EU,zarya,Shambali Monastery,,40.8,6.9
+EU,zarya,Ilios,,42.8,2.6
+EU,zarya,Route 66,,42.1,4.7
+EU,zarya,New Junk City,,41.6,9.3
+EU,zarya,Shambali Monastery,,40.8,6.6
 EU,zarya,Watchpoint: Gibraltar,,40.6,1.9
 EU,zarya,Midtown,,39.9,7.3
-EU,zarya,New Junk City,,38.7,10.1
 EU,zarya,Havana,,38.2,3.1
-EU,zarya,Circuit Royal,,32.0,5.8
+EU,zarya,Circuit Royal,,34.6,5.6
 EU,zarya,Numbani,,30.1,2.0
 EU,zarya,Dorado,,29.8,2.4
 ASIA,mercy,Circuit Royal,,65.9,3.6
@@ -1940,171 +1940,171 @@ ASIA,mercy,Blizzard World,,54.6,2.4
 ASIA,mercy,Busan,,52.5,1.3
 ASIA,mercy,Watchpoint: Gibraltar,,51.4,2.0
 ASIA,mercy,Rialto,,51.4,4.2
+ASIA,mercy,Ilios,,50.2,2.7
 ASIA,mercy,King's Row,,48.6,3.0
 ASIA,mercy,Samoa,,47.1,3.1
 ASIA,mercy,New Queen Street,,46.4,2.3
-ASIA,mercy,Ilios,,46.0,2.6
+ASIA,mercy,Hollywood,,43.5,3.5
 ASIA,mercy,Oasis,,43.0,1.3
+ASIA,mercy,Nepal,,41.5,2.0
 ASIA,mercy,Runasapi,,41.5,2.3
+ASIA,mercy,Midtown,,38.7,3.7
 ASIA,mercy,Dorado,,38.3,3.5
-ASIA,mercy,Nepal,,38.1,1.8
 ASIA,mercy,Esperança,,37.7,1.9
 ASIA,mercy,Shambali Monastery,,36.6,3.3
-ASIA,mercy,Midtown,,36.0,3.1
 ASIA,mercy,Lijiang Tower,,34.4,0.9
 ASIA,mercy,Numbani,,34.2,3.3
-ASIA,mercy,Hollywood,,32.7,2.9
 ASIA,mercy,Junkertown,,32.6,3.4
 ASIA,mercy,Route 66,,28.7,4.0
-ASIA,mercy,Paraíso,,24.5,4.6
 ASIA,mercy,Eichenwalde,,22.3,3.3
-ASIA,mercy,Aatlis,,0.0,0.9
-US,mercy,Watchpoint: Gibraltar,,65.2,13.9
+ASIA,mercy,Paraíso,,20.8,6.9
+ASIA,mercy,Aatlis,,20.1,1.2
+US,mercy,Watchpoint: Gibraltar,,64.3,14.2
 US,mercy,Numbani,,63.2,16.2
-US,mercy,Route 66,,60.1,16.8
-US,mercy,Dorado,,56.6,16.1
+US,mercy,Route 66,,62.5,18.1
 US,mercy,Samoa,,56.3,10.7
+US,mercy,Blizzard World,,54.6,14.5
 US,mercy,Shambali Monastery,,53.9,13.1
-US,mercy,Colosseo,,53.1,12.1
+US,mercy,Dorado,,53.6,17.9
 US,mercy,Paraíso,,53.1,16.1
-US,mercy,Blizzard World,,52.3,12.7
-US,mercy,Hollywood,,51.0,14.3
-US,mercy,Oasis,,51.0,10.8
-US,mercy,Junkertown,,50.2,21.5
+US,mercy,Colosseo,,53.1,12.1
+US,mercy,Oasis,,52.9,11.0
+US,mercy,Havana,,51.1,13.4
 US,mercy,Runasapi,,49.9,11.8
 US,mercy,Ilios,,49.9,13.5
-US,mercy,Circuit Royal,,48.7,15.8
-US,mercy,Midtown,,47.9,13.7
-US,mercy,New Junk City,,47.7,8.5
+US,mercy,Hollywood,,49.6,14.8
+US,mercy,Circuit Royal,,49.0,16.1
+US,mercy,Junkertown,,48.9,20.4
+US,mercy,Midtown,,48.3,12.0
+US,mercy,New Junk City,,47.6,8.8
 US,mercy,Busan,,47.1,10.4
 US,mercy,New Queen Street,,46.8,12.7
-US,mercy,Suravasa,,46.2,11.3
+US,mercy,Suravasa,,46.6,11.6
 US,mercy,Rialto,,45.7,14.5
 US,mercy,Nepal,,45.7,11.9
 US,mercy,King's Row,,44.9,12.1
 US,mercy,Aatlis,,44.7,9.1
-US,mercy,Havana,,43.6,11.6
 US,mercy,Esperança,,42.8,12.8
 US,mercy,Lijiang Tower,,41.1,12.1
 US,mercy,Eichenwalde,,39.3,13.0
 EU,mercy,Dorado,,59.9,13.2
 EU,mercy,Colosseo,,58.6,11.3
-EU,mercy,King's Row,,56.4,10.6
+EU,mercy,King's Row,,56.4,10.5
 EU,mercy,Busan,,56.3,9.9
-EU,mercy,Circuit Royal,,55.8,15.0
+EU,mercy,Circuit Royal,,56.3,14.6
 EU,mercy,Paraíso,,55.4,9.9
-EU,mercy,Route 66,,54.2,13.4
-EU,mercy,New Junk City,,52.5,6.1
+EU,mercy,Rialto,,54.4,12.6
+EU,mercy,Esperança,,53.7,12.3
 EU,mercy,Midtown,,52.2,11.3
-EU,mercy,Rialto,,52.1,11.6
+EU,mercy,New Junk City,,51.6,6.7
 EU,mercy,Aatlis,,51.6,6.8
-EU,mercy,Esperança,,50.7,12.0
+EU,mercy,Route 66,,50.3,13.3
 EU,mercy,Numbani,,50.2,13.1
-EU,mercy,Blizzard World,,49.7,11.6
-EU,mercy,New Queen Street,,49.7,10.8
+EU,mercy,Ilios,,50.2,11.4
+EU,mercy,New Queen Street,,50.0,11.2
+EU,mercy,Oasis,,49.9,9.6
+EU,mercy,Blizzard World,,49.8,12.1
 EU,mercy,Watchpoint: Gibraltar,,49.1,10.9
-EU,mercy,Shambali Monastery,,48.6,12.3
+EU,mercy,Shambali Monastery,,48.7,12.8
 EU,mercy,Nepal,,48.5,9.6
 EU,mercy,Runasapi,,48.2,8.6
-EU,mercy,Oasis,,47.2,9.2
+EU,mercy,Samoa,,47.2,8.9
 EU,mercy,Lijiang Tower,,46.9,10.9
-EU,mercy,Ilios,,46.3,11.1
-EU,mercy,Samoa,,45.1,8.9
 EU,mercy,Havana,,43.0,12.2
+EU,mercy,Suravasa,,42.7,9.5
 EU,mercy,Hollywood,,41.8,15.3
-EU,mercy,Suravasa,,40.8,9.1
 EU,mercy,Eichenwalde,,37.3,11.7
-EU,mercy,Junkertown,,35.1,13.2
+EU,mercy,Junkertown,,33.5,13.0
 ASIA,domina,Junkertown,,67.5,5.1
 ASIA,domina,Havana,,65.6,14.0
-ASIA,domina,Blizzard World,,62.6,8.4
 ASIA,domina,Samoa,,62.6,11.3
+ASIA,domina,Blizzard World,,62.6,8.4
 ASIA,domina,Numbani,,61.7,4.3
-ASIA,domina,Hollywood,,59.5,9.3
+ASIA,domina,Hollywood,,60.0,8.1
 ASIA,domina,Dorado,,57.8,4.1
 ASIA,domina,Lijiang Tower,,57.4,10.8
 ASIA,domina,Rialto,,56.7,8.0
 ASIA,domina,New Queen Street,,55.3,6.4
-ASIA,domina,Nepal,,53.8,8.9
 ASIA,domina,Colosseo,,53.8,8.1
+ASIA,domina,Nepal,,53.7,9.3
 ASIA,domina,Eichenwalde,,53.0,8.1
-ASIA,domina,Aatlis,,52.8,7.5
-ASIA,domina,Midtown,,52.5,15.2
 ASIA,domina,Watchpoint: Gibraltar,,52.3,3.0
+ASIA,domina,Aatlis,,51.6,7.4
 ASIA,domina,Suravasa,,50.8,7.3
 ASIA,domina,Shambali Monastery,,50.7,13.9
 ASIA,domina,Esperança,,50.5,8.5
-ASIA,domina,Ilios,,50.4,4.9
 ASIA,domina,King's Row,,50.3,10.6
 ASIA,domina,Circuit Royal,,50.0,13.0
 ASIA,domina,Runasapi,,48.5,8.7
+ASIA,domina,Ilios,,48.1,5.1
+ASIA,domina,Midtown,,47.3,15.3
 ASIA,domina,Oasis,,46.7,7.9
 ASIA,domina,Busan,,43.2,7.5
 ASIA,domina,New Junk City,,41.8,9.0
 ASIA,domina,Route 66,,40.8,7.2
-ASIA,domina,Paraíso,,33.2,4.5
+ASIA,domina,Paraíso,,38.7,4.4
 US,domina,Paraíso,,66.8,3.6
 US,domina,King's Row,,64.4,15.2
 US,domina,Esperança,,62.1,11.4
 US,domina,Runasapi,,61.5,13.4
-US,domina,Circuit Royal,,59.8,16.8
-US,domina,Havana,,58.9,16.6
-US,domina,New Junk City,,57.7,10.4
+US,domina,Circuit Royal,,60.5,16.1
+US,domina,Havana,,59.6,15.6
 US,domina,Nepal,,57.6,10.9
 US,domina,Ilios,,55.9,6.9
 US,domina,Numbani,,55.9,9.1
 US,domina,Busan,,55.7,11.0
+US,domina,Oasis,,55.5,8.9
+US,domina,New Junk City,,55.2,9.5
 US,domina,Shambali Monastery,,54.9,18.8
 US,domina,Colosseo,,54.7,11.3
 US,domina,Lijiang Tower,,54.3,11.8
-US,domina,Hollywood,,54.3,12.6
+US,domina,Watchpoint: Gibraltar,,53.7,4.0
 US,domina,Samoa,,53.6,12.3
-US,domina,Oasis,,53.2,9.1
-US,domina,Watchpoint: Gibraltar,,51.9,4.0
-US,domina,Suravasa,,51.6,10.1
-US,domina,Blizzard World,,48.8,9.2
+US,domina,Blizzard World,,52.4,9.2
+US,domina,Hollywood,,52.0,11.5
+US,domina,Suravasa,,51.9,9.7
+US,domina,Route 66,,51.6,9.6
+US,domina,Midtown,,49.8,13.4
 US,domina,Eichenwalde,,47.3,13.2
 US,domina,New Queen Street,,46.8,8.8
-US,domina,Route 66,,45.4,10.4
-US,domina,Junkertown,,45.3,12.7
-US,domina,Midtown,,44.2,15.4
+US,domina,Junkertown,,45.3,11.1
 US,domina,Rialto,,43.9,10.2
 US,domina,Aatlis,,43.8,8.3
-US,domina,Dorado,,37.9,5.0
+US,domina,Dorado,,30.2,4.8
 EU,domina,Nepal,,59.9,9.2
-EU,domina,King's Row,,59.6,10.6
 EU,domina,Midtown,,58.8,14.1
-EU,domina,Junkertown,,58.3,8.3
-EU,domina,Suravasa,,58.1,6.7
+EU,domina,Suravasa,,58.5,6.3
+EU,domina,Junkertown,,57.6,8.2
 EU,domina,Runasapi,,57.0,9.3
-EU,domina,New Junk City,,56.7,9.4
-EU,domina,Esperança,,53.7,7.2
-EU,domina,New Queen Street,,53.5,7.7
-EU,domina,Circuit Royal,,53.0,15.2
+EU,domina,King's Row,,56.5,10.3
+EU,domina,New Queen Street,,55.4,7.3
+EU,domina,Blizzard World,,53.3,8.5
+EU,domina,Circuit Royal,,53.1,14.8
 EU,domina,Colosseo,,51.7,9.8
-EU,domina,Rialto,,51.6,10.4
 EU,domina,Lijiang Tower,,51.5,9.5
 EU,domina,Busan,,51.1,5.3
 EU,domina,Aatlis,,50.9,9.1
-EU,domina,Oasis,,50.3,7.8
-EU,domina,Samoa,,48.5,8.1
+EU,domina,New Junk City,,50.1,8.8
+EU,domina,Rialto,,49.6,10.0
+EU,domina,Esperança,,49.5,6.8
+EU,domina,Shambali Monastery,,49.2,12.0
+EU,domina,Oasis,,49.0,7.2
+EU,domina,Route 66,,48.8,8.6
 EU,domina,Hollywood,,48.5,6.8
+EU,domina,Samoa,,48.1,7.8
 EU,domina,Numbani,,47.9,5.5
 EU,domina,Eichenwalde,,47.2,8.2
-EU,domina,Blizzard World,,46.8,9.1
-EU,domina,Ilios,,45.1,4.5
 EU,domina,Paraíso,,44.3,8.6
+EU,domina,Ilios,,44.3,4.4
 EU,domina,Watchpoint: Gibraltar,,43.0,3.6
-EU,domina,Route 66,,42.9,8.7
 EU,domina,Havana,,42.9,17.7
-EU,domina,Shambali Monastery,,41.9,12.8
 EU,domina,Dorado,,31.9,4.2
 ASIA,reinhardt,Blizzard World,,61.0,1.5
+ASIA,reinhardt,Paraíso,,58.3,5.5
 ASIA,reinhardt,Shambali Monastery,,58.3,4.7
-ASIA,reinhardt,Paraíso,,58.3,7.6
 ASIA,reinhardt,Oasis,,53.5,4.1
 ASIA,reinhardt,Havana,,50.8,2.4
-ASIA,reinhardt,Nepal,,49.5,4.9
+ASIA,reinhardt,Nepal,,48.7,4.3
 ASIA,reinhardt,Eichenwalde,,48.6,4.1
 ASIA,reinhardt,Colosseo,,45.7,3.1
 ASIA,reinhardt,Runasapi,,45.4,4.2
@@ -2113,74 +2113,74 @@ ASIA,reinhardt,New Junk City,,44.1,4.2
 ASIA,reinhardt,Esperança,,43.8,3.2
 ASIA,reinhardt,Numbani,,43.5,3.1
 ASIA,reinhardt,Lijiang Tower,,42.7,4.5
-ASIA,reinhardt,Midtown,,42.4,3.8
 ASIA,reinhardt,Junkertown,,41.4,7.0
 ASIA,reinhardt,New Queen Street,,40.2,3.5
 ASIA,reinhardt,Busan,,38.6,4.7
+ASIA,reinhardt,Midtown,,38.5,4.2
 ASIA,reinhardt,Suravasa,,37.4,2.6
 ASIA,reinhardt,Watchpoint: Gibraltar,,35.2,2.5
 ASIA,reinhardt,Samoa,,32.6,4.9
 ASIA,reinhardt,King's Row,,31.1,3.0
 ASIA,reinhardt,Dorado,,31.0,1.8
-ASIA,reinhardt,Ilios,,30.5,1.8
-ASIA,reinhardt,Aatlis,,27.8,4.6
-ASIA,reinhardt,Hollywood,,22.0,3.4
+ASIA,reinhardt,Ilios,,30.4,1.6
+ASIA,reinhardt,Aatlis,,27.0,3.9
+ASIA,reinhardt,Hollywood,,26.2,3.3
 ASIA,reinhardt,Rialto,,21.5,3.8
 ASIA,reinhardt,Route 66,,18.9,1.3
-US,reinhardt,Junkertown,,60.9,3.1
 US,reinhardt,Shambali Monastery,,60.0,5.4
+US,reinhardt,Junkertown,,58.1,3.8
 US,reinhardt,Samoa,,56.8,4.5
 US,reinhardt,Nepal,,56.6,4.7
 US,reinhardt,Colosseo,,53.4,5.4
-US,reinhardt,New Junk City,,53.3,6.6
-US,reinhardt,Dorado,,52.7,1.2
+US,reinhardt,Hollywood,,53.3,4.4
+US,reinhardt,Midtown,,52.3,6.9
 US,reinhardt,Lijiang Tower,,52.3,7.1
-US,reinhardt,Midtown,,49.3,6.4
-US,reinhardt,Oasis,,47.7,4.4
-US,reinhardt,Circuit Royal,,46.6,6.8
-US,reinhardt,Suravasa,,46.5,4.4
+US,reinhardt,New Junk City,,50.2,6.4
+US,reinhardt,Oasis,,49.4,4.5
+US,reinhardt,Watchpoint: Gibraltar,,48.1,2.2
+US,reinhardt,Circuit Royal,,46.5,6.4
 US,reinhardt,New Queen Street,,46.3,4.4
 US,reinhardt,Esperança,,46.3,4.1
 US,reinhardt,Rialto,,46.2,5.8
-US,reinhardt,Watchpoint: Gibraltar,,44.7,2.3
-US,reinhardt,Hollywood,,44.1,3.7
+US,reinhardt,Suravasa,,45.6,4.9
+US,reinhardt,Havana,,42.5,5.2
 US,reinhardt,Runasapi,,42.3,3.3
 US,reinhardt,Busan,,41.9,3.9
 US,reinhardt,Eichenwalde,,41.6,5.7
-US,reinhardt,Route 66,,40.8,3.2
 US,reinhardt,Aatlis,,39.9,6.4
+US,reinhardt,Dorado,,39.5,1.2
 US,reinhardt,King's Row,,37.7,5.9
-US,reinhardt,Havana,,35.1,6.0
+US,reinhardt,Route 66,,37.0,3.1
 US,reinhardt,Ilios,,32.3,2.6
+US,reinhardt,Blizzard World,,32.1,4.7
 US,reinhardt,Paraíso,,29.8,2.3
-US,reinhardt,Blizzard World,,28.8,5.2
 US,reinhardt,Numbani,,28.8,3.1
-EU,reinhardt,Shambali Monastery,,66.2,7.8
-EU,reinhardt,Esperança,,60.9,5.1
+EU,reinhardt,Shambali Monastery,,62.7,7.3
 EU,reinhardt,Nepal,,60.9,5.7
+EU,reinhardt,Esperança,,58.5,4.5
 EU,reinhardt,Colosseo,,57.7,5.5
-EU,reinhardt,Ilios,,57.1,1.7
 EU,reinhardt,Hollywood,,57.1,2.9
-EU,reinhardt,New Queen Street,,55.7,4.2
 EU,reinhardt,Havana,,55.5,4.9
-EU,reinhardt,Oasis,,54.7,3.1
 EU,reinhardt,Numbani,,54.4,0.7
-EU,reinhardt,Circuit Royal,,54.0,5.9
+EU,reinhardt,Junkertown,,54.3,3.6
+EU,reinhardt,Ilios,,54.3,1.9
+EU,reinhardt,New Queen Street,,53.6,4.0
+EU,reinhardt,New Junk City,,52.6,5.5
 EU,reinhardt,Runasapi,,52.1,4.1
-EU,reinhardt,New Junk City,,51.3,6.1
-EU,reinhardt,Junkertown,,50.4,3.5
+EU,reinhardt,Oasis,,52.0,3.4
+EU,reinhardt,Circuit Royal,,51.1,5.5
+EU,reinhardt,Rialto,,49.7,5.0
 EU,reinhardt,Busan,,49.2,4.4
+EU,reinhardt,Suravasa,,46.4,3.5
 EU,reinhardt,Eichenwalde,,46.0,4.6
-EU,reinhardt,Rialto,,46.0,5.0
 EU,reinhardt,Midtown,,45.4,5.0
 EU,reinhardt,Aatlis,,45.2,4.4
-EU,reinhardt,Samoa,,44.8,4.3
-EU,reinhardt,Suravasa,,44.2,3.2
-EU,reinhardt,King's Row,,44.0,5.8
+EU,reinhardt,Samoa,,44.0,4.5
+EU,reinhardt,King's Row,,42.8,5.7
 EU,reinhardt,Lijiang Tower,,40.9,6.1
+EU,reinhardt,Route 66,,35.9,3.2
 EU,reinhardt,Watchpoint: Gibraltar,,35.9,1.8
-EU,reinhardt,Blizzard World,,26.6,4.8
-EU,reinhardt,Route 66,,25.3,3.4
+EU,reinhardt,Blizzard World,,33.0,5.1
 EU,reinhardt,Dorado,,24.2,2.3
 EU,reinhardt,Paraíso,,11.3,0.5
 ASIA,roadhog,Junkertown,,63.5,5.5
@@ -2189,609 +2189,609 @@ ASIA,roadhog,Watchpoint: Gibraltar,,59.0,5.6
 ASIA,roadhog,Samoa,,56.6,5.1
 ASIA,roadhog,New Junk City,,54.8,6.8
 ASIA,roadhog,Oasis,,54.0,6.7
+ASIA,roadhog,Ilios,,53.3,8.2
 ASIA,roadhog,Runasapi,,53.1,5.0
-ASIA,roadhog,Ilios,,52.9,7.7
-ASIA,roadhog,Aatlis,,52.3,5.4
+ASIA,roadhog,Aatlis,,51.8,5.6
 ASIA,roadhog,Lijiang Tower,,49.4,4.4
 ASIA,roadhog,Rialto,,48.1,5.8
 ASIA,roadhog,Route 66,,46.2,9.0
-ASIA,roadhog,Hollywood,,46.1,6.4
+ASIA,roadhog,Hollywood,,45.4,6.7
 ASIA,roadhog,New Queen Street,,45.3,5.1
 ASIA,roadhog,Suravasa,,43.4,6.1
 ASIA,roadhog,Colosseo,,43.0,6.0
 ASIA,roadhog,Havana,,43.0,3.3
 ASIA,roadhog,Dorado,,42.2,5.2
 ASIA,roadhog,Busan,,40.7,5.5
-ASIA,roadhog,Nepal,,39.2,6.2
-ASIA,roadhog,Midtown,,37.0,3.0
+ASIA,roadhog,Midtown,,39.2,3.3
+ASIA,roadhog,Nepal,,38.2,6.2
 ASIA,roadhog,King's Row,,36.6,4.8
 ASIA,roadhog,Shambali Monastery,,36.3,3.8
+ASIA,roadhog,Paraíso,,35.3,5.0
 ASIA,roadhog,Esperança,,32.9,4.4
 ASIA,roadhog,Eichenwalde,,32.7,8.4
 ASIA,roadhog,Circuit Royal,,29.9,3.5
-ASIA,roadhog,Paraíso,,25.3,5.7
 ASIA,roadhog,Blizzard World,,17.3,6.8
-US,roadhog,Junkertown,,66.0,8.9
-US,roadhog,Midtown,,63.7,7.6
-US,roadhog,Blizzard World,,63.6,7.1
 US,roadhog,Samoa,,61.8,9.3
+US,roadhog,Junkertown,,59.1,8.7
 US,roadhog,New Queen Street,,59.0,9.0
-US,roadhog,Route 66,,57.3,9.3
-US,roadhog,Suravasa,,56.8,8.9
+US,roadhog,Blizzard World,,58.1,7.2
+US,roadhog,Suravasa,,57.5,8.8
+US,roadhog,Midtown,,55.1,7.1
+US,roadhog,New Junk City,,55.0,7.5
+US,roadhog,Route 66,,55.0,10.3
 US,roadhog,Numbani,,54.2,9.3
 US,roadhog,Colosseo,,53.8,7.8
+US,roadhog,Hollywood,,53.6,8.7
 US,roadhog,Aatlis,,53.6,9.0
 US,roadhog,Ilios,,53.0,9.2
 US,roadhog,Busan,,52.8,8.8
-US,roadhog,New Junk City,,52.1,7.6
-US,roadhog,Hollywood,,50.5,9.1
 US,roadhog,King's Row,,50.0,7.5
-US,roadhog,Havana,,49.9,3.2
-US,roadhog,Dorado,,49.4,11.9
-US,roadhog,Oasis,,48.9,10.5
+US,roadhog,Watchpoint: Gibraltar,,49.1,11.0
 US,roadhog,Eichenwalde,,48.5,8.4
+US,roadhog,Dorado,,48.3,11.5
 US,roadhog,Lijiang Tower,,47.7,8.9
 US,roadhog,Nepal,,47.5,9.7
-US,roadhog,Watchpoint: Gibraltar,,46.9,11.2
-US,roadhog,Esperança,,46.3,8.9
+US,roadhog,Oasis,,47.5,10.3
 US,roadhog,Rialto,,46.3,7.6
-US,roadhog,Circuit Royal,,45.8,3.5
+US,roadhog,Esperança,,46.3,8.9
 US,roadhog,Shambali Monastery,,45.3,7.1
+US,roadhog,Circuit Royal,,41.2,3.4
+US,roadhog,Havana,,40.6,4.5
 US,roadhog,Paraíso,,39.5,9.3
 US,roadhog,Runasapi,,37.9,7.2
-EU,roadhog,Rialto,,63.1,10.2
-EU,roadhog,Route 66,,61.3,10.9
+EU,roadhog,Rialto,,64.4,9.7
 EU,roadhog,Lijiang Tower,,58.5,9.2
-EU,roadhog,Samoa,,58.2,11.6
+EU,roadhog,Route 66,,58.4,10.8
 EU,roadhog,Havana,,57.8,7.3
 EU,roadhog,Eichenwalde,,57.1,11.8
-EU,roadhog,New Queen Street,,56.9,10.8
 EU,roadhog,Runasapi,,56.8,11.0
 EU,roadhog,Paraíso,,56.5,10.1
-EU,roadhog,Oasis,,55.3,13.3
+EU,roadhog,Samoa,,56.1,11.1
+EU,roadhog,Oasis,,55.2,12.8
+EU,roadhog,New Queen Street,,53.8,10.3
 EU,roadhog,Aatlis,,53.2,9.7
-EU,roadhog,New Junk City,,51.8,11.5
 EU,roadhog,Nepal,,51.6,9.4
-EU,roadhog,Esperança,,49.5,10.8
-EU,roadhog,Ilios,,49.1,14.4
-EU,roadhog,Suravasa,,48.9,9.8
-EU,roadhog,Blizzard World,,48.2,9.5
+EU,roadhog,Blizzard World,,49.7,8.7
+EU,roadhog,Suravasa,,49.4,9.4
+EU,roadhog,Esperança,,49.4,10.1
+EU,roadhog,Ilios,,48.6,13.5
+EU,roadhog,King's Row,,47.4,8.6
 EU,roadhog,Hollywood,,47.2,9.5
-EU,roadhog,Shambali Monastery,,46.7,8.2
-EU,roadhog,King's Row,,46.5,8.8
+EU,roadhog,Shambali Monastery,,47.0,8.4
 EU,roadhog,Watchpoint: Gibraltar,,45.5,11.8
 EU,roadhog,Colosseo,,45.5,9.9
+EU,roadhog,New Junk City,,45.3,11.2
 EU,roadhog,Busan,,44.8,9.4
 EU,roadhog,Dorado,,43.4,11.1
-EU,roadhog,Junkertown,,43.0,10.4
 EU,roadhog,Midtown,,40.4,9.5
-EU,roadhog,Circuit Royal,,38.5,4.9
+EU,roadhog,Junkertown,,39.7,10.4
+EU,roadhog,Circuit Royal,,38.6,4.7
 EU,roadhog,Numbani,,37.4,10.8
+ASIA,baptiste,Numbani,,58.9,7.7
+ASIA,baptiste,Suravasa,,53.7,6.2
+ASIA,baptiste,New Queen Street,,52.5,4.2
+ASIA,baptiste,Nepal,,52.4,9.6
+ASIA,baptiste,Watchpoint: Gibraltar,,52.4,7.9
+ASIA,baptiste,Hollywood,,50.6,9.2
+ASIA,baptiste,Havana,,48.4,17.9
+ASIA,baptiste,Lijiang Tower,,48.1,6.6
+ASIA,baptiste,Shambali Monastery,,47.5,13.1
+ASIA,baptiste,Route 66,,46.6,8.0
+ASIA,baptiste,King's Row,,46.4,11.0
+ASIA,baptiste,Colosseo,,45.1,5.8
+ASIA,baptiste,New Junk City,,45.0,4.7
+ASIA,baptiste,Eichenwalde,,44.4,12.1
+ASIA,baptiste,Circuit Royal,,43.8,32.1
+ASIA,baptiste,Rialto,,43.8,8.7
+ASIA,baptiste,Paraíso,,43.7,8.6
+ASIA,baptiste,Samoa,,43.5,6.6
+ASIA,baptiste,Midtown,,43.5,15.5
+ASIA,baptiste,Aatlis,,40.0,5.6
+ASIA,baptiste,Junkertown,,39.9,11.8
+ASIA,baptiste,Runasapi,,39.7,6.0
+ASIA,baptiste,Ilios,,39.3,4.5
+ASIA,baptiste,Busan,,38.7,4.5
+ASIA,baptiste,Esperança,,38.1,5.0
+ASIA,baptiste,Dorado,,36.7,5.9
+ASIA,baptiste,Oasis,,36.3,6.3
+ASIA,baptiste,Blizzard World,,35.2,6.4
+US,baptiste,Aatlis,,53.7,6.6
+US,baptiste,Watchpoint: Gibraltar,,53.2,7.7
+US,baptiste,Junkertown,,52.4,10.9
+US,baptiste,Havana,,52.2,14.1
+US,baptiste,Nepal,,51.8,9.2
+US,baptiste,Eichenwalde,,51.3,12.8
+US,baptiste,Lijiang Tower,,51.0,9.2
+US,baptiste,Midtown,,50.3,17.7
+US,baptiste,Shambali Monastery,,49.1,15.5
+US,baptiste,Paraíso,,48.7,13.0
+US,baptiste,Runasapi,,48.6,8.0
+US,baptiste,Ilios,,48.5,7.4
+US,baptiste,Busan,,48.5,7.7
+US,baptiste,Hollywood,,48.1,12.8
+US,baptiste,Circuit Royal,,47.7,26.0
+US,baptiste,New Queen Street,,47.1,4.7
+US,baptiste,Route 66,,46.7,10.7
+US,baptiste,Oasis,,46.2,7.7
+US,baptiste,Samoa,,46.0,9.8
+US,baptiste,Colosseo,,45.1,8.5
+US,baptiste,King's Row,,44.1,16.3
+US,baptiste,Blizzard World,,43.8,8.9
+US,baptiste,Numbani,,43.5,8.7
+US,baptiste,Rialto,,43.2,11.0
+US,baptiste,New Junk City,,42.7,6.3
+US,baptiste,Dorado,,41.9,8.0
+US,baptiste,Suravasa,,38.8,5.5
+US,baptiste,Esperança,,36.6,5.9
+EU,baptiste,Circuit Royal,,56.1,23.8
+EU,baptiste,Watchpoint: Gibraltar,,54.9,7.2
+EU,baptiste,Numbani,,53.8,11.2
+EU,baptiste,Route 66,,52.9,10.4
+EU,baptiste,Junkertown,,52.7,12.2
+EU,baptiste,Aatlis,,52.6,6.3
+EU,baptiste,Havana,,52.2,20.7
+EU,baptiste,Shambali Monastery,,51.8,13.4
+EU,baptiste,Busan,,51.4,10.1
+EU,baptiste,King's Row,,50.5,14.4
+EU,baptiste,Samoa,,50.2,8.6
+EU,baptiste,Blizzard World,,49.8,10.0
+EU,baptiste,Suravasa,,49.4,7.2
+EU,baptiste,Paraíso,,49.2,9.2
+EU,baptiste,Rialto,,48.8,8.4
+EU,baptiste,Oasis,,48.7,8.9
+EU,baptiste,Nepal,,47.4,9.1
+EU,baptiste,Esperança,,46.8,6.7
+EU,baptiste,Lijiang Tower,,46.7,7.5
+EU,baptiste,Eichenwalde,,46.7,11.7
+EU,baptiste,Colosseo,,44.7,9.3
+EU,baptiste,Midtown,,44.6,16.7
+EU,baptiste,Dorado,,44.0,8.6
+EU,baptiste,New Junk City,,43.8,6.7
+EU,baptiste,Ilios,,42.2,6.3
+EU,baptiste,Runasapi,,42.1,6.7
+EU,baptiste,New Queen Street,,41.8,5.9
+EU,baptiste,Hollywood,,36.9,10.5
 ASIA,mei,Junkertown,,76.8,1.8
-ASIA,mei,Paraíso,,74.3,6.0
 ASIA,mei,Watchpoint: Gibraltar,,73.0,2.6
 ASIA,mei,Esperança,,70.2,2.3
+ASIA,mei,Paraíso,,64.8,5.9
 ASIA,mei,Circuit Royal,,61.5,6.7
-ASIA,mei,Hollywood,,60.0,4.0
+ASIA,mei,Hollywood,,61.2,3.2
 ASIA,mei,Busan,,59.3,2.9
 ASIA,mei,Oasis,,59.0,2.9
-ASIA,mei,Midtown,,55.6,3.8
 ASIA,mei,Dorado,,54.8,2.4
-ASIA,mei,Nepal,,52.0,3.4
+ASIA,mei,Nepal,,52.5,3.5
 ASIA,mei,Eichenwalde,,49.8,4.3
 ASIA,mei,Route 66,,49.7,3.7
+ASIA,mei,Midtown,,48.0,3.2
 ASIA,mei,Havana,,47.5,3.8
 ASIA,mei,Shambali Monastery,,46.8,4.9
 ASIA,mei,Lijiang Tower,,45.6,2.5
 ASIA,mei,New Queen Street,,45.0,1.7
 ASIA,mei,Samoa,,44.2,2.7
 ASIA,mei,Numbani,,43.7,4.0
-ASIA,mei,Aatlis,,39.6,3.5
 ASIA,mei,King's Row,,39.3,4.1
+ASIA,mei,Aatlis,,39.3,3.5
 ASIA,mei,Blizzard World,,37.0,2.7
 ASIA,mei,Rialto,,36.4,3.6
+ASIA,mei,Ilios,,32.8,2.4
 ASIA,mei,Runasapi,,31.2,1.6
-ASIA,mei,Ilios,,31.1,2.5
 ASIA,mei,New Junk City,,30.2,3.5
 ASIA,mei,Suravasa,,29.3,2.5
 ASIA,mei,Colosseo,,18.8,2.0
 US,mei,Runasapi,,75.1,2.8
-US,mei,Dorado,,68.6,1.5
-US,mei,Circuit Royal,,66.8,5.3
-US,mei,Junkertown,,59.6,3.0
-US,mei,Watchpoint: Gibraltar,,59.0,1.4
+US,mei,Dorado,,69.4,1.1
+US,mei,Circuit Royal,,67.4,5.2
 US,mei,Samoa,,58.7,4.4
-US,mei,Havana,,58.1,4.7
 US,mei,Shambali Monastery,,56.8,4.7
 US,mei,Lijiang Tower,,55.8,3.8
+US,mei,Suravasa,,55.8,2.8
 US,mei,New Queen Street,,55.1,3.1
+US,mei,Havana,,54.2,4.5
 US,mei,Aatlis,,53.4,3.8
-US,mei,Suravasa,,52.5,3.0
+US,mei,Watchpoint: Gibraltar,,53.1,1.6
+US,mei,New Junk City,,52.7,4.0
 US,mei,King's Row,,52.1,5.6
-US,mei,New Junk City,,51.8,4.3
 US,mei,Busan,,51.8,3.0
 US,mei,Esperança,,50.4,1.5
 US,mei,Colosseo,,49.4,4.1
-US,mei,Route 66,,49.2,2.1
-US,mei,Hollywood,,49.2,4.1
+US,mei,Route 66,,48.2,2.4
 US,mei,Rialto,,47.3,4.4
+US,mei,Junkertown,,47.3,3.2
+US,mei,Hollywood,,45.5,3.9
 US,mei,Nepal,,45.2,3.3
-US,mei,Midtown,,43.9,4.9
-US,mei,Oasis,,42.1,3.6
+US,mei,Oasis,,42.6,3.1
+US,mei,Midtown,,41.5,4.5
+US,mei,Blizzard World,,34.8,3.9
 US,mei,Eichenwalde,,31.8,3.7
 US,mei,Ilios,,29.1,2.2
-US,mei,Blizzard World,,26.7,4.0
 US,mei,Numbani,,17.4,2.3
 US,mei,Paraíso,,0.0,0.9
 EU,mei,Numbani,,66.5,1.8
 EU,mei,Runasapi,,66.5,1.9
-EU,mei,Esperança,,62.1,2.8
+EU,mei,Junkertown,,61.4,2.3
 EU,mei,Midtown,,59.0,3.2
-EU,mei,Junkertown,,58.2,1.6
-EU,mei,Suravasa,,57.3,1.7
-EU,mei,New Junk City,,55.4,3.1
+EU,mei,Esperança,,58.4,2.5
+EU,mei,Shambali Monastery,,57.2,3.0
+EU,mei,Suravasa,,56.3,1.5
 EU,mei,Hollywood,,55.3,3.8
+EU,mei,New Junk City,,54.0,3.4
+EU,mei,Circuit Royal,,54.0,5.1
 EU,mei,Busan,,53.1,3.7
-EU,mei,Shambali Monastery,,49.2,2.6
-EU,mei,Circuit Royal,,49.1,5.5
 EU,mei,Colosseo,,47.7,2.4
 EU,mei,Lijiang Tower,,47.5,3.0
-EU,mei,Oasis,,44.9,2.2
+EU,mei,King's Row,,45.8,4.8
+EU,mei,Blizzard World,,44.7,2.4
 EU,mei,Watchpoint: Gibraltar,,44.3,2.1
-EU,mei,Route 66,,43.3,3.9
+EU,mei,Oasis,,43.8,2.3
+EU,mei,Route 66,,43.6,4.2
+EU,mei,Rialto,,43.3,2.4
 EU,mei,Aatlis,,43.1,2.0
-EU,mei,Blizzard World,,43.1,2.6
-EU,mei,Rialto,,42.3,2.4
-EU,mei,King's Row,,41.8,4.9
-EU,mei,Ilios,,39.5,1.6
+EU,mei,Ilios,,40.3,1.3
 EU,mei,Nepal,,39.0,2.9
 EU,mei,Havana,,37.2,3.1
-EU,mei,New Queen Street,,33.4,1.5
+EU,mei,New Queen Street,,33.6,1.4
 EU,mei,Eichenwalde,,30.6,3.1
-EU,mei,Samoa,,27.5,2.5
+EU,mei,Samoa,,24.5,2.4
 EU,mei,Dorado,,15.7,2.5
 EU,mei,Paraíso,,12.6,1.5
-ASIA,baptiste,Numbani,,58.9,7.7
-ASIA,baptiste,Nepal,,56.7,10.0
-ASIA,baptiste,Suravasa,,53.7,6.2
-ASIA,baptiste,New Queen Street,,52.5,4.2
-ASIA,baptiste,Watchpoint: Gibraltar,,52.4,7.9
-ASIA,baptiste,Paraíso,,49.9,10.0
-ASIA,baptiste,Havana,,48.4,17.9
-ASIA,baptiste,Lijiang Tower,,48.1,6.6
-ASIA,baptiste,Shambali Monastery,,47.5,13.1
-ASIA,baptiste,Route 66,,46.6,8.0
-ASIA,baptiste,King's Row,,46.4,11.0
-ASIA,baptiste,Hollywood,,46.2,9.6
-ASIA,baptiste,Colosseo,,45.1,5.8
-ASIA,baptiste,New Junk City,,45.0,4.7
-ASIA,baptiste,Midtown,,44.9,16.1
-ASIA,baptiste,Eichenwalde,,44.4,12.1
-ASIA,baptiste,Circuit Royal,,43.8,32.1
-ASIA,baptiste,Rialto,,43.8,8.7
-ASIA,baptiste,Samoa,,43.5,6.6
-ASIA,baptiste,Junkertown,,39.9,11.8
-ASIA,baptiste,Runasapi,,39.7,6.0
-ASIA,baptiste,Busan,,38.7,4.5
-ASIA,baptiste,Esperança,,38.1,5.0
-ASIA,baptiste,Dorado,,36.7,5.9
-ASIA,baptiste,Oasis,,36.3,6.3
-ASIA,baptiste,Blizzard World,,35.2,6.4
-ASIA,baptiste,Ilios,,32.5,4.4
-ASIA,baptiste,Aatlis,,29.9,5.4
-US,baptiste,Havana,,55.0,14.4
-US,baptiste,Aatlis,,53.7,6.6
-US,baptiste,Watchpoint: Gibraltar,,53.1,7.7
-US,baptiste,Junkertown,,52.0,10.5
-US,baptiste,Nepal,,51.8,9.2
-US,baptiste,Eichenwalde,,51.3,12.8
-US,baptiste,Lijiang Tower,,51.0,9.2
-US,baptiste,Midtown,,50.2,18.6
-US,baptiste,Hollywood,,49.5,12.0
-US,baptiste,Circuit Royal,,49.4,26.5
-US,baptiste,Shambali Monastery,,49.1,15.5
-US,baptiste,Paraíso,,48.7,13.0
-US,baptiste,Blizzard World,,48.6,9.4
-US,baptiste,Runasapi,,48.6,8.0
-US,baptiste,Busan,,48.5,7.7
-US,baptiste,Ilios,,48.5,7.4
-US,baptiste,Route 66,,47.6,11.0
-US,baptiste,Dorado,,47.3,8.4
-US,baptiste,New Queen Street,,47.1,4.7
-US,baptiste,Samoa,,46.0,9.8
-US,baptiste,Colosseo,,45.1,8.5
-US,baptiste,Oasis,,44.8,7.1
-US,baptiste,King's Row,,44.1,16.3
-US,baptiste,Numbani,,43.5,8.7
-US,baptiste,Rialto,,43.2,11.0
-US,baptiste,Suravasa,,41.0,5.7
-US,baptiste,New Junk City,,38.0,6.5
-US,baptiste,Esperança,,36.6,5.9
-EU,baptiste,Watchpoint: Gibraltar,,54.9,7.2
-EU,baptiste,Junkertown,,54.8,13.0
-EU,baptiste,Shambali Monastery,,54.5,14.4
-EU,baptiste,Route 66,,54.0,10.5
-EU,baptiste,King's Row,,53.8,14.8
-EU,baptiste,Numbani,,53.8,11.2
-EU,baptiste,Aatlis,,52.6,6.3
-EU,baptiste,Havana,,52.2,20.7
-EU,baptiste,Esperança,,51.5,6.9
-EU,baptiste,Busan,,51.4,10.1
-EU,baptiste,Circuit Royal,,51.1,23.9
-EU,baptiste,Oasis,,50.4,9.1
-EU,baptiste,New Junk City,,50.1,7.2
-EU,baptiste,Suravasa,,49.9,7.9
-EU,baptiste,Blizzard World,,49.3,10.1
-EU,baptiste,Paraíso,,49.2,9.2
-EU,baptiste,Rialto,,48.7,8.5
-EU,baptiste,Samoa,,48.6,9.2
-EU,baptiste,Nepal,,47.4,9.1
-EU,baptiste,Lijiang Tower,,46.7,7.5
-EU,baptiste,Eichenwalde,,46.7,11.7
-EU,baptiste,Colosseo,,44.7,9.3
-EU,baptiste,Midtown,,44.6,16.7
-EU,baptiste,Dorado,,44.0,8.6
-EU,baptiste,Ilios,,43.6,6.1
-EU,baptiste,Runasapi,,42.1,6.7
-EU,baptiste,New Queen Street,,39.9,6.2
-EU,baptiste,Hollywood,,36.9,10.5
-ASIA,hanzo,Busan,,61.9,3.7
 ASIA,hanzo,New Queen Street,,61.9,3.3
-ASIA,hanzo,Nepal,,59.2,4.2
-ASIA,hanzo,Ilios,,59.0,2.2
+ASIA,hanzo,Busan,,61.9,3.7
+ASIA,hanzo,Paraíso,,58.9,3.3
 ASIA,hanzo,Shambali Monastery,,58.6,9.8
+ASIA,hanzo,Nepal,,58.0,4.6
 ASIA,hanzo,New Junk City,,56.5,5.9
 ASIA,hanzo,King's Row,,55.3,12.3
+ASIA,hanzo,Midtown,,53.4,8.8
 ASIA,hanzo,Route 66,,53.4,6.3
+ASIA,hanzo,Ilios,,52.6,2.6
 ASIA,hanzo,Runasapi,,51.1,2.7
 ASIA,hanzo,Rialto,,51.1,8.1
 ASIA,hanzo,Numbani,,50.5,5.8
+ASIA,hanzo,Hollywood,,50.4,8.4
 ASIA,hanzo,Colosseo,,50.4,3.4
-ASIA,hanzo,Midtown,,50.2,9.1
 ASIA,hanzo,Havana,,49.4,22.0
 ASIA,hanzo,Dorado,,48.3,5.5
 ASIA,hanzo,Oasis,,47.9,3.7
 ASIA,hanzo,Circuit Royal,,47.6,16.0
-ASIA,hanzo,Aatlis,,46.6,2.9
+ASIA,hanzo,Aatlis,,47.0,3.1
 ASIA,hanzo,Junkertown,,46.4,15.1
 ASIA,hanzo,Blizzard World,,46.3,7.2
 ASIA,hanzo,Watchpoint: Gibraltar,,46.1,8.2
 ASIA,hanzo,Lijiang Tower,,45.3,3.5
-ASIA,hanzo,Paraíso,,45.2,3.7
 ASIA,hanzo,Suravasa,,39.1,3.3
 ASIA,hanzo,Eichenwalde,,38.4,8.2
 ASIA,hanzo,Samoa,,38.0,3.9
 ASIA,hanzo,Esperança,,36.5,3.6
-ASIA,hanzo,Hollywood,,35.4,7.5
 US,hanzo,King's Row,,62.2,11.4
-US,hanzo,Watchpoint: Gibraltar,,62.1,6.3
-US,hanzo,Havana,,60.8,21.1
+US,hanzo,Havana,,60.8,20.6
+US,hanzo,Junkertown,,60.8,12.5
 US,hanzo,Runasapi,,59.6,3.0
-US,hanzo,Hollywood,,58.9,7.4
-US,hanzo,Circuit Royal,,58.0,18.0
+US,hanzo,Circuit Royal,,56.7,18.9
 US,hanzo,Paraíso,,56.5,7.0
-US,hanzo,Junkertown,,56.5,10.6
-US,hanzo,Oasis,,56.2,5.1
+US,hanzo,Watchpoint: Gibraltar,,56.0,6.6
+US,hanzo,Oasis,,56.0,5.5
 US,hanzo,Numbani,,55.6,4.8
+US,hanzo,Dorado,,55.3,6.8
 US,hanzo,Ilios,,54.8,3.0
-US,hanzo,Dorado,,54.2,6.5
+US,hanzo,New Junk City,,54.3,3.8
+US,hanzo,Midtown,,53.9,9.1
 US,hanzo,Samoa,,53.6,3.5
 US,hanzo,Rialto,,52.8,9.9
+US,hanzo,Hollywood,,52.3,7.7
 US,hanzo,Shambali Monastery,,50.2,7.8
+US,hanzo,Route 66,,50.1,8.4
 US,hanzo,Lijiang Tower,,49.9,4.2
 US,hanzo,Aatlis,,49.8,3.2
-US,hanzo,Midtown,,49.7,7.9
 US,hanzo,Eichenwalde,,49.3,6.2
-US,hanzo,Route 66,,48.0,6.8
 US,hanzo,Nepal,,47.5,4.1
 US,hanzo,Busan,,45.3,2.9
-US,hanzo,Colosseo,,44.0,5.5
 US,hanzo,Esperança,,44.0,3.7
-US,hanzo,Blizzard World,,43.0,7.1
+US,hanzo,Colosseo,,44.0,5.5
 US,hanzo,New Queen Street,,42.8,3.7
-US,hanzo,New Junk City,,41.4,3.2
-US,hanzo,Suravasa,,37.6,3.7
-EU,hanzo,New Queen Street,,68.9,2.5
-EU,hanzo,Shambali Monastery,,62.1,5.1
+US,hanzo,Suravasa,,40.7,4.0
+US,hanzo,Blizzard World,,38.2,7.2
+EU,hanzo,New Queen Street,,65.5,2.8
 EU,hanzo,Nepal,,60.0,4.1
 EU,hanzo,Dorado,,59.4,5.0
-EU,hanzo,Esperança,,56.9,2.9
 EU,hanzo,Havana,,55.7,14.5
-EU,hanzo,Ilios,,54.4,2.9
-EU,hanzo,King's Row,,54.4,9.2
-EU,hanzo,Oasis,,54.0,3.3
-EU,hanzo,Suravasa,,53.2,4.1
+EU,hanzo,Shambali Monastery,,54.8,5.7
+EU,hanzo,King's Row,,54.4,9.3
+EU,hanzo,Ilios,,52.5,3.5
+EU,hanzo,Esperança,,52.5,2.9
 EU,hanzo,Hollywood,,51.4,6.8
+EU,hanzo,Suravasa,,50.9,4.0
 EU,hanzo,Midtown,,50.8,5.7
+EU,hanzo,Oasis,,48.1,3.5
 EU,hanzo,Numbani,,47.8,4.3
 EU,hanzo,Aatlis,,47.3,3.6
-EU,hanzo,Junkertown,,46.0,9.1
+EU,hanzo,Junkertown,,46.1,7.9
 EU,hanzo,Paraíso,,45.7,3.7
+EU,hanzo,Samoa,,45.7,3.1
 EU,hanzo,Lijiang Tower,,45.0,3.9
-EU,hanzo,Samoa,,44.9,2.7
 EU,hanzo,Watchpoint: Gibraltar,,44.0,5.2
 EU,hanzo,Colosseo,,43.0,3.9
-EU,hanzo,Route 66,,42.7,10.6
-EU,hanzo,Blizzard World,,42.4,7.1
-EU,hanzo,Circuit Royal,,41.4,11.5
-EU,hanzo,Rialto,,40.6,7.5
+EU,hanzo,Blizzard World,,41.9,8.1
+EU,hanzo,Route 66,,41.9,10.3
+EU,hanzo,Circuit Royal,,40.5,11.1
 EU,hanzo,Busan,,40.1,4.6
 EU,hanzo,Eichenwalde,,39.8,6.0
+EU,hanzo,Rialto,,39.0,6.9
 EU,hanzo,Runasapi,,33.7,2.4
-EU,hanzo,New Junk City,,30.6,4.3
+EU,hanzo,New Junk City,,31.7,4.2
 ASIA,doomfist,Shambali Monastery,,64.7,6.4
 ASIA,doomfist,Colosseo,,59.5,8.2
+ASIA,doomfist,Paraíso,,56.3,8.1
 ASIA,doomfist,New Junk City,,55.5,7.9
-ASIA,doomfist,Aatlis,,54.2,9.0
 ASIA,doomfist,Esperança,,51.5,8.3
 ASIA,doomfist,Suravasa,,51.4,11.2
+ASIA,doomfist,Nepal,,50.7,9.6
 ASIA,doomfist,Busan,,50.6,7.6
+ASIA,doomfist,Aatlis,,49.7,9.4
 ASIA,doomfist,Circuit Royal,,49.7,6.6
 ASIA,doomfist,Lijiang Tower,,48.8,9.3
 ASIA,doomfist,Oasis,,48.7,9.1
 ASIA,doomfist,Samoa,,48.0,10.5
 ASIA,doomfist,Eichenwalde,,47.4,8.2
-ASIA,doomfist,Midtown,,47.4,7.4
 ASIA,doomfist,King's Row,,46.8,9.1
 ASIA,doomfist,Route 66,,46.4,9.4
+ASIA,doomfist,Midtown,,45.4,7.4
 ASIA,doomfist,New Queen Street,,45.4,8.9
 ASIA,doomfist,Runasapi,,45.3,8.9
-ASIA,doomfist,Nepal,,43.3,10.0
+ASIA,doomfist,Ilios,,43.7,9.0
 ASIA,doomfist,Blizzard World,,42.9,8.1
 ASIA,doomfist,Dorado,,41.1,9.7
-ASIA,doomfist,Ilios,,40.9,7.8
 ASIA,doomfist,Watchpoint: Gibraltar,,40.4,9.5
 ASIA,doomfist,Rialto,,39.9,8.6
-ASIA,doomfist,Paraíso,,39.0,7.1
-ASIA,doomfist,Hollywood,,30.0,8.1
+ASIA,doomfist,Hollywood,,39.0,9.6
 ASIA,doomfist,Numbani,,28.9,7.9
 ASIA,doomfist,Havana,,27.6,7.9
 ASIA,doomfist,Junkertown,,25.3,6.8
-US,doomfist,Route 66,,58.4,5.3
 US,doomfist,Colosseo,,55.5,8.4
 US,doomfist,Eichenwalde,,54.5,7.4
 US,doomfist,Busan,,53.9,7.0
+US,doomfist,Route 66,,53.8,5.3
+US,doomfist,Dorado,,53.7,7.9
 US,doomfist,Samoa,,53.2,7.9
-US,doomfist,Dorado,,52.8,7.8
-US,doomfist,Watchpoint: Gibraltar,,52.5,5.9
 US,doomfist,Numbani,,52.1,6.4
-US,doomfist,Blizzard World,,51.5,7.2
+US,doomfist,Watchpoint: Gibraltar,,52.0,6.1
 US,doomfist,Shambali Monastery,,51.1,7.4
+US,doomfist,Blizzard World,,49.7,7.4
 US,doomfist,Ilios,,49.5,8.3
+US,doomfist,Suravasa,,49.3,7.5
 US,doomfist,King's Row,,48.6,6.5
 US,doomfist,New Queen Street,,47.8,8.4
 US,doomfist,Runasapi,,46.8,7.1
 US,doomfist,Lijiang Tower,,45.8,7.4
-US,doomfist,Hollywood,,45.5,8.7
 US,doomfist,Aatlis,,45.2,7.9
 US,doomfist,Esperança,,45.2,6.3
-US,doomfist,Suravasa,,44.9,7.1
-US,doomfist,Oasis,,44.4,8.0
+US,doomfist,Hollywood,,44.4,8.6
 US,doomfist,Rialto,,44.1,8.5
+US,doomfist,Oasis,,43.9,8.0
 US,doomfist,Nepal,,40.7,8.9
-US,doomfist,Midtown,,40.3,5.1
+US,doomfist,New Junk City,,39.4,8.6
 US,doomfist,Paraíso,,39.3,7.8
-US,doomfist,New Junk City,,36.1,8.8
-US,doomfist,Circuit Royal,,30.3,6.1
-US,doomfist,Havana,,30.0,5.8
-US,doomfist,Junkertown,,29.9,6.2
+US,doomfist,Midtown,,38.1,4.8
+US,doomfist,Havana,,35.8,5.4
+US,doomfist,Circuit Royal,,35.5,6.3
+US,doomfist,Junkertown,,32.3,5.7
 EU,doomfist,Midtown,,57.0,4.0
 EU,doomfist,Watchpoint: Gibraltar,,56.0,5.0
 EU,doomfist,Busan,,55.9,4.9
-EU,doomfist,New Junk City,,49.6,4.2
-EU,doomfist,Suravasa,,48.7,5.5
-EU,doomfist,Oasis,,48.4,5.9
+EU,doomfist,Esperança,,53.8,6.1
+EU,doomfist,Samoa,,49.5,5.5
 EU,doomfist,Hollywood,,48.1,5.0
 EU,doomfist,Numbani,,47.6,6.5
-EU,doomfist,Esperança,,47.0,5.7
-EU,doomfist,Junkertown,,46.9,4.7
+EU,doomfist,Suravasa,,46.9,5.7
 EU,doomfist,Dorado,,46.7,5.2
-EU,doomfist,Samoa,,46.5,5.2
+EU,doomfist,Junkertown,,46.5,4.7
+EU,doomfist,New Junk City,,46.4,4.7
 EU,doomfist,Colosseo,,46.3,4.7
+EU,doomfist,Oasis,,45.7,6.0
+EU,doomfist,New Queen Street,,45.4,4.8
 EU,doomfist,Lijiang Tower,,44.8,6.0
+EU,doomfist,Circuit Royal,,44.8,4.2
+EU,doomfist,Rialto,,44.7,4.2
 EU,doomfist,Nepal,,42.3,5.2
 EU,doomfist,Aatlis,,41.8,6.6
-EU,doomfist,Circuit Royal,,41.1,4.3
-EU,doomfist,Rialto,,40.8,3.9
-EU,doomfist,Shambali Monastery,,40.8,4.6
+EU,doomfist,King's Row,,40.8,5.7
+EU,doomfist,Blizzard World,,40.2,6.1
 EU,doomfist,Runasapi,,40.2,5.5
+EU,doomfist,Shambali Monastery,,39.6,5.5
 EU,doomfist,Eichenwalde,,38.7,5.8
-EU,doomfist,Blizzard World,,37.5,5.4
-EU,doomfist,New Queen Street,,37.4,5.1
-EU,doomfist,King's Row,,37.3,5.7
-EU,doomfist,Ilios,,34.7,5.2
+EU,doomfist,Ilios,,37.5,4.7
 EU,doomfist,Havana,,31.4,3.2
-EU,doomfist,Route 66,,23.9,2.5
+EU,doomfist,Route 66,,27.1,2.7
 EU,doomfist,Paraíso,,14.8,4.5
-ASIA,pharah,Hollywood,,88.3,3.0
 ASIA,pharah,Busan,,84.6,1.6
+ASIA,pharah,Hollywood,,83.2,2.7
 ASIA,pharah,Dorado,,70.2,4.3
 ASIA,pharah,Route 66,,70.1,2.8
 ASIA,pharah,New Junk City,,68.7,2.5
-ASIA,pharah,Midtown,,64.1,4.3
+ASIA,pharah,Midtown,,66.5,3.9
 ASIA,pharah,Lijiang Tower,,62.8,9.2
 ASIA,pharah,Oasis,,61.0,4.9
 ASIA,pharah,Eichenwalde,,58.7,4.4
 ASIA,pharah,Shambali Monastery,,57.7,5.3
 ASIA,pharah,Rialto,,57.2,5.0
 ASIA,pharah,Blizzard World,,54.3,1.8
+ASIA,pharah,Aatlis,,53.1,2.2
 ASIA,pharah,Colosseo,,52.5,3.7
 ASIA,pharah,Suravasa,,52.2,3.2
 ASIA,pharah,King's Row,,52.1,5.1
-ASIA,pharah,Ilios,,51.3,2.8
 ASIA,pharah,Circuit Royal,,51.0,5.7
-ASIA,pharah,Paraíso,,50.7,7.9
+ASIA,pharah,Nepal,,50.9,7.7
 ASIA,pharah,Havana,,49.0,1.1
-ASIA,pharah,Aatlis,,48.1,2.1
+ASIA,pharah,Ilios,,48.8,2.8
 ASIA,pharah,Samoa,,47.9,3.2
-ASIA,pharah,Nepal,,47.5,8.0
+ASIA,pharah,Paraíso,,47.0,7.5
 ASIA,pharah,New Queen Street,,46.5,2.4
-ASIA,pharah,Junkertown,,44.3,3.6
 ASIA,pharah,Numbani,,44.3,1.7
+ASIA,pharah,Junkertown,,44.3,3.6
 ASIA,pharah,Runasapi,,39.5,1.9
 ASIA,pharah,Watchpoint: Gibraltar,,34.9,0.8
 ASIA,pharah,Esperança,,31.6,2.8
-US,pharah,Junkertown,,93.6,1.3
+US,pharah,Junkertown,,93.6,1.0
 US,pharah,Shambali Monastery,,74.7,3.9
-US,pharah,Midtown,,70.0,2.7
 US,pharah,Busan,,65.9,1.6
-US,pharah,Circuit Royal,,65.4,4.3
 US,pharah,Runasapi,,64.2,2.7
-US,pharah,Havana,,63.2,1.7
+US,pharah,Midtown,,63.3,2.6
+US,pharah,Havana,,62.2,1.5
 US,pharah,Rialto,,61.3,4.2
-US,pharah,Blizzard World,,60.3,1.6
 US,pharah,King's Row,,57.7,5.1
+US,pharah,Watchpoint: Gibraltar,,57.0,2.1
 US,pharah,Esperança,,56.7,2.2
+US,pharah,Circuit Royal,,55.4,4.6
 US,pharah,Nepal,,55.1,4.6
 US,pharah,Lijiang Tower,,53.9,7.1
 US,pharah,Colosseo,,53.6,2.0
 US,pharah,Ilios,,52.9,5.1
 US,pharah,Eichenwalde,,51.5,5.5
 US,pharah,Aatlis,,51.3,1.8
-US,pharah,Dorado,,49.6,4.1
-US,pharah,Watchpoint: Gibraltar,,48.3,2.1
-US,pharah,Suravasa,,44.6,3.2
-US,pharah,Oasis,,44.0,4.6
+US,pharah,Suravasa,,48.7,3.2
+US,pharah,Blizzard World,,47.3,1.6
+US,pharah,Dorado,,44.4,4.9
+US,pharah,Oasis,,43.6,4.5
+US,pharah,Route 66,,42.8,1.8
 US,pharah,Samoa,,42.5,2.1
-US,pharah,Route 66,,38.3,2.0
 US,pharah,New Queen Street,,36.4,2.0
 US,pharah,Numbani,,32.4,2.4
-US,pharah,New Junk City,,30.0,2.6
-US,pharah,Hollywood,,25.6,2.8
+US,pharah,New Junk City,,31.3,2.2
+US,pharah,Hollywood,,26.2,3.2
 US,pharah,Paraíso,,25.3,2.2
-EU,pharah,Blizzard World,,84.3,1.5
+EU,pharah,New Queen Street,,63.5,2.1
 EU,pharah,Watchpoint: Gibraltar,,61.4,2.2
 EU,pharah,Busan,,60.7,1.8
+EU,pharah,Samoa,,58.6,3.2
 EU,pharah,Lijiang Tower,,58.0,8.2
 EU,pharah,Dorado,,57.8,2.8
-EU,pharah,Samoa,,57.2,3.1
-EU,pharah,King's Row,,57.1,4.4
-EU,pharah,Circuit Royal,,56.6,3.5
+EU,pharah,Ilios,,57.7,4.8
+EU,pharah,King's Row,,57.2,4.8
+EU,pharah,Oasis,,55.9,4.7
 EU,pharah,Colosseo,,55.3,3.1
-EU,pharah,Oasis,,55.2,4.4
-EU,pharah,Ilios,,55.2,4.6
-EU,pharah,New Queen Street,,54.2,1.7
-EU,pharah,Route 66,,54.2,2.1
+EU,pharah,Blizzard World,,52.8,1.9
+EU,pharah,Rialto,,52.7,4.2
+EU,pharah,Esperança,,52.5,2.7
 EU,pharah,Runasapi,,51.8,1.8
-EU,pharah,Rialto,,50.7,4.1
 EU,pharah,Aatlis,,50.2,2.9
 EU,pharah,Paraíso,,49.1,2.5
-EU,pharah,Suravasa,,48.8,2.5
+EU,pharah,Suravasa,,48.7,2.8
+EU,pharah,Shambali Monastery,,48.6,5.6
 EU,pharah,Havana,,48.1,1.6
-EU,pharah,Shambali Monastery,,47.4,5.3
+EU,pharah,Circuit Royal,,47.9,3.7
 EU,pharah,Numbani,,47.2,4.0
 EU,pharah,Eichenwalde,,46.7,5.1
+EU,pharah,Route 66,,46.5,2.3
+EU,pharah,New Junk City,,45.8,1.9
 EU,pharah,Nepal,,44.6,4.8
-EU,pharah,Esperança,,44.4,2.6
 EU,pharah,Midtown,,43.7,2.9
 EU,pharah,Hollywood,,35.2,2.8
-EU,pharah,New Junk City,,31.5,1.7
-EU,pharah,Junkertown,,23.1,0.9
-ASIA,ramattra,Junkertown,,89.6,0.4
-ASIA,ramattra,Route 66,,85.2,1.1
-ASIA,ramattra,Numbani,,82.4,0.4
-ASIA,ramattra,Hollywood,,66.8,1.7
-ASIA,ramattra,Dorado,,66.1,1.2
-ASIA,ramattra,Runasapi,,63.9,1.6
-ASIA,ramattra,Ilios,,59.9,0.4
-ASIA,ramattra,Esperança,,58.0,0.9
-ASIA,ramattra,Busan,,53.5,2.1
-ASIA,ramattra,Rialto,,52.5,0.9
-ASIA,ramattra,Nepal,,51.8,2.5
-ASIA,ramattra,Suravasa,,50.8,1.2
-ASIA,ramattra,Samoa,,47.1,1.7
-ASIA,ramattra,Lijiang Tower,,45.3,3.1
-ASIA,ramattra,Havana,,42.7,1.4
-ASIA,ramattra,Aatlis,,42.1,5.0
-ASIA,ramattra,Circuit Royal,,41.2,4.3
-ASIA,ramattra,Colosseo,,36.5,1.1
-ASIA,ramattra,King's Row,,33.7,2.6
-ASIA,ramattra,Shambali Monastery,,32.9,2.7
-ASIA,ramattra,Oasis,,30.9,0.8
-ASIA,ramattra,New Junk City,,28.7,3.7
-ASIA,ramattra,Paraíso,,27.4,1.6
-ASIA,ramattra,New Queen Street,,19.9,0.6
-ASIA,ramattra,Midtown,,19.1,1.8
-ASIA,ramattra,Eichenwalde,,15.9,0.9
-ASIA,ramattra,Watchpoint: Gibraltar,,0.0,0.0
-ASIA,ramattra,Blizzard World,,0.0,0.4
-US,ramattra,Paraíso,,100.0,0.1
-US,ramattra,Numbani,,72.4,1.3
-US,ramattra,Hollywood,,67.8,2.0
-US,ramattra,Eichenwalde,,67.2,4.8
-US,ramattra,Suravasa,,63.1,2.9
-US,ramattra,New Junk City,,60.4,7.0
-US,ramattra,Nepal,,59.7,4.6
-US,ramattra,Junkertown,,58.5,1.8
-US,ramattra,Rialto,,54.9,3.1
-US,ramattra,Lijiang Tower,,52.2,5.9
-US,ramattra,Ilios,,51.4,1.0
-US,ramattra,Oasis,,50.7,3.4
-US,ramattra,Samoa,,50.4,3.2
-US,ramattra,Runasapi,,48.1,3.8
-US,ramattra,Busan,,46.9,3.1
-US,ramattra,King's Row,,46.8,5.1
-US,ramattra,Blizzard World,,45.1,2.1
-US,ramattra,Midtown,,44.5,6.0
-US,ramattra,New Queen Street,,43.4,2.4
-US,ramattra,Shambali Monastery,,38.2,5.4
-US,ramattra,Aatlis,,36.2,4.0
-US,ramattra,Esperança,,34.4,1.5
-US,ramattra,Havana,,33.1,1.8
-US,ramattra,Circuit Royal,,32.6,5.3
-US,ramattra,Watchpoint: Gibraltar,,32.4,0.5
-US,ramattra,Route 66,,29.1,1.7
-US,ramattra,Colosseo,,22.8,4.2
-US,ramattra,Dorado,,14.3,1.4
-EU,ramattra,Havana,,59.6,4.3
-EU,ramattra,Rialto,,58.9,3.6
-EU,ramattra,Route 66,,58.6,3.2
-EU,ramattra,Hollywood,,56.5,3.2
-EU,ramattra,Busan,,54.8,3.5
-EU,ramattra,New Queen Street,,54.5,1.7
-EU,ramattra,Oasis,,53.5,2.5
-EU,ramattra,King's Row,,52.1,7.7
-EU,ramattra,Colosseo,,51.4,3.2
-EU,ramattra,Samoa,,50.5,4.1
-EU,ramattra,Suravasa,,50.3,3.3
-EU,ramattra,Shambali Monastery,,49.7,6.4
-EU,ramattra,Aatlis,,49.7,5.5
-EU,ramattra,Circuit Royal,,49.5,7.5
-EU,ramattra,New Junk City,,47.3,4.5
-EU,ramattra,Lijiang Tower,,46.0,5.5
-EU,ramattra,Midtown,,45.9,6.2
-EU,ramattra,Nepal,,44.6,4.3
-EU,ramattra,Numbani,,44.4,1.8
-EU,ramattra,Eichenwalde,,44.0,4.3
-EU,ramattra,Junkertown,,41.6,2.4
-EU,ramattra,Runasapi,,39.3,4.5
-EU,ramattra,Ilios,,38.7,1.3
-EU,ramattra,Esperança,,34.9,2.0
-EU,ramattra,Blizzard World,,28.9,4.0
-EU,ramattra,Dorado,,25.7,1.3
-EU,ramattra,Watchpoint: Gibraltar,,13.9,0.6
-EU,ramattra,Paraíso,,0.0,0.3
-ASIA,junkrat,Paraíso,,69.9,4.5
+EU,pharah,Junkertown,,30.0,1.0
+ASIA,echo,Havana,,64.8,5.8
+ASIA,echo,Eichenwalde,,64.8,17.5
+ASIA,echo,Numbani,,62.1,13.2
+ASIA,echo,Paraíso,,61.3,18.0
+ASIA,echo,Watchpoint: Gibraltar,,61.0,8.9
+ASIA,echo,Rialto,,60.1,18.2
+ASIA,echo,Circuit Royal,,58.7,7.8
+ASIA,echo,New Junk City,,56.6,3.6
+ASIA,echo,Samoa,,56.5,6.6
+ASIA,echo,Aatlis,,55.7,5.3
+ASIA,echo,Shambali Monastery,,53.9,21.2
+ASIA,echo,Oasis,,53.5,9.0
+ASIA,echo,Ilios,,53.3,17.4
+ASIA,echo,Blizzard World,,53.0,6.1
+ASIA,echo,Nepal,,51.7,10.3
+ASIA,echo,Dorado,,50.8,15.3
+ASIA,echo,Busan,,50.5,4.3
+ASIA,echo,Route 66,,50.1,11.8
+ASIA,echo,King's Row,,49.6,11.7
+ASIA,echo,Hollywood,,49.2,9.1
+ASIA,echo,Colosseo,,47.8,11.5
+ASIA,echo,Esperança,,46.6,11.4
+ASIA,echo,Lijiang Tower,,45.0,9.7
+ASIA,echo,Runasapi,,44.2,7.4
+ASIA,echo,Midtown,,41.5,9.5
+ASIA,echo,Suravasa,,39.8,5.5
+ASIA,echo,New Queen Street,,32.4,5.7
+ASIA,echo,Junkertown,,28.9,11.1
+US,echo,Paraíso,,68.4,19.4
+US,echo,Esperança,,64.3,8.3
+US,echo,Hollywood,,64.1,8.2
+US,echo,Busan,,61.7,5.2
+US,echo,Dorado,,61.3,13.0
+US,echo,Colosseo,,59.2,6.2
+US,echo,Samoa,,58.0,7.0
+US,echo,Ilios,,56.9,15.2
+US,echo,Nepal,,55.9,8.4
+US,echo,Rialto,,55.7,12.5
+US,echo,Shambali Monastery,,52.9,15.7
+US,echo,Eichenwalde,,52.4,16.6
+US,echo,Route 66,,51.4,6.6
+US,echo,King's Row,,51.0,8.7
+US,echo,Junkertown,,50.8,7.5
+US,echo,Midtown,,50.5,5.9
+US,echo,Oasis,,50.3,9.2
+US,echo,Watchpoint: Gibraltar,,49.7,10.6
+US,echo,Havana,,49.0,3.1
+US,echo,Numbani,,48.4,10.1
+US,echo,New Queen Street,,47.9,6.3
+US,echo,Circuit Royal,,47.0,8.1
+US,echo,Suravasa,,47.0,6.6
+US,echo,Blizzard World,,45.3,6.1
+US,echo,Lijiang Tower,,44.7,8.6
+US,echo,Runasapi,,44.0,7.7
+US,echo,New Junk City,,44.0,3.9
+US,echo,Aatlis,,33.1,4.4
+EU,echo,Havana,,63.2,3.3
+EU,echo,Paraíso,,59.0,25.2
+EU,echo,Dorado,,57.3,15.6
+EU,echo,Esperança,,56.9,9.1
+EU,echo,Shambali Monastery,,55.1,17.0
+EU,echo,Nepal,,54.1,10.0
+EU,echo,New Junk City,,53.5,6.0
+EU,echo,Ilios,,52.5,18.5
+EU,echo,Blizzard World,,52.2,8.5
+EU,echo,Colosseo,,51.8,9.0
+EU,echo,Aatlis,,51.2,6.4
+EU,echo,Eichenwalde,,50.1,17.1
+EU,echo,Circuit Royal,,50.0,9.3
+EU,echo,Runasapi,,49.8,6.7
+EU,echo,Rialto,,49.5,14.1
+EU,echo,Lijiang Tower,,49.3,11.3
+EU,echo,Numbani,,49.2,20.3
+EU,echo,Oasis,,48.8,10.7
+EU,echo,King's Row,,48.4,10.5
+EU,echo,Watchpoint: Gibraltar,,47.1,10.3
+EU,echo,Samoa,,46.3,7.8
+EU,echo,New Queen Street,,46.3,7.0
+EU,echo,Hollywood,,44.4,9.9
+EU,echo,Suravasa,,44.1,6.5
+EU,echo,Route 66,,40.8,9.9
+EU,echo,Midtown,,40.2,8.7
+EU,echo,Junkertown,,31.6,4.9
+EU,echo,Busan,,27.8,4.2
 ASIA,junkrat,Suravasa,,67.3,1.3
 ASIA,junkrat,Runasapi,,64.5,1.0
-ASIA,junkrat,Aatlis,,62.7,1.7
-ASIA,junkrat,Nepal,,59.3,2.4
+ASIA,junkrat,Paraíso,,62.8,3.9
+ASIA,junkrat,Aatlis,,59.8,1.8
+ASIA,junkrat,Nepal,,58.8,2.3
 ASIA,junkrat,Lijiang Tower,,57.8,2.7
 ASIA,junkrat,Junkertown,,55.8,2.2
 ASIA,junkrat,Havana,,53.0,3.9
-ASIA,junkrat,Midtown,,52.5,1.1
-ASIA,junkrat,Ilios,,50.3,1.2
 ASIA,junkrat,Route 66,,48.4,1.4
 ASIA,junkrat,Samoa,,46.2,3.2
 ASIA,junkrat,Eichenwalde,,45.4,3.4
+ASIA,junkrat,Ilios,,43.8,1.1
 ASIA,junkrat,King's Row,,43.8,3.0
 ASIA,junkrat,Colosseo,,43.2,1.5
 ASIA,junkrat,Shambali Monastery,,40.8,3.0
+ASIA,junkrat,Midtown,,40.5,1.8
 ASIA,junkrat,Esperança,,39.3,0.7
 ASIA,junkrat,Watchpoint: Gibraltar,,38.6,2.5
+ASIA,junkrat,Hollywood,,36.7,2.4
 ASIA,junkrat,New Queen Street,,32.7,0.9
 ASIA,junkrat,Oasis,,32.4,2.9
-ASIA,junkrat,Hollywood,,30.9,2.7
 ASIA,junkrat,Rialto,,30.4,2.1
 ASIA,junkrat,Dorado,,28.2,3.7
 ASIA,junkrat,Numbani,,24.3,3.3
@@ -2799,165 +2799,165 @@ ASIA,junkrat,New Junk City,,22.9,2.7
 ASIA,junkrat,Circuit Royal,,19.8,2.8
 ASIA,junkrat,Blizzard World,,1.5,1.9
 ASIA,junkrat,Busan,,1.4,0.6
-US,junkrat,Dorado,,65.3,5.3
-US,junkrat,Circuit Royal,,65.2,4.4
+US,junkrat,Blizzard World,,67.0,2.8
+US,junkrat,Dorado,,64.9,4.9
 US,junkrat,Esperança,,64.6,4.8
-US,junkrat,Route 66,,62.6,5.7
-US,junkrat,Junkertown,,60.5,2.6
-US,junkrat,Watchpoint: Gibraltar,,59.7,4.9
-US,junkrat,Hollywood,,58.5,6.0
-US,junkrat,Blizzard World,,58.1,2.8
+US,junkrat,Route 66,,62.5,6.4
+US,junkrat,Watchpoint: Gibraltar,,62.3,5.1
+US,junkrat,Havana,,60.6,3.1
+US,junkrat,Junkertown,,59.5,2.8
+US,junkrat,Oasis,,57.2,4.3
 US,junkrat,Shambali Monastery,,56.5,5.3
 US,junkrat,Aatlis,,56.4,6.3
+US,junkrat,Circuit Royal,,56.3,4.8
+US,junkrat,Hollywood,,56.1,5.7
 US,junkrat,Lijiang Tower,,55.8,6.1
-US,junkrat,Oasis,,55.5,4.1
-US,junkrat,Suravasa,,54.0,4.0
-US,junkrat,Samoa,,53.8,4.7
 US,junkrat,Busan,,53.8,4.8
-US,junkrat,New Junk City,,51.8,6.3
+US,junkrat,Samoa,,53.8,4.7
+US,junkrat,New Junk City,,51.6,6.0
 US,junkrat,Numbani,,51.5,5.3
+US,junkrat,Suravasa,,50.3,4.0
 US,junkrat,Paraíso,,50.2,7.3
 US,junkrat,Colosseo,,49.8,4.3
 US,junkrat,King's Row,,49.6,6.1
 US,junkrat,Nepal,,49.5,6.1
 US,junkrat,Rialto,,49.2,4.5
-US,junkrat,Havana,,49.1,2.6
 US,junkrat,New Queen Street,,47.0,2.7
 US,junkrat,Runasapi,,46.7,4.8
 US,junkrat,Eichenwalde,,43.5,8.3
+US,junkrat,Midtown,,35.5,5.3
 US,junkrat,Ilios,,34.9,4.2
-US,junkrat,Midtown,,30.0,5.7
-EU,junkrat,Junkertown,,77.3,2.5
 EU,junkrat,Havana,,70.6,1.3
 EU,junkrat,Busan,,68.2,3.3
-EU,junkrat,Route 66,,67.4,2.3
-EU,junkrat,Esperança,,66.4,1.2
+EU,junkrat,New Queen Street,,66.0,2.1
 EU,junkrat,Watchpoint: Gibraltar,,64.0,3.2
+EU,junkrat,Esperança,,63.0,1.4
 EU,junkrat,Dorado,,62.6,2.6
+EU,junkrat,Junkertown,,62.5,2.4
+EU,junkrat,Route 66,,61.9,2.3
 EU,junkrat,Midtown,,60.3,4.7
 EU,junkrat,Eichenwalde,,59.7,4.8
-EU,junkrat,New Queen Street,,57.5,2.1
-EU,junkrat,New Junk City,,53.6,3.3
-EU,junkrat,Shambali Monastery,,53.5,4.4
+EU,junkrat,King's Row,,54.1,4.7
 EU,junkrat,Lijiang Tower,,53.2,3.7
+EU,junkrat,Ilios,,52.5,2.2
 EU,junkrat,Colosseo,,52.3,3.2
-EU,junkrat,King's Row,,52.3,4.7
-EU,junkrat,Ilios,,51.9,2.0
-EU,junkrat,Circuit Royal,,51.7,3.3
 EU,junkrat,Nepal,,51.4,3.6
 EU,junkrat,Paraíso,,50.5,1.7
-EU,junkrat,Blizzard World,,50.5,3.0
 EU,junkrat,Aatlis,,50.0,3.2
+EU,junkrat,Circuit Royal,,49.9,3.4
+EU,junkrat,New Junk City,,49.7,3.5
+EU,junkrat,Shambali Monastery,,49.2,4.6
 EU,junkrat,Runasapi,,49.2,1.7
-EU,junkrat,Rialto,,48.5,3.9
-EU,junkrat,Suravasa,,47.8,2.4
-EU,junkrat,Oasis,,46.5,3.7
-EU,junkrat,Samoa,,43.2,2.4
+EU,junkrat,Oasis,,48.2,3.6
+EU,junkrat,Suravasa,,46.1,2.5
+EU,junkrat,Blizzard World,,45.9,3.2
+EU,junkrat,Samoa,,43.2,2.8
+EU,junkrat,Rialto,,42.9,3.8
 EU,junkrat,Numbani,,35.8,4.0
 EU,junkrat,Hollywood,,34.0,4.3
-ASIA,echo,Eichenwalde,,64.8,17.5
-ASIA,echo,Havana,,64.8,5.8
-ASIA,echo,Numbani,,62.1,13.2
-ASIA,echo,Watchpoint: Gibraltar,,61.0,8.9
-ASIA,echo,Rialto,,60.1,18.2
-ASIA,echo,Circuit Royal,,58.7,7.8
-ASIA,echo,New Junk City,,56.6,3.6
-ASIA,echo,Samoa,,56.5,6.6
-ASIA,echo,Aatlis,,55.4,5.2
-ASIA,echo,Ilios,,54.8,16.8
-ASIA,echo,Paraíso,,54.6,15.5
-ASIA,echo,Shambali Monastery,,53.9,21.2
-ASIA,echo,Oasis,,53.5,9.0
-ASIA,echo,Blizzard World,,53.0,6.1
-ASIA,echo,Nepal,,51.6,10.9
-ASIA,echo,Dorado,,50.8,15.3
-ASIA,echo,Busan,,50.5,4.3
-ASIA,echo,Route 66,,50.1,11.8
-ASIA,echo,King's Row,,49.6,11.7
-ASIA,echo,Colosseo,,47.8,11.5
-ASIA,echo,Esperança,,46.6,11.4
-ASIA,echo,Lijiang Tower,,45.0,9.7
-ASIA,echo,Runasapi,,44.2,7.4
-ASIA,echo,Midtown,,43.5,9.6
-ASIA,echo,Hollywood,,41.0,9.7
-ASIA,echo,Suravasa,,39.8,5.5
-ASIA,echo,New Queen Street,,32.4,5.7
-ASIA,echo,Junkertown,,28.9,11.1
-US,echo,Paraíso,,68.4,19.4
-US,echo,Esperança,,64.3,8.3
-US,echo,Dorado,,62.3,12.9
-US,echo,Busan,,61.7,5.2
-US,echo,Hollywood,,61.4,8.1
-US,echo,Colosseo,,59.2,6.2
-US,echo,Samoa,,58.0,7.0
-US,echo,Ilios,,56.9,15.2
-US,echo,Nepal,,55.9,8.4
-US,echo,Rialto,,55.7,12.5
-US,echo,Havana,,53.3,2.3
-US,echo,Midtown,,53.0,6.2
-US,echo,Shambali Monastery,,52.9,15.7
-US,echo,Eichenwalde,,52.4,16.6
-US,echo,Route 66,,52.2,7.3
-US,echo,Oasis,,51.2,9.7
-US,echo,King's Row,,51.0,8.7
-US,echo,Suravasa,,50.1,7.0
-US,echo,Blizzard World,,48.9,6.6
-US,echo,Numbani,,48.4,10.1
-US,echo,Junkertown,,48.0,8.8
-US,echo,New Queen Street,,47.9,6.3
-US,echo,Watchpoint: Gibraltar,,46.6,10.3
-US,echo,Lijiang Tower,,44.7,8.6
-US,echo,Circuit Royal,,44.5,7.7
-US,echo,New Junk City,,44.4,3.5
-US,echo,Runasapi,,44.0,7.7
-US,echo,Aatlis,,33.1,4.4
-EU,echo,Havana,,63.2,3.3
-EU,echo,Paraíso,,59.0,25.2
-EU,echo,Esperança,,58.6,9.6
-EU,echo,Dorado,,57.3,15.6
-EU,echo,Shambali Monastery,,54.8,16.4
-EU,echo,Ilios,,54.3,19.5
-EU,echo,Nepal,,54.1,10.0
-EU,echo,Blizzard World,,54.1,8.2
-EU,echo,Colosseo,,51.8,9.0
-EU,echo,Circuit Royal,,51.8,9.4
-EU,echo,New Queen Street,,51.3,7.3
-EU,echo,New Junk City,,51.3,6.0
-EU,echo,Aatlis,,51.2,6.4
-EU,echo,Rialto,,50.5,14.2
-EU,echo,Eichenwalde,,50.1,17.1
-EU,echo,Runasapi,,49.8,6.7
-EU,echo,Lijiang Tower,,49.3,11.3
-EU,echo,Numbani,,49.2,20.3
-EU,echo,Oasis,,49.1,10.8
-EU,echo,Watchpoint: Gibraltar,,47.1,10.3
-EU,echo,Samoa,,46.6,8.4
-EU,echo,King's Row,,46.4,11.0
-EU,echo,Suravasa,,45.0,6.6
-EU,echo,Hollywood,,44.4,9.9
-EU,echo,Route 66,,43.0,11.3
-EU,echo,Midtown,,40.2,8.7
-EU,echo,Junkertown,,31.7,4.5
-EU,echo,Busan,,27.8,4.2
+ASIA,ramattra,Junkertown,,89.6,0.4
+ASIA,ramattra,Route 66,,85.2,1.1
+ASIA,ramattra,Numbani,,82.4,0.4
+ASIA,ramattra,Ilios,,72.0,0.4
+ASIA,ramattra,Hollywood,,66.1,1.4
+ASIA,ramattra,Dorado,,66.1,1.2
+ASIA,ramattra,Runasapi,,63.9,1.6
+ASIA,ramattra,Esperança,,58.0,0.9
+ASIA,ramattra,Busan,,53.5,2.1
+ASIA,ramattra,Rialto,,52.5,0.9
+ASIA,ramattra,Suravasa,,50.8,1.2
+ASIA,ramattra,Nepal,,49.4,2.2
+ASIA,ramattra,Samoa,,47.1,1.7
+ASIA,ramattra,Lijiang Tower,,45.3,3.1
+ASIA,ramattra,Aatlis,,44.4,4.2
+ASIA,ramattra,Havana,,42.7,1.4
+ASIA,ramattra,Circuit Royal,,41.2,4.3
+ASIA,ramattra,Colosseo,,36.5,1.1
+ASIA,ramattra,King's Row,,33.7,2.6
+ASIA,ramattra,Shambali Monastery,,32.9,2.7
+ASIA,ramattra,Oasis,,30.9,0.8
+ASIA,ramattra,New Junk City,,28.7,3.7
+ASIA,ramattra,Paraíso,,27.4,1.2
+ASIA,ramattra,Midtown,,21.8,1.4
+ASIA,ramattra,New Queen Street,,19.9,0.6
+ASIA,ramattra,Eichenwalde,,15.9,0.9
+ASIA,ramattra,Blizzard World,,0.0,0.4
+ASIA,ramattra,Watchpoint: Gibraltar,,0.0,0.0
+US,ramattra,Paraíso,,100.0,0.1
+US,ramattra,Numbani,,72.4,1.3
+US,ramattra,Eichenwalde,,67.2,4.8
+US,ramattra,Nepal,,59.7,4.6
+US,ramattra,Suravasa,,59.2,2.9
+US,ramattra,Hollywood,,57.8,1.9
+US,ramattra,New Junk City,,55.9,6.8
+US,ramattra,Rialto,,54.9,3.1
+US,ramattra,Lijiang Tower,,52.2,5.9
+US,ramattra,Ilios,,51.4,1.0
+US,ramattra,Samoa,,50.4,3.2
+US,ramattra,Junkertown,,50.3,1.6
+US,ramattra,Runasapi,,48.1,3.8
+US,ramattra,Oasis,,47.0,3.1
+US,ramattra,Busan,,46.9,3.1
+US,ramattra,King's Row,,46.8,5.1
+US,ramattra,New Queen Street,,43.4,2.4
+US,ramattra,Circuit Royal,,40.7,5.4
+US,ramattra,Midtown,,40.1,5.9
+US,ramattra,Shambali Monastery,,38.2,5.4
+US,ramattra,Havana,,37.9,1.8
+US,ramattra,Aatlis,,36.2,4.0
+US,ramattra,Esperança,,34.4,1.5
+US,ramattra,Route 66,,33.8,1.9
+US,ramattra,Blizzard World,,30.6,2.4
+US,ramattra,Dorado,,29.5,1.3
+US,ramattra,Watchpoint: Gibraltar,,29.0,0.5
+US,ramattra,Colosseo,,22.8,4.2
+EU,ramattra,Havana,,59.6,4.3
+EU,ramattra,Hollywood,,56.5,3.2
+EU,ramattra,Circuit Royal,,55.5,7.1
+EU,ramattra,Busan,,54.8,3.5
+EU,ramattra,Oasis,,54.3,2.6
+EU,ramattra,Rialto,,54.2,3.8
+EU,ramattra,Route 66,,53.5,2.9
+EU,ramattra,Colosseo,,51.4,3.2
+EU,ramattra,Suravasa,,51.0,3.0
+EU,ramattra,Aatlis,,49.7,5.5
+EU,ramattra,Samoa,,49.7,3.9
+EU,ramattra,New Junk City,,49.7,4.1
+EU,ramattra,Junkertown,,49.7,2.2
+EU,ramattra,King's Row,,48.0,7.3
+EU,ramattra,Lijiang Tower,,46.0,5.5
+EU,ramattra,New Queen Street,,46.0,1.9
+EU,ramattra,Midtown,,45.9,6.2
+EU,ramattra,Nepal,,44.6,4.3
+EU,ramattra,Numbani,,44.4,1.8
+EU,ramattra,Shambali Monastery,,44.3,6.2
+EU,ramattra,Eichenwalde,,44.0,4.3
+EU,ramattra,Runasapi,,39.3,4.5
+EU,ramattra,Esperança,,38.6,1.8
+EU,ramattra,Ilios,,38.3,1.3
+EU,ramattra,Blizzard World,,31.4,3.6
+EU,ramattra,Dorado,,25.7,1.3
+EU,ramattra,Watchpoint: Gibraltar,,13.9,0.6
+EU,ramattra,Paraíso,,0.0,0.3
 ASIA,lucio,Junkertown,,94.0,11.1
-ASIA,lucio,Paraíso,,68.2,10.4
 ASIA,lucio,Esperança,,60.9,14.0
+ASIA,lucio,Paraíso,,60.3,9.0
 ASIA,lucio,Numbani,,59.6,6.1
-ASIA,lucio,Hollywood,,59.1,4.9
 ASIA,lucio,Dorado,,58.5,5.9
 ASIA,lucio,Route 66,,55.3,4.0
-ASIA,lucio,Aatlis,,55.2,21.4
 ASIA,lucio,King's Row,,54.8,4.9
+ASIA,lucio,Aatlis,,54.7,20.8
 ASIA,lucio,Suravasa,,52.3,11.2
 ASIA,lucio,Lijiang Tower,,51.9,14.5
 ASIA,lucio,Oasis,,51.4,12.5
 ASIA,lucio,Runasapi,,49.9,14.3
-ASIA,lucio,Nepal,,49.9,10.9
 ASIA,lucio,New Junk City,,49.5,13.0
 ASIA,lucio,Shambali Monastery,,49.2,8.4
+ASIA,lucio,Nepal,,48.7,11.3
 ASIA,lucio,Busan,,47.6,12.5
+ASIA,lucio,Ilios,,47.1,10.6
 ASIA,lucio,Colosseo,,46.9,12.0
-ASIA,lucio,Ilios,,45.2,10.4
+ASIA,lucio,Hollywood,,44.6,5.0
 ASIA,lucio,Samoa,,43.9,11.9
 ASIA,lucio,New Queen Street,,43.1,12.3
 ASIA,lucio,Watchpoint: Gibraltar,,40.6,2.7
@@ -2965,63 +2965,63 @@ ASIA,lucio,Havana,,39.8,6.9
 ASIA,lucio,Rialto,,37.9,3.1
 ASIA,lucio,Eichenwalde,,33.4,6.7
 ASIA,lucio,Blizzard World,,31.8,3.5
+ASIA,lucio,Midtown,,29.9,5.3
 ASIA,lucio,Circuit Royal,,28.4,3.1
-ASIA,lucio,Midtown,,12.6,4.2
-US,lucio,Circuit Royal,,67.7,3.8
 US,lucio,Paraíso,,66.4,8.2
-US,lucio,Havana,,65.0,4.3
+US,lucio,Circuit Royal,,62.6,4.3
 US,lucio,Esperança,,59.5,23.8
 US,lucio,Nepal,,58.5,26.2
-US,lucio,New Junk City,,58.3,28.6
 US,lucio,Colosseo,,56.9,19.3
 US,lucio,Shambali Monastery,,56.3,9.8
-US,lucio,Suravasa,,56.0,27.3
+US,lucio,New Junk City,,55.8,28.4
+US,lucio,Dorado,,53.5,8.7
 US,lucio,Aatlis,,53.5,30.9
 US,lucio,Runasapi,,53.4,21.3
+US,lucio,Suravasa,,53.4,26.9
 US,lucio,Lijiang Tower,,53.3,27.8
 US,lucio,Ilios,,52.8,25.3
 US,lucio,Samoa,,52.7,22.6
-US,lucio,Oasis,,52.3,24.2
-US,lucio,Route 66,,52.1,8.2
 US,lucio,Rialto,,51.7,8.7
-US,lucio,Midtown,,50.7,10.4
+US,lucio,Oasis,,51.6,23.8
+US,lucio,Havana,,50.9,4.6
 US,lucio,Busan,,50.1,22.6
-US,lucio,Dorado,,48.2,8.4
-US,lucio,Junkertown,,47.7,3.6
+US,lucio,Route 66,,48.3,8.1
+US,lucio,Junkertown,,48.0,3.9
 US,lucio,King's Row,,47.3,16.1
+US,lucio,Midtown,,46.7,11.1
+US,lucio,Hollywood,,46.7,11.4
 US,lucio,Eichenwalde,,46.3,15.6
 US,lucio,New Queen Street,,46.2,17.6
-US,lucio,Hollywood,,42.6,11.8
-US,lucio,Blizzard World,,42.5,12.9
-US,lucio,Watchpoint: Gibraltar,,39.6,9.0
+US,lucio,Watchpoint: Gibraltar,,45.5,8.5
+US,lucio,Blizzard World,,44.3,13.0
 US,lucio,Numbani,,30.7,14.1
 EU,lucio,Watchpoint: Gibraltar,,61.2,5.9
-EU,lucio,Suravasa,,58.6,25.6
+EU,lucio,New Queen Street,,55.9,17.9
 EU,lucio,Colosseo,,55.2,19.6
-EU,lucio,New Queen Street,,54.6,18.6
 EU,lucio,Eichenwalde,,54.2,12.1
-EU,lucio,Samoa,,53.1,19.9
-EU,lucio,Ilios,,52.5,25.9
+EU,lucio,Ilios,,52.5,24.5
+EU,lucio,Suravasa,,52.4,24.9
+EU,lucio,Samoa,,52.3,20.1
 EU,lucio,Havana,,52.2,1.9
-EU,lucio,New Junk City,,52.1,26.9
+EU,lucio,New Junk City,,52.2,28.2
 EU,lucio,Nepal,,51.8,22.8
-EU,lucio,Esperança,,51.8,20.3
+EU,lucio,Esperança,,51.7,20.4
 EU,lucio,Aatlis,,51.6,28.2
 EU,lucio,Lijiang Tower,,51.3,25.5
 EU,lucio,Busan,,51.1,19.7
+EU,lucio,Oasis,,50.9,19.3
 EU,lucio,Hollywood,,50.3,9.0
-EU,lucio,Circuit Royal,,49.6,3.8
-EU,lucio,King's Row,,49.2,12.0
-EU,lucio,Oasis,,48.1,19.6
+EU,lucio,Junkertown,,49.7,5.4
+EU,lucio,Shambali Monastery,,48.4,9.5
 EU,lucio,Midtown,,47.7,8.0
 EU,lucio,Runasapi,,47.5,22.8
-EU,lucio,Junkertown,,45.6,5.7
-EU,lucio,Rialto,,44.6,6.2
-EU,lucio,Shambali Monastery,,44.2,8.9
-EU,lucio,Blizzard World,,42.1,7.6
+EU,lucio,King's Row,,47.4,12.8
+EU,lucio,Circuit Royal,,44.1,3.7
+EU,lucio,Rialto,,43.2,6.1
 EU,lucio,Numbani,,41.4,10.0
+EU,lucio,Route 66,,39.4,9.7
 EU,lucio,Dorado,,39.4,6.5
-EU,lucio,Route 66,,34.5,10.7
+EU,lucio,Blizzard World,,39.2,8.0
 EU,lucio,Paraíso,,13.6,7.7
 ASIA,freja,Esperança,,63.8,3.0
 ASIA,freja,Runasapi,,59.7,2.6
@@ -3029,160 +3029,160 @@ ASIA,freja,Eichenwalde,,57.4,5.9
 ASIA,freja,Oasis,,56.3,2.1
 ASIA,freja,Junkertown,,55.1,8.5
 ASIA,freja,Numbani,,54.3,5.5
-ASIA,freja,Nepal,,54.0,3.6
 ASIA,freja,Watchpoint: Gibraltar,,53.5,6.4
+ASIA,freja,Ilios,,53.0,8.8
 ASIA,freja,Suravasa,,52.3,1.9
-ASIA,freja,Ilios,,49.9,9.1
-ASIA,freja,Hollywood,,49.6,6.2
+ASIA,freja,Hollywood,,49.0,5.3
 ASIA,freja,Shambali Monastery,,48.5,7.2
 ASIA,freja,Lijiang Tower,,48.3,3.4
 ASIA,freja,Havana,,48.1,7.3
-ASIA,freja,Midtown,,47.7,3.0
+ASIA,freja,Midtown,,47.4,3.6
+ASIA,freja,Nepal,,47.4,3.3
 ASIA,freja,Rialto,,46.7,5.0
 ASIA,freja,Samoa,,46.2,3.3
 ASIA,freja,Route 66,,44.8,6.7
-ASIA,freja,Colosseo,,43.7,3.3
 ASIA,freja,Busan,,43.7,2.1
+ASIA,freja,Colosseo,,43.7,3.3
 ASIA,freja,New Queen Street,,42.1,3.6
 ASIA,freja,Dorado,,40.9,6.0
 ASIA,freja,King's Row,,40.8,5.4
-ASIA,freja,Paraíso,,38.6,4.7
 ASIA,freja,Circuit Royal,,37.9,15.5
-ASIA,freja,Aatlis,,37.1,2.1
+ASIA,freja,Aatlis,,35.4,2.0
+ASIA,freja,Paraíso,,33.6,4.1
 ASIA,freja,New Junk City,,29.3,1.1
 ASIA,freja,Blizzard World,,27.2,5.0
-US,freja,Havana,,72.4,4.6
 US,freja,Numbani,,72.2,7.7
-US,freja,New Junk City,,66.7,1.0
-US,freja,Junkertown,,62.2,6.8
-US,freja,Dorado,,57.0,7.7
-US,freja,Blizzard World,,52.5,4.0
+US,freja,Havana,,59.9,5.4
+US,freja,Blizzard World,,58.7,4.9
+US,freja,Junkertown,,54.4,6.7
 US,freja,Lijiang Tower,,51.2,2.8
-US,freja,Watchpoint: Gibraltar,,50.8,6.9
+US,freja,Dorado,,51.0,7.2
+US,freja,Watchpoint: Gibraltar,,49.8,6.4
+US,freja,New Junk City,,49.3,1.0
 US,freja,Paraíso,,49.3,7.7
 US,freja,Eichenwalde,,48.8,5.1
-US,freja,Oasis,,47.0,3.2
 US,freja,Ilios,,46.9,8.1
-US,freja,Hollywood,,46.3,5.4
 US,freja,Samoa,,45.7,2.4
-US,freja,Route 66,,45.4,4.5
 US,freja,Runasapi,,44.9,2.8
 US,freja,Aatlis,,44.3,0.9
 US,freja,King's Row,,44.3,4.6
+US,freja,Route 66,,44.1,4.3
+US,freja,Midtown,,44.0,2.5
+US,freja,Oasis,,43.4,3.2
+US,freja,Hollywood,,42.4,5.4
 US,freja,Rialto,,42.3,4.3
 US,freja,Colosseo,,41.5,3.3
-US,freja,Circuit Royal,,40.4,9.6
+US,freja,Suravasa,,40.2,1.7
 US,freja,New Queen Street,,38.5,1.6
+US,freja,Circuit Royal,,38.4,10.4
 US,freja,Busan,,38.1,2.7
-US,freja,Midtown,,36.8,2.4
 US,freja,Shambali Monastery,,36.6,5.2
-US,freja,Suravasa,,34.6,1.8
 US,freja,Nepal,,34.2,3.1
 US,freja,Esperança,,24.2,3.0
 EU,freja,Paraíso,,69.6,7.0
-EU,freja,Junkertown,,67.0,7.1
-EU,freja,Oasis,,62.5,2.5
+EU,freja,Junkertown,,65.4,7.7
 EU,freja,Havana,,59.7,6.0
-EU,freja,New Queen Street,,58.0,2.1
 EU,freja,Runasapi,,57.4,1.8
 EU,freja,Aatlis,,57.3,1.4
+EU,freja,Oasis,,56.1,3.0
 EU,freja,Hollywood,,54.0,5.0
 EU,freja,Dorado,,54.0,7.4
-EU,freja,Shambali Monastery,,50.4,5.4
-EU,freja,Ilios,,50.4,9.0
-EU,freja,Circuit Royal,,49.1,11.7
-EU,freja,Samoa,,47.4,2.7
-EU,freja,Suravasa,,46.0,1.6
+EU,freja,New Queen Street,,51.6,2.2
+EU,freja,Suravasa,,50.8,1.9
+EU,freja,Ilios,,49.9,9.4
+EU,freja,Shambali Monastery,,49.0,4.8
+EU,freja,Samoa,,48.4,3.1
+EU,freja,Circuit Royal,,47.8,10.8
 EU,freja,Nepal,,45.8,2.9
 EU,freja,Midtown,,44.7,3.1
 EU,freja,Colosseo,,42.5,2.8
-EU,freja,Rialto,,42.0,4.6
-EU,freja,New Junk City,,41.9,1.3
+EU,freja,Rialto,,42.0,4.3
 EU,freja,Eichenwalde,,40.3,5.1
 EU,freja,Lijiang Tower,,40.0,2.8
+EU,freja,Blizzard World,,39.8,3.1
 EU,freja,Watchpoint: Gibraltar,,39.4,6.3
-EU,freja,Route 66,,39.2,7.1
 EU,freja,Numbani,,38.5,7.4
-EU,freja,Blizzard World,,32.4,2.4
-EU,freja,King's Row,,30.7,4.8
-EU,freja,Esperança,,29.4,2.0
+EU,freja,Route 66,,38.4,6.7
+EU,freja,King's Row,,35.2,5.0
+EU,freja,Esperança,,32.8,2.5
+EU,freja,New Junk City,,32.4,1.2
 EU,freja,Busan,,29.1,2.4
 ASIA,symmetra,Junkertown,,99.3,1.2
 ASIA,symmetra,Havana,,68.4,4.0
-ASIA,symmetra,Paraíso,,62.7,6.0
 ASIA,symmetra,Route 66,,61.4,3.0
 ASIA,symmetra,Circuit Royal,,60.7,6.3
 ASIA,symmetra,New Junk City,,59.9,5.3
 ASIA,symmetra,Suravasa,,59.8,3.7
 ASIA,symmetra,Samoa,,59.5,5.4
 ASIA,symmetra,Numbani,,59.0,2.9
-ASIA,symmetra,Aatlis,,58.7,6.4
 ASIA,symmetra,Esperança,,57.7,2.6
 ASIA,symmetra,New Queen Street,,57.5,3.3
 ASIA,symmetra,Dorado,,57.2,3.8
+ASIA,symmetra,Aatlis,,56.6,6.3
 ASIA,symmetra,Blizzard World,,56.5,4.0
-ASIA,symmetra,Nepal,,54.5,7.3
+ASIA,symmetra,Paraíso,,53.8,8.0
+ASIA,symmetra,Ilios,,53.5,4.3
 ASIA,symmetra,Shambali Monastery,,53.2,6.3
-ASIA,symmetra,Midtown,,50.6,6.2
+ASIA,symmetra,Nepal,,53.0,7.2
+ASIA,symmetra,Midtown,,51.7,7.3
 ASIA,symmetra,Lijiang Tower,,50.5,7.6
 ASIA,symmetra,King's Row,,49.1,4.9
 ASIA,symmetra,Rialto,,47.5,2.8
 ASIA,symmetra,Oasis,,47.5,4.7
-ASIA,symmetra,Ilios,,46.8,4.3
 ASIA,symmetra,Runasapi,,44.7,4.3
 ASIA,symmetra,Busan,,43.8,6.8
 ASIA,symmetra,Watchpoint: Gibraltar,,43.8,3.0
 ASIA,symmetra,Colosseo,,39.3,3.3
 ASIA,symmetra,Eichenwalde,,36.2,5.5
-ASIA,symmetra,Hollywood,,35.6,3.7
-US,symmetra,Circuit Royal,,77.0,2.0
+ASIA,symmetra,Hollywood,,32.8,4.0
+US,symmetra,New Junk City,,65.2,3.2
 US,symmetra,Esperança,,64.7,1.5
 US,symmetra,Busan,,64.5,2.8
-US,symmetra,Midtown,,63.2,3.7
+US,symmetra,Circuit Royal,,62.7,2.2
 US,symmetra,Nepal,,62.4,4.7
-US,symmetra,New Junk City,,60.8,3.3
-US,symmetra,Suravasa,,56.6,1.8
+US,symmetra,Midtown,,61.3,3.4
+US,symmetra,Route 66,,59.7,2.2
+US,symmetra,Oasis,,56.6,2.9
+US,symmetra,Watchpoint: Gibraltar,,56.4,1.4
 US,symmetra,Lijiang Tower,,56.0,5.4
-US,symmetra,Watchpoint: Gibraltar,,55.9,1.7
+US,symmetra,Suravasa,,55.9,1.9
 US,symmetra,Samoa,,54.8,4.3
-US,symmetra,Junkertown,,53.6,1.4
-US,symmetra,Route 66,,52.8,2.2
 US,symmetra,Ilios,,52.4,1.5
 US,symmetra,Rialto,,51.7,1.7
 US,symmetra,Colosseo,,50.8,0.8
-US,symmetra,Hollywood,,50.4,2.2
-US,symmetra,Oasis,,49.5,2.3
 US,symmetra,Numbani,,49.0,2.1
 US,symmetra,Shambali Monastery,,48.7,1.8
 US,symmetra,King's Row,,48.4,2.4
 US,symmetra,Paraíso,,46.4,0.2
-US,symmetra,Blizzard World,,41.9,1.9
+US,symmetra,Blizzard World,,42.5,1.9
+US,symmetra,Havana,,41.7,1.5
+US,symmetra,Hollywood,,39.6,2.2
 US,symmetra,Runasapi,,39.5,1.1
+US,symmetra,Junkertown,,38.8,1.5
 US,symmetra,Aatlis,,32.9,2.1
-US,symmetra,Dorado,,32.3,1.8
 US,symmetra,Eichenwalde,,26.8,2.6
 US,symmetra,New Queen Street,,25.3,0.6
-US,symmetra,Havana,,17.8,1.3
-EU,symmetra,Junkertown,,74.4,2.4
-EU,symmetra,Shambali Monastery,,71.7,3.4
+US,symmetra,Dorado,,24.4,1.8
+EU,symmetra,Junkertown,,76.2,2.1
 EU,symmetra,Colosseo,,68.4,2.8
+EU,symmetra,Blizzard World,,67.4,3.3
 EU,symmetra,Busan,,66.9,4.6
-EU,symmetra,Blizzard World,,66.8,3.5
-EU,symmetra,New Queen Street,,66.6,2.3
-EU,symmetra,Circuit Royal,,65.5,4.5
+EU,symmetra,New Queen Street,,66.3,2.4
+EU,symmetra,Circuit Royal,,63.2,4.4
+EU,symmetra,Route 66,,61.6,2.8
+EU,symmetra,Shambali Monastery,,61.4,3.7
 EU,symmetra,Nepal,,61.3,6.0
-EU,symmetra,King's Row,,60.9,4.9
 EU,symmetra,Eichenwalde,,59.8,2.8
-EU,symmetra,Samoa,,59.8,4.8
-EU,symmetra,Route 66,,59.7,2.7
+EU,symmetra,Suravasa,,58.5,2.9
 EU,symmetra,Lijiang Tower,,58.4,6.9
-EU,symmetra,Oasis,,58.2,2.8
-EU,symmetra,Suravasa,,58.0,2.9
-EU,symmetra,Esperança,,55.9,2.9
-EU,symmetra,Rialto,,55.1,2.3
+EU,symmetra,Samoa,,57.4,4.5
+EU,symmetra,Oasis,,56.9,2.8
+EU,symmetra,Rialto,,56.5,2.3
+EU,symmetra,King's Row,,55.2,5.2
 EU,symmetra,Aatlis,,55.0,4.8
-EU,symmetra,New Junk City,,49.3,4.9
-EU,symmetra,Ilios,,46.7,3.2
+EU,symmetra,New Junk City,,54.1,4.8
+EU,symmetra,Esperança,,53.8,3.2
+EU,symmetra,Ilios,,49.9,3.5
 EU,symmetra,Havana,,45.7,2.5
 EU,symmetra,Watchpoint: Gibraltar,,43.2,2.4
 EU,symmetra,Dorado,,41.6,2.9
@@ -3192,193 +3192,193 @@ EU,symmetra,Numbani,,38.9,4.3
 EU,symmetra,Paraíso,,34.4,4.0
 EU,symmetra,Runasapi,,31.4,3.5
 ASIA,widowmaker,Havana,,64.7,27.2
-ASIA,widowmaker,Hollywood,,63.3,7.8
 ASIA,widowmaker,Route 66,,57.3,6.8
 ASIA,widowmaker,Junkertown,,56.6,16.1
 ASIA,widowmaker,New Queen Street,,55.1,1.7
 ASIA,widowmaker,Numbani,,55.0,2.3
 ASIA,widowmaker,Suravasa,,54.9,1.3
+ASIA,widowmaker,Ilios,,54.7,5.3
 ASIA,widowmaker,Circuit Royal,,53.3,18.1
 ASIA,widowmaker,New Junk City,,52.6,1.4
 ASIA,widowmaker,Blizzard World,,52.4,12.2
-ASIA,widowmaker,Ilios,,52.4,5.5
-ASIA,widowmaker,Paraíso,,52.2,4.6
+ASIA,widowmaker,Hollywood,,52.0,7.6
+ASIA,widowmaker,Paraíso,,50.1,3.9
 ASIA,widowmaker,Watchpoint: Gibraltar,,49.3,6.1
 ASIA,widowmaker,King's Row,,46.9,8.3
 ASIA,widowmaker,Colosseo,,43.9,2.4
 ASIA,widowmaker,Eichenwalde,,43.5,3.2
+ASIA,widowmaker,Midtown,,41.1,10.5
 ASIA,widowmaker,Rialto,,39.1,13.9
 ASIA,widowmaker,Dorado,,38.2,3.8
-ASIA,widowmaker,Midtown,,38.1,10.5
 ASIA,widowmaker,Busan,,35.6,4.7
+ASIA,widowmaker,Nepal,,35.4,1.8
 ASIA,widowmaker,Shambali Monastery,,34.9,7.5
 ASIA,widowmaker,Runasapi,,33.7,2.2
-ASIA,widowmaker,Nepal,,32.5,1.9
 ASIA,widowmaker,Lijiang Tower,,24.3,1.9
 ASIA,widowmaker,Samoa,,17.3,1.1
 ASIA,widowmaker,Oasis,,16.9,1.0
 ASIA,widowmaker,Esperança,,16.3,1.2
-ASIA,widowmaker,Aatlis,,9.5,0.3
+ASIA,widowmaker,Aatlis,,8.2,0.3
 US,widowmaker,Ilios,,59.4,6.6
-US,widowmaker,Circuit Royal,,58.6,14.8
 US,widowmaker,Rialto,,58.3,14.5
+US,widowmaker,Circuit Royal,,58.0,14.0
+US,widowmaker,Midtown,,56.6,11.0
+US,widowmaker,Havana,,55.5,14.3
 US,widowmaker,Busan,,55.1,9.8
 US,widowmaker,Samoa,,54.9,1.8
+US,widowmaker,Junkertown,,53.9,17.5
 US,widowmaker,Shambali Monastery,,53.9,6.6
-US,widowmaker,Watchpoint: Gibraltar,,53.2,9.3
 US,widowmaker,Runasapi,,53.2,2.4
-US,widowmaker,Route 66,,52.6,8.5
-US,widowmaker,Midtown,,52.3,11.3
-US,widowmaker,Havana,,51.3,15.5
+US,widowmaker,Watchpoint: Gibraltar,,51.5,9.7
 US,widowmaker,Colosseo,,51.3,7.6
 US,widowmaker,Eichenwalde,,51.0,4.8
 US,widowmaker,Lijiang Tower,,50.4,1.9
-US,widowmaker,Blizzard World,,47.4,12.1
-US,widowmaker,Junkertown,,46.6,15.5
+US,widowmaker,Route 66,,48.3,8.1
+US,widowmaker,Blizzard World,,46.2,12.4
 US,widowmaker,King's Row,,44.8,9.6
 US,widowmaker,Paraíso,,44.4,10.2
-US,widowmaker,Hollywood,,44.3,9.7
-US,widowmaker,Dorado,,42.5,7.9
+US,widowmaker,Suravasa,,43.5,1.7
+US,widowmaker,Dorado,,42.2,7.1
+US,widowmaker,Hollywood,,40.6,9.7
 US,widowmaker,Numbani,,36.0,4.0
-US,widowmaker,Suravasa,,35.1,1.8
 US,widowmaker,New Queen Street,,32.1,3.0
+US,widowmaker,New Junk City,,31.3,1.2
 US,widowmaker,Esperança,,30.8,3.0
-US,widowmaker,Oasis,,23.6,1.0
+US,widowmaker,Oasis,,27.9,1.2
 US,widowmaker,Nepal,,18.9,1.9
-US,widowmaker,New Junk City,,12.5,0.7
 US,widowmaker,Aatlis,,2.0,0.9
 EU,widowmaker,Midtown,,57.0,9.4
+EU,widowmaker,Circuit Royal,,56.6,12.6
 EU,widowmaker,Busan,,56.3,6.5
 EU,widowmaker,Havana,,55.9,17.4
 EU,widowmaker,Paraíso,,55.5,5.3
 EU,widowmaker,Aatlis,,54.6,0.8
 EU,widowmaker,Watchpoint: Gibraltar,,52.6,8.9
-EU,widowmaker,Circuit Royal,,52.0,11.4
-EU,widowmaker,Shambali Monastery,,50.6,8.3
-EU,widowmaker,Ilios,,48.1,6.8
-EU,widowmaker,Rialto,,46.9,12.6
-EU,widowmaker,King's Row,,46.3,9.3
-EU,widowmaker,Junkertown,,44.7,14.3
-EU,widowmaker,Route 66,,44.4,9.7
-EU,widowmaker,Samoa,,43.7,1.9
-EU,widowmaker,Blizzard World,,43.3,12.6
+EU,widowmaker,Junkertown,,49.8,13.9
+EU,widowmaker,Shambali Monastery,,49.5,8.4
+EU,widowmaker,Rialto,,47.3,13.2
+EU,widowmaker,Ilios,,47.1,7.2
+EU,widowmaker,Blizzard World,,45.6,12.2
+EU,widowmaker,King's Row,,45.2,9.7
+EU,widowmaker,Route 66,,45.1,10.0
+EU,widowmaker,New Queen Street,,45.0,2.4
 EU,widowmaker,Numbani,,42.7,3.2
-EU,widowmaker,New Queen Street,,42.3,2.4
+EU,widowmaker,Samoa,,42.2,1.9
 EU,widowmaker,Hollywood,,41.8,8.8
 EU,widowmaker,Colosseo,,41.3,6.2
 EU,widowmaker,Lijiang Tower,,40.6,1.8
 EU,widowmaker,Runasapi,,39.7,2.4
+EU,widowmaker,New Junk City,,38.2,1.1
 EU,widowmaker,Dorado,,37.7,5.6
 EU,widowmaker,Eichenwalde,,36.0,3.8
 EU,widowmaker,Nepal,,34.8,1.9
-EU,widowmaker,New Junk City,,31.7,0.7
-EU,widowmaker,Esperança,,31.1,2.2
-EU,widowmaker,Oasis,,24.0,1.5
-EU,widowmaker,Suravasa,,15.1,1.1
+EU,widowmaker,Oasis,,34.6,1.5
+EU,widowmaker,Esperança,,33.6,2.2
+EU,widowmaker,Suravasa,,20.2,1.2
 ASIA,jetpackcat,Oasis,,65.6,9.1
 ASIA,jetpackcat,Route 66,,63.1,6.5
 ASIA,jetpackcat,New Junk City,,59.6,4.7
 ASIA,jetpackcat,Busan,,58.8,8.1
 ASIA,jetpackcat,Eichenwalde,,58.1,10.8
-ASIA,jetpackcat,Hollywood,,54.9,5.8
+ASIA,jetpackcat,Paraíso,,57.0,16.1
 ASIA,jetpackcat,Colosseo,,51.8,11.2
-ASIA,jetpackcat,Nepal,,51.5,7.2
+ASIA,jetpackcat,Nepal,,50.6,7.6
 ASIA,jetpackcat,Suravasa,,50.1,10.0
 ASIA,jetpackcat,Shambali Monastery,,50.0,8.4
-ASIA,jetpackcat,Ilios,,48.1,13.5
+ASIA,jetpackcat,Ilios,,49.5,12.4
 ASIA,jetpackcat,Watchpoint: Gibraltar,,47.8,7.8
 ASIA,jetpackcat,Blizzard World,,47.6,12.3
 ASIA,jetpackcat,Dorado,,47.4,6.9
 ASIA,jetpackcat,Havana,,47.1,6.9
-ASIA,jetpackcat,Paraíso,,47.0,15.6
-ASIA,jetpackcat,Aatlis,,46.4,5.2
+ASIA,jetpackcat,Hollywood,,46.3,6.2
 ASIA,jetpackcat,Samoa,,45.0,5.2
 ASIA,jetpackcat,King's Row,,45.0,5.8
+ASIA,jetpackcat,Aatlis,,44.1,5.5
 ASIA,jetpackcat,Rialto,,41.8,9.7
 ASIA,jetpackcat,Lijiang Tower,,41.6,7.5
 ASIA,jetpackcat,Circuit Royal,,39.0,6.0
 ASIA,jetpackcat,Runasapi,,38.6,9.3
 ASIA,jetpackcat,New Queen Street,,38.4,9.9
 ASIA,jetpackcat,Numbani,,38.0,7.2
+ASIA,jetpackcat,Midtown,,31.6,5.6
 ASIA,jetpackcat,Esperança,,30.4,9.0
-ASIA,jetpackcat,Midtown,,27.8,3.6
 ASIA,jetpackcat,Junkertown,,24.0,5.4
-US,jetpackcat,Hollywood,,64.1,5.9
+US,jetpackcat,Hollywood,,59.7,5.2
 US,jetpackcat,Eichenwalde,,59.6,10.6
 US,jetpackcat,Ilios,,57.2,13.9
 US,jetpackcat,Paraíso,,55.5,12.1
-US,jetpackcat,New Junk City,,54.5,5.8
-US,jetpackcat,Suravasa,,53.8,9.3
+US,jetpackcat,Route 66,,55.3,7.5
+US,jetpackcat,New Junk City,,54.5,6.3
 US,jetpackcat,Lijiang Tower,,53.7,11.1
 US,jetpackcat,Esperança,,53.1,10.9
 US,jetpackcat,New Queen Street,,52.8,10.3
-US,jetpackcat,Oasis,,50.3,11.5
-US,jetpackcat,Dorado,,49.9,9.7
+US,jetpackcat,Oasis,,51.2,11.4
+US,jetpackcat,Suravasa,,50.9,8.9
+US,jetpackcat,Dorado,,49.3,11.2
 US,jetpackcat,Colosseo,,48.8,8.1
-US,jetpackcat,Route 66,,47.2,6.4
 US,jetpackcat,Samoa,,47.1,9.0
-US,jetpackcat,Circuit Royal,,46.9,5.8
 US,jetpackcat,King's Row,,46.7,6.6
 US,jetpackcat,Busan,,46.5,9.3
+US,jetpackcat,Havana,,46.2,4.8
+US,jetpackcat,Circuit Royal,,45.7,5.5
 US,jetpackcat,Shambali Monastery,,44.6,7.4
 US,jetpackcat,Runasapi,,44.5,8.0
 US,jetpackcat,Numbani,,44.3,10.4
 US,jetpackcat,Aatlis,,43.8,9.6
 US,jetpackcat,Nepal,,43.3,8.8
+US,jetpackcat,Blizzard World,,42.9,5.9
 US,jetpackcat,Rialto,,42.5,9.6
-US,jetpackcat,Havana,,42.0,4.0
-US,jetpackcat,Watchpoint: Gibraltar,,39.9,12.8
-US,jetpackcat,Blizzard World,,37.2,5.5
-US,jetpackcat,Junkertown,,33.4,5.2
-US,jetpackcat,Midtown,,28.1,4.6
+US,jetpackcat,Watchpoint: Gibraltar,,40.4,12.2
+US,jetpackcat,Midtown,,35.0,4.7
+US,jetpackcat,Junkertown,,28.8,5.7
 EU,jetpackcat,Numbani,,65.1,6.8
-EU,jetpackcat,Ilios,,60.4,13.1
+EU,jetpackcat,Ilios,,60.8,13.4
 EU,jetpackcat,Watchpoint: Gibraltar,,58.5,12.6
 EU,jetpackcat,Lijiang Tower,,58.1,10.6
 EU,jetpackcat,Nepal,,58.0,11.2
+EU,jetpackcat,New Queen Street,,56.1,9.7
 EU,jetpackcat,Havana,,55.6,3.4
-EU,jetpackcat,New Queen Street,,55.4,9.2
-EU,jetpackcat,Shambali Monastery,,54.8,9.2
-EU,jetpackcat,Samoa,,53.4,9.7
-EU,jetpackcat,Oasis,,51.0,11.2
-EU,jetpackcat,Circuit Royal,,50.9,4.5
+EU,jetpackcat,Suravasa,,54.1,9.7
+EU,jetpackcat,Samoa,,52.5,9.9
+EU,jetpackcat,Route 66,,52.3,7.8
+EU,jetpackcat,Blizzard World,,52.0,9.0
+EU,jetpackcat,Shambali Monastery,,51.5,9.3
 EU,jetpackcat,Eichenwalde,,50.2,11.0
-EU,jetpackcat,Esperança,,50.1,12.2
-EU,jetpackcat,Suravasa,,49.9,9.7
-EU,jetpackcat,Blizzard World,,49.9,9.3
-EU,jetpackcat,Route 66,,49.5,6.8
-EU,jetpackcat,New Junk City,,48.5,7.2
+EU,jetpackcat,Oasis,,50.0,11.9
+EU,jetpackcat,New Junk City,,49.8,7.2
+EU,jetpackcat,Esperança,,48.7,11.6
 EU,jetpackcat,Colosseo,,48.2,10.2
+EU,jetpackcat,Circuit Royal,,47.5,5.4
 EU,jetpackcat,Runasapi,,47.5,8.8
-EU,jetpackcat,Aatlis,,44.6,7.3
+EU,jetpackcat,Rialto,,47.4,11.5
+EU,jetpackcat,Junkertown,,45.9,8.5
 EU,jetpackcat,Busan,,44.6,8.6
-EU,jetpackcat,Rialto,,44.5,11.0
+EU,jetpackcat,Aatlis,,44.6,7.3
 EU,jetpackcat,Dorado,,41.6,11.9
 EU,jetpackcat,Hollywood,,40.8,8.4
-EU,jetpackcat,Junkertown,,39.3,8.3
-EU,jetpackcat,King's Row,,39.2,7.3
+EU,jetpackcat,King's Row,,39.5,7.1
 EU,jetpackcat,Paraíso,,38.8,7.5
 EU,jetpackcat,Midtown,,38.6,5.4
 ASIA,torbjorn,Route 66,,63.1,2.9
 ASIA,torbjorn,Watchpoint: Gibraltar,,60.8,3.1
-ASIA,torbjorn,Aatlis,,58.0,2.1
 ASIA,torbjorn,Junkertown,,57.4,1.9
 ASIA,torbjorn,Runasapi,,57.0,1.6
-ASIA,torbjorn,Nepal,,56.1,2.1
+ASIA,torbjorn,Nepal,,56.9,2.3
 ASIA,torbjorn,Shambali Monastery,,55.2,2.4
-ASIA,torbjorn,Hollywood,,53.2,5.1
 ASIA,torbjorn,Oasis,,51.9,1.7
-ASIA,torbjorn,Ilios,,51.3,2.4
 ASIA,torbjorn,King's Row,,49.8,2.5
+ASIA,torbjorn,Aatlis,,49.5,2.1
+ASIA,torbjorn,Hollywood,,48.5,4.3
 ASIA,torbjorn,Numbani,,48.4,2.1
 ASIA,torbjorn,Lijiang Tower,,47.8,1.9
+ASIA,torbjorn,Paraíso,,46.3,3.7
+ASIA,torbjorn,Ilios,,44.7,2.5
 ASIA,torbjorn,Colosseo,,43.8,1.9
-ASIA,torbjorn,Midtown,,41.8,3.0
 ASIA,torbjorn,Eichenwalde,,41.0,3.8
 ASIA,torbjorn,Havana,,40.7,2.1
 ASIA,torbjorn,Suravasa,,40.6,2.7
+ASIA,torbjorn,Midtown,,38.3,2.5
 ASIA,torbjorn,Samoa,,36.0,2.1
-ASIA,torbjorn,Paraíso,,35.7,2.9
 ASIA,torbjorn,New Queen Street,,35.6,1.4
 ASIA,torbjorn,Circuit Royal,,35.4,2.4
 ASIA,torbjorn,Esperança,,33.0,1.7
@@ -3390,164 +3390,164 @@ ASIA,torbjorn,New Junk City,,24.5,1.7
 US,torbjorn,Esperança,,69.5,3.6
 US,torbjorn,Shambali Monastery,,68.3,4.5
 US,torbjorn,New Queen Street,,66.3,5.2
-US,torbjorn,Hollywood,,56.0,3.8
-US,torbjorn,Suravasa,,54.6,5.1
+US,torbjorn,Suravasa,,57.0,4.7
+US,torbjorn,Hollywood,,53.7,3.9
 US,torbjorn,Eichenwalde,,53.4,6.1
 US,torbjorn,Lijiang Tower,,52.9,4.0
 US,torbjorn,Samoa,,52.6,3.9
+US,torbjorn,Oasis,,52.4,7.0
 US,torbjorn,Aatlis,,50.8,5.5
-US,torbjorn,Watchpoint: Gibraltar,,50.8,6.1
-US,torbjorn,Oasis,,49.6,6.7
-US,torbjorn,Junkertown,,49.4,4.6
-US,torbjorn,New Junk City,,49.2,3.9
+US,torbjorn,Watchpoint: Gibraltar,,50.2,5.6
 US,torbjorn,Ilios,,49.2,5.9
+US,torbjorn,Blizzard World,,49.0,5.7
 US,torbjorn,Colosseo,,48.7,3.4
-US,torbjorn,Circuit Royal,,47.3,5.2
-US,torbjorn,Midtown,,47.2,4.6
+US,torbjorn,New Junk City,,48.6,4.6
+US,torbjorn,Circuit Royal,,48.4,4.9
 US,torbjorn,Nepal,,47.0,4.6
-US,torbjorn,Blizzard World,,45.5,4.7
 US,torbjorn,Rialto,,45.2,5.2
 US,torbjorn,Numbani,,44.2,5.2
-US,torbjorn,Route 66,,38.1,4.0
+US,torbjorn,Junkertown,,42.7,5.5
+US,torbjorn,Midtown,,39.2,5.3
 US,torbjorn,Busan,,36.5,3.9
 US,torbjorn,King's Row,,36.4,5.7
+US,torbjorn,Route 66,,36.4,4.6
 US,torbjorn,Paraíso,,34.8,3.0
+US,torbjorn,Dorado,,33.7,4.3
 US,torbjorn,Runasapi,,33.1,5.2
-US,torbjorn,Havana,,29.0,4.8
-US,torbjorn,Dorado,,26.9,4.2
+US,torbjorn,Havana,,30.6,4.1
 EU,torbjorn,Paraíso,,88.0,3.4
-EU,torbjorn,Blizzard World,,65.3,3.0
-EU,torbjorn,Samoa,,60.7,5.2
-EU,torbjorn,New Queen Street,,59.7,3.4
+EU,torbjorn,New Queen Street,,60.1,3.0
+EU,torbjorn,Samoa,,59.4,5.0
 EU,torbjorn,Dorado,,55.1,4.7
 EU,torbjorn,Midtown,,54.5,6.9
 EU,torbjorn,Busan,,54.4,4.5
-EU,torbjorn,Suravasa,,53.9,4.2
-EU,torbjorn,Esperança,,53.8,4.1
-EU,torbjorn,King's Row,,53.8,4.3
+EU,torbjorn,Blizzard World,,54.1,3.2
+EU,torbjorn,Circuit Royal,,53.6,3.2
+EU,torbjorn,Suravasa,,53.5,4.4
 EU,torbjorn,Lijiang Tower,,53.3,4.2
-EU,torbjorn,Circuit Royal,,52.8,3.5
+EU,torbjorn,King's Row,,51.4,4.1
 EU,torbjorn,Nepal,,50.9,3.6
-EU,torbjorn,Junkertown,,50.2,3.9
-EU,torbjorn,New Junk City,,50.0,3.8
 EU,torbjorn,Colosseo,,49.6,4.1
-EU,torbjorn,Oasis,,48.6,4.4
+EU,torbjorn,New Junk City,,48.7,3.5
 EU,torbjorn,Watchpoint: Gibraltar,,48.5,5.9
-EU,torbjorn,Rialto,,46.3,5.9
+EU,torbjorn,Rialto,,48.2,5.1
+EU,torbjorn,Oasis,,47.9,3.9
+EU,torbjorn,Junkertown,,47.9,4.2
+EU,torbjorn,Esperança,,47.7,3.9
 EU,torbjorn,Numbani,,45.8,2.3
-EU,torbjorn,Ilios,,42.7,2.9
-EU,torbjorn,Route 66,,40.6,4.6
+EU,torbjorn,Ilios,,45.6,2.7
+EU,torbjorn,Route 66,,43.6,4.3
 EU,torbjorn,Havana,,39.2,4.2
 EU,torbjorn,Aatlis,,36.4,3.3
 EU,torbjorn,Runasapi,,35.5,3.2
+EU,torbjorn,Shambali Monastery,,32.4,4.5
 EU,torbjorn,Hollywood,,32.4,4.5
 EU,torbjorn,Eichenwalde,,27.4,5.2
-EU,torbjorn,Shambali Monastery,,23.8,4.7
-ASIA,lifeweaver,Paraíso,,85.5,3.1
 ASIA,lifeweaver,Lijiang Tower,,67.5,2.3
 ASIA,lifeweaver,Watchpoint: Gibraltar,,67.3,3.5
 ASIA,lifeweaver,Junkertown,,66.7,1.1
-ASIA,lifeweaver,Midtown,,66.2,2.4
+ASIA,lifeweaver,Paraíso,,66.6,2.9
 ASIA,lifeweaver,Busan,,64.3,2.6
-ASIA,lifeweaver,Aatlis,,59.0,2.2
+ASIA,lifeweaver,Aatlis,,63.5,1.9
 ASIA,lifeweaver,Runasapi,,56.7,2.3
+ASIA,lifeweaver,Midtown,,54.2,3.2
 ASIA,lifeweaver,Samoa,,52.7,2.4
 ASIA,lifeweaver,Rialto,,48.6,3.2
 ASIA,lifeweaver,Havana,,47.7,2.8
-ASIA,lifeweaver,Ilios,,47.6,1.9
 ASIA,lifeweaver,New Queen Street,,47.4,1.7
 ASIA,lifeweaver,Circuit Royal,,44.5,3.2
 ASIA,lifeweaver,Esperança,,44.1,3.0
+ASIA,lifeweaver,Ilios,,43.4,1.6
 ASIA,lifeweaver,Numbani,,41.8,2.7
 ASIA,lifeweaver,Blizzard World,,41.5,4.2
-ASIA,lifeweaver,Hollywood,,39.2,3.5
 ASIA,lifeweaver,Suravasa,,38.4,3.0
 ASIA,lifeweaver,Oasis,,37.5,2.6
 ASIA,lifeweaver,Eichenwalde,,35.8,2.1
+ASIA,lifeweaver,Nepal,,35.7,2.0
+ASIA,lifeweaver,Hollywood,,34.3,2.8
 ASIA,lifeweaver,Colosseo,,33.9,2.5
-ASIA,lifeweaver,Nepal,,33.1,2.3
 ASIA,lifeweaver,New Junk City,,32.4,2.5
 ASIA,lifeweaver,King's Row,,31.0,2.5
 ASIA,lifeweaver,Shambali Monastery,,30.0,2.0
 ASIA,lifeweaver,Dorado,,26.4,2.6
 ASIA,lifeweaver,Route 66,,22.7,2.4
 US,lifeweaver,Aatlis,,71.8,1.3
-US,lifeweaver,Watchpoint: Gibraltar,,63.3,3.2
 US,lifeweaver,Paraíso,,62.7,3.1
-US,lifeweaver,Blizzard World,,60.7,4.1
+US,lifeweaver,Watchpoint: Gibraltar,,59.3,3.2
+US,lifeweaver,Blizzard World,,58.7,3.9
+US,lifeweaver,Suravasa,,57.4,1.5
 US,lifeweaver,Esperança,,57.1,2.0
-US,lifeweaver,Oasis,,56.7,1.6
-US,lifeweaver,Circuit Royal,,53.3,4.2
+US,lifeweaver,Oasis,,56.3,1.4
 US,lifeweaver,New Queen Street,,52.5,2.9
 US,lifeweaver,Samoa,,51.6,1.0
+US,lifeweaver,Hollywood,,51.5,3.2
 US,lifeweaver,Numbani,,51.2,3.1
-US,lifeweaver,Suravasa,,50.0,1.6
-US,lifeweaver,New Junk City,,46.7,1.1
-US,lifeweaver,Junkertown,,46.3,5.3
+US,lifeweaver,New Junk City,,50.8,1.4
+US,lifeweaver,Junkertown,,48.5,4.5
+US,lifeweaver,Circuit Royal,,46.1,4.2
 US,lifeweaver,Lijiang Tower,,45.7,2.0
+US,lifeweaver,Dorado,,44.1,3.6
 US,lifeweaver,Runasapi,,43.3,1.8
 US,lifeweaver,Shambali Monastery,,41.9,3.1
-US,lifeweaver,Hollywood,,41.6,3.3
 US,lifeweaver,Nepal,,41.1,1.1
-US,lifeweaver,Dorado,,40.2,3.3
-US,lifeweaver,Midtown,,39.8,3.3
+US,lifeweaver,Havana,,39.0,4.1
 US,lifeweaver,Ilios,,38.8,1.1
-US,lifeweaver,Havana,,38.6,5.1
+US,lifeweaver,Midtown,,38.2,3.2
 US,lifeweaver,Rialto,,38.0,2.9
 US,lifeweaver,Colosseo,,35.7,2.9
-US,lifeweaver,Route 66,,34.1,2.5
 US,lifeweaver,Busan,,33.4,0.9
 US,lifeweaver,Eichenwalde,,30.0,2.3
+US,lifeweaver,Route 66,,29.4,2.8
 US,lifeweaver,King's Row,,29.4,2.4
 EU,lifeweaver,Paraíso,,67.8,5.8
-EU,lifeweaver,Samoa,,67.7,2.4
+EU,lifeweaver,Samoa,,64.5,2.2
 EU,lifeweaver,Busan,,62.1,2.1
 EU,lifeweaver,Hollywood,,58.6,4.4
-EU,lifeweaver,Route 66,,56.2,3.6
 EU,lifeweaver,Havana,,56.0,3.6
-EU,lifeweaver,New Junk City,,53.7,2.9
-EU,lifeweaver,Esperança,,53.3,3.2
+EU,lifeweaver,Route 66,,55.1,3.3
+EU,lifeweaver,New Junk City,,51.4,2.4
 EU,lifeweaver,Nepal,,49.7,3.9
 EU,lifeweaver,Numbani,,48.9,5.0
 EU,lifeweaver,Lijiang Tower,,48.4,2.7
 EU,lifeweaver,Runasapi,,47.7,4.2
-EU,lifeweaver,King's Row,,47.7,3.4
+EU,lifeweaver,Suravasa,,47.1,2.5
+EU,lifeweaver,Ilios,,47.0,3.3
 EU,lifeweaver,Dorado,,46.7,3.2
-EU,lifeweaver,Suravasa,,46.6,2.6
-EU,lifeweaver,Ilios,,46.3,2.7
+EU,lifeweaver,Esperança,,46.6,3.1
+EU,lifeweaver,New Queen Street,,45.6,3.1
 EU,lifeweaver,Midtown,,45.3,3.7
-EU,lifeweaver,Oasis,,45.1,3.1
-EU,lifeweaver,Rialto,,42.7,3.7
-EU,lifeweaver,Shambali Monastery,,40.9,4.1
+EU,lifeweaver,King's Row,,45.2,3.3
+EU,lifeweaver,Oasis,,44.4,3.0
+EU,lifeweaver,Junkertown,,42.1,4.1
+EU,lifeweaver,Rialto,,42.0,3.9
 EU,lifeweaver,Eichenwalde,,40.8,3.3
-EU,lifeweaver,Circuit Royal,,39.6,3.6
+EU,lifeweaver,Circuit Royal,,39.8,3.6
 EU,lifeweaver,Colosseo,,39.4,2.5
-EU,lifeweaver,Junkertown,,39.1,4.6
-EU,lifeweaver,New Queen Street,,36.6,2.8
+EU,lifeweaver,Shambali Monastery,,38.8,3.8
 EU,lifeweaver,Aatlis,,36.0,1.9
-EU,lifeweaver,Blizzard World,,35.2,3.3
+EU,lifeweaver,Blizzard World,,33.5,3.0
 EU,lifeweaver,Watchpoint: Gibraltar,,29.9,4.1
-ASIA,venture,Paraíso,,87.9,2.0
 ASIA,venture,New Queen Street,,73.1,1.8
 ASIA,venture,Shambali Monastery,,70.7,2.7
 ASIA,venture,Blizzard World,,69.9,4.0
 ASIA,venture,Runasapi,,63.5,2.8
-ASIA,venture,Hollywood,,56.4,3.0
-ASIA,venture,Watchpoint: Gibraltar,,52.5,4.4
+ASIA,venture,Hollywood,,61.5,3.0
+ASIA,venture,Paraíso,,60.0,2.2
+ASIA,venture,Nepal,,57.0,2.4
+ASIA,venture,Ilios,,57.0,2.7
 ASIA,venture,King's Row,,52.5,3.2
-ASIA,venture,Ilios,,52.1,1.8
+ASIA,venture,Watchpoint: Gibraltar,,52.5,4.4
 ASIA,venture,Circuit Royal,,52.0,2.5
-ASIA,venture,Nepal,,51.6,2.4
 ASIA,venture,Rialto,,47.3,2.1
+ASIA,venture,Aatlis,,46.8,5.7
 ASIA,venture,Busan,,46.8,2.0
 ASIA,venture,New Junk City,,46.6,4.6
 ASIA,venture,Eichenwalde,,46.6,3.1
 ASIA,venture,Esperança,,45.3,2.5
 ASIA,venture,Colosseo,,43.8,4.0
-ASIA,venture,Aatlis,,42.5,5.6
 ASIA,venture,Oasis,,42.1,3.2
 ASIA,venture,Lijiang Tower,,37.5,2.8
-ASIA,venture,Midtown,,35.3,1.7
+ASIA,venture,Midtown,,36.3,1.9
 ASIA,venture,Suravasa,,35.2,3.1
 ASIA,venture,Dorado,,33.8,4.2
 ASIA,venture,Route 66,,31.8,2.5
@@ -3557,66 +3557,65 @@ ASIA,venture,Samoa,,21.8,3.6
 ASIA,venture,Numbani,,14.7,2.6
 US,venture,Paraíso,,95.5,0.3
 US,venture,Runasapi,,66.1,2.8
-US,venture,New Junk City,,64.0,6.1
+US,venture,Midtown,,62.5,3.9
+US,venture,New Junk City,,61.5,5.3
 US,venture,Samoa,,60.8,3.5
 US,venture,New Queen Street,,58.8,3.5
-US,venture,Hollywood,,57.9,4.1
 US,venture,Shambali Monastery,,57.4,3.7
 US,venture,King's Row,,57.4,3.6
-US,venture,Midtown,,56.3,4.1
 US,venture,Nepal,,56.1,2.7
 US,venture,Rialto,,54.0,2.8
-US,venture,Oasis,,52.3,2.8
-US,venture,Dorado,,52.0,3.5
+US,venture,Route 66,,52.9,2.7
+US,venture,Hollywood,,52.0,3.7
 US,venture,Aatlis,,51.0,5.0
-US,venture,Blizzard World,,51.0,2.3
+US,venture,Blizzard World,,50.3,1.8
 US,venture,Lijiang Tower,,50.3,3.2
-US,venture,Junkertown,,49.4,1.0
+US,venture,Junkertown,,50.1,0.8
+US,venture,Oasis,,50.1,2.7
 US,venture,Eichenwalde,,48.7,3.7
-US,venture,Circuit Royal,,48.7,2.9
-US,venture,Route 66,,48.5,2.5
+US,venture,Dorado,,48.3,2.9
 US,venture,Ilios,,48.2,2.9
+US,venture,Circuit Royal,,46.9,2.5
 US,venture,Colosseo,,45.8,1.8
-US,venture,Suravasa,,45.3,3.2
+US,venture,Suravasa,,44.0,3.2
 US,venture,Esperança,,35.0,2.4
 US,venture,Busan,,31.8,3.7
-US,venture,Watchpoint: Gibraltar,,24.8,3.7
+US,venture,Watchpoint: Gibraltar,,30.7,3.6
 US,venture,Numbani,,24.6,2.7
-US,venture,Havana,,23.9,1.6
+US,venture,Havana,,22.9,1.2
 EU,venture,Numbani,,66.6,3.1
 EU,venture,Midtown,,65.6,4.0
 EU,venture,Havana,,63.5,2.9
 EU,venture,Colosseo,,63.2,3.1
 EU,venture,Runasapi,,62.9,4.6
-EU,venture,Ilios,,58.5,3.5
-EU,venture,Blizzard World,,57.1,3.3
-EU,venture,New Junk City,,56.1,6.9
-EU,venture,Rialto,,56.0,3.7
-EU,venture,Route 66,,55.2,3.5
+EU,venture,New Junk City,,60.8,6.8
+EU,venture,Blizzard World,,58.7,3.0
+EU,venture,Rialto,,57.1,3.7
+EU,venture,Circuit Royal,,54.7,3.1
+EU,venture,Suravasa,,54.6,4.2
+EU,venture,Ilios,,54.4,4.1
 EU,venture,Aatlis,,54.2,7.3
-EU,venture,Suravasa,,53.5,4.1
-EU,venture,Circuit Royal,,53.3,3.2
+EU,venture,King's Row,,53.8,4.1
+EU,venture,Shambali Monastery,,53.0,4.9
 EU,venture,Hollywood,,52.9,3.2
-EU,venture,Esperança,,52.3,3.3
+EU,venture,Route 66,,52.9,3.2
 EU,venture,Eichenwalde,,52.1,4.2
-EU,venture,King's Row,,51.7,4.2
 EU,venture,Lijiang Tower,,51.7,4.6
-EU,venture,Shambali Monastery,,51.3,5.0
-EU,venture,Oasis,,49.0,4.7
-EU,venture,Junkertown,,48.2,5.0
+EU,venture,Samoa,,50.1,4.1
+EU,venture,Esperança,,50.1,3.3
+EU,venture,Oasis,,48.1,4.4
 EU,venture,Nepal,,47.7,4.3
-EU,venture,Samoa,,47.7,4.3
+EU,venture,Junkertown,,47.4,4.0
 EU,venture,Watchpoint: Gibraltar,,45.6,2.5
-EU,venture,New Queen Street,,45.3,3.3
+EU,venture,New Queen Street,,43.7,3.2
 EU,venture,Paraíso,,42.6,3.7
 EU,venture,Busan,,40.6,2.2
 EU,venture,Dorado,,20.5,2.8
-ASIA,mauga,Midtown,,61.9,2.4
-ASIA,mauga,Nepal,,61.9,2.5
+ASIA,mauga,Midtown,,62.3,2.0
 ASIA,mauga,Shambali Monastery,,57.9,1.6
+ASIA,mauga,Nepal,,55.4,2.5
 ASIA,mauga,Colosseo,,54.4,2.9
 ASIA,mauga,Junkertown,,52.7,1.7
-ASIA,mauga,Ilios,,49.9,1.8
 ASIA,mauga,Blizzard World,,48.4,2.2
 ASIA,mauga,Watchpoint: Gibraltar,,48.4,1.8
 ASIA,mauga,Route 66,,48.2,1.6
@@ -3628,85 +3627,86 @@ ASIA,mauga,Samoa,,45.4,3.1
 ASIA,mauga,Lijiang Tower,,44.6,2.4
 ASIA,mauga,New Queen Street,,43.4,3.8
 ASIA,mauga,Oasis,,43.3,3.1
-ASIA,mauga,Aatlis,,38.9,2.9
+ASIA,mauga,Ilios,,41.6,1.8
+ASIA,mauga,Aatlis,,40.9,2.8
 ASIA,mauga,Circuit Royal,,38.2,0.4
 ASIA,mauga,Numbani,,37.5,1.8
-ASIA,mauga,Hollywood,,33.5,1.8
+ASIA,mauga,Paraíso,,35.1,1.1
 ASIA,mauga,Rialto,,31.5,1.1
+ASIA,mauga,Hollywood,,29.4,1.7
 ASIA,mauga,Dorado,,28.9,1.0
 ASIA,mauga,Eichenwalde,,27.4,2.5
 ASIA,mauga,King's Row,,26.9,1.5
 ASIA,mauga,Esperança,,26.0,1.7
-ASIA,mauga,Paraíso,,0.0,0.9
 ASIA,mauga,Havana,,0.0,0.8
-US,mauga,Circuit Royal,,73.3,3.8
 US,mauga,Paraíso,,69.7,3.2
 US,mauga,Busan,,68.0,4.7
 US,mauga,Numbani,,67.1,3.2
-US,mauga,Havana,,67.1,3.7
 US,mauga,Esperança,,64.4,6.7
-US,mauga,Route 66,,62.7,5.2
 US,mauga,Aatlis,,61.6,7.8
+US,mauga,Circuit Royal,,58.4,3.6
 US,mauga,Nepal,,57.9,6.8
-US,mauga,Watchpoint: Gibraltar,,56.6,4.5
 US,mauga,Ilios,,54.8,5.4
-US,mauga,Dorado,,53.1,4.7
-US,mauga,Oasis,,51.4,5.7
+US,mauga,Havana,,54.6,3.7
+US,mauga,Route 66,,53.9,5.0
+US,mauga,Watchpoint: Gibraltar,,52.1,4.5
 US,mauga,King's Row,,50.8,5.2
 US,mauga,Runasapi,,50.3,9.4
-US,mauga,Suravasa,,50.0,7.8
-US,mauga,Blizzard World,,49.1,4.8
+US,mauga,New Junk City,,49.6,6.5
+US,mauga,Oasis,,49.3,5.4
+US,mauga,Blizzard World,,48.9,4.9
 US,mauga,Eichenwalde,,48.8,6.5
+US,mauga,Suravasa,,47.8,8.1
 US,mauga,Rialto,,47.2,5.9
+US,mauga,Hollywood,,46.5,5.2
 US,mauga,Shambali Monastery,,46.5,4.4
+US,mauga,Dorado,,45.8,5.0
 US,mauga,Lijiang Tower,,45.5,8.5
-US,mauga,New Junk City,,45.0,6.0
 US,mauga,Samoa,,44.7,8.3
-US,mauga,Hollywood,,44.6,5.5
-US,mauga,Midtown,,42.6,5.1
+US,mauga,Midtown,,42.1,5.3
 US,mauga,Colosseo,,41.9,7.1
-US,mauga,Junkertown,,41.8,6.0
 US,mauga,New Queen Street,,41.6,6.9
-EU,mauga,Route 66,,63.7,3.4
-EU,mauga,New Queen Street,,58.7,6.7
+US,mauga,Junkertown,,35.2,6.6
+EU,mauga,Route 66,,59.9,3.9
+EU,mauga,New Queen Street,,58.2,6.7
+EU,mauga,Junkertown,,58.2,4.1
 EU,mauga,Havana,,55.6,3.0
-EU,mauga,Oasis,,55.5,7.4
 EU,mauga,Eichenwalde,,54.7,4.3
+EU,mauga,Oasis,,54.5,7.6
 EU,mauga,Hollywood,,53.9,5.5
 EU,mauga,Lijiang Tower,,53.3,5.6
-EU,mauga,Junkertown,,51.7,4.0
+EU,mauga,New Junk City,,52.2,9.1
 EU,mauga,Colosseo,,51.4,6.2
-EU,mauga,Blizzard World,,51.3,4.5
 EU,mauga,Nepal,,51.0,4.9
 EU,mauga,Dorado,,50.2,3.2
-EU,mauga,New Junk City,,50.1,8.5
 EU,mauga,Aatlis,,49.5,6.1
 EU,mauga,Midtown,,49.2,3.2
+EU,mauga,Shambali Monastery,,49.0,4.1
 EU,mauga,Watchpoint: Gibraltar,,48.9,2.6
 EU,mauga,Busan,,48.7,6.6
-EU,mauga,Shambali Monastery,,48.1,4.8
 EU,mauga,Runasapi,,47.9,7.3
-EU,mauga,Circuit Royal,,47.5,3.2
-EU,mauga,King's Row,,45.8,4.4
-EU,mauga,Samoa,,45.2,4.6
-EU,mauga,Suravasa,,44.1,5.7
-EU,mauga,Rialto,,42.7,3.4
-EU,mauga,Esperança,,40.8,6.8
-EU,mauga,Ilios,,38.2,4.4
+EU,mauga,Samoa,,46.7,5.2
+EU,mauga,King's Row,,46.7,4.3
+EU,mauga,Suravasa,,46.4,6.6
+EU,mauga,Circuit Royal,,46.4,3.0
+EU,mauga,Blizzard World,,45.4,5.0
+EU,mauga,Ilios,,43.5,4.2
+EU,mauga,Rialto,,42.5,3.8
+EU,mauga,Esperança,,39.2,6.9
 EU,mauga,Numbani,,36.9,2.9
 EU,mauga,Paraíso,,33.5,4.7
 ASIA,sombra,Eichenwalde,,69.6,3.6
 ASIA,sombra,Runasapi,,64.5,4.1
 ASIA,sombra,Shambali Monastery,,63.4,3.3
 ASIA,sombra,Route 66,,60.4,4.5
-ASIA,sombra,Midtown,,55.3,1.7
 ASIA,sombra,Lijiang Tower,,55.3,3.6
-ASIA,sombra,Nepal,,54.4,3.1
 ASIA,sombra,Esperança,,53.9,6.1
 ASIA,sombra,Rialto,,53.4,4.4
-ASIA,sombra,Hollywood,,52.9,4.1
 ASIA,sombra,New Queen Street,,52.8,4.7
+ASIA,sombra,Midtown,,52.3,2.9
 ASIA,sombra,Samoa,,50.9,3.3
+ASIA,sombra,Nepal,,49.9,3.1
+ASIA,sombra,Hollywood,,49.1,3.9
 ASIA,sombra,Oasis,,47.8,2.7
 ASIA,sombra,Busan,,46.2,4.3
 ASIA,sombra,Suravasa,,46.0,3.3
@@ -3716,174 +3716,90 @@ ASIA,sombra,Colosseo,,44.0,5.2
 ASIA,sombra,Junkertown,,43.4,3.9
 ASIA,sombra,King's Row,,39.9,2.4
 ASIA,sombra,Dorado,,36.1,4.4
-ASIA,sombra,Aatlis,,32.7,2.3
-ASIA,sombra,Ilios,,30.2,5.4
+ASIA,sombra,Aatlis,,32.1,2.2
+ASIA,sombra,Ilios,,28.1,4.9
 ASIA,sombra,Watchpoint: Gibraltar,,27.9,3.1
 ASIA,sombra,Blizzard World,,25.7,5.6
 ASIA,sombra,Circuit Royal,,16.8,1.9
 ASIA,sombra,Numbani,,12.9,4.0
-ASIA,sombra,Paraíso,,11.7,11.6
+ASIA,sombra,Paraíso,,11.7,8.3
 US,sombra,Paraíso,,80.8,3.5
 US,sombra,Esperança,,69.8,3.3
-US,sombra,Dorado,,64.0,2.9
 US,sombra,New Queen Street,,63.0,3.5
-US,sombra,Circuit Royal,,61.5,1.8
+US,sombra,Circuit Royal,,62.7,1.8
+US,sombra,Dorado,,62.5,2.5
 US,sombra,Eichenwalde,,60.4,2.1
-US,sombra,Midtown,,55.8,1.7
 US,sombra,Samoa,,55.8,2.3
-US,sombra,Blizzard World,,55.5,2.0
 US,sombra,Shambali Monastery,,52.1,1.2
 US,sombra,Busan,,51.1,3.6
-US,sombra,Oasis,,50.7,2.4
+US,sombra,New Junk City,,50.4,2.5
+US,sombra,Hollywood,,50.3,1.8
 US,sombra,Rialto,,48.8,1.7
-US,sombra,New Junk City,,48.5,2.0
-US,sombra,Route 66,,44.3,2.8
+US,sombra,Oasis,,47.4,2.9
+US,sombra,Route 66,,46.7,3.4
+US,sombra,Suravasa,,44.3,3.2
 US,sombra,Lijiang Tower,,42.7,2.1
 US,sombra,Nepal,,42.0,2.2
+US,sombra,Blizzard World,,41.7,2.6
 US,sombra,Ilios,,40.5,3.4
 US,sombra,Runasapi,,40.4,2.5
-US,sombra,Suravasa,,38.0,2.9
-US,sombra,Junkertown,,34.7,2.9
+US,sombra,Watchpoint: Gibraltar,,35.4,1.8
 US,sombra,King's Row,,34.1,1.6
-US,sombra,Hollywood,,33.2,1.6
+US,sombra,Junkertown,,33.7,2.3
 US,sombra,Aatlis,,32.6,1.5
+US,sombra,Midtown,,32.6,2.4
 US,sombra,Colosseo,,27.8,2.3
 US,sombra,Numbani,,27.2,2.8
-US,sombra,Havana,,26.7,1.3
-US,sombra,Watchpoint: Gibraltar,,24.6,1.5
-EU,sombra,Shambali Monastery,,64.9,2.4
-EU,sombra,King's Row,,62.8,1.8
-EU,sombra,Route 66,,60.7,1.3
+US,sombra,Havana,,25.2,1.3
 EU,sombra,Hollywood,,60.7,1.7
-EU,sombra,Samoa,,55.8,2.1
-EU,sombra,Blizzard World,,55.7,2.4
+EU,sombra,Route 66,,60.5,1.4
+EU,sombra,King's Row,,58.9,1.7
+EU,sombra,Shambali Monastery,,56.4,2.3
+EU,sombra,Samoa,,54.0,2.5
 EU,sombra,Watchpoint: Gibraltar,,53.4,2.7
+EU,sombra,Oasis,,53.3,2.5
 EU,sombra,Busan,,51.3,4.5
-EU,sombra,Ilios,,51.1,2.6
+EU,sombra,Ilios,,50.9,2.8
 EU,sombra,Havana,,50.7,2.4
+EU,sombra,New Queen Street,,49.7,4.3
 EU,sombra,Colosseo,,49.5,3.2
-EU,sombra,Oasis,,48.5,2.6
-EU,sombra,Suravasa,,46.3,2.8
-EU,sombra,New Queen Street,,44.8,4.0
-EU,sombra,Junkertown,,44.4,2.8
+EU,sombra,Junkertown,,48.1,2.8
+EU,sombra,Blizzard World,,47.9,2.3
+EU,sombra,Suravasa,,45.2,2.4
 EU,sombra,Aatlis,,44.3,2.3
-EU,sombra,New Junk City,,43.7,1.9
 EU,sombra,Nepal,,43.0,2.0
-EU,sombra,Esperança,,38.5,2.8
+EU,sombra,Esperança,,40.1,3.1
+EU,sombra,Rialto,,38.9,2.5
+EU,sombra,Circuit Royal,,36.8,1.4
+EU,sombra,New Junk City,,36.0,2.4
 EU,sombra,Runasapi,,35.2,2.4
-EU,sombra,Rialto,,34.9,2.3
 EU,sombra,Lijiang Tower,,34.7,2.0
 EU,sombra,Dorado,,32.9,1.3
 EU,sombra,Numbani,,27.5,2.6
 EU,sombra,Eichenwalde,,27.1,2.0
-EU,sombra,Circuit Royal,,24.9,1.3
 EU,sombra,Midtown,,20.3,1.5
 EU,sombra,Paraíso,,19.1,1.9
-ASIA,brigitte,Shambali Monastery,,57.3,6.7
-ASIA,brigitte,Midtown,,57.0,5.2
-ASIA,brigitte,New Junk City,,56.8,5.3
-ASIA,brigitte,Esperança,,56.6,9.6
-ASIA,brigitte,Numbani,,53.5,9.4
-ASIA,brigitte,Junkertown,,53.4,11.7
-ASIA,brigitte,Ilios,,53.0,11.4
-ASIA,brigitte,Circuit Royal,,52.8,2.3
-ASIA,brigitte,Aatlis,,52.0,11.0
-ASIA,brigitte,Oasis,,51.6,8.2
-ASIA,brigitte,Runasapi,,50.5,7.4
-ASIA,brigitte,Nepal,,49.8,6.1
-ASIA,brigitte,Watchpoint: Gibraltar,,49.6,12.0
-ASIA,brigitte,Dorado,,49.5,13.7
-ASIA,brigitte,Lijiang Tower,,49.2,7.5
-ASIA,brigitte,Route 66,,49.1,10.6
-ASIA,brigitte,King's Row,,49.0,6.5
-ASIA,brigitte,Eichenwalde,,48.9,8.8
-ASIA,brigitte,Samoa,,48.2,7.3
-ASIA,brigitte,Suravasa,,47.1,8.8
-ASIA,brigitte,Blizzard World,,43.6,5.5
-ASIA,brigitte,New Queen Street,,43.0,7.7
-ASIA,brigitte,Colosseo,,42.6,8.6
-ASIA,brigitte,Rialto,,42.3,9.0
-ASIA,brigitte,Hollywood,,41.6,8.2
-ASIA,brigitte,Busan,,39.3,9.3
-ASIA,brigitte,Havana,,35.4,4.1
-ASIA,brigitte,Paraíso,,34.3,6.5
-US,brigitte,Hollywood,,69.6,9.9
-US,brigitte,Aatlis,,61.5,7.5
-US,brigitte,Havana,,60.3,3.7
-US,brigitte,Nepal,,59.7,7.1
-US,brigitte,Paraíso,,59.1,7.6
-US,brigitte,Lijiang Tower,,58.0,6.8
-US,brigitte,Esperança,,57.4,9.3
-US,brigitte,Rialto,,57.3,5.9
-US,brigitte,Midtown,,57.3,3.9
-US,brigitte,Route 66,,54.9,8.3
-US,brigitte,Busan,,51.9,10.0
-US,brigitte,Circuit Royal,,51.8,2.1
-US,brigitte,New Queen Street,,50.4,8.6
-US,brigitte,Colosseo,,49.9,7.8
-US,brigitte,Dorado,,49.4,10.9
-US,brigitte,New Junk City,,48.8,8.3
-US,brigitte,Samoa,,48.6,8.7
-US,brigitte,Suravasa,,48.0,8.3
-US,brigitte,Eichenwalde,,46.8,5.8
-US,brigitte,Blizzard World,,46.5,6.3
-US,brigitte,Runasapi,,45.4,10.2
-US,brigitte,King's Row,,44.6,4.2
-US,brigitte,Oasis,,44.6,9.2
-US,brigitte,Junkertown,,42.7,5.6
-US,brigitte,Ilios,,42.7,10.0
-US,brigitte,Numbani,,42.0,8.8
-US,brigitte,Shambali Monastery,,41.6,5.9
-US,brigitte,Watchpoint: Gibraltar,,41.0,14.1
-EU,brigitte,Junkertown,,60.1,5.4
-EU,brigitte,Circuit Royal,,57.9,2.2
-EU,brigitte,New Junk City,,55.8,7.5
-EU,brigitte,King's Row,,54.9,4.9
-EU,brigitte,Route 66,,54.4,7.9
-EU,brigitte,Dorado,,54.3,13.7
-EU,brigitte,Nepal,,53.8,6.0
-EU,brigitte,Suravasa,,52.9,7.5
-EU,brigitte,Hollywood,,52.7,7.7
-EU,brigitte,Runasapi,,51.5,7.3
-EU,brigitte,Eichenwalde,,51.0,6.2
-EU,brigitte,Paraíso,,50.5,6.9
-EU,brigitte,Ilios,,50.4,8.7
-EU,brigitte,Havana,,50.0,5.0
-EU,brigitte,Oasis,,49.8,8.9
-EU,brigitte,Watchpoint: Gibraltar,,49.8,13.1
-EU,brigitte,Samoa,,48.5,7.5
-EU,brigitte,Busan,,47.7,7.8
-EU,brigitte,Rialto,,47.4,6.7
-EU,brigitte,Esperança,,44.9,7.4
-EU,brigitte,New Queen Street,,44.8,6.9
-EU,brigitte,Aatlis,,44.6,8.9
-EU,brigitte,Colosseo,,43.0,6.1
-EU,brigitte,Midtown,,40.1,5.1
-EU,brigitte,Lijiang Tower,,39.3,5.5
-EU,brigitte,Shambali Monastery,,38.4,3.7
-EU,brigitte,Blizzard World,,38.0,8.4
-EU,brigitte,Numbani,,34.9,9.7
 ASIA,vendetta,Esperança,,72.6,4.7
 ASIA,vendetta,Runasapi,,66.1,5.8
-ASIA,vendetta,Paraíso,,65.7,3.6
 ASIA,vendetta,Suravasa,,63.9,5.7
 ASIA,vendetta,Junkertown,,63.3,4.6
 ASIA,vendetta,Colosseo,,62.2,5.1
-ASIA,vendetta,Midtown,,57.6,5.0
+ASIA,vendetta,Midtown,,61.8,4.7
+ASIA,vendetta,Aatlis,,61.0,7.4
+ASIA,vendetta,Ilios,,59.3,6.0
+ASIA,vendetta,Nepal,,57.1,4.6
 ASIA,vendetta,New Queen Street,,56.7,4.3
 ASIA,vendetta,Blizzard World,,56.6,2.7
-ASIA,vendetta,Ilios,,56.3,5.8
-ASIA,vendetta,Aatlis,,56.2,6.5
 ASIA,vendetta,Eichenwalde,,55.1,4.6
 ASIA,vendetta,Shambali Monastery,,53.8,3.3
 ASIA,vendetta,Lijiang Tower,,53.1,6.0
-ASIA,vendetta,Nepal,,52.8,5.0
 ASIA,vendetta,Numbani,,52.7,5.0
 ASIA,vendetta,Watchpoint: Gibraltar,,51.4,1.9
 ASIA,vendetta,New Junk City,,51.1,7.4
 ASIA,vendetta,Rialto,,50.6,4.0
+ASIA,vendetta,Paraíso,,48.7,4.1
 ASIA,vendetta,King's Row,,47.6,4.3
-ASIA,vendetta,Hollywood,,46.2,4.8
+ASIA,vendetta,Hollywood,,44.7,5.0
 ASIA,vendetta,Route 66,,44.4,3.6
 ASIA,vendetta,Circuit Royal,,43.8,4.4
 ASIA,vendetta,Samoa,,43.4,4.3
@@ -3893,69 +3809,153 @@ ASIA,vendetta,Oasis,,38.2,5.1
 ASIA,vendetta,Havana,,25.3,5.3
 US,vendetta,Paraíso,,98.9,2.1
 US,vendetta,Aatlis,,79.2,6.7
-US,vendetta,Hollywood,,69.2,2.8
-US,vendetta,Route 66,,62.3,5.1
+US,vendetta,Hollywood,,66.6,3.1
+US,vendetta,Oasis,,61.9,4.7
 US,vendetta,Busan,,60.8,4.4
 US,vendetta,Runasapi,,58.9,4.9
-US,vendetta,Circuit Royal,,57.1,3.1
+US,vendetta,Route 66,,57.4,4.6
 US,vendetta,Rialto,,56.9,2.3
-US,vendetta,Junkertown,,56.7,4.8
-US,vendetta,Havana,,56.5,3.5
-US,vendetta,Oasis,,56.3,4.2
+US,vendetta,Circuit Royal,,56.9,3.3
+US,vendetta,Junkertown,,56.7,3.8
+US,vendetta,Suravasa,,56.2,4.8
+US,vendetta,Midtown,,55.7,3.3
 US,vendetta,Ilios,,55.6,4.7
 US,vendetta,Nepal,,55.3,4.8
-US,vendetta,Blizzard World,,54.8,5.2
-US,vendetta,Suravasa,,54.8,5.0
-US,vendetta,Midtown,,54.3,2.7
+US,vendetta,Havana,,53.9,3.1
+US,vendetta,Blizzard World,,52.8,4.8
 US,vendetta,King's Row,,52.6,3.7
-US,vendetta,Lijiang Tower,,50.4,4.9
 US,vendetta,Samoa,,50.4,4.4
+US,vendetta,Lijiang Tower,,50.4,4.9
 US,vendetta,Eichenwalde,,49.3,3.4
 US,vendetta,Colosseo,,48.9,4.0
+US,vendetta,New Junk City,,48.1,5.0
+US,vendetta,Watchpoint: Gibraltar,,47.5,4.8
 US,vendetta,New Queen Street,,46.4,3.5
 US,vendetta,Esperança,,44.5,4.8
-US,vendetta,Watchpoint: Gibraltar,,44.2,4.8
 US,vendetta,Shambali Monastery,,43.8,5.5
-US,vendetta,New Junk City,,43.5,5.6
 US,vendetta,Numbani,,36.5,4.0
-US,vendetta,Dorado,,14.1,1.9
+US,vendetta,Dorado,,22.3,3.0
 EU,vendetta,Dorado,,76.5,2.4
-EU,vendetta,Rialto,,67.3,3.8
-EU,vendetta,New Queen Street,,64.7,2.6
-EU,vendetta,Oasis,,62.0,5.4
-EU,vendetta,King's Row,,58.3,5.1
+EU,vendetta,Rialto,,66.4,3.8
+EU,vendetta,Esperança,,64.5,4.5
+EU,vendetta,Oasis,,62.1,5.4
+EU,vendetta,Shambali Monastery,,61.6,3.5
 EU,vendetta,Runasapi,,57.7,5.4
-EU,vendetta,Esperança,,57.6,4.4
+EU,vendetta,King's Row,,56.8,4.9
 EU,vendetta,Aatlis,,56.4,8.5
-EU,vendetta,Shambali Monastery,,55.8,3.4
-EU,vendetta,Junkertown,,55.1,4.6
-EU,vendetta,Route 66,,54.9,5.2
+EU,vendetta,Junkertown,,55.5,4.0
+EU,vendetta,Route 66,,55.5,4.3
+EU,vendetta,Suravasa,,55.3,5.6
+EU,vendetta,New Queen Street,,55.0,2.8
 EU,vendetta,Lijiang Tower,,54.4,4.9
-EU,vendetta,New Junk City,,53.8,6.0
+EU,vendetta,New Junk City,,53.2,6.3
 EU,vendetta,Colosseo,,53.0,3.6
 EU,vendetta,Eichenwalde,,52.6,4.1
 EU,vendetta,Havana,,52.4,4.1
-EU,vendetta,Suravasa,,51.4,4.8
-EU,vendetta,Samoa,,50.5,6.0
-EU,vendetta,Blizzard World,,49.3,2.5
+EU,vendetta,Samoa,,49.8,5.6
+EU,vendetta,Ilios,,48.6,4.5
 EU,vendetta,Numbani,,46.4,2.9
-EU,vendetta,Ilios,,45.5,4.3
+EU,vendetta,Circuit Royal,,45.6,2.9
+EU,vendetta,Blizzard World,,44.6,2.5
 EU,vendetta,Nepal,,43.7,4.6
 EU,vendetta,Watchpoint: Gibraltar,,43.1,3.7
 EU,vendetta,Busan,,41.9,3.6
 EU,vendetta,Hollywood,,41.5,5.2
-EU,vendetta,Circuit Royal,,41.2,2.7
 EU,vendetta,Midtown,,29.6,3.4
 EU,vendetta,Paraíso,,2.5,0.9
+ASIA,brigitte,Shambali Monastery,,57.3,6.7
+ASIA,brigitte,Paraíso,,57.0,7.2
+ASIA,brigitte,New Junk City,,56.8,5.3
+ASIA,brigitte,Esperança,,56.6,9.6
+ASIA,brigitte,Numbani,,53.5,9.4
+ASIA,brigitte,Junkertown,,53.4,11.7
+ASIA,brigitte,Circuit Royal,,52.8,2.3
+ASIA,brigitte,Ilios,,52.2,11.5
+ASIA,brigitte,Nepal,,51.9,6.0
+ASIA,brigitte,Midtown,,51.7,5.7
+ASIA,brigitte,Oasis,,51.6,8.2
+ASIA,brigitte,Runasapi,,50.5,7.4
+ASIA,brigitte,Aatlis,,50.3,10.7
+ASIA,brigitte,Watchpoint: Gibraltar,,49.6,12.0
+ASIA,brigitte,Dorado,,49.5,13.7
+ASIA,brigitte,Lijiang Tower,,49.2,7.5
+ASIA,brigitte,Route 66,,49.1,10.6
+ASIA,brigitte,King's Row,,49.0,6.5
+ASIA,brigitte,Eichenwalde,,48.9,8.8
+ASIA,brigitte,Samoa,,48.2,7.3
+ASIA,brigitte,Hollywood,,48.1,8.6
+ASIA,brigitte,Suravasa,,47.1,8.8
+ASIA,brigitte,Blizzard World,,43.6,5.5
+ASIA,brigitte,New Queen Street,,43.0,7.7
+ASIA,brigitte,Colosseo,,42.6,8.6
+ASIA,brigitte,Rialto,,42.3,9.0
+ASIA,brigitte,Busan,,39.3,9.3
+ASIA,brigitte,Havana,,35.4,4.1
+US,brigitte,Hollywood,,64.4,9.9
+US,brigitte,Havana,,62.5,3.1
+US,brigitte,Aatlis,,61.5,7.5
+US,brigitte,Nepal,,59.7,7.1
+US,brigitte,Paraíso,,59.1,7.6
+US,brigitte,Lijiang Tower,,58.0,6.8
+US,brigitte,Esperança,,57.4,9.3
+US,brigitte,Rialto,,57.3,5.9
+US,brigitte,Route 66,,53.8,10.1
+US,brigitte,Suravasa,,52.7,8.3
+US,brigitte,Busan,,51.9,10.0
+US,brigitte,Midtown,,50.5,5.2
+US,brigitte,New Junk City,,50.4,8.7
+US,brigitte,New Queen Street,,50.4,8.6
+US,brigitte,Dorado,,50.0,10.5
+US,brigitte,Colosseo,,49.9,7.8
+US,brigitte,Samoa,,48.6,8.7
+US,brigitte,Blizzard World,,47.7,6.4
+US,brigitte,Junkertown,,47.3,5.5
+US,brigitte,Eichenwalde,,46.8,5.8
+US,brigitte,Oasis,,46.1,8.9
+US,brigitte,Runasapi,,45.4,10.2
+US,brigitte,King's Row,,44.6,4.2
+US,brigitte,Ilios,,42.7,10.0
+US,brigitte,Numbani,,42.0,8.8
+US,brigitte,Watchpoint: Gibraltar,,41.6,13.8
+US,brigitte,Shambali Monastery,,41.6,5.9
+US,brigitte,Circuit Royal,,41.1,2.4
+EU,brigitte,Junkertown,,64.2,5.3
+EU,brigitte,Circuit Royal,,58.3,2.3
+EU,brigitte,Suravasa,,56.1,8.3
+EU,brigitte,King's Row,,55.4,5.2
+EU,brigitte,New Junk City,,54.4,7.4
+EU,brigitte,Dorado,,54.3,13.7
+EU,brigitte,Nepal,,53.8,6.0
+EU,brigitte,Route 66,,52.7,6.9
+EU,brigitte,Hollywood,,52.7,7.7
+EU,brigitte,Runasapi,,51.5,7.3
+EU,brigitte,Eichenwalde,,51.0,6.2
+EU,brigitte,Rialto,,50.6,6.6
+EU,brigitte,Paraíso,,50.5,6.9
+EU,brigitte,Samoa,,50.4,7.7
+EU,brigitte,New Queen Street,,50.4,7.2
+EU,brigitte,Ilios,,50.4,8.5
+EU,brigitte,Havana,,50.0,5.0
+EU,brigitte,Watchpoint: Gibraltar,,49.8,13.1
+EU,brigitte,Oasis,,49.2,9.1
+EU,brigitte,Busan,,47.7,7.8
+EU,brigitte,Esperança,,46.3,7.9
+EU,brigitte,Aatlis,,44.6,8.9
+EU,brigitte,Colosseo,,43.0,6.1
+EU,brigitte,Blizzard World,,40.3,8.5
+EU,brigitte,Midtown,,40.1,5.1
+EU,brigitte,Shambali Monastery,,40.0,4.7
+EU,brigitte,Lijiang Tower,,39.3,5.5
+EU,brigitte,Numbani,,34.9,9.7
 ASIA,wreckingball,Eichenwalde,,67.8,7.7
 ASIA,wreckingball,New Junk City,,60.7,4.1
-ASIA,wreckingball,Midtown,,60.0,2.3
 ASIA,wreckingball,Busan,,58.8,8.8
+ASIA,wreckingball,Midtown,,58.6,3.8
 ASIA,wreckingball,Oasis,,53.0,7.9
 ASIA,wreckingball,Havana,,52.2,5.5
-ASIA,wreckingball,Ilios,,52.0,14.0
+ASIA,wreckingball,Ilios,,51.7,12.8
 ASIA,wreckingball,Dorado,,51.5,8.0
-ASIA,wreckingball,Nepal,,50.3,7.0
+ASIA,wreckingball,Nepal,,51.0,7.3
 ASIA,wreckingball,Runasapi,,49.9,8.2
 ASIA,wreckingball,Numbani,,49.8,5.1
 ASIA,wreckingball,Samoa,,47.8,6.6
@@ -3963,85 +3963,84 @@ ASIA,wreckingball,Watchpoint: Gibraltar,,47.7,5.1
 ASIA,wreckingball,New Queen Street,,47.5,11.4
 ASIA,wreckingball,Junkertown,,45.5,7.9
 ASIA,wreckingball,Colosseo,,44.9,6.9
-ASIA,wreckingball,Aatlis,,44.7,7.3
+ASIA,wreckingball,Aatlis,,44.4,7.2
 ASIA,wreckingball,Rialto,,44.0,8.1
 ASIA,wreckingball,Lijiang Tower,,43.3,7.5
 ASIA,wreckingball,Circuit Royal,,41.8,3.6
 ASIA,wreckingball,King's Row,,41.6,3.8
+ASIA,wreckingball,Hollywood,,41.1,5.5
 ASIA,wreckingball,Suravasa,,39.0,7.8
 ASIA,wreckingball,Esperança,,37.6,7.2
-ASIA,wreckingball,Hollywood,,35.7,5.4
 ASIA,wreckingball,Route 66,,35.5,6.4
 ASIA,wreckingball,Blizzard World,,34.2,7.4
 ASIA,wreckingball,Shambali Monastery,,33.8,4.9
-ASIA,wreckingball,Paraíso,,23.8,13.2
-US,wreckingball,New Junk City,,58.3,5.6
-US,wreckingball,Circuit Royal,,56.3,3.6
+ASIA,wreckingball,Paraíso,,33.7,15.0
 US,wreckingball,Eichenwalde,,54.7,5.8
 US,wreckingball,Runasapi,,53.8,8.3
 US,wreckingball,New Queen Street,,53.3,10.2
-US,wreckingball,Dorado,,53.0,7.2
-US,wreckingball,Watchpoint: Gibraltar,,50.8,7.8
+US,wreckingball,New Junk City,,53.0,5.6
+US,wreckingball,Hollywood,,50.8,5.7
 US,wreckingball,Esperança,,50.6,9.3
-US,wreckingball,Hollywood,,50.6,5.3
-US,wreckingball,Suravasa,,50.5,8.7
-US,wreckingball,Oasis,,50.4,9.1
+US,wreckingball,Dorado,,50.0,6.4
+US,wreckingball,Watchpoint: Gibraltar,,50.0,7.5
+US,wreckingball,Suravasa,,49.8,8.5
 US,wreckingball,Numbani,,49.6,10.9
+US,wreckingball,Oasis,,49.2,8.7
 US,wreckingball,Lijiang Tower,,48.9,8.8
 US,wreckingball,Aatlis,,48.7,5.4
-US,wreckingball,Blizzard World,,45.6,9.7
+US,wreckingball,Circuit Royal,,46.6,3.4
 US,wreckingball,Colosseo,,45.4,5.1
-US,wreckingball,Shambali Monastery,,44.8,3.0
 US,wreckingball,Nepal,,44.8,4.9
+US,wreckingball,Shambali Monastery,,44.8,3.0
+US,wreckingball,Blizzard World,,44.1,8.8
 US,wreckingball,Busan,,42.0,10.2
 US,wreckingball,Ilios,,41.7,12.5
-US,wreckingball,Route 66,,41.0,6.7
+US,wreckingball,Junkertown,,40.6,7.5
 US,wreckingball,Rialto,,40.4,6.3
 US,wreckingball,King's Row,,39.4,3.5
 US,wreckingball,Samoa,,38.9,8.1
-US,wreckingball,Havana,,37.8,6.3
-US,wreckingball,Junkertown,,35.7,6.6
-US,wreckingball,Midtown,,32.4,4.0
+US,wreckingball,Route 66,,35.7,6.0
+US,wreckingball,Midtown,,33.8,3.5
+US,wreckingball,Havana,,32.2,5.4
 US,wreckingball,Paraíso,,17.6,6.0
-EU,wreckingball,Blizzard World,,65.3,10.5
 EU,wreckingball,Dorado,,64.8,8.3
-EU,wreckingball,Route 66,,64.7,6.9
+EU,wreckingball,Blizzard World,,62.4,10.3
+EU,wreckingball,Route 66,,61.5,6.7
 EU,wreckingball,Aatlis,,57.8,9.5
-EU,wreckingball,Shambali Monastery,,57.3,5.9
+EU,wreckingball,Shambali Monastery,,56.6,5.9
 EU,wreckingball,Paraíso,,55.0,8.5
-EU,wreckingball,Junkertown,,52.4,9.7
-EU,wreckingball,New Queen Street,,52.3,10.7
+EU,wreckingball,New Queen Street,,52.6,10.1
 EU,wreckingball,Numbani,,51.9,9.1
+EU,wreckingball,Ilios,,50.6,10.8
+EU,wreckingball,Junkertown,,50.1,10.2
+EU,wreckingball,Suravasa,,49.6,10.6
 EU,wreckingball,Lijiang Tower,,49.3,9.1
-EU,wreckingball,Ilios,,49.2,10.7
 EU,wreckingball,Colosseo,,48.8,9.2
 EU,wreckingball,Watchpoint: Gibraltar,,48.2,12.1
-EU,wreckingball,Suravasa,,48.0,10.8
-EU,wreckingball,Rialto,,47.5,6.9
+EU,wreckingball,Oasis,,46.6,7.1
 EU,wreckingball,Eichenwalde,,46.6,7.6
+EU,wreckingball,New Junk City,,46.5,7.6
 EU,wreckingball,Runasapi,,46.4,8.8
-EU,wreckingball,Samoa,,46.0,7.9
+EU,wreckingball,Rialto,,46.2,6.4
+EU,wreckingball,Samoa,,45.8,7.9
 EU,wreckingball,Midtown,,44.0,5.5
-EU,wreckingball,Oasis,,43.7,7.5
 EU,wreckingball,Hollywood,,43.6,7.4
-EU,wreckingball,New Junk City,,43.4,8.0
 EU,wreckingball,Nepal,,43.0,8.8
 EU,wreckingball,Busan,,42.7,8.8
-EU,wreckingball,Esperança,,41.1,8.7
-EU,wreckingball,King's Row,,39.6,5.1
-EU,wreckingball,Circuit Royal,,35.9,5.2
+EU,wreckingball,Esperança,,42.4,8.8
+EU,wreckingball,King's Row,,40.5,5.2
+EU,wreckingball,Circuit Royal,,36.7,5.4
 EU,wreckingball,Havana,,15.5,3.6
-ASIA,hazard,Hollywood,,64.9,5.0
 ASIA,hazard,Shambali Monastery,,64.6,3.5
-ASIA,hazard,Ilios,,59.3,7.4
-ASIA,hazard,Aatlis,,59.1,7.1
+ASIA,hazard,Ilios,,60.1,7.3
 ASIA,hazard,Colosseo,,59.1,3.9
-ASIA,hazard,Eichenwalde,,59.0,3.1
-ASIA,hazard,Watchpoint: Gibraltar,,59.0,7.5
 ASIA,hazard,New Queen Street,,59.0,4.5
+ASIA,hazard,Watchpoint: Gibraltar,,59.0,7.5
+ASIA,hazard,Eichenwalde,,59.0,3.1
 ASIA,hazard,Lijiang Tower,,58.2,5.3
+ASIA,hazard,Aatlis,,57.8,7.7
 ASIA,hazard,Blizzard World,,57.1,3.6
-ASIA,hazard,Nepal,,56.1,4.3
+ASIA,hazard,Hollywood,,57.0,4.5
 ASIA,hazard,Suravasa,,55.5,5.4
 ASIA,hazard,Rialto,,55.0,4.9
 ASIA,hazard,Esperança,,54.7,5.2
@@ -4049,151 +4048,153 @@ ASIA,hazard,Route 66,,54.3,3.3
 ASIA,hazard,Numbani,,53.4,7.1
 ASIA,hazard,King's Row,,51.4,3.5
 ASIA,hazard,Samoa,,50.6,6.1
+ASIA,hazard,Nepal,,50.3,4.5
 ASIA,hazard,Dorado,,48.1,3.5
 ASIA,hazard,Oasis,,47.8,7.4
 ASIA,hazard,Runasapi,,47.7,5.5
 ASIA,hazard,Circuit Royal,,47.3,1.3
 ASIA,hazard,Busan,,46.6,4.7
 ASIA,hazard,New Junk City,,45.6,6.8
-ASIA,hazard,Paraíso,,45.5,4.9
 ASIA,hazard,Junkertown,,38.2,0.1
-ASIA,hazard,Midtown,,18.6,1.3
+ASIA,hazard,Paraíso,,33.1,4.9
+ASIA,hazard,Midtown,,12.3,1.4
 ASIA,hazard,Havana,,5.1,1.8
 US,hazard,Rialto,,64.2,5.8
-US,hazard,Route 66,,63.2,5.2
 US,hazard,Aatlis,,60.5,6.7
 US,hazard,Ilios,,59.3,9.5
+US,hazard,Route 66,,58.3,5.3
+US,hazard,Havana,,58.2,1.8
 US,hazard,New Queen Street,,56.7,4.6
-US,hazard,Midtown,,55.5,2.5
+US,hazard,Suravasa,,55.3,5.9
 US,hazard,Samoa,,55.0,4.4
-US,hazard,Oasis,,53.5,6.9
+US,hazard,Oasis,,53.4,7.2
+US,hazard,Midtown,,53.2,2.6
 US,hazard,Esperança,,52.7,4.4
+US,hazard,New Junk City,,52.6,4.5
 US,hazard,Nepal,,52.3,5.5
 US,hazard,Shambali Monastery,,52.0,2.7
+US,hazard,Junkertown,,52.0,2.9
+US,hazard,Watchpoint: Gibraltar,,51.9,11.5
 US,hazard,Colosseo,,51.6,5.0
-US,hazard,Watchpoint: Gibraltar,,51.0,11.3
-US,hazard,Suravasa,,50.3,4.9
 US,hazard,Lijiang Tower,,49.5,3.4
 US,hazard,Busan,,49.2,5.1
-US,hazard,New Junk City,,47.6,3.4
-US,hazard,Junkertown,,47.3,3.3
-US,hazard,Hollywood,,45.7,5.5
+US,hazard,Hollywood,,48.2,5.8
 US,hazard,Runasapi,,44.8,6.1
-US,hazard,Havana,,44.3,1.7
+US,hazard,Dorado,,44.4,12.5
 US,hazard,Eichenwalde,,40.0,4.2
 US,hazard,Numbani,,39.4,12.2
 US,hazard,King's Row,,39.3,3.3
-US,hazard,Dorado,,35.4,13.1
+US,hazard,Blizzard World,,31.1,4.2
+US,hazard,Circuit Royal,,30.6,1.4
 US,hazard,Paraíso,,29.8,10.0
-US,hazard,Blizzard World,,28.1,3.6
-US,hazard,Circuit Royal,,20.7,1.2
-EU,hazard,Shambali Monastery,,72.0,6.3
-EU,hazard,Route 66,,61.5,10.6
+EU,hazard,Shambali Monastery,,66.3,6.5
+EU,hazard,New Junk City,,62.3,8.2
 EU,hazard,Dorado,,61.3,12.3
 EU,hazard,Paraíso,,60.7,15.7
-EU,hazard,Samoa,,60.4,7.7
+EU,hazard,King's Row,,60.1,5.2
 EU,hazard,Aatlis,,59.3,10.5
-EU,hazard,New Junk City,,59.2,7.8
+EU,hazard,Route 66,,59.3,10.9
 EU,hazard,Midtown,,58.3,5.1
-EU,hazard,New Queen Street,,57.9,8.8
-EU,hazard,Ilios,,57.1,12.1
-EU,hazard,Suravasa,,56.3,10.0
+EU,hazard,Ilios,,58.1,12.8
+EU,hazard,Samoa,,57.4,8.0
 EU,hazard,Eichenwalde,,56.3,6.6
+EU,hazard,Oasis,,56.1,8.3
+EU,hazard,New Queen Street,,55.9,8.5
 EU,hazard,Runasapi,,55.8,7.3
-EU,hazard,Oasis,,55.7,8.4
 EU,hazard,Nepal,,55.6,8.8
 EU,hazard,Lijiang Tower,,55.4,8.4
-EU,hazard,King's Row,,54.0,4.7
+EU,hazard,Suravasa,,54.9,9.8
 EU,hazard,Numbani,,53.5,10.5
 EU,hazard,Colosseo,,52.7,7.7
-EU,hazard,Esperança,,50.5,7.6
+EU,hazard,Esperança,,51.7,9.0
 EU,hazard,Watchpoint: Gibraltar,,49.1,11.9
 EU,hazard,Havana,,48.9,3.1
 EU,hazard,Busan,,48.4,8.5
 EU,hazard,Hollywood,,46.3,7.5
-EU,hazard,Blizzard World,,44.1,4.8
-EU,hazard,Rialto,,41.1,8.0
-EU,hazard,Circuit Royal,,34.8,1.7
-EU,hazard,Junkertown,,33.2,6.5
+EU,hazard,Rialto,,41.4,8.1
+EU,hazard,Junkertown,,38.8,5.8
+EU,hazard,Blizzard World,,35.6,5.5
+EU,hazard,Circuit Royal,,26.9,2.0
 ASIA,junkerqueen,Circuit Royal,,98.7,0.1
 ASIA,junkerqueen,Watchpoint: Gibraltar,,85.3,0.3
 ASIA,junkerqueen,New Junk City,,74.4,2.1
 ASIA,junkerqueen,Runasapi,,66.8,0.8
-ASIA,junkerqueen,Hollywood,,60.9,0.6
+ASIA,junkerqueen,Ilios,,63.0,1.0
 ASIA,junkerqueen,King's Row,,60.0,0.8
-ASIA,junkerqueen,Ilios,,57.5,1.1
 ASIA,junkerqueen,Esperança,,54.3,1.4
 ASIA,junkerqueen,Suravasa,,52.8,1.3
+ASIA,junkerqueen,Hollywood,,49.3,0.6
 ASIA,junkerqueen,Eichenwalde,,46.5,1.7
+ASIA,junkerqueen,Nepal,,45.6,1.5
 ASIA,junkerqueen,New Queen Street,,43.6,1.1
 ASIA,junkerqueen,Colosseo,,42.4,1.5
 ASIA,junkerqueen,Lijiang Tower,,40.2,1.1
 ASIA,junkerqueen,Samoa,,38.8,1.2
+ASIA,junkerqueen,Aatlis,,38.3,2.4
 ASIA,junkerqueen,Numbani,,38.2,1.1
-ASIA,junkerqueen,Aatlis,,37.0,2.8
-ASIA,junkerqueen,Nepal,,36.7,1.4
 ASIA,junkerqueen,Dorado,,36.7,0.8
 ASIA,junkerqueen,Junkertown,,30.3,0.2
 ASIA,junkerqueen,Shambali Monastery,,22.6,1.4
-ASIA,junkerqueen,Busan,,18.8,0.8
 ASIA,junkerqueen,Oasis,,18.8,0.8
+ASIA,junkerqueen,Busan,,18.8,0.8
 ASIA,junkerqueen,Rialto,,8.2,0.5
-ASIA,junkerqueen,Route 66,,0.0,0.3
+ASIA,junkerqueen,Midtown,,0.0,0.1
 ASIA,junkerqueen,Blizzard World,,0.0,0.2
-ASIA,junkerqueen,Midtown,,0.0,0.2
-US,junkerqueen,Dorado,,76.9,1.4
+ASIA,junkerqueen,Paraíso,,0.0,0.0
+ASIA,junkerqueen,Route 66,,0.0,0.3
+US,junkerqueen,Midtown,,74.3,2.5
 US,junkerqueen,Paraíso,,72.8,2.7
-US,junkerqueen,Midtown,,69.0,1.7
+US,junkerqueen,Dorado,,72.0,1.3
+US,junkerqueen,Route 66,,65.5,2.4
 US,junkerqueen,Aatlis,,62.6,6.6
 US,junkerqueen,Rialto,,61.1,2.8
-US,junkerqueen,Oasis,,59.4,4.7
+US,junkerqueen,Oasis,,57.5,4.9
 US,junkerqueen,Shambali Monastery,,57.2,2.0
-US,junkerqueen,Route 66,,56.9,2.5
-US,junkerqueen,Junkertown,,56.1,3.5
+US,junkerqueen,Junkertown,,56.1,2.7
 US,junkerqueen,Colosseo,,55.0,5.8
-US,junkerqueen,Suravasa,,48.9,5.9
-US,junkerqueen,Blizzard World,,48.7,3.5
-US,junkerqueen,New Junk City,,48.0,8.4
-US,junkerqueen,Hollywood,,47.1,2.5
+US,junkerqueen,Hollywood,,52.6,2.1
+US,junkerqueen,New Junk City,,49.9,8.2
+US,junkerqueen,Suravasa,,47.5,5.7
 US,junkerqueen,Nepal,,46.7,4.6
 US,junkerqueen,Busan,,46.2,4.1
 US,junkerqueen,Ilios,,46.0,3.6
 US,junkerqueen,Runasapi,,44.6,4.1
 US,junkerqueen,Lijiang Tower,,44.1,4.3
-US,junkerqueen,Watchpoint: Gibraltar,,44.0,2.5
+US,junkerqueen,Watchpoint: Gibraltar,,43.6,2.3
 US,junkerqueen,Samoa,,43.5,4.1
+US,junkerqueen,Blizzard World,,42.7,3.8
 US,junkerqueen,New Queen Street,,38.6,3.9
 US,junkerqueen,King's Row,,36.8,4.6
-US,junkerqueen,Havana,,35.9,0.8
+US,junkerqueen,Havana,,35.4,0.7
 US,junkerqueen,Esperança,,33.0,3.9
 US,junkerqueen,Eichenwalde,,27.6,2.8
-US,junkerqueen,Circuit Royal,,19.9,0.9
+US,junkerqueen,Circuit Royal,,14.3,1.0
 US,junkerqueen,Numbani,,0.0,0.8
 EU,junkerqueen,Watchpoint: Gibraltar,,69.8,1.9
-EU,junkerqueen,Esperança,,63.2,4.1
-EU,junkerqueen,Junkertown,,62.4,2.6
-EU,junkerqueen,Route 66,,60.2,2.4
-EU,junkerqueen,New Queen Street,,56.8,3.7
+EU,junkerqueen,Route 66,,58.7,2.6
+EU,junkerqueen,Junkertown,,56.9,2.2
+EU,junkerqueen,Esperança,,55.5,4.4
+EU,junkerqueen,Ilios,,53.6,4.0
 EU,junkerqueen,Busan,,52.3,6.2
 EU,junkerqueen,Eichenwalde,,51.0,3.1
-EU,junkerqueen,Ilios,,49.7,3.8
+EU,junkerqueen,New Queen Street,,50.4,3.8
 EU,junkerqueen,Lijiang Tower,,49.2,4.6
-EU,junkerqueen,New Junk City,,47.9,6.6
-EU,junkerqueen,King's Row,,47.6,3.1
+EU,junkerqueen,King's Row,,47.9,3.4
 EU,junkerqueen,Colosseo,,46.6,4.7
-EU,junkerqueen,Circuit Royal,,46.2,1.7
+EU,junkerqueen,New Junk City,,46.3,6.5
 EU,junkerqueen,Aatlis,,45.5,5.0
-EU,junkerqueen,Samoa,,44.4,4.6
 EU,junkerqueen,Hollywood,,44.3,3.5
 EU,junkerqueen,Midtown,,43.6,1.7
+EU,junkerqueen,Oasis,,43.6,5.1
 EU,junkerqueen,Nepal,,43.0,4.1
+EU,junkerqueen,Samoa,,42.2,4.6
 EU,junkerqueen,Runasapi,,42.0,4.1
-EU,junkerqueen,Oasis,,41.5,5.4
-EU,junkerqueen,Rialto,,40.2,2.8
-EU,junkerqueen,Suravasa,,40.0,5.3
+EU,junkerqueen,Circuit Royal,,40.7,1.6
 EU,junkerqueen,Numbani,,39.1,1.5
-EU,junkerqueen,Shambali Monastery,,35.9,3.1
-EU,junkerqueen,Blizzard World,,34.2,2.4
+EU,junkerqueen,Suravasa,,36.7,5.8
+EU,junkerqueen,Shambali Monastery,,35.9,3.7
+EU,junkerqueen,Rialto,,34.2,2.7
+EU,junkerqueen,Blizzard World,,31.5,2.7
 EU,junkerqueen,Dorado,,29.7,2.0
 EU,junkerqueen,Paraíso,,6.0,1.3
 EU,junkerqueen,Havana,,1.3,1.1
