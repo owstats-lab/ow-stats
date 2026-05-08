@@ -5,25 +5,25 @@ ASIA,kiriko,Suravasa,,,62.5
 ASIA,kiriko,Lijiang Tower,,,56.9
 ASIA,kiriko,New Queen Street,,,59.7
 ASIA,kiriko,Ilios,,,58.4
-ASIA,kiriko,Junkertown,,,41.7
-ASIA,kiriko,Antarctic Peninsula,,,56.9
+ASIA,kiriko,Junkertown,,,42.2
 ASIA,kiriko,Watchpoint: Gibraltar,,,50.1
-ASIA,kiriko,Nepal,,,55.0
+ASIA,kiriko,Antarctic Peninsula,,,57.1
+ASIA,kiriko,Dorado,,,47.5
 ASIA,kiriko,New Junk City,,,63.8
+ASIA,kiriko,Nepal,,,55.3
 ASIA,kiriko,Route 66,,,42.3
-ASIA,kiriko,Dorado,,,47.2
 ASIA,kiriko,Oasis,,,58.5
-ASIA,kiriko,Aatlis,,,63.7
 ASIA,kiriko,Hollywood,,,43.4
+ASIA,kiriko,Aatlis,,,64.1
+ASIA,kiriko,Esperança,,,61.0
 ASIA,kiriko,Shambali Monastery,,,40.3
-ASIA,kiriko,Esperança,,,60.8
 ASIA,kiriko,Paraíso,,,47.9
 ASIA,kiriko,Numbani,,,50.7
+ASIA,kiriko,Busan,,,57.8
 ASIA,kiriko,Midtown,,,41.9
-ASIA,kiriko,Busan,,,57.3
 ASIA,kiriko,Samoa,,,56.1
 ASIA,kiriko,King's Row,,,42.6
-ASIA,kiriko,Rialto,,,42.6
+ASIA,kiriko,Rialto,,,43.1
 ASIA,kiriko,Eichenwalde,,,44.4
 ASIA,kiriko,Blizzard World,,,47.5
 ASIA,kiriko,Circuit Royal,,,23.7
@@ -86,29 +86,29 @@ EU,kiriko,Route 66,,,37.7
 EU,kiriko,Blizzard World,,,40.0
 EU,kiriko,Eichenwalde,,,38.9
 EU,kiriko,Hollywood,,,38.5
-ASIA,mauga,Antarctic Peninsula,,,8.2
-ASIA,mauga,Nepal,,,8.7
+ASIA,mauga,Antarctic Peninsula,,,8.5
 ASIA,mauga,Lijiang Tower,,,9.4
+ASIA,mauga,Nepal,,,9.0
 ASIA,mauga,Suravasa,,,9.6
 ASIA,mauga,Oasis,,,8.4
 ASIA,mauga,New Junk City,,,9.8
-ASIA,mauga,Esperança,,,8.8
-ASIA,mauga,Rialto,,,6.5
-ASIA,mauga,Busan,,,8.8
+ASIA,mauga,Rialto,,,6.7
+ASIA,mauga,Busan,,,8.9
+ASIA,mauga,Esperança,,,8.9
 ASIA,mauga,Circuit Royal,,,5.1
 ASIA,mauga,Colosseo,,,8.1
-ASIA,mauga,Aatlis,,,9.5
 ASIA,mauga,New Queen Street,,,8.4
+ASIA,mauga,Aatlis,,,9.7
 ASIA,mauga,Havana,,,5.5
 ASIA,mauga,Samoa,,,9.1
 ASIA,mauga,Numbani,,,7.2
-ASIA,mauga,Junkertown,,,5.9
 ASIA,mauga,King's Row,,,7.2
 ASIA,mauga,Ilios,,,7.7
-ASIA,mauga,Paraíso,,,6.3
 ASIA,mauga,Runasapi,,,9.5
-ASIA,mauga,Dorado,,,6.0
+ASIA,mauga,Paraíso,,,6.3
+ASIA,mauga,Junkertown,,,5.9
 ASIA,mauga,Shambali Monastery,,,6.5
+ASIA,mauga,Dorado,,,6.2
 ASIA,mauga,Eichenwalde,,,7.5
 ASIA,mauga,Blizzard World,,,7.2
 ASIA,mauga,Midtown,,,6.1
@@ -176,25 +176,25 @@ EU,mauga,Route 66,,,5.8
 ASIA,hazard,Watchpoint: Gibraltar,,,16.6
 ASIA,hazard,Runasapi,,,14.7
 ASIA,hazard,Shambali Monastery,,,7.7
+ASIA,hazard,Colosseo,,,13.3
 ASIA,hazard,New Junk City,,,15.7
 ASIA,hazard,Ilios,,,16.7
-ASIA,hazard,Colosseo,,,13.3
+ASIA,hazard,Aatlis,,,17.8
 ASIA,hazard,Samoa,,,14.0
 ASIA,hazard,Paraíso,,,14.6
-ASIA,hazard,Aatlis,,,17.8
-ASIA,hazard,Nepal,,,13.3
 ASIA,hazard,Blizzard World,,,9.0
+ASIA,hazard,Nepal,,,13.3
 ASIA,hazard,Suravasa,,,14.5
 ASIA,hazard,Lijiang Tower,,,12.7
-ASIA,hazard,Esperança,,,14.3
-ASIA,hazard,Junkertown,,,6.8
+ASIA,hazard,Esperança,,,14.2
+ASIA,hazard,Busan,,,13.3
 ASIA,hazard,Route 66,,,12.0
 ASIA,hazard,Oasis,,,16.3
-ASIA,hazard,Busan,,,13.3
+ASIA,hazard,Junkertown,,,6.9
 ASIA,hazard,New Queen Street,,,13.6
-ASIA,hazard,Dorado,,,13.5
-ASIA,hazard,Antarctic Peninsula,,,13.9
-ASIA,hazard,Rialto,,,12.6
+ASIA,hazard,Dorado,,,13.4
+ASIA,hazard,Antarctic Peninsula,,,13.8
+ASIA,hazard,Rialto,,,12.5
 ASIA,hazard,King's Row,,,8.1
 ASIA,hazard,Havana,,,4.0
 ASIA,hazard,Hollywood,,,10.9
@@ -203,11 +203,11 @@ ASIA,hazard,Numbani,,,14.1
 ASIA,hazard,Midtown,,,6.6
 ASIA,hazard,Circuit Royal,,,2.2
 US,hazard,Paraíso,,,11.1
-US,hazard,Shambali Monastery,,,7.4
 US,hazard,New Junk City,,,9.7
+US,hazard,Shambali Monastery,,,7.4
 US,hazard,Nepal,,,10.0
-US,hazard,Ilios,,,12.3
 US,hazard,Oasis,,,11.7
+US,hazard,Ilios,,,12.3
 US,hazard,Runasapi,,,10.2
 US,hazard,Numbani,,,11.4
 US,hazard,Suravasa,,,10.1
@@ -216,16 +216,16 @@ US,hazard,Aatlis,,,11.5
 US,hazard,Eichenwalde,,,7.2
 US,hazard,Hollywood,,,9.1
 US,hazard,Samoa,,,9.4
+US,hazard,Route 66,,,9.8
 US,hazard,Lijiang Tower,,,9.3
 US,hazard,New Queen Street,,,9.6
-US,hazard,Route 66,,,9.8
-US,hazard,Blizzard World,,,7.6
 US,hazard,Watchpoint: Gibraltar,,,12.1
-US,hazard,Rialto,,,7.8
+US,hazard,Blizzard World,,,7.6
 US,hazard,Esperança,,,10.9
+US,hazard,Rialto,,,7.8
 US,hazard,Busan,,,9.9
-US,hazard,Circuit Royal,,,3.7
 US,hazard,Junkertown,,,6.7
+US,hazard,Circuit Royal,,,3.7
 US,hazard,Dorado,,,11.0
 US,hazard,Antarctic Peninsula,,,10.4
 US,hazard,King's Row,,,6.2
@@ -237,12 +237,12 @@ EU,hazard,Dorado,,,12.1
 EU,hazard,Busan,,,10.1
 EU,hazard,Eichenwalde,,,8.1
 EU,hazard,Route 66,,,10.4
-EU,hazard,Nepal,,,11.6
 EU,hazard,Ilios,,,13.2
+EU,hazard,Nepal,,,11.6
 EU,hazard,Colosseo,,,11.4
 EU,hazard,Lijiang Tower,,,10.5
-EU,hazard,Aatlis,,,13.5
 EU,hazard,Watchpoint: Gibraltar,,,13.2
+EU,hazard,Aatlis,,,13.5
 EU,hazard,Rialto,,,9.0
 EU,hazard,Runasapi,,,11.1
 EU,hazard,Paraíso,,,13.5
@@ -263,7 +263,7 @@ EU,hazard,Midtown,,,6.7
 ASIA,lifeweaver,Paraíso,,,6.2
 ASIA,lifeweaver,Aatlis,,,3.7
 ASIA,lifeweaver,New Queen Street,,,4.7
-ASIA,lifeweaver,Antarctic Peninsula,,,5.0
+ASIA,lifeweaver,Antarctic Peninsula,,,4.9
 ASIA,lifeweaver,Esperança,,,4.6
 ASIA,lifeweaver,Route 66,,,6.3
 ASIA,lifeweaver,Oasis,,,4.4
@@ -279,16 +279,16 @@ ASIA,lifeweaver,Runasapi,,,4.7
 ASIA,lifeweaver,Havana,,,6.6
 ASIA,lifeweaver,Ilios,,,4.7
 ASIA,lifeweaver,Suravasa,,,4.2
-ASIA,lifeweaver,Busan,,,4.3
 ASIA,lifeweaver,Numbani,,,7.0
+ASIA,lifeweaver,Busan,,,4.4
 ASIA,lifeweaver,Lijiang Tower,,,4.2
-ASIA,lifeweaver,Nepal,,,4.1
+ASIA,lifeweaver,Nepal,,,4.2
 ASIA,lifeweaver,Rialto,,,6.3
 ASIA,lifeweaver,Midtown,,,5.7
 ASIA,lifeweaver,Eichenwalde,,,5.7
 ASIA,lifeweaver,King's Row,,,5.9
+ASIA,lifeweaver,Dorado,,,6.7
 ASIA,lifeweaver,Hollywood,,,5.9
-ASIA,lifeweaver,Dorado,,,6.6
 US,lifeweaver,Junkertown,,,10.2
 US,lifeweaver,Runasapi,,,7.8
 US,lifeweaver,Watchpoint: Gibraltar,,,11.3
@@ -347,33 +347,33 @@ EU,lifeweaver,Lijiang Tower,,,7.4
 EU,lifeweaver,Watchpoint: Gibraltar,,,10.2
 EU,lifeweaver,Numbani,,,11.1
 EU,lifeweaver,Runasapi,,,8.6
-ASIA,emre,Colosseo,,,26.9
 ASIA,emre,Paraíso,,,26.5
+ASIA,emre,Colosseo,,,26.9
+ASIA,emre,Busan,,,23.8
 ASIA,emre,Suravasa,,,20.8
 ASIA,emre,Midtown,,,26.8
 ASIA,emre,Runasapi,,,24.8
-ASIA,emre,Busan,,,23.8
 ASIA,emre,Nepal,,,21.3
 ASIA,emre,Circuit Royal,,,28.7
 ASIA,emre,Shambali Monastery,,,27.0
 ASIA,emre,Route 66,,,24.7
 ASIA,emre,Hollywood,,,24.2
-ASIA,emre,Esperança,,,26.0
 ASIA,emre,Eichenwalde,,,20.9
+ASIA,emre,Esperança,,,25.8
 ASIA,emre,Numbani,,,22.7
 ASIA,emre,New Queen Street,,,24.7
 ASIA,emre,Ilios,,,19.2
 ASIA,emre,Antarctic Peninsula,,,20.1
-ASIA,emre,Dorado,,,26.5
-ASIA,emre,Samoa,,,22.1
 ASIA,emre,Blizzard World,,,25.9
-ASIA,emre,Aatlis,,,17.5
+ASIA,emre,Samoa,,,22.1
+ASIA,emre,Dorado,,,26.2
+ASIA,emre,Aatlis,,,17.4
 ASIA,emre,Watchpoint: Gibraltar,,,25.0
 ASIA,emre,New Junk City,,,17.3
 ASIA,emre,King's Row,,,22.3
 ASIA,emre,Lijiang Tower,,,20.0
-ASIA,emre,Rialto,,,26.3
-ASIA,emre,Junkertown,,,24.8
+ASIA,emre,Rialto,,,26.2
+ASIA,emre,Junkertown,,,24.5
 ASIA,emre,Oasis,,,18.4
 ASIA,emre,Havana,,,27.4
 US,emre,Havana,,,25.7
@@ -385,8 +385,8 @@ US,emre,Midtown,,,22.5
 US,emre,Paraíso,,,21.7
 US,emre,Busan,,,18.2
 US,emre,Route 66,,,20.4
-US,emre,Samoa,,,16.8
 US,emre,Circuit Royal,,,24.4
+US,emre,Samoa,,,16.8
 US,emre,Colosseo,,,19.7
 US,emre,Nepal,,,16.6
 US,emre,Hollywood,,,19.7
@@ -394,8 +394,8 @@ US,emre,Antarctic Peninsula,,,16.3
 US,emre,Rialto,,,21.9
 US,emre,New Queen Street,,,18.1
 US,emre,Suravasa,,,16.3
-US,emre,Shambali Monastery,,,20.8
 US,emre,Watchpoint: Gibraltar,,,19.9
+US,emre,Shambali Monastery,,,20.8
 US,emre,Lijiang Tower,,,15.9
 US,emre,Esperança,,,19.4
 US,emre,Oasis,,,15.2
@@ -414,52 +414,52 @@ EU,emre,Runasapi,,,21.5
 EU,emre,Junkertown,,,23.7
 EU,emre,Hollywood,,,20.8
 EU,emre,Aatlis,,,15.2
-EU,emre,Antarctic Peninsula,,,17.3
 EU,emre,Circuit Royal,,,26.4
+EU,emre,Antarctic Peninsula,,,17.3
 EU,emre,New Junk City,,,15.0
 EU,emre,Shambali Monastery,,,21.4
 EU,emre,Midtown,,,20.9
 EU,emre,Oasis,,,16.7
 EU,emre,Eichenwalde,,,18.6
-EU,emre,Nepal,,,17.8
 EU,emre,Esperança,,,19.3
+EU,emre,Nepal,,,17.8
 EU,emre,Ilios,,,15.8
 EU,emre,Samoa,,,17.5
-EU,emre,Havana,,,25.7
 EU,emre,Rialto,,,22.1
+EU,emre,Havana,,,25.7
 EU,emre,Blizzard World,,,22.8
 EU,emre,Paraíso,,,21.7
 EU,emre,Lijiang Tower,,,16.6
-EU,emre,King's Row,,,19.6
 EU,emre,Watchpoint: Gibraltar,,,21.3
+EU,emre,King's Row,,,19.6
 EU,emre,Route 66,,,21.5
 EU,emre,Numbani,,,20.7
 ASIA,sojourn,New Junk City,,,18.0
-ASIA,sojourn,Dorado,,,7.8
+ASIA,sojourn,Dorado,,,7.7
 ASIA,sojourn,Circuit Royal,,,24.7
 ASIA,sojourn,Shambali Monastery,,,14.1
 ASIA,sojourn,Midtown,,,17.8
 ASIA,sojourn,Route 66,,,12.4
-ASIA,sojourn,Aatlis,,,15.6
+ASIA,sojourn,Aatlis,,,15.7
 ASIA,sojourn,Runasapi,,,15.7
-ASIA,sojourn,Nepal,,,15.5
-ASIA,sojourn,Esperança,,,13.5
+ASIA,sojourn,Esperança,,,13.7
+ASIA,sojourn,Nepal,,,15.4
 ASIA,sojourn,Eichenwalde,,,12.1
-ASIA,sojourn,Watchpoint: Gibraltar,,,6.8
 ASIA,sojourn,Samoa,,,14.8
+ASIA,sojourn,Watchpoint: Gibraltar,,,6.8
 ASIA,sojourn,Havana,,,18.7
 ASIA,sojourn,King's Row,,,15.1
 ASIA,sojourn,Suravasa,,,17.1
 ASIA,sojourn,Blizzard World,,,15.0
-ASIA,sojourn,Antarctic Peninsula,,,13.9
 ASIA,sojourn,Lijiang Tower,,,14.5
+ASIA,sojourn,Busan,,,13.3
 ASIA,sojourn,New Queen Street,,,15.9
+ASIA,sojourn,Antarctic Peninsula,,,13.8
 ASIA,sojourn,Ilios,,,7.5
-ASIA,sojourn,Junkertown,,,12.5
-ASIA,sojourn,Busan,,,13.4
 ASIA,sojourn,Oasis,,,11.6
 ASIA,sojourn,Colosseo,,,16.8
 ASIA,sojourn,Rialto,,,11.7
+ASIA,sojourn,Junkertown,,,12.4
 ASIA,sojourn,Hollywood,,,11.6
 ASIA,sojourn,Paraíso,,,9.6
 ASIA,sojourn,Numbani,,,7.9
@@ -474,8 +474,8 @@ US,sojourn,Oasis,,,15.1
 US,sojourn,Samoa,,,17.4
 US,sojourn,Circuit Royal,,,22.4
 US,sojourn,Havana,,,18.7
-US,sojourn,New Queen Street,,,16.5
 US,sojourn,Ilios,,,11.2
+US,sojourn,New Queen Street,,,16.5
 US,sojourn,Esperança,,,15.9
 US,sojourn,Lijiang Tower,,,16.1
 US,sojourn,Busan,,,15.5
@@ -512,8 +512,8 @@ EU,sojourn,Antarctic Peninsula,,,16.0
 EU,sojourn,New Junk City,,,17.8
 EU,sojourn,Junkertown,,,16.4
 EU,sojourn,Hollywood,,,16.2
-EU,sojourn,Ilios,,,11.5
 EU,sojourn,Esperança,,,16.1
+EU,sojourn,Ilios,,,11.5
 EU,sojourn,Dorado,,,10.6
 EU,sojourn,Paraíso,,,13.4
 EU,sojourn,Eichenwalde,,,15.0
@@ -522,17 +522,17 @@ EU,sojourn,Route 66,,,15.5
 EU,sojourn,Midtown,,,20.0
 EU,sojourn,Numbani,,,13.5
 ASIA,ashe,Numbani,,,12.8
-ASIA,ashe,Rialto,,,11.0
+ASIA,ashe,Rialto,,,10.9
 ASIA,ashe,New Queen Street,,,3.7
-ASIA,ashe,Antarctic Peninsula,,,2.8
 ASIA,ashe,Esperança,,,3.8
-ASIA,ashe,New Junk City,,,1.2
+ASIA,ashe,Antarctic Peninsula,,,2.8
+ASIA,ashe,Dorado,,,12.2
 ASIA,ashe,Nepal,,,4.0
+ASIA,ashe,New Junk City,,,1.2
 ASIA,ashe,Watchpoint: Gibraltar,,,14.8
 ASIA,ashe,Busan,,,4.3
-ASIA,ashe,Dorado,,,12.1
+ASIA,ashe,Junkertown,,,11.4
 ASIA,ashe,Hollywood,,,11.3
-ASIA,ashe,Junkertown,,,11.5
 ASIA,ashe,Suravasa,,,1.6
 ASIA,ashe,Shambali Monastery,,,8.4
 ASIA,ashe,Circuit Royal,,,13.2
@@ -553,8 +553,8 @@ ASIA,ashe,Oasis,,,2.1
 US,ashe,Circuit Royal,,,20.1
 US,ashe,Route 66,,,14.8
 US,ashe,Dorado,,,12.4
-US,ashe,Havana,,,18.7
 US,ashe,Junkertown,,,18.1
+US,ashe,Havana,,,18.7
 US,ashe,Nepal,,,5.4
 US,ashe,Rialto,,,15.6
 US,ashe,Shambali Monastery,,,13.1
@@ -582,8 +582,8 @@ US,ashe,New Junk City,,,2.6
 EU,ashe,New Junk City,,,2.9
 EU,ashe,Circuit Royal,,,18.8
 EU,ashe,Route 66,,,15.0
-EU,ashe,Rialto,,,14.4
 EU,ashe,Junkertown,,,15.8
+EU,ashe,Rialto,,,14.4
 EU,ashe,Blizzard World,,,12.7
 EU,ashe,Havana,,,18.4
 EU,ashe,Numbani,,,15.0
@@ -613,29 +613,29 @@ ASIA,mizuki,Hollywood,,,4.7
 ASIA,mizuki,Shambali Monastery,,,4.2
 ASIA,mizuki,Oasis,,,7.8
 ASIA,mizuki,Samoa,,,7.2
-ASIA,mizuki,Lijiang Tower,,,7.3
 ASIA,mizuki,Antarctic Peninsula,,,7.3
+ASIA,mizuki,Lijiang Tower,,,7.3
 ASIA,mizuki,New Junk City,,,8.4
 ASIA,mizuki,Runasapi,,,6.8
-ASIA,mizuki,Esperança,,,6.7
+ASIA,mizuki,Esperança,,,6.6
 ASIA,mizuki,Nepal,,,7.0
-ASIA,mizuki,Busan,,,7.3
 ASIA,mizuki,Aatlis,,,10.5
 ASIA,mizuki,Ilios,,,7.7
 ASIA,mizuki,King's Row,,,4.7
+ASIA,mizuki,Busan,,,7.4
 ASIA,mizuki,Watchpoint: Gibraltar,,,4.2
 ASIA,mizuki,Suravasa,,,8.0
 ASIA,mizuki,New Queen Street,,,5.9
-ASIA,mizuki,Rialto,,,3.6
+ASIA,mizuki,Rialto,,,3.5
+ASIA,mizuki,Eichenwalde,,,5.0
 ASIA,mizuki,Colosseo,,,5.8
 ASIA,mizuki,Midtown,,,4.2
-ASIA,mizuki,Eichenwalde,,,5.0
 ASIA,mizuki,Numbani,,,3.7
-ASIA,mizuki,Junkertown,,,3.5
+ASIA,mizuki,Junkertown,,,3.4
 ASIA,mizuki,Blizzard World,,,3.8
 ASIA,mizuki,Havana,,,2.2
 ASIA,mizuki,Paraíso,,,3.9
-ASIA,mizuki,Dorado,,,4.5
+ASIA,mizuki,Dorado,,,4.4
 ASIA,mizuki,Route 66,,,4.4
 US,mizuki,Dorado,,,8.1
 US,mizuki,Antarctic Peninsula,,,11.7
@@ -652,11 +652,11 @@ US,mizuki,Nepal,,,10.9
 US,mizuki,Runasapi,,,9.9
 US,mizuki,Midtown,,,8.1
 US,mizuki,Esperança,,,9.7
-US,mizuki,Rialto,,,7.3
 US,mizuki,Aatlis,,,14.2
+US,mizuki,Rialto,,,7.3
 US,mizuki,Route 66,,,7.6
-US,mizuki,Ilios,,,10.4
 US,mizuki,Circuit Royal,,,5.0
+US,mizuki,Ilios,,,10.4
 US,mizuki,King's Row,,,8.6
 US,mizuki,Hollywood,,,8.1
 US,mizuki,Eichenwalde,,,9.4
@@ -700,27 +700,27 @@ ASIA,sigma,Havana,,,27.7
 ASIA,sigma,Shambali Monastery,,,19.8
 ASIA,sigma,Midtown,,,19.6
 ASIA,sigma,Blizzard World,,,14.2
+ASIA,sigma,Junkertown,,,22.4
 ASIA,sigma,Ilios,,,4.3
-ASIA,sigma,Junkertown,,,22.1
 ASIA,sigma,Route 66,,,13.1
-ASIA,sigma,Nepal,,,9.5
+ASIA,sigma,Nepal,,,9.4
 ASIA,sigma,King's Row,,,12.9
 ASIA,sigma,Numbani,,,7.8
 ASIA,sigma,Samoa,,,8.6
 ASIA,sigma,Suravasa,,,6.3
-ASIA,sigma,Rialto,,,13.3
+ASIA,sigma,Rialto,,,13.2
+ASIA,sigma,Busan,,,8.0
 ASIA,sigma,Hollywood,,,11.7
 ASIA,sigma,Lijiang Tower,,,6.4
-ASIA,sigma,Busan,,,8.2
 ASIA,sigma,New Junk City,,,6.6
 ASIA,sigma,Oasis,,,5.6
+ASIA,sigma,Antarctic Peninsula,,,8.8
 ASIA,sigma,Colosseo,,,8.9
 ASIA,sigma,Eichenwalde,,,11.9
 ASIA,sigma,Runasapi,,,7.2
-ASIA,sigma,Aatlis,,,6.1
+ASIA,sigma,Aatlis,,,6.0
 ASIA,sigma,Paraíso,,,11.3
-ASIA,sigma,Antarctic Peninsula,,,8.8
-ASIA,sigma,Dorado,,,7.6
+ASIA,sigma,Dorado,,,7.8
 ASIA,sigma,New Queen Street,,,7.6
 ASIA,sigma,Esperança,,,6.1
 ASIA,sigma,Watchpoint: Gibraltar,,,6.0
@@ -785,16 +785,16 @@ EU,sigma,Aatlis,,,4.4
 ASIA,domina,Midtown,,,6.9
 ASIA,domina,Circuit Royal,,,8.9
 ASIA,domina,Eichenwalde,,,3.9
-ASIA,domina,Busan,,,2.6
 ASIA,domina,Lijiang Tower,,,2.6
 ASIA,domina,Hollywood,,,3.5
-ASIA,domina,Esperança,,,2.1
+ASIA,domina,Busan,,,2.5
 ASIA,domina,Antarctic Peninsula,,,3.2
-ASIA,domina,Nepal,,,2.6
 ASIA,domina,Runasapi,,,2.8
+ASIA,domina,Esperança,,,2.1
 ASIA,domina,Blizzard World,,,4.2
+ASIA,domina,Nepal,,,2.5
 ASIA,domina,Havana,,,6.8
-ASIA,domina,Rialto,,,3.9
+ASIA,domina,Rialto,,,3.8
 ASIA,domina,New Queen Street,,,2.9
 ASIA,domina,King's Row,,,3.9
 ASIA,domina,Shambali Monastery,,,5.4
@@ -805,19 +805,19 @@ ASIA,domina,New Junk City,,,2.5
 ASIA,domina,Route 66,,,3.1
 ASIA,domina,Numbani,,,2.3
 ASIA,domina,Ilios,,,1.6
-ASIA,domina,Junkertown,,,4.8
 ASIA,domina,Colosseo,,,2.9
 ASIA,domina,Oasis,,,2.1
-ASIA,domina,Watchpoint: Gibraltar,,,2.1
+ASIA,domina,Junkertown,,,4.7
 ASIA,domina,Aatlis,,,1.9
-ASIA,domina,Dorado,,,2.2
+ASIA,domina,Watchpoint: Gibraltar,,,2.1
+ASIA,domina,Dorado,,,2.1
 US,domina,Numbani,,,2.8
 US,domina,Suravasa,,,2.9
 US,domina,Circuit Royal,,,8.3
 US,domina,Havana,,,9.3
 US,domina,Rialto,,,5.4
-US,domina,Nepal,,,3.6
 US,domina,Lijiang Tower,,,3.1
+US,domina,Nepal,,,3.6
 US,domina,New Junk City,,,2.7
 US,domina,Blizzard World,,,4.2
 US,domina,Busan,,,3.2
@@ -853,9 +853,9 @@ EU,domina,Lijiang Tower,,,2.6
 EU,domina,Circuit Royal,,,7.9
 EU,domina,Esperança,,,2.1
 EU,domina,Midtown,,,6.8
+EU,domina,Hollywood,,,4.7
 EU,domina,Eichenwalde,,,4.5
 EU,domina,Antarctic Peninsula,,,3.0
-EU,domina,Hollywood,,,4.7
 EU,domina,Junkertown,,,4.9
 EU,domina,Watchpoint: Gibraltar,,,2.2
 EU,domina,King's Row,,,4.6
@@ -872,30 +872,30 @@ EU,domina,Dorado,,,3.0
 ASIA,pharah,Paraíso,,,8.6
 ASIA,pharah,Watchpoint: Gibraltar,,,4.3
 ASIA,pharah,Lijiang Tower,,,9.8
-ASIA,pharah,Nepal,,,9.2
 ASIA,pharah,Rialto,,,9.0
+ASIA,pharah,Nepal,,,9.2
 ASIA,pharah,Suravasa,,,6.0
+ASIA,pharah,Esperança,,,5.9
 ASIA,pharah,Eichenwalde,,,8.8
 ASIA,pharah,Colosseo,,,7.0
-ASIA,pharah,Esperança,,,6.0
 ASIA,pharah,Ilios,,,7.5
 ASIA,pharah,Shambali Monastery,,,8.2
 ASIA,pharah,Circuit Royal,,,9.1
 ASIA,pharah,Oasis,,,7.5
 ASIA,pharah,King's Row,,,8.8
-ASIA,pharah,Busan,,,4.0
+ASIA,pharah,Busan,,,3.9
 ASIA,pharah,New Queen Street,,,4.9
 ASIA,pharah,Runasapi,,,5.2
 ASIA,pharah,Numbani,,,7.3
-ASIA,pharah,Samoa,,,5.9
+ASIA,pharah,Dorado,,,7.1
 ASIA,pharah,Aatlis,,,5.6
-ASIA,pharah,Dorado,,,7.0
-ASIA,pharah,Antarctic Peninsula,,,7.0
+ASIA,pharah,Samoa,,,5.9
+ASIA,pharah,Antarctic Peninsula,,,6.9
 ASIA,pharah,Route 66,,,4.9
 ASIA,pharah,Blizzard World,,,4.3
 ASIA,pharah,New Junk City,,,4.6
-ASIA,pharah,Midtown,,,6.5
 ASIA,pharah,Junkertown,,,4.2
+ASIA,pharah,Midtown,,,6.5
 ASIA,pharah,Hollywood,,,5.6
 ASIA,pharah,Havana,,,3.8
 US,pharah,Shambali Monastery,,,5.4
@@ -917,10 +917,10 @@ US,pharah,Watchpoint: Gibraltar,,,3.2
 US,pharah,King's Row,,,6.7
 US,pharah,Midtown,,,4.3
 US,pharah,Suravasa,,,4.0
-US,pharah,Paraíso,,,4.8
 US,pharah,Junkertown,,,2.6
-US,pharah,Circuit Royal,,,5.5
+US,pharah,Paraíso,,,4.8
 US,pharah,Runasapi,,,3.6
+US,pharah,Circuit Royal,,,5.5
 US,pharah,New Junk City,,,3.3
 US,pharah,Aatlis,,,3.5
 US,pharah,Antarctic Peninsula,,,4.3
@@ -944,8 +944,8 @@ EU,pharah,Suravasa,,,5.7
 EU,pharah,Havana,,,3.5
 EU,pharah,Eichenwalde,,,10.0
 EU,pharah,Samoa,,,6.1
-EU,pharah,Runasapi,,,5.1
 EU,pharah,Esperança,,,5.2
+EU,pharah,Runasapi,,,5.1
 EU,pharah,Route 66,,,5.0
 EU,pharah,Antarctic Peninsula,,,5.8
 EU,pharah,Numbani,,,6.5
@@ -953,14 +953,14 @@ EU,pharah,New Junk City,,,4.4
 EU,pharah,Aatlis,,,4.4
 EU,pharah,New Queen Street,,,4.5
 EU,pharah,Circuit Royal,,,6.5
-EU,pharah,Watchpoint: Gibraltar,,,4.8
 EU,pharah,Hollywood,,,6.8
+EU,pharah,Watchpoint: Gibraltar,,,4.8
 EU,pharah,Midtown,,,5.4
-ASIA,symmetra,Busan,,,3.2
-ASIA,symmetra,Runasapi,,,1.4
 ASIA,symmetra,Route 66,,,1.2
+ASIA,symmetra,Runasapi,,,1.4
 ASIA,symmetra,Lijiang Tower,,,5.2
-ASIA,symmetra,Aatlis,,,2.4
+ASIA,symmetra,Aatlis,,,2.3
+ASIA,symmetra,Busan,,,3.3
 ASIA,symmetra,Samoa,,,3.9
 ASIA,symmetra,Nepal,,,4.9
 ASIA,symmetra,Paraíso,,,2.1
@@ -974,17 +974,17 @@ ASIA,symmetra,Shambali Monastery,,,2.0
 ASIA,symmetra,Ilios,,,2.9
 ASIA,symmetra,Oasis,,,3.2
 ASIA,symmetra,New Junk City,,,2.9
-ASIA,symmetra,Antarctic Peninsula,,,3.1
-ASIA,symmetra,Rialto,,,1.5
+ASIA,symmetra,Antarctic Peninsula,,,3.2
 ASIA,symmetra,Colosseo,,,1.3
 ASIA,symmetra,Numbani,,,1.7
 ASIA,symmetra,Eichenwalde,,,2.3
+ASIA,symmetra,Esperança,,,1.2
 ASIA,symmetra,Watchpoint: Gibraltar,,,1.3
-ASIA,symmetra,Esperança,,,1.1
+ASIA,symmetra,Rialto,,,1.5
 ASIA,symmetra,Midtown,,,3.5
 ASIA,symmetra,Junkertown,,,1.1
 ASIA,symmetra,Hollywood,,,2.1
-ASIA,symmetra,Dorado,,,1.3
+ASIA,symmetra,Dorado,,,1.4
 US,symmetra,Esperança,,,1.0
 US,symmetra,Suravasa,,,1.8
 US,symmetra,Lijiang Tower,,,4.0
@@ -1001,8 +1001,8 @@ US,symmetra,Samoa,,,2.0
 US,symmetra,Busan,,,1.7
 US,symmetra,Ilios,,,1.7
 US,symmetra,Paraíso,,,1.7
-US,symmetra,Aatlis,,,1.6
 US,symmetra,Oasis,,,1.8
+US,symmetra,Aatlis,,,1.6
 US,symmetra,Havana,,,1.8
 US,symmetra,New Queen Street,,,0.8
 US,symmetra,King's Row,,,2.1
@@ -1047,29 +1047,29 @@ ASIA,anran,Midtown,,,4.4
 ASIA,anran,Rialto,,,3.4
 ASIA,anran,Watchpoint: Gibraltar,,,3.0
 ASIA,anran,Havana,,,3.0
-ASIA,anran,Aatlis,,,8.6
+ASIA,anran,Aatlis,,,8.7
+ASIA,anran,Junkertown,,,4.2
 ASIA,anran,Colosseo,,,5.7
 ASIA,anran,King's Row,,,4.6
 ASIA,anran,New Queen Street,,,5.0
 ASIA,anran,Ilios,,,5.6
 ASIA,anran,Blizzard World,,,3.5
-ASIA,anran,Junkertown,,,4.1
 ASIA,anran,New Junk City,,,8.7
 ASIA,anran,Oasis,,,6.0
-ASIA,anran,Esperança,,,4.8
 ASIA,anran,Hollywood,,,4.1
 ASIA,anran,Samoa,,,6.7
+ASIA,anran,Esperança,,,4.8
 ASIA,anran,Lijiang Tower,,,6.2
-ASIA,anran,Antarctic Peninsula,,,6.4
 ASIA,anran,Suravasa,,,6.7
 ASIA,anran,Shambali Monastery,,,4.7
+ASIA,anran,Antarctic Peninsula,,,6.3
+ASIA,anran,Busan,,,5.5
+ASIA,anran,Dorado,,,3.6
 ASIA,anran,Numbani,,,3.7
 ASIA,anran,Circuit Royal,,,2.2
-ASIA,anran,Dorado,,,3.7
 ASIA,anran,Runasapi,,,5.6
 ASIA,anran,Eichenwalde,,,3.9
-ASIA,anran,Busan,,,5.6
-ASIA,anran,Nepal,,,6.2
+ASIA,anran,Nepal,,,6.1
 ASIA,anran,Route 66,,,3.7
 ASIA,anran,Paraíso,,,4.3
 US,anran,Colosseo,,,7.5
@@ -1110,8 +1110,8 @@ EU,anran,Watchpoint: Gibraltar,,,4.5
 EU,anran,Havana,,,3.9
 EU,anran,New Junk City,,,8.8
 EU,anran,Colosseo,,,5.7
-EU,anran,Esperança,,,6.1
 EU,anran,Dorado,,,4.4
+EU,anran,Esperança,,,6.1
 EU,anran,Midtown,,,4.2
 EU,anran,Suravasa,,,7.2
 EU,anran,New Queen Street,,,5.7
@@ -1120,8 +1120,8 @@ EU,anran,Circuit Royal,,,2.8
 EU,anran,Shambali Monastery,,,5.1
 EU,anran,Antarctic Peninsula,,,6.7
 EU,anran,Samoa,,,6.7
-EU,anran,Hollywood,,,4.7
 EU,anran,Runasapi,,,5.7
+EU,anran,Hollywood,,,4.7
 EU,anran,Blizzard World,,,4.0
 EU,anran,Ilios,,,6.4
 EU,anran,Nepal,,,6.7
@@ -1131,37 +1131,37 @@ EU,anran,Oasis,,,6.7
 EU,anran,Numbani,,,3.8
 EU,anran,Paraíso,,,4.7
 ASIA,illari,Havana,,,27.8
-ASIA,illari,Rialto,,,23.5
+ASIA,illari,Busan,,,17.7
 ASIA,illari,Hollywood,,,20.7
-ASIA,illari,Busan,,,18.0
+ASIA,illari,Rialto,,,23.5
+ASIA,illari,Shambali Monastery,,,24.6
+ASIA,illari,Oasis,,,15.9
 ASIA,illari,Dorado,,,21.5
 ASIA,illari,Midtown,,,23.7
-ASIA,illari,Oasis,,,15.9
-ASIA,illari,Shambali Monastery,,,24.6
 ASIA,illari,Samoa,,,17.8
 ASIA,illari,Colosseo,,,21.2
-ASIA,illari,Circuit Royal,,,28.9
 ASIA,illari,Runasapi,,,18.2
-ASIA,illari,Esperança,,,18.7
-ASIA,illari,Antarctic Peninsula,,,17.4
+ASIA,illari,Circuit Royal,,,28.9
+ASIA,illari,Antarctic Peninsula,,,17.3
 ASIA,illari,Suravasa,,,16.4
 ASIA,illari,Eichenwalde,,,20.6
-ASIA,illari,Aatlis,,,12.2
-ASIA,illari,Blizzard World,,,22.0
 ASIA,illari,Watchpoint: Gibraltar,,,19.6
+ASIA,illari,Blizzard World,,,22.0
+ASIA,illari,Aatlis,,,12.1
+ASIA,illari,Esperança,,,18.5
 ASIA,illari,Ilios,,,15.3
-ASIA,illari,Nepal,,,17.1
 ASIA,illari,King's Row,,,20.1
 ASIA,illari,Lijiang Tower,,,16.0
-ASIA,illari,Junkertown,,,25.3
 ASIA,illari,Route 66,,,22.6
+ASIA,illari,Junkertown,,,25.4
+ASIA,illari,Nepal,,,17.0
 ASIA,illari,New Junk City,,,13.0
 ASIA,illari,Numbani,,,20.0
 ASIA,illari,New Queen Street,,,20.1
 ASIA,illari,Paraíso,,,23.1
 US,illari,Busan,,,11.6
-US,illari,Oasis,,,10.7
 US,illari,Circuit Royal,,,18.9
+US,illari,Oasis,,,10.7
 US,illari,Runasapi,,,12.8
 US,illari,Route 66,,,16.4
 US,illari,Shambali Monastery,,,16.1
@@ -1173,17 +1173,17 @@ US,illari,Lijiang Tower,,,9.9
 US,illari,Antarctic Peninsula,,,10.7
 US,illari,Colosseo,,,12.0
 US,illari,Rialto,,,16.3
-US,illari,Suravasa,,,10.6
 US,illari,Hollywood,,,14.6
+US,illari,Suravasa,,,10.6
 US,illari,Esperança,,,12.3
 US,illari,Watchpoint: Gibraltar,,,14.6
 US,illari,Ilios,,,9.8
 US,illari,Eichenwalde,,,14.2
 US,illari,King's Row,,,13.4
-US,illari,Dorado,,,14.8
 US,illari,Midtown,,,17.3
-US,illari,Aatlis,,,9.0
+US,illari,Dorado,,,14.8
 US,illari,Junkertown,,,18.1
+US,illari,Aatlis,,,9.0
 US,illari,Nepal,,,10.7
 US,illari,Blizzard World,,,14.5
 US,illari,Paraíso,,,15.8
@@ -1191,8 +1191,8 @@ US,illari,Numbani,,,13.6
 EU,illari,Route 66,,,17.5
 EU,illari,Havana,,,19.0
 EU,illari,Shambali Monastery,,,18.0
-EU,illari,Hollywood,,,16.4
 EU,illari,New Junk City,,,10.2
+EU,illari,Hollywood,,,16.4
 EU,illari,Runasapi,,,13.8
 EU,illari,Antarctic Peninsula,,,12.5
 EU,illari,Eichenwalde,,,15.9
@@ -1212,37 +1212,37 @@ EU,illari,Aatlis,,,10.8
 EU,illari,Suravasa,,,12.6
 EU,illari,Ilios,,,11.1
 EU,illari,Watchpoint: Gibraltar,,,15.8
-EU,illari,New Queen Street,,,13.5
 EU,illari,Blizzard World,,,15.7
+EU,illari,New Queen Street,,,13.5
 EU,illari,Numbani,,,15.7
 EU,illari,Midtown,,,18.6
 EU,illari,Paraíso,,,16.8
 ASIA,wuyang,Route 66,,,16.2
 ASIA,wuyang,Shambali Monastery,,,18.9
+ASIA,wuyang,Esperança,,,20.3
 ASIA,wuyang,Watchpoint: Gibraltar,,,11.5
-ASIA,wuyang,Esperança,,,20.2
-ASIA,wuyang,Eichenwalde,,,18.3
 ASIA,wuyang,New Queen Street,,,21.3
+ASIA,wuyang,Eichenwalde,,,18.3
 ASIA,wuyang,Midtown,,,19.3
 ASIA,wuyang,Colosseo,,,20.3
 ASIA,wuyang,Samoa,,,20.3
 ASIA,wuyang,Suravasa,,,20.6
+ASIA,wuyang,Nepal,,,20.5
 ASIA,wuyang,Oasis,,,18.7
-ASIA,wuyang,Rialto,,,14.6
 ASIA,wuyang,Antarctic Peninsula,,,20.1
-ASIA,wuyang,Nepal,,,20.6
-ASIA,wuyang,Aatlis,,,23.4
-ASIA,wuyang,New Junk City,,,23.6
+ASIA,wuyang,Aatlis,,,23.3
+ASIA,wuyang,Rialto,,,14.4
 ASIA,wuyang,Busan,,,18.0
+ASIA,wuyang,New Junk City,,,23.6
 ASIA,wuyang,Lijiang Tower,,,19.5
 ASIA,wuyang,Ilios,,,14.9
-ASIA,wuyang,Junkertown,,,15.6
 ASIA,wuyang,Runasapi,,,20.9
 ASIA,wuyang,Blizzard World,,,15.5
+ASIA,wuyang,Junkertown,,,15.3
 ASIA,wuyang,Circuit Royal,,,14.5
 ASIA,wuyang,King's Row,,,17.8
 ASIA,wuyang,Havana,,,14.8
-ASIA,wuyang,Dorado,,,13.9
+ASIA,wuyang,Dorado,,,13.8
 ASIA,wuyang,Numbani,,,13.3
 ASIA,wuyang,Hollywood,,,16.3
 ASIA,wuyang,Paraíso,,,16.2
@@ -1259,13 +1259,13 @@ US,wuyang,New Queen Street,,,9.2
 US,wuyang,Dorado,,,8.6
 US,wuyang,Watchpoint: Gibraltar,,,7.2
 US,wuyang,Antarctic Peninsula,,,8.1
-US,wuyang,Busan,,,9.0
 US,wuyang,Eichenwalde,,,9.5
+US,wuyang,Busan,,,9.0
 US,wuyang,Runasapi,,,9.4
 US,wuyang,Paraíso,,,8.2
+US,wuyang,Hollywood,,,8.0
 US,wuyang,Route 66,,,8.3
 US,wuyang,Nepal,,,8.8
-US,wuyang,Hollywood,,,8.0
 US,wuyang,Rialto,,,8.5
 US,wuyang,Suravasa,,,8.5
 US,wuyang,King's Row,,,8.7
@@ -1305,27 +1305,27 @@ EU,wuyang,New Junk City,,,8.9
 EU,wuyang,Shambali Monastery,,,8.6
 EU,wuyang,Numbani,,,6.1
 ASIA,zenyatta,Havana,,,21.4
+ASIA,zenyatta,Nepal,,,8.0
 ASIA,zenyatta,Junkertown,,,13.3
-ASIA,zenyatta,Nepal,,,8.1
 ASIA,zenyatta,Busan,,,7.2
 ASIA,zenyatta,Circuit Royal,,,25.1
 ASIA,zenyatta,Eichenwalde,,,12.2
 ASIA,zenyatta,New Junk City,,,5.8
+ASIA,zenyatta,Rialto,,,12.6
 ASIA,zenyatta,Suravasa,,,6.2
 ASIA,zenyatta,Oasis,,,6.3
-ASIA,zenyatta,Rialto,,,12.6
 ASIA,zenyatta,Blizzard World,,,11.0
+ASIA,zenyatta,Dorado,,,7.4
 ASIA,zenyatta,New Queen Street,,,6.0
-ASIA,zenyatta,Lijiang Tower,,,7.3
 ASIA,zenyatta,Watchpoint: Gibraltar,,,6.5
-ASIA,zenyatta,Antarctic Peninsula,,,7.0
-ASIA,zenyatta,Dorado,,,7.2
+ASIA,zenyatta,Lijiang Tower,,,7.3
+ASIA,zenyatta,Antarctic Peninsula,,,7.1
 ASIA,zenyatta,King's Row,,,15.3
 ASIA,zenyatta,Ilios,,,5.1
-ASIA,zenyatta,Colosseo,,,7.4
-ASIA,zenyatta,Aatlis,,,4.2
 ASIA,zenyatta,Esperança,,,4.6
+ASIA,zenyatta,Colosseo,,,7.4
 ASIA,zenyatta,Midtown,,,13.7
+ASIA,zenyatta,Aatlis,,,4.2
 ASIA,zenyatta,Route 66,,,11.3
 ASIA,zenyatta,Numbani,,,7.4
 ASIA,zenyatta,Paraíso,,,9.2
@@ -1365,15 +1365,15 @@ US,zenyatta,Esperança,,,6.7
 EU,zenyatta,Rialto,,,14.3
 EU,zenyatta,Junkertown,,,14.7
 EU,zenyatta,New Queen Street,,,8.2
-EU,zenyatta,Ilios,,,7.5
 EU,zenyatta,Colosseo,,,10.6
+EU,zenyatta,Ilios,,,7.5
 EU,zenyatta,Havana,,,17.2
 EU,zenyatta,Esperança,,,8.3
 EU,zenyatta,Antarctic Peninsula,,,9.3
 EU,zenyatta,King's Row,,,14.7
 EU,zenyatta,Circuit Royal,,,16.5
-EU,zenyatta,Watchpoint: Gibraltar,,,8.7
 EU,zenyatta,Numbani,,,9.2
+EU,zenyatta,Watchpoint: Gibraltar,,,8.7
 EU,zenyatta,Aatlis,,,7.8
 EU,zenyatta,Oasis,,,9.1
 EU,zenyatta,Lijiang Tower,,,8.8
@@ -1391,8 +1391,8 @@ EU,zenyatta,Dorado,,,9.3
 EU,zenyatta,Busan,,,9.2
 EU,zenyatta,New Junk City,,,8.7
 EU,zenyatta,Runasapi,,,8.4
-ASIA,ana,Dorado,,,63.6
-ASIA,ana,Rialto,,,65.1
+ASIA,ana,Dorado,,,63.4
+ASIA,ana,Rialto,,,64.9
 ASIA,ana,Paraíso,,,60.5
 ASIA,ana,Havana,,,66.0
 ASIA,ana,King's Row,,,62.3
@@ -1401,20 +1401,20 @@ ASIA,ana,Watchpoint: Gibraltar,,,65.3
 ASIA,ana,Hollywood,,,66.4
 ASIA,ana,Route 66,,,63.9
 ASIA,ana,Shambali Monastery,,,60.0
+ASIA,ana,Junkertown,,,62.1
 ASIA,ana,Numbani,,,61.8
 ASIA,ana,Midtown,,,60.6
 ASIA,ana,Eichenwalde,,,57.2
-ASIA,ana,Junkertown,,,62.0
-ASIA,ana,Busan,,,48.5
 ASIA,ana,Circuit Royal,,,65.0
-ASIA,ana,Samoa,,,47.0
+ASIA,ana,Busan,,,48.3
 ASIA,ana,Nepal,,,48.7
-ASIA,ana,Aatlis,,,34.2
-ASIA,ana,Esperança,,,46.1
+ASIA,ana,Samoa,,,47.0
+ASIA,ana,Aatlis,,,34.1
 ASIA,ana,New Junk City,,,36.9
+ASIA,ana,Esperança,,,46.0
 ASIA,ana,Ilios,,,46.3
-ASIA,ana,Antarctic Peninsula,,,45.9
 ASIA,ana,Oasis,,,44.4
+ASIA,ana,Antarctic Peninsula,,,46.0
 ASIA,ana,New Queen Street,,,47.5
 ASIA,ana,Lijiang Tower,,,47.5
 ASIA,ana,Colosseo,,,51.6
@@ -1423,11 +1423,11 @@ ASIA,ana,Runasapi,,,43.2
 US,ana,Junkertown,,,44.8
 US,ana,Havana,,,46.8
 US,ana,King's Row,,,40.2
-US,ana,Midtown,,,39.0
 US,ana,Dorado,,,35.8
-US,ana,Rialto,,,42.8
-US,ana,Route 66,,,37.6
+US,ana,Midtown,,,39.0
 US,ana,Watchpoint: Gibraltar,,,38.3
+US,ana,Route 66,,,37.6
+US,ana,Rialto,,,42.8
 US,ana,Eichenwalde,,,35.7
 US,ana,Esperança,,,28.1
 US,ana,Circuit Royal,,,43.7
@@ -1481,18 +1481,18 @@ EU,ana,Suravasa,,,27.1
 ASIA,sierra,Havana,,,13.1
 ASIA,sierra,Circuit Royal,,,13.6
 ASIA,sierra,Midtown,,,11.3
+ASIA,sierra,Dorado,,,11.3
 ASIA,sierra,Blizzard World,,,10.9
 ASIA,sierra,King's Row,,,11.1
 ASIA,sierra,New Junk City,,,8.9
 ASIA,sierra,Paraíso,,,10.8
 ASIA,sierra,Suravasa,,,9.9
-ASIA,sierra,Dorado,,,11.3
 ASIA,sierra,Colosseo,,,11.0
-ASIA,sierra,Rialto,,,10.9
-ASIA,sierra,Esperança,,,10.5
+ASIA,sierra,Esperança,,,10.3
+ASIA,sierra,Rialto,,,10.7
 ASIA,sierra,Busan,,,10.1
 ASIA,sierra,Samoa,,,9.4
-ASIA,sierra,Antarctic Peninsula,,,10.8
+ASIA,sierra,Antarctic Peninsula,,,10.7
 ASIA,sierra,Route 66,,,11.7
 ASIA,sierra,Eichenwalde,,,10.2
 ASIA,sierra,Lijiang Tower,,,10.2
@@ -1500,12 +1500,12 @@ ASIA,sierra,Hollywood,,,10.7
 ASIA,sierra,Oasis,,,9.4
 ASIA,sierra,Shambali Monastery,,,12.2
 ASIA,sierra,New Queen Street,,,11.6
-ASIA,sierra,Junkertown,,,12.0
 ASIA,sierra,Numbani,,,12.1
 ASIA,sierra,Ilios,,,8.8
-ASIA,sierra,Aatlis,,,8.1
+ASIA,sierra,Junkertown,,,12.0
+ASIA,sierra,Aatlis,,,8.0
 ASIA,sierra,Runasapi,,,10.8
-ASIA,sierra,Nepal,,,10.2
+ASIA,sierra,Nepal,,,9.9
 ASIA,sierra,Watchpoint: Gibraltar,,,10.3
 US,sierra,Watchpoint: Gibraltar,,,14.6
 US,sierra,Junkertown,,,16.0
@@ -1513,13 +1513,13 @@ US,sierra,Dorado,,,15.9
 US,sierra,Suravasa,,,14.1
 US,sierra,Shambali Monastery,,,16.3
 US,sierra,Route 66,,,16.4
-US,sierra,Rialto,,,16.5
-US,sierra,King's Row,,,15.2
 US,sierra,Paraíso,,,15.6
+US,sierra,King's Row,,,15.2
+US,sierra,Rialto,,,16.5
 US,sierra,Eichenwalde,,,14.9
 US,sierra,Circuit Royal,,,17.9
-US,sierra,Oasis,,,13.9
 US,sierra,Numbani,,,15.0
+US,sierra,Oasis,,,13.9
 US,sierra,Blizzard World,,,15.8
 US,sierra,Colosseo,,,15.9
 US,sierra,Midtown,,,16.6
@@ -1542,14 +1542,14 @@ EU,sierra,Route 66,,,15.7
 EU,sierra,Hollywood,,,14.4
 EU,sierra,Midtown,,,14.9
 EU,sierra,Rialto,,,15.6
-EU,sierra,King's Row,,,14.4
 EU,sierra,Watchpoint: Gibraltar,,,13.9
+EU,sierra,King's Row,,,14.4
 EU,sierra,Eichenwalde,,,13.7
 EU,sierra,Suravasa,,,13.7
 EU,sierra,Runasapi,,,15.0
 EU,sierra,Blizzard World,,,15.4
-EU,sierra,Busan,,,14.1
 EU,sierra,Oasis,,,13.2
+EU,sierra,Busan,,,14.1
 EU,sierra,Colosseo,,,15.1
 EU,sierra,Circuit Royal,,,15.9
 EU,sierra,Shambali Monastery,,,15.5
@@ -1566,30 +1566,30 @@ EU,sierra,Aatlis,,,12.0
 EU,sierra,New Junk City,,,12.2
 EU,sierra,Esperança,,,14.5
 ASIA,cassidy,Oasis,,,38.3
-ASIA,cassidy,Antarctic Peninsula,,,35.2
+ASIA,cassidy,Antarctic Peninsula,,,35.3
 ASIA,cassidy,Samoa,,,32.9
-ASIA,cassidy,Busan,,,28.7
 ASIA,cassidy,Route 66,,,23.5
+ASIA,cassidy,Busan,,,28.9
 ASIA,cassidy,Lijiang Tower,,,32.0
 ASIA,cassidy,Ilios,,,31.9
-ASIA,cassidy,Dorado,,,24.3
 ASIA,cassidy,Aatlis,,,34.5
 ASIA,cassidy,Shambali Monastery,,,20.7
 ASIA,cassidy,New Junk City,,,33.7
-ASIA,cassidy,Nepal,,,29.8
+ASIA,cassidy,Nepal,,,29.9
+ASIA,cassidy,Dorado,,,24.2
 ASIA,cassidy,New Queen Street,,,25.4
 ASIA,cassidy,Watchpoint: Gibraltar,,,21.6
 ASIA,cassidy,King's Row,,,23.0
 ASIA,cassidy,Midtown,,,21.5
 ASIA,cassidy,Suravasa,,,32.3
 ASIA,cassidy,Hollywood,,,25.1
-ASIA,cassidy,Junkertown,,,20.0
+ASIA,cassidy,Junkertown,,,19.9
 ASIA,cassidy,Blizzard World,,,20.1
+ASIA,cassidy,Esperança,,,29.0
 ASIA,cassidy,Runasapi,,,27.7
-ASIA,cassidy,Esperança,,,28.9
 ASIA,cassidy,Colosseo,,,26.1
 ASIA,cassidy,Eichenwalde,,,26.6
-ASIA,cassidy,Rialto,,,18.8
+ASIA,cassidy,Rialto,,,19.0
 ASIA,cassidy,Numbani,,,23.0
 ASIA,cassidy,Havana,,,12.0
 ASIA,cassidy,Paraíso,,,22.5
@@ -1642,38 +1642,38 @@ EU,cassidy,Hollywood,,,19.4
 EU,cassidy,New Junk City,,,30.7
 EU,cassidy,Aatlis,,,30.2
 EU,cassidy,Blizzard World,,,18.2
-EU,cassidy,King's Row,,,19.3
 EU,cassidy,Suravasa,,,27.2
+EU,cassidy,King's Row,,,19.3
 EU,cassidy,New Queen Street,,,22.8
-EU,cassidy,Midtown,,,18.9
 EU,cassidy,Shambali Monastery,,,18.5
-EU,cassidy,Dorado,,,19.3
+EU,cassidy,Midtown,,,18.9
 EU,cassidy,Colosseo,,,22.2
+EU,cassidy,Dorado,,,19.3
 EU,cassidy,Havana,,,13.7
 EU,cassidy,Paraíso,,,20.1
 EU,cassidy,Numbani,,,18.2
 ASIA,soldier76,Route 66,,,8.4
 ASIA,soldier76,Runasapi,,,14.5
-ASIA,soldier76,Junkertown,,,10.4
-ASIA,soldier76,Busan,,,11.9
 ASIA,soldier76,Havana,,,8.7
+ASIA,soldier76,Junkertown,,,10.4
+ASIA,soldier76,Busan,,,11.6
 ASIA,soldier76,Antarctic Peninsula,,,8.6
-ASIA,soldier76,New Queen Street,,,19.7
 ASIA,soldier76,Hollywood,,,6.3
+ASIA,soldier76,New Queen Street,,,19.7
 ASIA,soldier76,New Junk City,,,8.2
 ASIA,soldier76,Colosseo,,,9.6
 ASIA,soldier76,Watchpoint: Gibraltar,,,8.4
+ASIA,soldier76,Nepal,,,7.5
 ASIA,soldier76,Circuit Royal,,,6.5
 ASIA,soldier76,Oasis,,,7.1
 ASIA,soldier76,Suravasa,,,9.1
-ASIA,soldier76,Nepal,,,7.5
 ASIA,soldier76,Lijiang Tower,,,6.7
+ASIA,soldier76,Aatlis,,,6.8
 ASIA,soldier76,Numbani,,,9.4
 ASIA,soldier76,Shambali Monastery,,,6.8
-ASIA,soldier76,Aatlis,,,6.8
+ASIA,soldier76,Rialto,,,8.1
+ASIA,soldier76,Esperança,,,11.1
 ASIA,soldier76,Dorado,,,9.2
-ASIA,soldier76,Esperança,,,11.2
-ASIA,soldier76,Rialto,,,8.2
 ASIA,soldier76,Blizzard World,,,8.9
 ASIA,soldier76,King's Row,,,5.4
 ASIA,soldier76,Samoa,,,7.5
@@ -1689,16 +1689,16 @@ US,soldier76,Havana,,,16.3
 US,soldier76,Busan,,,19.5
 US,soldier76,Esperança,,,20.3
 US,soldier76,Circuit Royal,,,13.5
-US,soldier76,Junkertown,,,17.7
 US,soldier76,Antarctic Peninsula,,,15.6
+US,soldier76,Junkertown,,,17.7
 US,soldier76,Nepal,,,15.0
 US,soldier76,Watchpoint: Gibraltar,,,15.7
 US,soldier76,Route 66,,,14.2
 US,soldier76,Blizzard World,,,16.4
 US,soldier76,Rialto,,,14.0
 US,soldier76,Oasis,,,15.0
-US,soldier76,Ilios,,,12.1
 US,soldier76,Eichenwalde,,,12.6
+US,soldier76,Ilios,,,12.1
 US,soldier76,New Junk City,,,14.7
 US,soldier76,Colosseo,,,17.9
 US,soldier76,Suravasa,,,16.5
@@ -1708,16 +1708,16 @@ US,soldier76,Lijiang Tower,,,12.8
 US,soldier76,Aatlis,,,13.1
 US,soldier76,Numbani,,,17.5
 US,soldier76,Paraíso,,,17.3
-US,soldier76,Hollywood,,,14.1
 US,soldier76,King's Row,,,10.8
-EU,soldier76,Junkertown,,,17.3
+US,soldier76,Hollywood,,,14.1
 EU,soldier76,New Queen Street,,,28.3
+EU,soldier76,Junkertown,,,17.3
 EU,soldier76,Runasapi,,,23.2
 EU,soldier76,Esperança,,,20.3
 EU,soldier76,New Junk City,,,15.4
 EU,soldier76,Antarctic Peninsula,,,15.3
-EU,soldier76,Samoa,,,14.6
 EU,soldier76,Busan,,,18.6
+EU,soldier76,Samoa,,,14.6
 EU,soldier76,Oasis,,,14.4
 EU,soldier76,Dorado,,,17.1
 EU,soldier76,Watchpoint: Gibraltar,,,16.2
@@ -1725,8 +1725,8 @@ EU,soldier76,Suravasa,,,17.1
 EU,soldier76,Route 66,,,14.8
 EU,soldier76,Paraíso,,,16.2
 EU,soldier76,Midtown,,,14.9
-EU,soldier76,Nepal,,,15.4
 EU,soldier76,Colosseo,,,18.7
+EU,soldier76,Nepal,,,15.4
 EU,soldier76,Numbani,,,16.0
 EU,soldier76,Havana,,,15.3
 EU,soldier76,Ilios,,,12.2
@@ -1746,27 +1746,27 @@ ASIA,moira,Aatlis,,,9.5
 ASIA,moira,Oasis,,,5.7
 ASIA,moira,New Junk City,,,9.0
 ASIA,moira,Ilios,,,5.2
-ASIA,moira,Esperança,,,5.1
+ASIA,moira,Esperança,,,5.0
 ASIA,moira,Numbani,,,2.6
-ASIA,moira,Antarctic Peninsula,,,6.3
+ASIA,moira,Antarctic Peninsula,,,6.2
 ASIA,moira,Midtown,,,3.5
+ASIA,moira,Busan,,,6.1
 ASIA,moira,Suravasa,,,7.0
 ASIA,moira,Colosseo,,,4.5
-ASIA,moira,Busan,,,6.2
-ASIA,moira,Runasapi,,,5.1
 ASIA,moira,Nepal,,,5.4
+ASIA,moira,Runasapi,,,5.1
 ASIA,moira,Watchpoint: Gibraltar,,,2.3
 ASIA,moira,Hollywood,,,2.8
 ASIA,moira,New Queen Street,,,5.1
 ASIA,moira,King's Row,,,3.7
-ASIA,moira,Rialto,,,2.6
 ASIA,moira,Havana,,,2.6
-ASIA,moira,Junkertown,,,2.8
+ASIA,moira,Rialto,,,2.5
 ASIA,moira,Eichenwalde,,,4.2
+ASIA,moira,Junkertown,,,2.7
 ASIA,moira,Blizzard World,,,2.6
+ASIA,moira,Dorado,,,2.0
 ASIA,moira,Circuit Royal,,,2.2
 ASIA,moira,Paraíso,,,3.0
-ASIA,moira,Dorado,,,2.0
 ASIA,moira,Route 66,,,2.7
 US,moira,Samoa,,,11.4
 US,moira,Lijiang Tower,,,11.7
@@ -1798,12 +1798,12 @@ US,moira,Dorado,,,8.1
 US,moira,Havana,,,6.1
 US,moira,Blizzard World,,,7.9
 EU,moira,Nepal,,,11.5
-EU,moira,Lijiang Tower,,,11.1
 EU,moira,Rialto,,,6.7
+EU,moira,Lijiang Tower,,,11.1
 EU,moira,Aatlis,,,14.7
 EU,moira,Route 66,,,7.3
-EU,moira,Oasis,,,10.8
 EU,moira,Samoa,,,10.6
+EU,moira,Oasis,,,10.8
 EU,moira,Busan,,,10.5
 EU,moira,New Queen Street,,,10.7
 EU,moira,Junkertown,,,7.1
@@ -1816,8 +1816,8 @@ EU,moira,New Junk City,,,13.6
 EU,moira,King's Row,,,8.2
 EU,moira,Ilios,,,10.9
 EU,moira,Dorado,,,7.9
-EU,moira,Havana,,,5.5
 EU,moira,Esperança,,,10.4
+EU,moira,Havana,,,5.5
 EU,moira,Paraíso,,,7.2
 EU,moira,Eichenwalde,,,8.4
 EU,moira,Blizzard World,,,6.7
@@ -1829,29 +1829,29 @@ EU,moira,Circuit Royal,,,5.8
 ASIA,reaper,Eichenwalde,,,11.5
 ASIA,reaper,Suravasa,,,14.6
 ASIA,reaper,New Queen Street,,,10.4
-ASIA,reaper,Junkertown,,,9.6
+ASIA,reaper,Junkertown,,,9.7
 ASIA,reaper,Watchpoint: Gibraltar,,,12.8
+ASIA,reaper,Esperança,,,12.1
 ASIA,reaper,Ilios,,,15.5
 ASIA,reaper,New Junk City,,,15.2
 ASIA,reaper,Runasapi,,,12.1
 ASIA,reaper,Antarctic Peninsula,,,14.4
 ASIA,reaper,Samoa,,,14.6
 ASIA,reaper,Nepal,,,13.5
-ASIA,reaper,Esperança,,,12.0
 ASIA,reaper,Lijiang Tower,,,13.9
 ASIA,reaper,Numbani,,,11.5
 ASIA,reaper,Oasis,,,13.7
 ASIA,reaper,Havana,,,7.0
-ASIA,reaper,Aatlis,,,18.2
-ASIA,reaper,Dorado,,,14.8
+ASIA,reaper,Aatlis,,,18.3
 ASIA,reaper,Colosseo,,,10.9
+ASIA,reaper,Dorado,,,14.9
 ASIA,reaper,Rialto,,,9.7
 ASIA,reaper,Hollywood,,,11.2
 ASIA,reaper,King's Row,,,12.0
-ASIA,reaper,Paraíso,,,12.5
 ASIA,reaper,Route 66,,,12.1
+ASIA,reaper,Paraíso,,,12.5
 ASIA,reaper,Blizzard World,,,9.4
-ASIA,reaper,Busan,,,13.0
+ASIA,reaper,Busan,,,13.1
 ASIA,reaper,Midtown,,,10.2
 ASIA,reaper,Shambali Monastery,,,11.1
 ASIA,reaper,Circuit Royal,,,5.1
@@ -1862,21 +1862,21 @@ US,reaper,Oasis,,,13.5
 US,reaper,Lijiang Tower,,,13.3
 US,reaper,Antarctic Peninsula,,,13.1
 US,reaper,Nepal,,,12.8
-US,reaper,Busan,,,11.1
 US,reaper,Suravasa,,,13.7
+US,reaper,Busan,,,11.1
 US,reaper,Havana,,,6.1
 US,reaper,Ilios,,,13.6
 US,reaper,Numbani,,,10.4
-US,reaper,Colosseo,,,9.2
 US,reaper,Runasapi,,,9.8
+US,reaper,Colosseo,,,9.2
 US,reaper,King's Row,,,9.9
 US,reaper,Rialto,,,8.0
 US,reaper,Samoa,,,13.2
 US,reaper,Paraíso,,,9.6
 US,reaper,Route 66,,,10.7
 US,reaper,Hollywood,,,11.1
-US,reaper,Dorado,,,13.0
 US,reaper,Circuit Royal,,,4.9
+US,reaper,Dorado,,,13.0
 US,reaper,Esperança,,,10.6
 US,reaper,Watchpoint: Gibraltar,,,11.6
 US,reaper,Eichenwalde,,,10.2
@@ -1899,8 +1899,8 @@ EU,reaper,King's Row,,,8.5
 EU,reaper,Runasapi,,,9.0
 EU,reaper,Antarctic Peninsula,,,12.3
 EU,reaper,Rialto,,,7.0
-EU,reaper,Esperança,,,9.8
 EU,reaper,Eichenwalde,,,9.4
+EU,reaper,Esperança,,,9.8
 EU,reaper,Junkertown,,,6.4
 EU,reaper,Dorado,,,12.1
 EU,reaper,Hollywood,,,9.0
@@ -1909,34 +1909,34 @@ EU,reaper,Busan,,,10.6
 EU,reaper,Colosseo,,,8.4
 EU,reaper,Circuit Royal,,,4.5
 EU,reaper,Route 66,,,8.7
-EU,reaper,Numbani,,,9.3
 EU,reaper,Blizzard World,,,7.3
+EU,reaper,Numbani,,,9.3
 EU,reaper,Paraíso,,,8.8
 EU,reaper,Havana,,,5.1
 ASIA,genji,Route 66,,,18.0
 ASIA,genji,Midtown,,,13.6
-ASIA,genji,Junkertown,,,18.4
+ASIA,genji,Junkertown,,,18.7
 ASIA,genji,Havana,,,18.3
-ASIA,genji,Rialto,,,14.2
+ASIA,genji,Rialto,,,14.4
 ASIA,genji,King's Row,,,16.4
 ASIA,genji,Runasapi,,,12.8
-ASIA,genji,Nepal,,,14.4
-ASIA,genji,Suravasa,,,13.7
+ASIA,genji,Nepal,,,14.3
 ASIA,genji,Lijiang Tower,,,13.0
 ASIA,genji,New Queen Street,,,13.5
-ASIA,genji,Colosseo,,,13.6
 ASIA,genji,Ilios,,,15.1
+ASIA,genji,Suravasa,,,13.7
+ASIA,genji,Colosseo,,,13.6
 ASIA,genji,Watchpoint: Gibraltar,,,19.9
 ASIA,genji,Circuit Royal,,,15.0
 ASIA,genji,Dorado,,,17.8
-ASIA,genji,Esperança,,,14.4
 ASIA,genji,Shambali Monastery,,,15.3
 ASIA,genji,Hollywood,,,17.6
 ASIA,genji,Oasis,,,14.8
+ASIA,genji,Esperança,,,14.3
 ASIA,genji,Eichenwalde,,,16.0
 ASIA,genji,Aatlis,,,15.0
+ASIA,genji,Busan,,,14.2
 ASIA,genji,Antarctic Peninsula,,,14.7
-ASIA,genji,Busan,,,14.3
 ASIA,genji,Numbani,,,16.4
 ASIA,genji,Blizzard World,,,15.2
 ASIA,genji,New Junk City,,,15.6
@@ -1960,11 +1960,11 @@ US,genji,Suravasa,,,17.8
 US,genji,Eichenwalde,,,16.1
 US,genji,King's Row,,,16.0
 US,genji,Lijiang Tower,,,16.3
-US,genji,Nepal,,,18.3
 US,genji,New Junk City,,,18.7
-US,genji,Samoa,,,16.4
+US,genji,Nepal,,,18.3
 US,genji,Route 66,,,16.4
 US,genji,Antarctic Peninsula,,,17.4
+US,genji,Samoa,,,16.4
 US,genji,Ilios,,,17.7
 US,genji,Circuit Royal,,,14.0
 US,genji,Havana,,,14.8
@@ -1985,16 +1985,16 @@ EU,genji,Suravasa,,,17.9
 EU,genji,New Junk City,,,18.4
 EU,genji,Ilios,,,18.2
 EU,genji,Rialto,,,14.5
-EU,genji,Eichenwalde,,,15.6
 EU,genji,Runasapi,,,15.9
+EU,genji,Eichenwalde,,,15.6
 EU,genji,Lijiang Tower,,,16.9
 EU,genji,Nepal,,,17.2
 EU,genji,Esperança,,,18.3
 EU,genji,King's Row,,,15.3
 EU,genji,Junkertown,,,15.7
 EU,genji,Blizzard World,,,14.7
-EU,genji,Antarctic Peninsula,,,17.4
 EU,genji,Busan,,,17.3
+EU,genji,Antarctic Peninsula,,,17.4
 EU,genji,Hollywood,,,15.4
 EU,genji,Samoa,,,17.0
 EU,genji,Oasis,,,17.6
@@ -2002,14 +2002,14 @@ EU,genji,New Queen Street,,,16.5
 EU,genji,Circuit Royal,,,13.5
 ASIA,orisa,Eichenwalde,,,8.0
 ASIA,orisa,Shambali Monastery,,,9.0
-ASIA,orisa,Busan,,,8.5
+ASIA,orisa,Busan,,,8.6
+ASIA,orisa,Antarctic Peninsula,,,10.2
+ASIA,orisa,Junkertown,,,6.1
 ASIA,orisa,King's Row,,,9.6
-ASIA,orisa,Nepal,,,9.7
 ASIA,orisa,New Junk City,,,11.3
-ASIA,orisa,Antarctic Peninsula,,,10.3
+ASIA,orisa,Nepal,,,9.6
 ASIA,orisa,Oasis,,,8.7
 ASIA,orisa,Suravasa,,,9.5
-ASIA,orisa,Junkertown,,,6.0
 ASIA,orisa,Lijiang Tower,,,10.9
 ASIA,orisa,Samoa,,,9.3
 ASIA,orisa,New Queen Street,,,8.5
@@ -2020,9 +2020,9 @@ ASIA,orisa,Midtown,,,8.3
 ASIA,orisa,Hollywood,,,7.1
 ASIA,orisa,Runasapi,,,9.0
 ASIA,orisa,Paraíso,,,6.3
-ASIA,orisa,Esperança,,,7.5
 ASIA,orisa,Blizzard World,,,6.3
-ASIA,orisa,Aatlis,,,10.0
+ASIA,orisa,Esperança,,,7.4
+ASIA,orisa,Aatlis,,,9.8
 ASIA,orisa,Rialto,,,6.3
 ASIA,orisa,Route 66,,,5.4
 ASIA,orisa,Colosseo,,,8.3
@@ -2047,8 +2047,8 @@ US,orisa,Route 66,,,6.2
 US,orisa,New Queen Street,,,6.4
 US,orisa,Junkertown,,,5.8
 US,orisa,Rialto,,,7.1
-US,orisa,Circuit Royal,,,6.9
 US,orisa,Numbani,,,5.4
+US,orisa,Circuit Royal,,,6.9
 US,orisa,Watchpoint: Gibraltar,,,4.0
 US,orisa,Blizzard World,,,6.8
 US,orisa,New Junk City,,,7.7
@@ -2073,8 +2073,8 @@ EU,orisa,Suravasa,,,7.3
 EU,orisa,Samoa,,,6.9
 EU,orisa,Rialto,,,8.0
 EU,orisa,Junkertown,,,5.6
-EU,orisa,Shambali Monastery,,,8.2
 EU,orisa,Numbani,,,6.7
+EU,orisa,Shambali Monastery,,,8.2
 EU,orisa,Hollywood,,,7.4
 EU,orisa,Aatlis,,,6.9
 EU,orisa,Eichenwalde,,,8.2
@@ -2088,19 +2088,19 @@ EU,orisa,Esperança,,,5.5
 EU,orisa,Colosseo,,,6.4
 EU,orisa,Paraíso,,,5.4
 ASIA,winston,Numbani,,,28.6
-ASIA,winston,Dorado,,,32.5
 ASIA,winston,Watchpoint: Gibraltar,,,34.4
 ASIA,winston,Paraíso,,,22.2
+ASIA,winston,Dorado,,,32.4
 ASIA,winston,Route 66,,,24.6
-ASIA,winston,Rialto,,,21.0
 ASIA,winston,Hollywood,,,22.3
-ASIA,winston,New Queen Street,,,19.2
+ASIA,winston,Rialto,,,20.7
 ASIA,winston,Esperança,,,23.5
+ASIA,winston,New Queen Street,,,19.2
 ASIA,winston,Blizzard World,,,24.3
-ASIA,winston,Busan,,,18.7
+ASIA,winston,Busan,,,18.6
 ASIA,winston,Oasis,,,17.7
-ASIA,winston,Runasapi,,,17.3
 ASIA,winston,Junkertown,,,19.3
+ASIA,winston,Runasapi,,,17.3
 ASIA,winston,Colosseo,,,18.7
 ASIA,winston,Ilios,,,22.9
 ASIA,winston,Suravasa,,,15.4
@@ -2109,9 +2109,9 @@ ASIA,winston,King's Row,,,14.8
 ASIA,winston,Eichenwalde,,,15.4
 ASIA,winston,Samoa,,,13.1
 ASIA,winston,Lijiang Tower,,,11.9
-ASIA,winston,Aatlis,,,10.1
+ASIA,winston,Aatlis,,,10.2
 ASIA,winston,Midtown,,,11.5
-ASIA,winston,Nepal,,,13.2
+ASIA,winston,Nepal,,,13.0
 ASIA,winston,Antarctic Peninsula,,,12.7
 ASIA,winston,Shambali Monastery,,,12.1
 ASIA,winston,New Junk City,,,9.3
@@ -2131,8 +2131,8 @@ US,winston,Hollywood,,,14.0
 US,winston,Junkertown,,,11.5
 US,winston,Rialto,,,10.4
 US,winston,Numbani,,,21.1
-US,winston,New Queen Street,,,12.2
 US,winston,Antarctic Peninsula,,,8.3
+US,winston,New Queen Street,,,12.2
 US,winston,Eichenwalde,,,8.4
 US,winston,Nepal,,,8.1
 US,winston,Lijiang Tower,,,6.7
@@ -2156,13 +2156,13 @@ EU,winston,Colosseo,,,11.2
 EU,winston,Junkertown,,,12.9
 EU,winston,Aatlis,,,7.0
 EU,winston,Suravasa,,,9.6
-EU,winston,Antarctic Peninsula,,,8.9
 EU,winston,Blizzard World,,,12.2
+EU,winston,Antarctic Peninsula,,,8.9
 EU,winston,Oasis,,,11.2
 EU,winston,Paraíso,,,17.5
 EU,winston,Eichenwalde,,,8.0
-EU,winston,Lijiang Tower,,,7.3
 EU,winston,New Queen Street,,,11.9
+EU,winston,Lijiang Tower,,,7.3
 EU,winston,Rialto,,,10.2
 EU,winston,Nepal,,,8.5
 EU,winston,Samoa,,,8.6
@@ -2182,22 +2182,22 @@ ASIA,tracer,Runasapi,,,37.8
 ASIA,tracer,Samoa,,,35.7
 ASIA,tracer,Shambali Monastery,,,17.6
 ASIA,tracer,Blizzard World,,,27.9
-ASIA,tracer,Esperança,,,37.3
 ASIA,tracer,Suravasa,,,37.1
+ASIA,tracer,Esperança,,,37.4
 ASIA,tracer,New Junk City,,,36.4
 ASIA,tracer,Midtown,,,21.1
+ASIA,tracer,Aatlis,,,36.3
 ASIA,tracer,New Queen Street,,,35.5
-ASIA,tracer,Busan,,,37.0
+ASIA,tracer,Busan,,,37.1
 ASIA,tracer,Hollywood,,,24.2
 ASIA,tracer,Lijiang Tower,,,32.3
-ASIA,tracer,Route 66,,,19.5
-ASIA,tracer,Antarctic Peninsula,,,32.4
-ASIA,tracer,Aatlis,,,36.3
-ASIA,tracer,Oasis,,,36.3
-ASIA,tracer,Rialto,,,19.9
+ASIA,tracer,Antarctic Peninsula,,,32.6
 ASIA,tracer,Junkertown,,,17.7
+ASIA,tracer,Route 66,,,19.5
+ASIA,tracer,Rialto,,,20.1
+ASIA,tracer,Oasis,,,36.3
+ASIA,tracer,Nepal,,,31.2
 ASIA,tracer,Paraíso,,,17.2
-ASIA,tracer,Nepal,,,31.0
 ASIA,tracer,King's Row,,,18.3
 ASIA,tracer,Eichenwalde,,,22.7
 ASIA,tracer,Numbani,,,25.5
@@ -2208,8 +2208,8 @@ US,tracer,New Junk City,,,25.9
 US,tracer,Suravasa,,,25.4
 US,tracer,Esperança,,,26.4
 US,tracer,Antarctic Peninsula,,,23.5
-US,tracer,New Queen Street,,,24.6
 US,tracer,Aatlis,,,25.6
+US,tracer,New Queen Street,,,24.6
 US,tracer,Samoa,,,24.0
 US,tracer,Hollywood,,,14.4
 US,tracer,Midtown,,,13.3
@@ -2219,9 +2219,9 @@ US,tracer,Blizzard World,,,17.0
 US,tracer,Rialto,,,11.9
 US,tracer,Junkertown,,,13.1
 US,tracer,Busan,,,24.3
+US,tracer,Watchpoint: Gibraltar,,,19.2
 US,tracer,Eichenwalde,,,13.9
 US,tracer,Oasis,,,24.7
-US,tracer,Watchpoint: Gibraltar,,,19.2
 US,tracer,Paraíso,,,12.7
 US,tracer,Ilios,,,24.3
 US,tracer,Nepal,,,21.1
@@ -2232,14 +2232,14 @@ US,tracer,Circuit Royal,,,6.0
 US,tracer,Dorado,,,14.2
 US,tracer,Havana,,,9.8
 US,tracer,Numbani,,,15.7
-EU,tracer,Colosseo,,,21.3
 EU,tracer,New Queen Street,,,23.2
+EU,tracer,Colosseo,,,21.3
 EU,tracer,Runasapi,,,24.0
 EU,tracer,Suravasa,,,24.2
 EU,tracer,Numbani,,,14.7
 EU,tracer,Route 66,,,11.8
-EU,tracer,Esperança,,,25.5
 EU,tracer,Midtown,,,11.8
+EU,tracer,Esperança,,,25.5
 EU,tracer,Rialto,,,11.5
 EU,tracer,Aatlis,,,25.5
 EU,tracer,Nepal,,,19.7
@@ -2247,8 +2247,8 @@ EU,tracer,Ilios,,,21.6
 EU,tracer,Oasis,,,22.2
 EU,tracer,Watchpoint: Gibraltar,,,15.9
 EU,tracer,Samoa,,,22.8
-EU,tracer,Antarctic Peninsula,,,20.3
 EU,tracer,Eichenwalde,,,13.1
+EU,tracer,Antarctic Peninsula,,,20.3
 EU,tracer,Havana,,,8.7
 EU,tracer,New Junk City,,,23.8
 EU,tracer,Shambali Monastery,,,11.1
@@ -2267,36 +2267,36 @@ ASIA,zarya,Samoa,,,9.4
 ASIA,zarya,King's Row,,,12.2
 ASIA,zarya,Antarctic Peninsula,,,9.0
 ASIA,zarya,New Queen Street,,,5.6
-ASIA,zarya,Nepal,,,9.2
+ASIA,zarya,Nepal,,,9.3
 ASIA,zarya,Lijiang Tower,,,10.3
 ASIA,zarya,Eichenwalde,,,10.3
 ASIA,zarya,Circuit Royal,,,8.3
-ASIA,zarya,Midtown,,,12.4
 ASIA,zarya,Aatlis,,,9.2
+ASIA,zarya,Midtown,,,12.4
 ASIA,zarya,New Junk City,,,10.1
 ASIA,zarya,Shambali Monastery,,,9.8
-ASIA,zarya,Busan,,,6.3
+ASIA,zarya,Busan,,,6.4
 ASIA,zarya,Runasapi,,,6.4
 ASIA,zarya,Blizzard World,,,5.7
 ASIA,zarya,Oasis,,,6.4
-ASIA,zarya,Dorado,,,3.3
-ASIA,zarya,Suravasa,,,7.3
 ASIA,zarya,Rialto,,,6.1
+ASIA,zarya,Suravasa,,,7.3
+ASIA,zarya,Dorado,,,3.2
 ASIA,zarya,Havana,,,6.7
 ASIA,zarya,Ilios,,,3.9
 ASIA,zarya,Colosseo,,,6.9
 ASIA,zarya,Numbani,,,4.7
 ASIA,zarya,Watchpoint: Gibraltar,,,2.5
-ASIA,zarya,Junkertown,,,4.6
 ASIA,zarya,Esperança,,,4.7
+ASIA,zarya,Junkertown,,,4.6
 ASIA,zarya,Paraíso,,,6.7
 US,zarya,Aatlis,,,8.1
 US,zarya,Eichenwalde,,,7.7
 US,zarya,Antarctic Peninsula,,,7.4
 US,zarya,Busan,,,5.7
 US,zarya,King's Row,,,9.8
-US,zarya,New Queen Street,,,5.6
 US,zarya,Hollywood,,,7.3
+US,zarya,New Queen Street,,,5.6
 US,zarya,Midtown,,,9.6
 US,zarya,Runasapi,,,6.6
 US,zarya,New Junk City,,,8.8
@@ -2352,23 +2352,23 @@ ASIA,dva,Route 66,,,4.7
 ASIA,dva,Eichenwalde,,,4.7
 ASIA,dva,Midtown,,,3.3
 ASIA,dva,Hollywood,,,4.4
-ASIA,dva,Rialto,,,5.6
+ASIA,dva,Rialto,,,5.8
 ASIA,dva,New Queen Street,,,5.6
 ASIA,dva,Watchpoint: Gibraltar,,,5.5
 ASIA,dva,King's Row,,,3.5
-ASIA,dva,Colosseo,,,5.0
 ASIA,dva,Antarctic Peninsula,,,5.0
-ASIA,dva,Esperança,,,6.2
 ASIA,dva,Dorado,,,6.2
-ASIA,dva,Junkertown,,,5.4
+ASIA,dva,Colosseo,,,5.0
+ASIA,dva,Esperança,,,6.2
 ASIA,dva,Numbani,,,5.4
 ASIA,dva,Lijiang Tower,,,3.5
+ASIA,dva,Junkertown,,,5.3
 ASIA,dva,Shambali Monastery,,,3.1
-ASIA,dva,Nepal,,,4.1
 ASIA,dva,Oasis,,,5.3
 ASIA,dva,New Junk City,,,4.0
-ASIA,dva,Busan,,,5.2
+ASIA,dva,Nepal,,,4.1
 ASIA,dva,Ilios,,,6.0
+ASIA,dva,Busan,,,5.2
 ASIA,dva,Paraíso,,,6.2
 ASIA,dva,Aatlis,,,4.1
 ASIA,dva,Havana,,,3.6
@@ -2409,8 +2409,8 @@ US,dva,Junkertown,,,6.5
 EU,dva,Dorado,,,6.7
 EU,dva,New Queen Street,,,6.3
 EU,dva,Esperança,,,6.5
-EU,dva,New Junk City,,,4.5
 EU,dva,Ilios,,,6.2
+EU,dva,New Junk City,,,4.5
 EU,dva,Watchpoint: Gibraltar,,,6.7
 EU,dva,Eichenwalde,,,4.5
 EU,dva,Aatlis,,,5.4
@@ -2422,12 +2422,12 @@ EU,dva,Paraíso,,,6.5
 EU,dva,King's Row,,,4.3
 EU,dva,Shambali Monastery,,,4.0
 EU,dva,Route 66,,,6.5
-EU,dva,Hollywood,,,5.2
 EU,dva,Suravasa,,,4.8
+EU,dva,Hollywood,,,5.2
 EU,dva,Blizzard World,,,5.3
 EU,dva,Rialto,,,5.2
-EU,dva,Runasapi,,,5.7
 EU,dva,Junkertown,,,6.5
+EU,dva,Runasapi,,,5.7
 EU,dva,Samoa,,,4.3
 EU,dva,Antarctic Peninsula,,,5.0
 EU,dva,Colosseo,,,4.9
@@ -2438,28 +2438,28 @@ EU,dva,Circuit Royal,,,4.1
 ASIA,juno,Circuit Royal,,,4.6
 ASIA,juno,Samoa,,,3.6
 ASIA,juno,Blizzard World,,,2.6
-ASIA,juno,Esperança,,,4.2
 ASIA,juno,Aatlis,,,3.5
-ASIA,juno,Numbani,,,3.0
 ASIA,juno,Antarctic Peninsula,,,3.8
+ASIA,juno,Numbani,,,3.0
+ASIA,juno,Junkertown,,,2.6
+ASIA,juno,Esperança,,,4.2
 ASIA,juno,Runasapi,,,4.8
 ASIA,juno,Midtown,,,3.3
 ASIA,juno,Oasis,,,3.5
-ASIA,juno,Hollywood,,,2.8
 ASIA,juno,Busan,,,3.5
-ASIA,juno,Junkertown,,,2.6
+ASIA,juno,Hollywood,,,2.8
 ASIA,juno,Suravasa,,,3.5
 ASIA,juno,New Queen Street,,,4.1
 ASIA,juno,Ilios,,,3.6
-ASIA,juno,Eichenwalde,,,3.3
 ASIA,juno,Dorado,,,2.9
+ASIA,juno,Eichenwalde,,,3.3
 ASIA,juno,King's Row,,,3.5
 ASIA,juno,Route 66,,,3.0
-ASIA,juno,Nepal,,,3.9
 ASIA,juno,Colosseo,,,3.5
-ASIA,juno,Shambali Monastery,,,3.4
+ASIA,juno,Nepal,,,3.9
 ASIA,juno,New Junk City,,,4.0
 ASIA,juno,Lijiang Tower,,,3.5
+ASIA,juno,Shambali Monastery,,,3.4
 ASIA,juno,Watchpoint: Gibraltar,,,2.6
 ASIA,juno,Rialto,,,2.7
 ASIA,juno,Havana,,,2.6
@@ -2483,8 +2483,8 @@ US,juno,Aatlis,,,18.2
 US,juno,Oasis,,,17.8
 US,juno,Paraíso,,,16.5
 US,juno,Lijiang Tower,,,18.7
-US,juno,Antarctic Peninsula,,,18.6
 US,juno,Route 66,,,18.5
+US,juno,Antarctic Peninsula,,,18.6
 US,juno,Colosseo,,,19.3
 US,juno,Midtown,,,16.1
 US,juno,Eichenwalde,,,16.0
@@ -2499,8 +2499,8 @@ EU,juno,Circuit Royal,,,16.5
 EU,juno,Paraíso,,,15.8
 EU,juno,Watchpoint: Gibraltar,,,16.1
 EU,juno,Shambali Monastery,,,14.4
-EU,juno,Ilios,,,17.0
 EU,juno,Esperança,,,19.4
+EU,juno,Ilios,,,17.0
 EU,juno,Havana,,,13.2
 EU,juno,Oasis,,,15.9
 EU,juno,Junkertown,,,13.1
@@ -2509,14 +2509,14 @@ EU,juno,Suravasa,,,17.5
 EU,juno,Busan,,,16.5
 EU,juno,Samoa,,,16.9
 EU,juno,Lijiang Tower,,,16.5
-EU,juno,Route 66,,,15.4
 EU,juno,New Queen Street,,,17.6
+EU,juno,Route 66,,,15.4
 EU,juno,Aatlis,,,17.1
 EU,juno,Hollywood,,,14.5
 EU,juno,Colosseo,,,16.7
 EU,juno,King's Row,,,14.3
-EU,juno,Rialto,,,14.2
 EU,juno,Antarctic Peninsula,,,16.6
+EU,juno,Rialto,,,14.2
 EU,juno,Dorado,,,14.5
 EU,juno,Eichenwalde,,,14.1
 EU,juno,New Junk City,,,16.9
@@ -2524,28 +2524,28 @@ EU,juno,Midtown,,,15.8
 EU,juno,Blizzard World,,,14.6
 ASIA,bastion,Ilios,,,3.5
 ASIA,bastion,Samoa,,,3.4
-ASIA,bastion,Nepal,,,2.9
+ASIA,bastion,Nepal,,,3.0
 ASIA,bastion,Oasis,,,3.1
 ASIA,bastion,New Queen Street,,,2.9
-ASIA,bastion,Rialto,,,4.0
 ASIA,bastion,Runasapi,,,3.3
 ASIA,bastion,King's Row,,,4.9
 ASIA,bastion,New Junk City,,,2.5
+ASIA,bastion,Rialto,,,4.1
 ASIA,bastion,Eichenwalde,,,4.5
 ASIA,bastion,Lijiang Tower,,,3.6
 ASIA,bastion,Hollywood,,,3.7
 ASIA,bastion,Circuit Royal,,,5.8
+ASIA,bastion,Busan,,,2.8
 ASIA,bastion,Watchpoint: Gibraltar,,,4.0
-ASIA,bastion,Busan,,,2.6
+ASIA,bastion,Antarctic Peninsula,,,3.1
+ASIA,bastion,Junkertown,,,4.0
 ASIA,bastion,Colosseo,,,2.8
 ASIA,bastion,Paraíso,,,4.4
 ASIA,bastion,Suravasa,,,2.7
-ASIA,bastion,Antarctic Peninsula,,,2.9
-ASIA,bastion,Numbani,,,4.4
 ASIA,bastion,Shambali Monastery,,,3.8
-ASIA,bastion,Esperança,,,3.3
-ASIA,bastion,Junkertown,,,3.8
-ASIA,bastion,Dorado,,,3.4
+ASIA,bastion,Numbani,,,4.4
+ASIA,bastion,Esperança,,,3.4
+ASIA,bastion,Dorado,,,3.6
 ASIA,bastion,Blizzard World,,,3.8
 ASIA,bastion,Midtown,,,3.2
 ASIA,bastion,Aatlis,,,2.3
@@ -2557,8 +2557,8 @@ US,bastion,Shambali Monastery,,,7.9
 US,bastion,Circuit Royal,,,9.5
 US,bastion,Antarctic Peninsula,,,5.4
 US,bastion,Samoa,,,5.8
-US,bastion,Hollywood,,,7.6
 US,bastion,Watchpoint: Gibraltar,,,6.3
+US,bastion,Hollywood,,,7.6
 US,bastion,Oasis,,,5.3
 US,bastion,Junkertown,,,6.6
 US,bastion,New Junk City,,,4.7
@@ -2582,8 +2582,8 @@ US,bastion,Blizzard World,,,6.7
 US,bastion,Numbani,,,7.5
 EU,bastion,Antarctic Peninsula,,,6.8
 EU,bastion,New Queen Street,,,5.3
-EU,bastion,Nepal,,,6.6
 EU,bastion,Havana,,,9.6
+EU,bastion,Nepal,,,6.6
 EU,bastion,Circuit Royal,,,11.1
 EU,bastion,King's Row,,,11.1
 EU,bastion,Numbani,,,9.4
@@ -2591,9 +2591,9 @@ EU,bastion,Samoa,,,6.6
 EU,bastion,Paraíso,,,8.6
 EU,bastion,Lijiang Tower,,,6.8
 EU,bastion,Esperança,,,5.2
-EU,bastion,New Junk City,,,5.0
 EU,bastion,Busan,,,6.1
 EU,bastion,Colosseo,,,5.8
+EU,bastion,New Junk City,,,5.0
 EU,bastion,Oasis,,,6.0
 EU,bastion,Suravasa,,,5.6
 EU,bastion,Shambali Monastery,,,8.5
@@ -2611,30 +2611,30 @@ EU,bastion,Aatlis,,,5.4
 EU,bastion,Blizzard World,,,7.8
 ASIA,reinhardt,Runasapi,,,3.7
 ASIA,reinhardt,Colosseo,,,3.6
-ASIA,reinhardt,Aatlis,,,4.0
 ASIA,reinhardt,Lijiang Tower,,,4.9
 ASIA,reinhardt,Samoa,,,4.7
-ASIA,reinhardt,Antarctic Peninsula,,,3.9
+ASIA,reinhardt,Aatlis,,,4.0
 ASIA,reinhardt,Suravasa,,,3.9
 ASIA,reinhardt,Paraíso,,,2.9
+ASIA,reinhardt,Antarctic Peninsula,,,3.9
 ASIA,reinhardt,Esperança,,,3.1
 ASIA,reinhardt,New Junk City,,,4.7
+ASIA,reinhardt,Rialto,,,3.7
 ASIA,reinhardt,Circuit Royal,,,5.8
-ASIA,reinhardt,Rialto,,,3.8
 ASIA,reinhardt,Nepal,,,4.9
 ASIA,reinhardt,Numbani,,,2.7
 ASIA,reinhardt,Ilios,,,2.8
-ASIA,reinhardt,Busan,,,3.8
 ASIA,reinhardt,King's Row,,,5.3
+ASIA,reinhardt,Busan,,,3.9
 ASIA,reinhardt,Oasis,,,3.6
 ASIA,reinhardt,Havana,,,4.4
 ASIA,reinhardt,New Queen Street,,,3.7
 ASIA,reinhardt,Midtown,,,4.8
 ASIA,reinhardt,Eichenwalde,,,4.9
 ASIA,reinhardt,Shambali Monastery,,,4.8
-ASIA,reinhardt,Dorado,,,2.7
+ASIA,reinhardt,Dorado,,,2.6
 ASIA,reinhardt,Blizzard World,,,3.6
-ASIA,reinhardt,Junkertown,,,3.7
+ASIA,reinhardt,Junkertown,,,3.8
 ASIA,reinhardt,Watchpoint: Gibraltar,,,2.1
 ASIA,reinhardt,Hollywood,,,3.4
 ASIA,reinhardt,Route 66,,,3.4
@@ -2701,21 +2701,21 @@ ASIA,mercy,Numbani,,,7.4
 ASIA,mercy,Ilios,,,4.2
 ASIA,mercy,Lijiang Tower,,,3.9
 ASIA,mercy,Colosseo,,,3.9
+ASIA,mercy,Dorado,,,6.9
 ASIA,mercy,Blizzard World,,,5.9
-ASIA,mercy,Dorado,,,6.8
-ASIA,mercy,Antarctic Peninsula,,,3.7
 ASIA,mercy,Esperança,,,3.4
+ASIA,mercy,Antarctic Peninsula,,,3.6
 ASIA,mercy,New Queen Street,,,3.4
 ASIA,mercy,King's Row,,,4.7
 ASIA,mercy,Suravasa,,,2.8
+ASIA,mercy,Rialto,,,6.1
 ASIA,mercy,Runasapi,,,3.3
 ASIA,mercy,Paraíso,,,5.8
 ASIA,mercy,Circuit Royal,,,6.0
-ASIA,mercy,Rialto,,,5.9
-ASIA,mercy,Nepal,,,3.9
-ASIA,mercy,Watchpoint: Gibraltar,,,7.1
-ASIA,mercy,Oasis,,,3.9
 ASIA,mercy,Junkertown,,,6.1
+ASIA,mercy,Watchpoint: Gibraltar,,,7.1
+ASIA,mercy,Nepal,,,3.9
+ASIA,mercy,Oasis,,,3.9
 ASIA,mercy,Hollywood,,,6.2
 ASIA,mercy,Eichenwalde,,,6.3
 ASIA,mercy,Midtown,,,5.5
@@ -2786,19 +2786,19 @@ EU,mercy,Aatlis,,,11.3
 ASIA,lucio,Runasapi,,,9.7
 ASIA,lucio,Ilios,,,10.8
 ASIA,lucio,Paraíso,,,2.3
-ASIA,lucio,Aatlis,,,15.7
+ASIA,lucio,Aatlis,,,15.8
 ASIA,lucio,Colosseo,,,6.4
 ASIA,lucio,Lijiang Tower,,,11.6
 ASIA,lucio,Suravasa,,,12.2
 ASIA,lucio,New Junk City,,,13.4
+ASIA,lucio,Esperança,,,8.8
 ASIA,lucio,New Queen Street,,,6.6
 ASIA,lucio,Samoa,,,8.8
-ASIA,lucio,Esperança,,,8.8
-ASIA,lucio,Antarctic Peninsula,,,8.8
-ASIA,lucio,Busan,,,8.6
+ASIA,lucio,Antarctic Peninsula,,,8.7
 ASIA,lucio,Eichenwalde,,,3.2
-ASIA,lucio,Dorado,,,2.5
+ASIA,lucio,Busan,,,8.7
 ASIA,lucio,Oasis,,,10.6
+ASIA,lucio,Dorado,,,2.5
 ASIA,lucio,Nepal,,,8.6
 ASIA,lucio,Numbani,,,3.2
 ASIA,lucio,Blizzard World,,,3.1
@@ -2807,10 +2807,10 @@ ASIA,lucio,Hollywood,,,2.1
 ASIA,lucio,Shambali Monastery,,,2.9
 ASIA,lucio,Circuit Royal,,,1.1
 ASIA,lucio,King's Row,,,3.0
+ASIA,lucio,Junkertown,,,1.8
 ASIA,lucio,Watchpoint: Gibraltar,,,1.7
 ASIA,lucio,Rialto,,,1.9
 ASIA,lucio,Havana,,,1.5
-ASIA,lucio,Junkertown,,,1.8
 ASIA,lucio,Midtown,,,2.5
 US,lucio,Aatlis,,,18.0
 US,lucio,New Junk City,,,17.2
@@ -2871,31 +2871,31 @@ EU,lucio,Blizzard World,,,5.5
 EU,lucio,Havana,,,2.9
 EU,lucio,Midtown,,,4.1
 ASIA,ramattra,Shambali Monastery,,,5.3
-ASIA,ramattra,Runasapi,,,2.9
 ASIA,ramattra,Junkertown,,,1.9
+ASIA,ramattra,Runasapi,,,2.9
 ASIA,ramattra,Antarctic Peninsula,,,4.0
-ASIA,ramattra,Eichenwalde,,,3.0
 ASIA,ramattra,Colosseo,,,2.5
+ASIA,ramattra,Eichenwalde,,,3.0
 ASIA,ramattra,New Queen Street,,,2.4
 ASIA,ramattra,Lijiang Tower,,,4.3
 ASIA,ramattra,Nepal,,,3.4
 ASIA,ramattra,New Junk City,,,5.1
 ASIA,ramattra,Midtown,,,5.4
-ASIA,ramattra,Esperança,,,2.1
-ASIA,ramattra,Circuit Royal,,,7.0
+ASIA,ramattra,Esperança,,,2.0
 ASIA,ramattra,King's Row,,,4.6
+ASIA,ramattra,Circuit Royal,,,7.0
 ASIA,ramattra,Havana,,,4.0
-ASIA,ramattra,Aatlis,,,4.7
+ASIA,ramattra,Aatlis,,,4.6
 ASIA,ramattra,Oasis,,,2.3
-ASIA,ramattra,Busan,,,3.0
+ASIA,ramattra,Busan,,,2.9
 ASIA,ramattra,Suravasa,,,2.9
 ASIA,ramattra,Samoa,,,3.9
 ASIA,ramattra,Watchpoint: Gibraltar,,,0.5
 ASIA,ramattra,Paraíso,,,1.1
 ASIA,ramattra,Numbani,,,1.1
-ASIA,ramattra,Rialto,,,2.0
 ASIA,ramattra,Route 66,,,1.5
-ASIA,ramattra,Dorado,,,0.8
+ASIA,ramattra,Rialto,,,2.0
+ASIA,ramattra,Dorado,,,0.9
 ASIA,ramattra,Ilios,,,1.2
 ASIA,ramattra,Hollywood,,,2.2
 ASIA,ramattra,Blizzard World,,,1.7
@@ -2939,16 +2939,16 @@ EU,ramattra,Aatlis,,,3.4
 EU,ramattra,Havana,,,5.6
 EU,ramattra,Ilios,,,1.6
 EU,ramattra,King's Row,,,6.9
-EU,ramattra,Oasis,,,2.5
 EU,ramattra,Rialto,,,3.9
+EU,ramattra,Oasis,,,2.5
 EU,ramattra,Dorado,,,1.9
 EU,ramattra,Esperança,,,2.1
 EU,ramattra,New Junk City,,,4.3
 EU,ramattra,Eichenwalde,,,4.9
 EU,ramattra,Runasapi,,,3.0
 EU,ramattra,Colosseo,,,3.2
-EU,ramattra,Hollywood,,,4.0
 EU,ramattra,Junkertown,,,2.7
+EU,ramattra,Hollywood,,,4.0
 EU,ramattra,Midtown,,,6.5
 EU,ramattra,Suravasa,,,3.2
 EU,ramattra,Nepal,,,3.2
@@ -2961,27 +2961,27 @@ ASIA,hanzo,Colosseo,,,3.2
 ASIA,hanzo,Nepal,,,3.7
 ASIA,hanzo,Ilios,,,2.8
 ASIA,hanzo,Shambali Monastery,,,7.2
-ASIA,hanzo,Esperança,,,2.2
+ASIA,hanzo,Esperança,,,2.1
 ASIA,hanzo,King's Row,,,9.1
 ASIA,hanzo,Dorado,,,6.2
 ASIA,hanzo,Watchpoint: Gibraltar,,,7.5
 ASIA,hanzo,Circuit Royal,,,13.7
 ASIA,hanzo,Blizzard World,,,7.9
 ASIA,hanzo,New Queen Street,,,2.7
-ASIA,hanzo,Route 66,,,7.3
 ASIA,hanzo,Aatlis,,,2.3
+ASIA,hanzo,Rialto,,,7.5
+ASIA,hanzo,Route 66,,,7.3
 ASIA,hanzo,Numbani,,,7.4
 ASIA,hanzo,Havana,,,14.2
-ASIA,hanzo,Rialto,,,7.5
+ASIA,hanzo,Junkertown,,,8.7
 ASIA,hanzo,Samoa,,,3.2
 ASIA,hanzo,Oasis,,,2.9
-ASIA,hanzo,Junkertown,,,8.7
-ASIA,hanzo,Busan,,,3.0
+ASIA,hanzo,Busan,,,3.1
 ASIA,hanzo,Lijiang Tower,,,3.6
 ASIA,hanzo,Paraíso,,,6.2
 ASIA,hanzo,Antarctic Peninsula,,,3.5
-ASIA,hanzo,Hollywood,,,7.9
 ASIA,hanzo,Midtown,,,9.2
+ASIA,hanzo,Hollywood,,,7.9
 ASIA,hanzo,Eichenwalde,,,7.7
 ASIA,hanzo,Runasapi,,,2.4
 ASIA,hanzo,New Junk City,,,3.2
@@ -3029,8 +3029,8 @@ EU,hanzo,Havana,,,11.8
 EU,hanzo,King's Row,,,9.4
 EU,hanzo,Hollywood,,,7.6
 EU,hanzo,Oasis,,,4.1
-EU,hanzo,New Queen Street,,,3.1
 EU,hanzo,Suravasa,,,3.5
+EU,hanzo,New Queen Street,,,3.1
 EU,hanzo,Shambali Monastery,,,7.1
 EU,hanzo,Rialto,,,7.6
 EU,hanzo,Blizzard World,,,7.5
@@ -3046,38 +3046,38 @@ EU,hanzo,Numbani,,,6.3
 EU,hanzo,New Junk City,,,4.2
 ASIA,roadhog,Ilios,,,7.8
 ASIA,roadhog,Aatlis,,,4.9
+ASIA,roadhog,Antarctic Peninsula,,,5.0
 ASIA,roadhog,Midtown,,,4.0
 ASIA,roadhog,Nepal,,,4.4
-ASIA,roadhog,Antarctic Peninsula,,,5.1
 ASIA,roadhog,Oasis,,,5.6
 ASIA,roadhog,Samoa,,,4.7
-ASIA,roadhog,Colosseo,,,4.3
 ASIA,roadhog,Lijiang Tower,,,4.5
 ASIA,roadhog,Watchpoint: Gibraltar,,,5.8
+ASIA,roadhog,Colosseo,,,4.3
 ASIA,roadhog,Route 66,,,5.5
+ASIA,roadhog,Junkertown,,,4.8
 ASIA,roadhog,Busan,,,4.7
 ASIA,roadhog,Esperança,,,4.4
-ASIA,roadhog,Junkertown,,,4.8
 ASIA,roadhog,New Queen Street,,,4.6
-ASIA,roadhog,King's Row,,,4.4
 ASIA,roadhog,Runasapi,,,4.1
-ASIA,roadhog,Rialto,,,5.0
+ASIA,roadhog,King's Row,,,4.4
 ASIA,roadhog,New Junk City,,,4.8
 ASIA,roadhog,Eichenwalde,,,5.4
 ASIA,roadhog,Hollywood,,,5.0
+ASIA,roadhog,Rialto,,,5.0
 ASIA,roadhog,Blizzard World,,,4.3
 ASIA,roadhog,Suravasa,,,4.8
 ASIA,roadhog,Havana,,,3.4
 ASIA,roadhog,Circuit Royal,,,2.8
 ASIA,roadhog,Shambali Monastery,,,4.1
 ASIA,roadhog,Paraíso,,,5.8
-ASIA,roadhog,Dorado,,,5.2
+ASIA,roadhog,Dorado,,,5.4
 ASIA,roadhog,Numbani,,,4.5
 US,roadhog,Ilios,,,9.7
 US,roadhog,Aatlis,,,7.0
 US,roadhog,Antarctic Peninsula,,,7.4
-US,roadhog,Samoa,,,7.0
 US,roadhog,Oasis,,,8.1
+US,roadhog,Samoa,,,7.0
 US,roadhog,Lijiang Tower,,,6.9
 US,roadhog,Colosseo,,,6.9
 US,roadhog,Midtown,,,5.9
@@ -3088,8 +3088,8 @@ US,roadhog,New Queen Street,,,7.7
 US,roadhog,Dorado,,,6.9
 US,roadhog,Esperança,,,7.7
 US,roadhog,New Junk City,,,6.9
-US,roadhog,Route 66,,,8.4
 US,roadhog,Junkertown,,,6.8
+US,roadhog,Route 66,,,8.4
 US,roadhog,Busan,,,7.5
 US,roadhog,King's Row,,,5.9
 US,roadhog,Suravasa,,,7.2
@@ -3110,8 +3110,8 @@ EU,roadhog,Esperança,,,8.1
 EU,roadhog,Antarctic Peninsula,,,8.7
 EU,roadhog,Oasis,,,9.4
 EU,roadhog,New Junk City,,,7.7
-EU,roadhog,Rialto,,,8.7
 EU,roadhog,Ilios,,,11.0
+EU,roadhog,Rialto,,,8.7
 EU,roadhog,Busan,,,7.9
 EU,roadhog,New Queen Street,,,8.5
 EU,roadhog,Shambali Monastery,,,7.3
@@ -3133,33 +3133,33 @@ EU,roadhog,Junkertown,,,8.1
 EU,roadhog,King's Row,,,6.8
 ASIA,baptiste,Circuit Royal,,,15.0
 ASIA,baptiste,Watchpoint: Gibraltar,,,6.6
-ASIA,baptiste,Junkertown,,,7.3
 ASIA,baptiste,Oasis,,,4.8
-ASIA,baptiste,Antarctic Peninsula,,,5.7
 ASIA,baptiste,Ilios,,,4.7
-ASIA,baptiste,Nepal,,,5.6
+ASIA,baptiste,Antarctic Peninsula,,,5.6
+ASIA,baptiste,Junkertown,,,7.2
+ASIA,baptiste,Nepal,,,5.5
+ASIA,baptiste,Esperança,,,3.5
 ASIA,baptiste,New Junk City,,,4.4
 ASIA,baptiste,Havana,,,9.2
 ASIA,baptiste,Numbani,,,6.5
-ASIA,baptiste,Midtown,,,9.4
 ASIA,baptiste,New Queen Street,,,3.6
-ASIA,baptiste,Esperança,,,3.4
+ASIA,baptiste,Midtown,,,9.4
 ASIA,baptiste,Samoa,,,5.3
 ASIA,baptiste,Lijiang Tower,,,4.6
-ASIA,baptiste,Rialto,,,7.0
 ASIA,baptiste,Shambali Monastery,,,8.8
 ASIA,baptiste,Suravasa,,,4.1
+ASIA,baptiste,Rialto,,,6.9
 ASIA,baptiste,Paraíso,,,6.8
-ASIA,baptiste,Eichenwalde,,,7.8
 ASIA,baptiste,Route 66,,,6.9
-ASIA,baptiste,Blizzard World,,,6.0
+ASIA,baptiste,Eichenwalde,,,7.8
 ASIA,baptiste,King's Row,,,8.0
-ASIA,baptiste,Runasapi,,,4.0
+ASIA,baptiste,Blizzard World,,,6.0
 ASIA,baptiste,Busan,,,4.5
+ASIA,baptiste,Runasapi,,,4.0
 ASIA,baptiste,Aatlis,,,4.1
 ASIA,baptiste,Hollywood,,,6.8
 ASIA,baptiste,Colosseo,,,4.7
-ASIA,baptiste,Dorado,,,6.6
+ASIA,baptiste,Dorado,,,6.5
 US,baptiste,Suravasa,,,5.6
 US,baptiste,Havana,,,8.6
 US,baptiste,Watchpoint: Gibraltar,,,6.6
@@ -3169,8 +3169,8 @@ US,baptiste,Nepal,,,6.1
 US,baptiste,Rialto,,,7.3
 US,baptiste,Aatlis,,,5.4
 US,baptiste,Lijiang Tower,,,6.4
-US,baptiste,Samoa,,,6.4
 US,baptiste,Eichenwalde,,,9.3
+US,baptiste,Samoa,,,6.4
 US,baptiste,Oasis,,,6.5
 US,baptiste,Dorado,,,7.8
 US,baptiste,Circuit Royal,,,10.0
@@ -3193,8 +3193,8 @@ EU,baptiste,Aatlis,,,6.0
 EU,baptiste,Oasis,,,6.9
 EU,baptiste,Numbani,,,8.0
 EU,baptiste,Nepal,,,6.8
-EU,baptiste,Watchpoint: Gibraltar,,,7.7
 EU,baptiste,Route 66,,,8.0
+EU,baptiste,Watchpoint: Gibraltar,,,7.7
 EU,baptiste,Midtown,,,10.2
 EU,baptiste,Busan,,,5.9
 EU,baptiste,Samoa,,,6.8
@@ -3207,8 +3207,8 @@ EU,baptiste,Esperança,,,5.1
 EU,baptiste,Blizzard World,,,7.9
 EU,baptiste,Circuit Royal,,,9.6
 EU,baptiste,Hollywood,,,8.7
-EU,baptiste,Lijiang Tower,,,6.1
 EU,baptiste,New Junk City,,,6.7
+EU,baptiste,Lijiang Tower,,,6.1
 EU,baptiste,Ilios,,,6.2
 EU,baptiste,Rialto,,,7.3
 EU,baptiste,Colosseo,,,5.3
@@ -3218,29 +3218,29 @@ EU,baptiste,Shambali Monastery,,,8.4
 EU,baptiste,Dorado,,,8.1
 EU,baptiste,Eichenwalde,,,9.2
 EU,baptiste,Paraíso,,,7.9
-ASIA,doomfist,Dorado,,,10.4
-ASIA,doomfist,Rialto,,,10.0
+ASIA,doomfist,Dorado,,,10.2
 ASIA,doomfist,Aatlis,,,11.2
+ASIA,doomfist,Rialto,,,10.1
 ASIA,doomfist,Suravasa,,,10.6
 ASIA,doomfist,Colosseo,,,10.5
 ASIA,doomfist,Oasis,,,11.1
 ASIA,doomfist,Esperança,,,10.1
 ASIA,doomfist,New Queen Street,,,10.8
 ASIA,doomfist,Ilios,,,10.1
-ASIA,doomfist,New Junk City,,,9.6
 ASIA,doomfist,King's Row,,,9.6
+ASIA,doomfist,New Junk City,,,9.6
 ASIA,doomfist,Busan,,,9.6
 ASIA,doomfist,Circuit Royal,,,7.6
 ASIA,doomfist,Samoa,,,9.5
-ASIA,doomfist,Antarctic Peninsula,,,9.7
 ASIA,doomfist,Shambali Monastery,,,8.3
 ASIA,doomfist,Lijiang Tower,,,11.4
+ASIA,doomfist,Antarctic Peninsula,,,9.7
 ASIA,doomfist,Eichenwalde,,,9.8
 ASIA,doomfist,Nepal,,,11.1
-ASIA,doomfist,Junkertown,,,8.5
 ASIA,doomfist,Runasapi,,,10.0
 ASIA,doomfist,Numbani,,,11.1
 ASIA,doomfist,Route 66,,,8.7
+ASIA,doomfist,Junkertown,,,8.4
 ASIA,doomfist,Blizzard World,,,9.8
 ASIA,doomfist,Havana,,,8.8
 ASIA,doomfist,Watchpoint: Gibraltar,,,9.7
@@ -3249,8 +3249,8 @@ ASIA,doomfist,Midtown,,,7.6
 ASIA,doomfist,Paraíso,,,9.8
 US,doomfist,Blizzard World,,,9.3
 US,doomfist,Route 66,,,7.9
-US,doomfist,Dorado,,,10.4
 US,doomfist,Suravasa,,,10.5
+US,doomfist,Dorado,,,10.4
 US,doomfist,Colosseo,,,10.9
 US,doomfist,Junkertown,,,7.4
 US,doomfist,New Queen Street,,,9.9
@@ -3262,8 +3262,8 @@ US,doomfist,Eichenwalde,,,9.2
 US,doomfist,King's Row,,,8.7
 US,doomfist,Ilios,,,10.6
 US,doomfist,Paraíso,,,9.0
-US,doomfist,Oasis,,,10.0
 US,doomfist,New Junk City,,,10.8
+US,doomfist,Oasis,,,10.0
 US,doomfist,Midtown,,,7.8
 US,doomfist,Aatlis,,,9.9
 US,doomfist,Esperança,,,10.3
@@ -3291,15 +3291,15 @@ EU,doomfist,Ilios,,,9.6
 EU,doomfist,Lijiang Tower,,,11.4
 EU,doomfist,Junkertown,,,7.2
 EU,doomfist,Rialto,,,8.7
-EU,doomfist,New Junk City,,,9.1
 EU,doomfist,Havana,,,7.5
+EU,doomfist,New Junk City,,,9.1
 EU,doomfist,Samoa,,,9.7
 EU,doomfist,Eichenwalde,,,8.7
-EU,doomfist,Busan,,,9.4
-EU,doomfist,Numbani,,,9.4
 EU,doomfist,Runasapi,,,8.6
-EU,doomfist,Shambali Monastery,,,8.1
+EU,doomfist,Numbani,,,9.4
+EU,doomfist,Busan,,,9.4
 EU,doomfist,Esperança,,,9.2
+EU,doomfist,Shambali Monastery,,,8.1
 EU,doomfist,Watchpoint: Gibraltar,,,9.0
 EU,doomfist,Antarctic Peninsula,,,9.5
 EU,doomfist,Hollywood,,,8.5
@@ -3310,28 +3310,28 @@ ASIA,mei,New Queen Street,,,1.9
 ASIA,mei,New Junk City,,,3.2
 ASIA,mei,Suravasa,,,2.7
 ASIA,mei,Circuit Royal,,,5.2
-ASIA,mei,Oasis,,,2.5
 ASIA,mei,Antarctic Peninsula,,,3.4
+ASIA,mei,Oasis,,,2.5
 ASIA,mei,Havana,,,3.7
-ASIA,mei,Aatlis,,,3.6
-ASIA,mei,Dorado,,,2.4
 ASIA,mei,Lijiang Tower,,,3.3
 ASIA,mei,Colosseo,,,2.2
+ASIA,mei,Aatlis,,,3.5
 ASIA,mei,King's Row,,,5.3
 ASIA,mei,Eichenwalde,,,3.8
 ASIA,mei,Paraíso,,,2.5
-ASIA,mei,Esperança,,,1.7
 ASIA,mei,Runasapi,,,2.1
-ASIA,mei,Nepal,,,3.2
+ASIA,mei,Dorado,,,2.4
+ASIA,mei,Nepal,,,3.3
 ASIA,mei,Busan,,,2.5
+ASIA,mei,Esperança,,,1.7
 ASIA,mei,Route 66,,,3.0
 ASIA,mei,Samoa,,,2.8
 ASIA,mei,Numbani,,,2.6
 ASIA,mei,Hollywood,,,3.6
-ASIA,mei,Rialto,,,3.2
 ASIA,mei,Shambali Monastery,,,4.8
 ASIA,mei,Ilios,,,1.8
-ASIA,mei,Junkertown,,,3.7
+ASIA,mei,Rialto,,,3.2
+ASIA,mei,Junkertown,,,3.5
 ASIA,mei,Blizzard World,,,2.8
 ASIA,mei,Watchpoint: Gibraltar,,,2.3
 US,mei,Esperança,,,2.1
@@ -3355,10 +3355,10 @@ US,mei,Eichenwalde,,,3.9
 US,mei,Blizzard World,,,3.3
 US,mei,Colosseo,,,2.2
 US,mei,Shambali Monastery,,,4.6
-US,mei,Ilios,,,2.2
 US,mei,Circuit Royal,,,4.0
-US,mei,Hollywood,,,3.8
+US,mei,Ilios,,,2.2
 US,mei,Busan,,,2.8
+US,mei,Hollywood,,,3.8
 US,mei,Havana,,,3.8
 US,mei,Junkertown,,,3.3
 US,mei,New Junk City,,,3.5
@@ -3397,22 +3397,22 @@ ASIA,echo,Route 66,,,8.4
 ASIA,echo,Shambali Monastery,,,13.1
 ASIA,echo,Paraíso,,,12.5
 ASIA,echo,Eichenwalde,,,13.1
-ASIA,echo,New Queen Street,,,5.3
-ASIA,echo,Hollywood,,,7.5
 ASIA,echo,Rialto,,,13.5
-ASIA,echo,Junkertown,,,5.1
+ASIA,echo,New Queen Street,,,5.3
 ASIA,echo,Ilios,,,14.9
-ASIA,echo,Esperança,,,8.1
-ASIA,echo,Nepal,,,8.2
+ASIA,echo,Hollywood,,,7.5
+ASIA,echo,Esperança,,,8.0
 ASIA,echo,Colosseo,,,7.3
+ASIA,echo,Nepal,,,8.2
+ASIA,echo,Junkertown,,,5.1
 ASIA,echo,Blizzard World,,,6.3
-ASIA,echo,Dorado,,,13.1
+ASIA,echo,Dorado,,,13.3
 ASIA,echo,Watchpoint: Gibraltar,,,8.7
 ASIA,echo,New Junk City,,,4.2
 ASIA,echo,Oasis,,,7.9
 ASIA,echo,Antarctic Peninsula,,,5.7
-ASIA,echo,Busan,,,4.3
 ASIA,echo,Lijiang Tower,,,7.9
+ASIA,echo,Busan,,,4.3
 ASIA,echo,King's Row,,,8.1
 ASIA,echo,Circuit Royal,,,6.2
 ASIA,echo,Samoa,,,5.6
@@ -3440,12 +3440,12 @@ US,echo,Hollywood,,,6.6
 US,echo,New Queen Street,,,4.7
 US,echo,Oasis,,,6.4
 US,echo,Esperança,,,6.6
-US,echo,Antarctic Peninsula,,,5.2
 US,echo,Junkertown,,,4.2
+US,echo,Antarctic Peninsula,,,5.2
 US,echo,King's Row,,,6.0
-US,echo,Samoa,,,4.9
 US,echo,New Junk City,,,4.4
 US,echo,Lijiang Tower,,,6.7
+US,echo,Samoa,,,4.9
 US,echo,Nepal,,,6.4
 US,echo,Midtown,,,4.4
 US,echo,Havana,,,3.2
@@ -3460,17 +3460,17 @@ EU,echo,Ilios,,,12.5
 EU,echo,Junkertown,,,4.2
 EU,echo,Runasapi,,,5.2
 EU,echo,Hollywood,,,6.6
-EU,echo,New Queen Street,,,4.7
 EU,echo,Watchpoint: Gibraltar,,,7.7
-EU,echo,Antarctic Peninsula,,,6.0
-EU,echo,Eichenwalde,,,10.9
+EU,echo,New Queen Street,,,4.7
 EU,echo,Rialto,,,7.9
+EU,echo,Eichenwalde,,,10.9
+EU,echo,Antarctic Peninsula,,,6.0
 EU,echo,Lijiang Tower,,,7.6
 EU,echo,Suravasa,,,5.0
 EU,echo,Aatlis,,,4.3
 EU,echo,Oasis,,,7.4
-EU,echo,Samoa,,,5.7
 EU,echo,King's Row,,,6.0
+EU,echo,Samoa,,,5.7
 EU,echo,Nepal,,,6.8
 EU,echo,Blizzard World,,,5.7
 EU,echo,Midtown,,,4.9
@@ -3487,8 +3487,8 @@ ASIA,junkrat,Havana,,,1.8
 ASIA,junkrat,Oasis,,,2.0
 ASIA,junkrat,Shambali Monastery,,,3.3
 ASIA,junkrat,Suravasa,,,1.9
-ASIA,junkrat,Rialto,,,2.3
 ASIA,junkrat,New Junk City,,,2.7
+ASIA,junkrat,Rialto,,,2.3
 ASIA,junkrat,Lijiang Tower,,,3.1
 ASIA,junkrat,Midtown,,,2.8
 ASIA,junkrat,Route 66,,,2.3
@@ -3499,18 +3499,18 @@ ASIA,junkrat,Antarctic Peninsula,,,2.2
 ASIA,junkrat,Runasapi,,,1.8
 ASIA,junkrat,Ilios,,,1.9
 ASIA,junkrat,Watchpoint: Gibraltar,,,1.9
+ASIA,junkrat,Nepal,,,2.3
 ASIA,junkrat,Hollywood,,,2.8
 ASIA,junkrat,Circuit Royal,,,2.3
-ASIA,junkrat,Nepal,,,2.3
 ASIA,junkrat,New Queen Street,,,1.5
-ASIA,junkrat,Dorado,,,2.7
-ASIA,junkrat,Blizzard World,,,1.9
 ASIA,junkrat,Busan,,,1.9
+ASIA,junkrat,Dorado,,,2.6
+ASIA,junkrat,Blizzard World,,,1.9
 ASIA,junkrat,Numbani,,,2.0
 ASIA,junkrat,Paraíso,,,2.6
 US,junkrat,Route 66,,,2.9
-US,junkrat,Lijiang Tower,,,5.1
 US,junkrat,Numbani,,,3.6
+US,junkrat,Lijiang Tower,,,5.1
 US,junkrat,Midtown,,,3.7
 US,junkrat,Colosseo,,,3.0
 US,junkrat,Eichenwalde,,,6.4
@@ -3544,8 +3544,8 @@ EU,junkrat,Havana,,,1.9
 EU,junkrat,Aatlis,,,3.9
 EU,junkrat,Suravasa,,,2.7
 EU,junkrat,Rialto,,,3.3
-EU,junkrat,Paraíso,,,3.5
 EU,junkrat,Nepal,,,3.9
+EU,junkrat,Paraíso,,,3.5
 EU,junkrat,King's Row,,,4.5
 EU,junkrat,Antarctic Peninsula,,,3.3
 EU,junkrat,Busan,,,3.0
@@ -3567,33 +3567,33 @@ EU,junkrat,Hollywood,,,3.9
 EU,junkrat,Numbani,,,3.1
 EU,junkrat,Junkertown,,,2.3
 ASIA,brigitte,New Junk City,,,9.6
-ASIA,brigitte,Busan,,,9.7
 ASIA,brigitte,Aatlis,,,10.4
+ASIA,brigitte,Busan,,,9.6
 ASIA,brigitte,Runasapi,,,9.0
 ASIA,brigitte,Shambali Monastery,,,5.6
 ASIA,brigitte,Nepal,,,8.1
 ASIA,brigitte,Samoa,,,8.8
 ASIA,brigitte,Suravasa,,,8.9
-ASIA,brigitte,Havana,,,2.7
 ASIA,brigitte,Ilios,,,11.5
+ASIA,brigitte,Havana,,,2.7
 ASIA,brigitte,New Queen Street,,,8.4
 ASIA,brigitte,Lijiang Tower,,,7.4
 ASIA,brigitte,King's Row,,,4.9
 ASIA,brigitte,Oasis,,,10.8
-ASIA,brigitte,Antarctic Peninsula,,,8.9
+ASIA,brigitte,Antarctic Peninsula,,,9.0
 ASIA,brigitte,Route 66,,,7.0
 ASIA,brigitte,Colosseo,,,7.4
-ASIA,brigitte,Junkertown,,,6.6
-ASIA,brigitte,Esperança,,,9.4
+ASIA,brigitte,Esperança,,,9.3
 ASIA,brigitte,Eichenwalde,,,6.0
 ASIA,brigitte,Hollywood,,,6.4
 ASIA,brigitte,Circuit Royal,,,1.5
-ASIA,brigitte,Dorado,,,9.3
+ASIA,brigitte,Junkertown,,,6.5
+ASIA,brigitte,Dorado,,,9.2
 ASIA,brigitte,Paraíso,,,6.1
 ASIA,brigitte,Rialto,,,5.8
 ASIA,brigitte,Midtown,,,4.0
-ASIA,brigitte,Blizzard World,,,7.2
 ASIA,brigitte,Watchpoint: Gibraltar,,,10.9
+ASIA,brigitte,Blizzard World,,,7.2
 ASIA,brigitte,Numbani,,,7.9
 US,brigitte,Dorado,,,12.1
 US,brigitte,Nepal,,,11.0
@@ -3615,8 +3615,8 @@ US,brigitte,Esperança,,,10.9
 US,brigitte,Antarctic Peninsula,,,11.3
 US,brigitte,Eichenwalde,,,7.3
 US,brigitte,King's Row,,,6.4
-US,brigitte,Watchpoint: Gibraltar,,,12.9
 US,brigitte,Hollywood,,,7.8
+US,brigitte,Watchpoint: Gibraltar,,,12.9
 US,brigitte,Colosseo,,,9.6
 US,brigitte,Route 66,,,9.5
 US,brigitte,Midtown,,,5.5
@@ -3637,8 +3637,8 @@ EU,brigitte,Route 66,,,7.9
 EU,brigitte,Samoa,,,10.2
 EU,brigitte,Oasis,,,10.5
 EU,brigitte,Ilios,,,10.4
-EU,brigitte,Rialto,,,5.6
 EU,brigitte,Dorado,,,9.3
+EU,brigitte,Rialto,,,5.6
 EU,brigitte,New Queen Street,,,10.1
 EU,brigitte,Eichenwalde,,,6.2
 EU,brigitte,Paraíso,,,7.7
@@ -3647,8 +3647,8 @@ EU,brigitte,Shambali Monastery,,,6.8
 EU,brigitte,Circuit Royal,,,3.7
 EU,brigitte,Numbani,,,8.1
 EU,brigitte,Antarctic Peninsula,,,10.2
-EU,brigitte,Midtown,,,5.3
 EU,brigitte,Junkertown,,,5.9
+EU,brigitte,Midtown,,,5.3
 EU,brigitte,Colosseo,,,8.9
 EU,brigitte,King's Row,,,5.7
 EU,brigitte,Blizzard World,,,6.6
@@ -3662,26 +3662,26 @@ ASIA,jetpackcat,Shambali Monastery,,,4.3
 ASIA,jetpackcat,Lijiang Tower,,,4.4
 ASIA,jetpackcat,Ilios,,,7.5
 ASIA,jetpackcat,Oasis,,,4.6
-ASIA,jetpackcat,Dorado,,,5.3
-ASIA,jetpackcat,Rialto,,,6.0
+ASIA,jetpackcat,Dorado,,,5.4
+ASIA,jetpackcat,Rialto,,,5.9
 ASIA,jetpackcat,Eichenwalde,,,5.8
-ASIA,jetpackcat,Route 66,,,4.2
 ASIA,jetpackcat,Colosseo,,,3.9
+ASIA,jetpackcat,Route 66,,,4.2
 ASIA,jetpackcat,New Junk City,,,2.3
 ASIA,jetpackcat,Runasapi,,,4.1
 ASIA,jetpackcat,Suravasa,,,3.4
 ASIA,jetpackcat,Circuit Royal,,,3.7
 ASIA,jetpackcat,New Queen Street,,,3.8
-ASIA,jetpackcat,Esperança,,,4.1
 ASIA,jetpackcat,Watchpoint: Gibraltar,,,5.7
+ASIA,jetpackcat,Esperança,,,4.1
 ASIA,jetpackcat,Hollywood,,,3.9
 ASIA,jetpackcat,Havana,,,2.8
 ASIA,jetpackcat,Antarctic Peninsula,,,3.2
 ASIA,jetpackcat,Numbani,,,5.5
 ASIA,jetpackcat,Junkertown,,,3.5
 ASIA,jetpackcat,Midtown,,,2.6
-ASIA,jetpackcat,Blizzard World,,,3.8
 ASIA,jetpackcat,Aatlis,,,2.7
+ASIA,jetpackcat,Blizzard World,,,3.8
 US,jetpackcat,Blizzard World,,,4.5
 US,jetpackcat,Busan,,,4.9
 US,jetpackcat,Ilios,,,7.2
@@ -3735,16 +3735,16 @@ EU,jetpackcat,King's Row,,,3.9
 EU,jetpackcat,Aatlis,,,4.4
 EU,jetpackcat,Numbani,,,6.1
 EU,jetpackcat,New Queen Street,,,4.8
-EU,jetpackcat,Esperança,,,4.9
 EU,jetpackcat,Junkertown,,,4.2
+EU,jetpackcat,Esperança,,,4.9
 EU,jetpackcat,Havana,,,3.8
 EU,jetpackcat,Hollywood,,,4.2
 EU,jetpackcat,Midtown,,,3.5
 ASIA,widowmaker,Havana,,,19.1
-ASIA,widowmaker,Junkertown,,,13.2
+ASIA,widowmaker,Junkertown,,,13.4
 ASIA,widowmaker,Circuit Royal,,,17.5
 ASIA,widowmaker,Busan,,,3.6
-ASIA,widowmaker,Rialto,,,11.2
+ASIA,widowmaker,Rialto,,,11.1
 ASIA,widowmaker,King's Row,,,7.9
 ASIA,widowmaker,Route 66,,,6.4
 ASIA,widowmaker,Blizzard World,,,9.6
@@ -3758,15 +3758,15 @@ ASIA,widowmaker,Eichenwalde,,,3.0
 ASIA,widowmaker,Colosseo,,,2.2
 ASIA,widowmaker,New Queen Street,,,1.5
 ASIA,widowmaker,Lijiang Tower,,,1.2
-ASIA,widowmaker,Dorado,,,3.6
-ASIA,widowmaker,Nepal,,,1.1
+ASIA,widowmaker,Dorado,,,3.5
+ASIA,widowmaker,Nepal,,,1.0
 ASIA,widowmaker,Antarctic Peninsula,,,0.7
 ASIA,widowmaker,Oasis,,,0.7
 ASIA,widowmaker,Esperança,,,1.1
 ASIA,widowmaker,Numbani,,,2.4
 ASIA,widowmaker,Samoa,,,0.8
-ASIA,widowmaker,Aatlis,,,0.4
 ASIA,widowmaker,Runasapi,,,0.9
+ASIA,widowmaker,Aatlis,,,0.4
 ASIA,widowmaker,Suravasa,,,0.7
 ASIA,widowmaker,New Junk City,,,0.6
 US,widowmaker,Havana,,,9.5
@@ -3834,17 +3834,17 @@ ASIA,torbjorn,Ilios,,,2.1
 ASIA,torbjorn,New Junk City,,,2.7
 ASIA,torbjorn,Colosseo,,,2.5
 ASIA,torbjorn,Lijiang Tower,,,2.0
-ASIA,torbjorn,Oasis,,,2.5
 ASIA,torbjorn,Esperança,,,2.2
+ASIA,torbjorn,Oasis,,,2.5
 ASIA,torbjorn,Watchpoint: Gibraltar,,,2.9
 ASIA,torbjorn,Antarctic Peninsula,,,2.6
 ASIA,torbjorn,Nepal,,,2.0
+ASIA,torbjorn,Busan,,,2.4
 ASIA,torbjorn,Suravasa,,,2.6
 ASIA,torbjorn,Runasapi,,,2.3
 ASIA,torbjorn,Shambali Monastery,,,2.4
-ASIA,torbjorn,Busan,,,2.4
-ASIA,torbjorn,Junkertown,,,2.9
 ASIA,torbjorn,Havana,,,2.8
+ASIA,torbjorn,Junkertown,,,2.8
 ASIA,torbjorn,Eichenwalde,,,3.1
 ASIA,torbjorn,Hollywood,,,2.7
 ASIA,torbjorn,Rialto,,,2.3
@@ -3852,8 +3852,8 @@ ASIA,torbjorn,Numbani,,,3.5
 ASIA,torbjorn,Blizzard World,,,3.1
 ASIA,torbjorn,Midtown,,,3.2
 ASIA,torbjorn,Route 66,,,2.9
-ASIA,torbjorn,Dorado,,,2.5
 ASIA,torbjorn,King's Row,,,2.7
+ASIA,torbjorn,Dorado,,,2.4
 ASIA,torbjorn,Circuit Royal,,,1.7
 ASIA,torbjorn,Paraíso,,,3.2
 US,torbjorn,Suravasa,,,3.2
@@ -3879,8 +3879,8 @@ US,torbjorn,Circuit Royal,,,3.6
 US,torbjorn,Hollywood,,,4.1
 US,torbjorn,Shambali Monastery,,,3.5
 US,torbjorn,New Junk City,,,3.0
-US,torbjorn,Rialto,,,3.5
 US,torbjorn,Junkertown,,,3.2
+US,torbjorn,Rialto,,,3.5
 US,torbjorn,Route 66,,,3.8
 US,torbjorn,Watchpoint: Gibraltar,,,3.0
 US,torbjorn,Midtown,,,3.9
@@ -3914,32 +3914,32 @@ EU,torbjorn,Hollywood,,,4.2
 EU,torbjorn,Watchpoint: Gibraltar,,,2.8
 EU,torbjorn,Route 66,,,2.9
 EU,torbjorn,Blizzard World,,,3.2
-ASIA,freja,Junkertown,,,5.1
 ASIA,freja,Dorado,,,4.4
+ASIA,freja,Junkertown,,,5.2
 ASIA,freja,Blizzard World,,,3.8
-ASIA,freja,Samoa,,,1.8
 ASIA,freja,Circuit Royal,,,9.0
+ASIA,freja,Samoa,,,1.8
 ASIA,freja,Ilios,,,3.5
-ASIA,freja,Busan,,,2.1
 ASIA,freja,Oasis,,,1.8
-ASIA,freja,Rialto,,,4.0
 ASIA,freja,Hollywood,,,4.2
-ASIA,freja,Antarctic Peninsula,,,2.1
+ASIA,freja,Rialto,,,4.1
+ASIA,freja,Busan,,,2.0
+ASIA,freja,Antarctic Peninsula,,,2.0
 ASIA,freja,Aatlis,,,1.0
 ASIA,freja,Watchpoint: Gibraltar,,,4.9
 ASIA,freja,Nepal,,,2.1
 ASIA,freja,Eichenwalde,,,4.4
 ASIA,freja,Suravasa,,,1.6
 ASIA,freja,Numbani,,,4.2
-ASIA,freja,Colosseo,,,2.4
 ASIA,freja,King's Row,,,3.7
+ASIA,freja,Colosseo,,,2.4
 ASIA,freja,New Junk City,,,1.2
 ASIA,freja,Runasapi,,,1.9
 ASIA,freja,Shambali Monastery,,,4.7
-ASIA,freja,Esperança,,,2.0
 ASIA,freja,Lijiang Tower,,,2.1
 ASIA,freja,Midtown,,,2.7
 ASIA,freja,Havana,,,5.2
+ASIA,freja,Esperança,,,2.0
 ASIA,freja,New Queen Street,,,2.0
 ASIA,freja,Paraíso,,,5.1
 ASIA,freja,Route 66,,,5.0
@@ -3956,8 +3956,8 @@ US,freja,Havana,,,3.5
 US,freja,Nepal,,,2.2
 US,freja,Rialto,,,3.3
 US,freja,Dorado,,,3.3
-US,freja,Samoa,,,2.0
 US,freja,Lijiang Tower,,,1.9
+US,freja,Samoa,,,2.0
 US,freja,Aatlis,,,1.4
 US,freja,Oasis,,,2.0
 US,freja,New Queen Street,,,1.8
@@ -3965,8 +3965,8 @@ US,freja,Shambali Monastery,,,2.7
 US,freja,Suravasa,,,1.7
 US,freja,Colosseo,,,2.2
 US,freja,Eichenwalde,,,3.0
-US,freja,Hollywood,,,3.1
 US,freja,Midtown,,,2.3
+US,freja,Hollywood,,,3.1
 US,freja,Antarctic Peninsula,,,2.0
 US,freja,New Junk City,,,1.1
 US,freja,Runasapi,,,1.8
@@ -4008,26 +4008,26 @@ ASIA,venture,Colosseo,,,2.7
 ASIA,venture,Aatlis,,,5.6
 ASIA,venture,Ilios,,,3.0
 ASIA,venture,Runasapi,,,2.8
-ASIA,venture,Dorado,,,2.4
+ASIA,venture,Dorado,,,2.5
 ASIA,venture,Oasis,,,3.0
 ASIA,venture,Antarctic Peninsula,,,3.1
 ASIA,venture,King's Row,,,3.8
-ASIA,venture,Midtown,,,2.9
 ASIA,venture,Suravasa,,,3.1
+ASIA,venture,Midtown,,,2.9
 ASIA,venture,Samoa,,,3.5
-ASIA,venture,Nepal,,,3.0
-ASIA,venture,Busan,,,3.1
+ASIA,venture,Busan,,,3.2
 ASIA,venture,Hollywood,,,3.0
+ASIA,venture,Nepal,,,3.1
 ASIA,venture,Lijiang Tower,,,3.1
-ASIA,venture,New Junk City,,,4.2
-ASIA,venture,New Queen Street,,,2.5
-ASIA,venture,Blizzard World,,,3.0
-ASIA,venture,Rialto,,,2.9
-ASIA,venture,Circuit Royal,,,2.4
 ASIA,venture,Junkertown,,,2.8
-ASIA,venture,Numbani,,,2.5
+ASIA,venture,New Queen Street,,,2.5
+ASIA,venture,New Junk City,,,4.2
+ASIA,venture,Blizzard World,,,3.0
+ASIA,venture,Circuit Royal,,,2.4
 ASIA,venture,Route 66,,,3.3
+ASIA,venture,Numbani,,,2.5
 ASIA,venture,Paraíso,,,2.8
+ASIA,venture,Rialto,,,2.8
 ASIA,venture,Havana,,,2.8
 ASIA,venture,Eichenwalde,,,3.6
 US,venture,Havana,,,1.6
@@ -4089,31 +4089,31 @@ EU,venture,Junkertown,,,1.8
 EU,venture,Route 66,,,2.3
 EU,venture,Blizzard World,,,1.8
 ASIA,sombra,Midtown,,,3.1
-ASIA,sombra,Havana,,,3.4
 ASIA,sombra,Rialto,,,3.3
+ASIA,sombra,Havana,,,3.4
 ASIA,sombra,Route 66,,,3.2
 ASIA,sombra,Eichenwalde,,,3.3
 ASIA,sombra,Blizzard World,,,3.6
-ASIA,sombra,Hollywood,,,2.9
 ASIA,sombra,Dorado,,,2.5
+ASIA,sombra,Hollywood,,,2.9
 ASIA,sombra,Runasapi,,,3.8
+ASIA,sombra,Busan,,,3.4
+ASIA,sombra,Junkertown,,,5.2
 ASIA,sombra,Lijiang Tower,,,2.7
 ASIA,sombra,Antarctic Peninsula,,,2.7
 ASIA,sombra,New Queen Street,,,4.5
-ASIA,sombra,Junkertown,,,5.0
-ASIA,sombra,Busan,,,3.4
-ASIA,sombra,Esperança,,,3.8
 ASIA,sombra,King's Row,,,2.5
 ASIA,sombra,New Junk City,,,2.9
 ASIA,sombra,Ilios,,,3.9
+ASIA,sombra,Aatlis,,,2.9
+ASIA,sombra,Esperança,,,3.8
 ASIA,sombra,Oasis,,,3.5
-ASIA,sombra,Nepal,,,2.6
-ASIA,sombra,Aatlis,,,2.8
 ASIA,sombra,Numbani,,,3.3
 ASIA,sombra,Samoa,,,2.9
 ASIA,sombra,Colosseo,,,3.8
 ASIA,sombra,Suravasa,,,3.7
 ASIA,sombra,Shambali Monastery,,,2.6
+ASIA,sombra,Nepal,,,2.7
 ASIA,sombra,Watchpoint: Gibraltar,,,3.4
 ASIA,sombra,Circuit Royal,,,2.0
 ASIA,sombra,Paraíso,,,2.6
@@ -4167,8 +4167,8 @@ EU,sombra,Busan,,,3.9
 EU,sombra,Runasapi,,,4.2
 EU,sombra,Blizzard World,,,3.8
 EU,sombra,Paraíso,,,3.5
-EU,sombra,King's Row,,,2.6
 EU,sombra,Hollywood,,,2.7
+EU,sombra,King's Row,,,2.6
 EU,sombra,Watchpoint: Gibraltar,,,3.6
 EU,sombra,Suravasa,,,3.7
 EU,sombra,Route 66,,,3.2
@@ -4176,11 +4176,11 @@ EU,sombra,Havana,,,2.7
 EU,sombra,Junkertown,,,3.7
 EU,sombra,Midtown,,,2.7
 ASIA,wreckingball,Watchpoint: Gibraltar,,,4.9
-ASIA,wreckingball,Junkertown,,,5.2
-ASIA,wreckingball,Dorado,,,4.2
-ASIA,wreckingball,Esperança,,,5.7
+ASIA,wreckingball,Junkertown,,,5.0
+ASIA,wreckingball,Dorado,,,4.1
 ASIA,wreckingball,Runasapi,,,5.3
 ASIA,wreckingball,Suravasa,,,5.2
+ASIA,wreckingball,Esperança,,,5.5
 ASIA,wreckingball,Hollywood,,,3.2
 ASIA,wreckingball,Samoa,,,4.4
 ASIA,wreckingball,New Junk City,,,3.3
@@ -4189,8 +4189,8 @@ ASIA,wreckingball,Route 66,,,4.2
 ASIA,wreckingball,New Queen Street,,,5.7
 ASIA,wreckingball,Aatlis,,,3.6
 ASIA,wreckingball,Havana,,,2.7
-ASIA,wreckingball,Numbani,,,4.6
 ASIA,wreckingball,Antarctic Peninsula,,,4.1
+ASIA,wreckingball,Numbani,,,4.6
 ASIA,wreckingball,Circuit Royal,,,2.3
 ASIA,wreckingball,Paraíso,,,2.6
 ASIA,wreckingball,Ilios,,,5.5
@@ -4199,8 +4199,8 @@ ASIA,wreckingball,Midtown,,,2.2
 ASIA,wreckingball,Eichenwalde,,,3.7
 ASIA,wreckingball,Blizzard World,,,4.8
 ASIA,wreckingball,Oasis,,,5.0
+ASIA,wreckingball,Nepal,,,4.0
 ASIA,wreckingball,Busan,,,5.8
-ASIA,wreckingball,Nepal,,,4.1
 ASIA,wreckingball,Rialto,,,3.0
 ASIA,wreckingball,Shambali Monastery,,,3.1
 ASIA,wreckingball,King's Row,,,2.6
@@ -4209,8 +4209,8 @@ US,wreckingball,Junkertown,,,7.4
 US,wreckingball,Havana,,,4.7
 US,wreckingball,Route 66,,,6.6
 US,wreckingball,Colosseo,,,8.2
-US,wreckingball,Esperança,,,8.8
 US,wreckingball,Eichenwalde,,,5.4
+US,wreckingball,Esperança,,,8.8
 US,wreckingball,New Junk City,,,5.8
 US,wreckingball,Suravasa,,,7.4
 US,wreckingball,Dorado,,,7.3
@@ -4224,11 +4224,11 @@ US,wreckingball,Aatlis,,,6.3
 US,wreckingball,Antarctic Peninsula,,,6.4
 US,wreckingball,King's Row,,,4.3
 US,wreckingball,Ilios,,,8.3
-US,wreckingball,Oasis,,,7.5
 US,wreckingball,Runasapi,,,8.3
+US,wreckingball,Oasis,,,7.5
 US,wreckingball,Nepal,,,6.6
-US,wreckingball,Midtown,,,4.1
 US,wreckingball,Samoa,,,6.6
+US,wreckingball,Midtown,,,4.1
 US,wreckingball,Busan,,,8.3
 US,wreckingball,Hollywood,,,5.5
 US,wreckingball,Lijiang Tower,,,7.7
@@ -4240,8 +4240,8 @@ EU,wreckingball,Paraíso,,,7.2
 EU,wreckingball,Runasapi,,,9.5
 EU,wreckingball,King's Row,,,5.6
 EU,wreckingball,Suravasa,,,8.7
-EU,wreckingball,Busan,,,9.8
 EU,wreckingball,Aatlis,,,7.7
+EU,wreckingball,Busan,,,9.8
 EU,wreckingball,Route 66,,,7.6
 EU,wreckingball,Esperança,,,10.2
 EU,wreckingball,Hollywood,,,6.8
@@ -4263,34 +4263,34 @@ EU,wreckingball,Oasis,,,9.0
 EU,wreckingball,Havana,,,5.1
 EU,wreckingball,Nepal,,,8.0
 ASIA,vendetta,Midtown,,,1.4
-ASIA,vendetta,Junkertown,,,1.3
+ASIA,vendetta,Junkertown,,,1.2
 ASIA,vendetta,Runasapi,,,1.7
 ASIA,vendetta,Circuit Royal,,,1.1
 ASIA,vendetta,Route 66,,,1.3
 ASIA,vendetta,Ilios,,,1.6
 ASIA,vendetta,Paraíso,,,1.8
+ASIA,vendetta,Busan,,,1.8
 ASIA,vendetta,Aatlis,,,2.5
-ASIA,vendetta,Busan,,,1.7
-ASIA,vendetta,Rialto,,,1.2
 ASIA,vendetta,New Queen Street,,,1.3
+ASIA,vendetta,Rialto,,,1.2
 ASIA,vendetta,Oasis,,,1.6
 ASIA,vendetta,New Junk City,,,2.0
 ASIA,vendetta,Lijiang Tower,,,1.7
+ASIA,vendetta,Nepal,,,1.6
 ASIA,vendetta,King's Row,,,1.4
 ASIA,vendetta,Watchpoint: Gibraltar,,,1.3
 ASIA,vendetta,Suravasa,,,1.6
-ASIA,vendetta,Nepal,,,1.6
-ASIA,vendetta,Antarctic Peninsula,,,1.6
 ASIA,vendetta,Samoa,,,1.5
+ASIA,vendetta,Antarctic Peninsula,,,1.6
 ASIA,vendetta,Havana,,,1.3
+ASIA,vendetta,Dorado,,,1.7
 ASIA,vendetta,Eichenwalde,,,1.6
 ASIA,vendetta,Numbani,,,1.5
 ASIA,vendetta,Colosseo,,,1.3
-ASIA,vendetta,Hollywood,,,1.4
 ASIA,vendetta,Shambali Monastery,,,1.5
-ASIA,vendetta,Dorado,,,1.7
-ASIA,vendetta,Blizzard World,,,1.2
+ASIA,vendetta,Hollywood,,,1.4
 ASIA,vendetta,Esperança,,,1.6
+ASIA,vendetta,Blizzard World,,,1.2
 US,vendetta,Shambali Monastery,,,1.3
 US,vendetta,Midtown,,,1.0
 US,vendetta,Lijiang Tower,,,1.6
@@ -4315,8 +4315,8 @@ US,vendetta,Suravasa,,,1.6
 US,vendetta,Paraíso,,,1.4
 US,vendetta,Dorado,,,1.2
 US,vendetta,Hollywood,,,1.2
-US,vendetta,Aatlis,,,2.1
 US,vendetta,Colosseo,,,1.3
+US,vendetta,Aatlis,,,2.1
 US,vendetta,Blizzard World,,,1.1
 US,vendetta,Watchpoint: Gibraltar,,,1.2
 US,vendetta,Junkertown,,,1.2
@@ -4362,18 +4362,18 @@ ASIA,junkerqueen,Suravasa,,,2.4
 ASIA,junkerqueen,Oasis,,,1.8
 ASIA,junkerqueen,Ilios,,,1.7
 ASIA,junkerqueen,Lijiang Tower,,,1.9
-ASIA,junkerqueen,Junkertown,,,1.0
-ASIA,junkerqueen,Busan,,,1.5
-ASIA,junkerqueen,Nepal,,,2.0
+ASIA,junkerqueen,Busan,,,1.6
+ASIA,junkerqueen,Junkertown,,,0.9
 ASIA,junkerqueen,Antarctic Peninsula,,,2.1
+ASIA,junkerqueen,Nepal,,,2.0
 ASIA,junkerqueen,Colosseo,,,1.7
-ASIA,junkerqueen,Esperança,,,1.7
+ASIA,junkerqueen,Esperança,,,1.8
 ASIA,junkerqueen,New Queen Street,,,1.5
 ASIA,junkerqueen,Midtown,,,1.3
 ASIA,junkerqueen,Numbani,,,0.7
 ASIA,junkerqueen,King's Row,,,1.3
 ASIA,junkerqueen,Runasapi,,,1.6
-ASIA,junkerqueen,Rialto,,,0.9
+ASIA,junkerqueen,Rialto,,,1.0
 ASIA,junkerqueen,Watchpoint: Gibraltar,,,0.9
 ASIA,junkerqueen,Blizzard World,,,0.6
 ASIA,junkerqueen,Shambali Monastery,,,1.2
@@ -4393,8 +4393,8 @@ US,junkerqueen,Lijiang Tower,,,4.9
 US,junkerqueen,Colosseo,,,5.4
 US,junkerqueen,Esperança,,,5.5
 US,junkerqueen,Hollywood,,,3.0
-US,junkerqueen,Oasis,,,5.3
 US,junkerqueen,Numbani,,,2.3
+US,junkerqueen,Oasis,,,5.3
 US,junkerqueen,Eichenwalde,,,3.5
 US,junkerqueen,Blizzard World,,,2.7
 US,junkerqueen,Nepal,,,5.2
@@ -4419,9 +4419,9 @@ EU,junkerqueen,Antarctic Peninsula,,,4.9
 EU,junkerqueen,Runasapi,,,5.3
 EU,junkerqueen,Nepal,,,4.2
 EU,junkerqueen,Rialto,,,2.6
-EU,junkerqueen,Ilios,,,4.2
 EU,junkerqueen,New Junk City,,,8.9
 EU,junkerqueen,Midtown,,,2.9
+EU,junkerqueen,Ilios,,,4.2
 EU,junkerqueen,Dorado,,,2.2
 EU,junkerqueen,Lijiang Tower,,,4.6
 EU,junkerqueen,Eichenwalde,,,3.2
